@@ -20,10 +20,9 @@ VIENNA:C-14.1  Maximum speed limit
 | File | What it is |
 |---|---|
 | `full_database.json` | **The deliverable.** One entry per sign — 247 Vienna 2023 signs, 653 national signs, 12 Vienna 2006 signs dropped in 2023 — following `template.json`. |
-| `full_database.meta.json` ⚠️ | Schema version, data version, legend of every field, list of countries with their OSM prefix and confidence level. Currently missing from the working tree; regenerate with `scripts/build_full_database.py` once `road_signs_all.json` is restored (see below). |
 | `template.json` | Two fully worked entries (`VIENNA:A-23.1`, `VIENNA:H-01.1`) showing the complete structure, including illustrative Swiss and MUTCD jurisdictions. |
 | `comparison_2006-2023.json` | Intermediate product: the 2006 ↔ 2023 correspondence, with every rendering variant expressed as uniform labels. |
-| `road_signs_all.json` ⚠️ | Source: national codes per country (20 countries), with declinations (model, value, mirrored, European Agreement). Currently missing from the working tree — `full_database.json` was generated from it but the file itself needs to be restored before the pipeline can be re-run. |
+`full_database.json` was generated from it but the file itself needs to be restored before the pipeline can be re-run. |
 | `pictures_of_road_signs/` | Source: sign images per country (27 folders; several — Croatia, Cyprus, Greece, Ireland, Italy, Luxembourg, Malta — are not covered by `road_signs_all.json`). |
 | `Conv_road_signs_2006v_EN.pdf`, `ECE-TRANS-WP1-2023-2-Rev2e.pdf` | Sources: the 2006 consolidated Convention and the 2023 revision (ECE/TRANS/WP.1/2023/2/Rev.2). |
 | `scripts/` | Build pipeline (see below). |
