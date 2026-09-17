@@ -1,0 +1,1232 @@
+[
+ {
+  "id": "A-01.1",
+  "name": "LEFT BEND",
+  "desc": "A-01.1 gives warning of a dangerous left bend."
+ },
+ {
+  "id": "A-01.2",
+  "name": "RIGHT BEND",
+  "desc": "A-01.2 gives warning of a dangerous right bend."
+ },
+ {
+  "id": "A-01.3",
+  "name": "DOUBLE BEND OR SUCCESSION OF MORE THAN TWO BENDS, THE FIRST TO THE LEFT",
+  "desc": "A-01.3 gives warning of a dangerous double bend, or a succession of more than two bends, the first to the left."
+ },
+ {
+  "id": "A-01.4",
+  "name": "DOUBLE BEND OR SUCCESSION OF MORE THAN TWO BENDS, THE FIRST TO THE RIGHT",
+  "desc": "A-01.4 gives warning of a dangerous double bend, or a succession of more than two bends, the first to the right."
+ },
+ {
+  "id": "A-02.1",
+  "name": "DANGEROUS DESCENT",
+  "desc": "A-02.1 gives warning of a dangerous descent. The symbol of a car or a percentage or both, may be used. An arrow in the ground colour of the sign may be embedded into the black triangular part of the symbol when the percentage symbol is used."
+ },
+ {
+  "id": "A-03.1",
+  "name": "STEEP ASCENT",
+  "desc": "A-03.1 gives warning of a steep ascent. The symbol of a car or a percentage or both, may be used. An arrow in the ground colour of the sign may be embedded into the black triangular part of the symbol when the percentage symbol is used."
+ },
+ {
+  "id": "A-04.1",
+  "name": "CARRIAGEWAY NARROWS",
+  "desc": "A-04.1 gives warning that the carriageway ahead is narrower on the left-hand side and on the right-hand side. This sign shall not be used for indicating a reduction in the number of lanes."
+ },
+ {
+  "id": "A-04.2",
+  "name": "CARRIAGEWAY NARROWS LEFT",
+  "desc": "A-04.2 gives warning that the carriageway ahead is narrower on the left-hand side. This sign shall not be used for indicating a reduction in the number of lanes."
+ },
+ {
+  "id": "A-04.3",
+  "name": "CARRIAGEWAY NARROWS RIGHT",
+  "desc": "A-04.3 gives warning that the carriageway ahead is narrower on the right-hand side. This sign shall not be used for indicating a reduction in the number of lanes."
+ },
+ {
+  "id": "A-05.1",
+  "name": "OPENING BRIDGE",
+  "desc": "A-05.1 gives warning of an opening bridge. The sign A-26.1 may be placed below this sign provided that signs A-26.2 and A-26.3 are set up at approximately one-third and two-thirds of the distance between the sign A-26.1 and the opening bridge."
+ },
+ {
+  "id": "A-06.1",
+  "name": "QUAY OR RIVERBANK",
+  "desc": "A-06.1 gives warning that the road is about to lead on to a quay or riverbank."
+ },
+ {
+  "id": "A-07.1",
+  "name": "UNEVEN ROAD",
+  "desc": "A-07.1 gives warning of dips, hump bridges or ridges, or of sections where the carriageway is in bad condition."
+ },
+ {
+  "id": "A-07.2",
+  "name": "SPEED HUMP",
+  "desc": "A-07.2 gives warning of a speed hump."
+ },
+ {
+  "id": "A-07.3",
+  "name": "DIP",
+  "desc": "A-07.3 gives warning of a dip."
+ },
+ {
+  "id": "A-08.1",
+  "name": "DANGEROUS SHOULDERS",
+  "desc": "A-08.1 gives warning of a section of road where the shoulders are particularly dangerous. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-09.1",
+  "name": "SLIPPERY ROAD",
+  "desc": "A-09.1 gives warning that the section of road ahead may be particularly slippery."
+ },
+ {
+  "id": "A-10.1",
+  "name": "LOOSE GRAVEL",
+  "desc": "A-10.1 gives warning of a section of road on which gravel may be thrown up. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-11.1",
+  "name": "FALLING ROCKS",
+  "desc": "A-11.1 gives warning of a section of road on which there is danger from falling rocks and the consequent presence of rocks on the carriageway. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-12.1",
+  "name": "PEDESTRIAN CROSSING",
+  "desc": "A-12.1 gives warning of a pedestrian crossing indicated either by road markings of broad stripes parallel to the axis of the carriageway, or by the sign E-10.1. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-12.2",
+  "name": "PEDESTRIANS",
+  "desc": "A-12.2 gives warning of a section of road frequented by pedestrians. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-13.1",
+  "name": "CHILDREN",
+  "desc": "A-13.1 gives warning of a section of road frequented by children, such as in proximity of a school or playground. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-14.1",
+  "name": "CYCLISTS ENTERING OR CROSSING",
+  "desc": "A-14.1 gives warning of a point at which cyclists frequently enter or cross the road. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-15.1",
+  "name": "DOMESTIC ANIMALS CROSSING",
+  "desc": "A-15.1 gives warning of a section of road on which there is a particular danger of domestic animals crossing. The symbol shall represent the silhouette of the domestic animal most frequently encountered. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-15.2",
+  "name": "WILD ANIMALS CROSSING",
+  "desc": "A-15.2 gives warning of a section of road on which there is a particular danger of wild animals crossing. The symbol shall represent the silhouette of the wild animal most frequently encountered. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-16.1",
+  "name": "ROAD WORKS",
+  "desc": "A-16.1 gives warning that work is in progress on the section of the road ahead."
+ },
+ {
+  "id": "A-17.1",
+  "name": "TRAFFIC LIGHT SIGNALS",
+  "desc": "A-17.1 gives warning of a section of road on which traffic is regulated by three-colour traffic light signals. The symbol shall be in the three colours of the traffic lights of which it gives warning. These three colours shall be surrounded by a dark colour narrow strip. This sign shall only be used on road sections on which road users would not expect traffic light signals. This sign may supplement or replace the signs A-18.1, A-18.2, A-19.1, A-19.2, and A-20.1 if traffic at the intersection is regulated by a traffic light signal."
+ },
+ {
+  "id": "A-18.1",
+  "name": "INTERSECTION WITH GENERAL PRIORITY RULE",
+  "desc": "A-18.1 gives warning of an intersection where the priority is that prescribed by the general priority rule in force in the country."
+ },
+ {
+  "id": "A-18.2",
+  "name": "INTERSECTION WITH GENERAL PRIORITY RULE",
+  "desc": "A-18.2 gives warning of an intersection where the priority is that prescribed by the general priority rule in force in the country and shows an example of a specific nature of the intersection."
+ },
+ {
+  "id": "A-19.1",
+  "name": "INTERSECTION WITH A GIVE WAY ROAD",
+  "desc": "A-19.1 gives warning of an intersection with a road the users of which must give way."
+ },
+ {
+  "id": "A-19.2",
+  "name": "INTERSECTION WITH A GIVE WAY ROAD",
+  "desc": "A-19.2 gives warning of an intersection with a road the users of which must give way and depicts an example of a specific nature of the intersection."
+ },
+ {
+  "id": "A-20.1",
+  "name": "ROUNDABOUT",
+  "desc": "A-20.1 gives warning of a roundabout. The symbol on this sign shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "A-21.1",
+  "name": "TWO-WAY TRAFFIC",
+  "desc": "A-21.1 gives warning that the section of road will temporarily or permanently carry two-way traffic on the same carriageway, whereas the previous section carried one-way traffic. This sign shall be repeated at the beginning of the section and along the section as frequently as may be necessary. The symbol on this sign shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "A-22.1",
+  "name": "TRAFFIC CONGESTION",
+  "desc": "A-22.1 gives warning that traffic may be congested on the section of road ahead. The symbol on this sign may be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "A-23.1",
+  "name": "LEVEL CROSSINGS WITH GATES",
+  "desc": "A-23.1 gives warning of a level crossing with gates or staggered half-gates on either side of the railway. The symbol on this sign may be reversed. The barrier shown on the sign may be of the colours applied by a State concerned in accordance with Article 35, paragraph 1 of this Convention."
+ },
+ {
+  "id": "A-23.2",
+  "name": "OTHER LEVEL CROSSINGS",
+  "desc": "A-23.2 gives warning of a level crossing without gates or staggered half-gates on either side of the railway. It may be replaced by sign A-23.3 or A-24.1. The symbol on this sign may be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "A-23.3",
+  "name": "OTHER LEVEL CROSSINGS",
+  "desc": "A-23.3 gives warning of a level crossing without gates or staggered half-gates on either side of the railway. It may be replaced by sign A-23.2 or A-24.1."
+ },
+ {
+  "id": "A-24.1",
+  "name": "INTERSECTION WITH A TRAMWAY",
+  "desc": "A-24.1 gives warning of an intersection with a tramway, unless such intersection is a level crossing as defined in Article 1 of the Convention. The symbol on this sign may be reversed for traffic keeping to the left. If the intersection is a level crossing, this sign may be replaced by sign A-23.2 or A-23.3."
+ },
+ {
+  "id": "A-25.1",
+  "name": "LEVEL CROSSINGS",
+  "desc": "A-25.1 gives warning of the immediate vicinity of a level crossing with one track. It is of an X-shaped cross with a white or yellow ground and with a red or black border or may show red stripes (with or without a red or black border). This sign may be replaced by sign A-25.2."
+ },
+ {
+  "id": "A-25.2",
+  "name": "LEVEL CROSSINGS",
+  "desc": "A-25.2 gives warning of the immediate vicinity of a level crossing with one track. It is of an X-shaped cross with a white or yellow ground and with a black border and black inscriptions. This sign may be replaced by sign A-25.1."
+ },
+ {
+  "id": "A-25.3",
+  "name": "LEVEL CROSSINGS",
+  "desc": "A-25.3 gives warning of the immediate vicinity of a level crossing with at least two tracks. It is identical to the sign A-25.1 except that it is supplemented by half of an X-shaped cross affixed below. It may be replaced by sign A-25.4."
+ },
+ {
+  "id": "A-25.4",
+  "name": "LEVEL CROSSINGS",
+  "desc": "A-25.4 gives warning of the immediate vicinity of a level crossing with at least two tracks. It is identical to the sign A-25.2 except that it is supplemented by an additional panel affixed below indicating the number of tracks. It may be replaced by sign A-25.3."
+ },
+ {
+  "id": "A-26.1",
+  "name": "APPROACHES TO LEVEL CROSSINGS OR OPENING BRIDGES",
+  "desc": "A-26.1 gives warning of and distance at approaches to level crossings and opening bridges. It shall be placed under the signs A-23.1, A-23.2, A-23.3, A-24.1 and A-05.1. The sign is a rectangle with longer vertical sides and bears, preferably centred, three oblique red stripes on a white or yellow ground. It may be repeated on the opposite side of the carriageway. The stripes shall slope downwards towards the carriageway."
+ },
+ {
+  "id": "A-26.2",
+  "name": "APPROACHES TO LEVEL CROSSINGS OR OPENING BRIDGES",
+  "desc": "A-26.2 gives warning of and distance at approaches to level crossings and opening bridges. It may be placed under the signs A-23.1, A-23.2, A-23.3, A-24.1 and A-05.1. The sign is a rectangle with longer vertical sides and bears, preferably centred, two oblique red stripes on a white or yellow ground. The sign is placed at about two-thirds of the distance between the railway or the opening bridge and the sign A-26.1. It may be repeated on the opposite side of the carriageway. The stripes shall slope downwards towards the carriageway."
+ },
+ {
+  "id": "A-26.3",
+  "name": "APPROACHES TO LEVEL CROSSINGS OR OPENING BRIDGES",
+  "desc": "A-26.3 gives warning of and distance at approaches to level crossings and opening bridges. It may be placed under the signs A-23.1, A-23.2, A-23.3, A-24.1 and A-05.1. The sign is a rectangle with longer vertical sides and bears, preferably centred, one oblique red stripe on a white or yellow ground. The sign is placed at about one-third of the distance between the railway or opening bridge and the sign A-26.1. It may be repeated on the opposite side of the carriageway. The stripe shall slope downwards towards the carriageway."
+ },
+ {
+  "id": "A-27.1",
+  "name": "AIRFIELD",
+  "desc": "A-27.1 gives warning of a section of road that is in the vicinity of low flying aircraft that are taking off from or landing on an airfield."
+ },
+ {
+  "id": "A-28.1",
+  "name": "CROSS-WIND",
+  "desc": "A-28.1 gives warning of a section of road on which there is often a strong cross-wind. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "A-29.1",
+  "name": "OTHER DANGERS",
+  "desc": "A-29.1 gives warning of a section of road on which there is a danger other than those enumerated above or in section B of this Annex. It shall, however, be open to Contracting Parties to adopt graphic symbols in conformity with the provisions of Article 3, paragraph 1 (a) (ii) of this Convention."
+ },
+ {
+  "id": "B-01.1",
+  "name": "GIVE WAY",
+  "desc": "B-01.1 notifies drivers that, at the intersection where the sign is placed, they must give way to vehicles on the road they are approaching. The sign shall consist of an equilateral triangle having one side horizontal and the opposite vertex below it. The ground shall be white or yellow with a red border. The sign shall not bear a symbol. The side of the normal sized sign shall measure approximately 0.90 m; the side of the small sign shall measure not less than 0.60 m. B-01.1 may be used in conjunction with an additional panel H-08.1 described in section H, subsection II, paragraph 5 of this Annex, that indicates to drivers the outline of the priority road. To give warning that sign B-01.1 is placed at an intersection, sign B-01.1 supplemented by an additional panel H-01.1, described in section H, subsection II, paragraph 1 of this Annex, shall be used at the approach by Contracting Parties using model one for danger warning signs. If a Contracting Party uses model two for danger warning signs, the sign B-01.1 shall be depicted on the panel of model two for danger warning signs."
+ },
+ {
+  "id": "B-02.1",
+  "name": "STOP",
+  "desc": "B-02.1 notifies drivers that, at the intersection where the sign is placed, they must stop before entering the intersection and give way to vehicles on the road they are approaching. The sign is an octagon with a red ground surrounded by a white rim and bears the \u201cSTOP\u201d inscription in white in English or in the language of the State concerned. The height of the inscription shall not be less than one-third of the height of the panel. The height of the normal sized sign B-02.1 shall be approximately 0.90 m and shall be not less than 0.60 m for a small sized sign. B-02.1 may be used in conjunction with an additional panel H-08.1, described in section H, subsection II, paragraph 5 of this Annex, that indicates to drivers the outline of the priority road. To give warning that sign B-02.1 is placed at an intersection, sign B-01.1 supplemented by an additional panel bearing the \"STOP\" inscription, or its equivalent in the national language and a figure indicating the distance to the sign B-02.1 shall be used at the approach by Contracting Parties using model one for danger warning signs. Shall a Contracting Party use model two for danger warning signs, sign B-02.1 shall be depicted on the panel of model two for danger warning signs."
+ },
+ {
+  "id": "B-03.1",
+  "name": "PRIORITY ROAD",
+  "desc": "B-03.1 notifies drivers that, at intersections with other roads, they have priority over vehicles moving along or coming from the other roads. The sign shall consist of a square with one diagonal vertical. The rim of the sign shall be black; the sign shall have in its centre a yellow square; the space between the two squares shall be white. The side of the normal sized sign shall measure approximately 0.50 m; the side of the small sign shall measure not less than 0.35 m. B-03.1 may be used in conjunction with an additional panel H-08.1, described in section H, subsection II, paragraph 5 of this Annex, that indicates the outline of the priority road to drivers."
+ },
+ {
+  "id": "B-03.2",
+  "name": "END OF PRIORITY ROAD",
+  "desc": "B-03.2 notifies drivers that the road along which they are moving ceases to have priority over other roads. The sign shall consist of sign B-03.1 with the addition of a black or grey median band perpendicular to the lower left and upper right sides of the square or, preferably, of black parallel lines forming such a band. B-03.2 may be used in conjunction with an additional panel H-08.1 described in section H, subsection II, paragraph 5 of this Annex, that indicates the outline of the priority road to drivers."
+ },
+ {
+  "id": "B-04.1",
+  "name": "PRIORITY FOR ONCOMING TRAFFIC",
+  "desc": "B-04.1 notifies drivers that entry into the narrow section is prohibited so long as it is not possible to pass through that section without obliging the oncoming vehicles to stop. The sign shall be used on a narrow section of road where passing is difficult or impossible and where drivers can see the whole length of the section clearly both at night and by day, and no traffic light signals are installed. The sign shall be set up facing the traffic on the side which does not have priority. The symbol on this sign shall be reversed for traffic keeping to the left. This sign shall be round, with a white or yellow ground and with a red border; the arrow indicating the direction having priority shall be black and that indicating the other direction red. The arrows shall be parallel."
+ },
+ {
+  "id": "B-04.2",
+  "name": "PRIORITY FOR ONCOMING TRAFFIC",
+  "desc": "B-04.2 notifies drivers that entry into the narrow section is prohibited so long as it is not possible to pass through that section without obliging oncoming vehicles to stop. It shall be used on a narrow section of road where passing is difficult or impossible and where drivers can see the whole length of the section clearly both at night and by day, and no traffic light signals are installed. The sign shall be set up facing the traffic on the side which does not have priority. The symbol on this sign shall be reversed for traffic keeping to the left. The sign shall be round, with a white or yellow ground and with a red border; the arrow indicating the direction having priority shall be black and that indicating the other direction red. The arrowheads shall be joining one another at the centre of this sign. This sign may be used instead of sign B-04.1 taking into account as far as possible the provisions of Article 5, paragraph 2 (b) of this Convention."
+ },
+ {
+  "id": "B-05.1",
+  "name": "PRIORITY OVER ONCOMING TRAFFIC",
+  "desc": "B-05.1 notifies drivers of entry into a narrow section where they have priority over oncoming vehicles. The sign shall be used on a narrow section of road where passing is difficult or impossible and where drivers can see the whole length of the section clearly both at night and by day, and no traffic light signals are installed. The sign shall be set up facing the traffic on the side which has priority. The symbol on this sign shall be reversed for traffic keeping to the left. This sign shall be rectangular with a blue ground; the arrow pointing upwards shall be white and the other arrow red. The arrows shall be parallel. When sign B-05.1 is used, the sign B- 04.1 shall be placed on the road, at the other end of the narrow section, for traffic moving in the opposite direction."
+ },
+ {
+  "id": "B-05.2",
+  "name": "PRIORITY OVER ONCOMING TRAFFIC",
+  "desc": "B-05.2 notifies drivers of entry into a narrow section where they have priority over oncoming vehicles. The sign shall be used on a narrow section of road where passing is difficult or impossible and where drivers can see the whole length of the section clearly both at night and by day, and no traffic light signals are installed. The sign shall be set up facing the traffic on the side which has priority. The symbol on this sign shall be reversed for traffic keeping to the left. The sign shall be rectangular with a blue ground; the arrow pointing upwards shall be white and the other arrow red. The arrows shall be joining one another at the centre. When the sign B-05.2 is used, the sign B-04.2 shall be placed on the road, at the other end of the narrow section, for traffic moving in the opposite direction. This sign may be used instead of sign B- 05.1 taking into account as far as possible the provisions of Article 5, paragraph 2 (b) of this Convention."
+ },
+ {
+  "id": "C-01.1",
+  "name": "NO ENTRY",
+  "desc": "C-01.1 notifies that entry is prohibited for all vehicles. The sign may be replaced by sign C- 01.2. The choice between C-01.1 or C-01.2 shall be made in accordance with Article 5, paragraph 2 of this Convention."
+ },
+ {
+  "id": "C-01.2",
+  "name": "NO ENTRY",
+  "desc": "C-01.2 notifies that entry is prohibited for all vehicles. The sign may be replaced by sign C- 01.1. The choice between C-01.1 or C-01.2 shall be made in accordance with Article 5, paragraph 2 of this Convention."
+ },
+ {
+  "id": "C-02.1",
+  "name": "CLOSED TO ALL VEHICLES IN BOTH DIRECTIONS",
+  "desc": "C-02.1 notifies that all vehicular traffic is prohibited in both directions."
+ },
+ {
+  "id": "C-03.1",
+  "name": "NO ENTRY FOR ANY POWER-DRIVEN VEHICLE WITH MORE THAN TWO WHEELS.",
+  "desc": "C-03.1 notifies that entry is prohibited for any power-driven vehicle with more than two wheels."
+ },
+ {
+  "id": "C-03.2",
+  "name": "NO ENTRY FOR MOTOR CYCLES",
+  "desc": "C-03.2 notifies that entry is prohibited for motor cycles."
+ },
+ {
+  "id": "C-03.3",
+  "name": "NO ENTRY FOR CYCLES",
+  "desc": "C-03.3 notifies that entry is prohibited for cycles."
+ },
+ {
+  "id": "C-03.4",
+  "name": "NO ENTRY FOR MOPEDS",
+  "desc": "C-03.4 notifies that entry is prohibited for mopeds."
+ },
+ {
+  "id": "C-03.5",
+  "name": "NO ENTRY FOR GOODS VEHICLES",
+  "desc": "C-03.5 notifies that entry is prohibited for goods vehicles. The inscription of a tonnage figure, either in a light colour on the silhouette of the vehicle or, in accordance with Article 8, paragraph 4 of this Convention, on an additional panel placed below this sign, shall mean that the prohibition applies only if the permissible maximum mass of the vehicle or combination of vehicles exceeds that figure."
+ },
+ {
+  "id": "C-03.6",
+  "name": "NO ENTRY FOR ANY POWER-DRIVEN VEHICLE DRAWING A TRAILER OTHER THAN A SEMI-TRAILER OR A SINGLE AXLE TRAILER",
+  "desc": "C-03.6 notifies that entry is prohibited for any power-driven vehicle drawing a trailer other than a semi-trailer or a single axle trailer. The inscription of a tonnage figure, either in a light colour on the silhouette of the trailer or, in accordance with Article 8, paragraph 4, of this Convention, on an additional panel placed below this sign, shall mean that the prohibition applies only if the permissible maximum mass of the trailer exceeds that figure. It shall be open to Contracting Parties, in cases where they see fit to do so, to replace, in the symbol, the silhouette of the rear end of a lorry by that of the rear end of a private car, and the trailer silhouette by that of a trailer which can be attached to a private car."
+ },
+ {
+  "id": "C-03.7",
+  "name": "NO ENTRY FOR ANY POWER-DRIVEN VEHICLE DRAWING A TRAILER",
+  "desc": "C-03.7 notifies that entry is prohibited for any power-driven vehicle drawing a trailer. The inscription of a tonnage figure, either in a light colour on the silhouette of the trailer or, in accordance with Article 8, paragraph 4 of this Convention, on an additional panel placed below this sign, shall mean that the prohibition applies only if the permissible maximum mass of the trailer exceeds that figure."
+ },
+ {
+  "id": "C-03.8",
+  "name": "NO ENTRY FOR VEHICLES CARRYING DANGEROUS GOODS FOR WHICH SPECIAL SIGN PLATING IS PRESCRIBED",
+  "desc": "C-03.8 notifies that entry is prohibited for vehicles carrying dangerous goods for which special sign plating is prescribed. To indicate no entry for vehicles carrying certain types of dangerous goods, this sign may be used in conjunction, if necessary, with an additional panel. The information given on this additional panel specifies that this prohibition applies only to the carriage of dangerous goods as defined by domestic legislation."
+ },
+ {
+  "id": "C-03.9",
+  "name": "NO ENTRY FOR PEDESTRIANS",
+  "desc": "C-03.9 notifies that entry is prohibited for pedestrians."
+ },
+ {
+  "id": "C-03.10",
+  "name": "NO ENTRY FOR ANIMAL-DRAWN VEHICLES",
+  "desc": "C-03.10 notifies that entry is prohibited for animal-drawn vehicles."
+ },
+ {
+  "id": "C-03.11",
+  "name": "NO ENTRY FOR HANDCARTS",
+  "desc": "C-03.11 notifies that entry is prohibited for handcarts."
+ },
+ {
+  "id": "C-03.12",
+  "name": "NO ENTRY FOR POWER-DRIVEN AGRICULTURAL VEHICLES",
+  "desc": "C-03.12 notifies that entry is prohibited for power-driven agricultural vehicles."
+ },
+ {
+  "id": "C-03.13",
+  "name": "NO ENTRY FOR VEHICLES CARRYING MORE THAN A CERTAIN QUANTITY OF EXPLOSIVES OR READILY INFLAMMABLE SUBSTANCES",
+  "desc": "C-03.13 notifies that entry is prohibited for vehicles carrying more than a certain quantity of explosives or readily inflammable substances."
+ },
+ {
+  "id": "C-03.14",
+  "name": "NO ENTRY FOR VEHICLES CARRYING MORE THAN A CERTAIN QUANTITY OF SUBSTANCES LIABLE TO CAUSE WATER POLLUTION",
+  "desc": "C-03.14 notifies that entry is prohibited for vehicles carrying more than a certain quantity of substances liable to cause water pollution."
+ },
+ {
+  "id": "C-04.1",
+  "name": "NO ENTRY FOR MORE THAN ONE CATEGORY OF VEHICLE OR ROAD USER",
+  "desc": "C-04.1 notifies that entry is prohibited for more than one category of vehicle or road user depicted on the sign. Signs showing more than two silhouettes may not be set up outside built-up areas. Signs showing more than three silhouettes may not be set up in built-up areas. Contracting Parties may instead use separate signs, each depicting the specific category of vehicle or road user."
+ },
+ {
+  "id": "C-04.2",
+  "name": "NO ENTRY FOR MORE THAN ONE CATEGORY OF VEHICLE OR ROAD USER",
+  "desc": "Variant of C-04.1, shown only as an image in the 2023 text."
+ },
+ {
+  "id": "C-05.1",
+  "name": "NO ENTRY FOR TOO WIDE VEHICLES",
+  "desc": "C-05.1 notifies that entry is prohibited for vehicles having an overall width exceeding the indicated figure (in metres) on the sign."
+ },
+ {
+  "id": "C-05.2",
+  "name": "NO ENTRY FOR TOO WIDE VEHICLES",
+  "desc": "C-05.2 notifies that entry is prohibited for vehicles having an overall width exceeding the indicated figure (in metres) with a decimal fraction on the sign. The decimal fraction shall be depicted with a \u201ccomma\u201d or a \u201cdot\u201d depending on the indication of decimal fractions in the State concerned."
+ },
+ {
+  "id": "C-06.1",
+  "name": "NO ENTRY FOR TOO HIGH VEHICLES",
+  "desc": "C-06.1 notifies that entry is prohibited for vehicles having an overall height exceeding the indicated figure (in metres) on the sign."
+ },
+ {
+  "id": "C-06.2",
+  "name": "NO ENTRY FOR TOO HIGH VEHICLES",
+  "desc": "C-06.2 notifies that entry is prohibited for vehicles having an overall height exceeding the indicated figure (in metres) with a decimal fraction on the sign. The decimal fraction shall be depicted with a \u201ccomma\u201d or a \u201cdot\u201d depending on the indication of decimal fractions in the State concerned."
+ },
+ {
+  "id": "C-07.1",
+  "name": "NO ENTRY FOR TOO HEAVY VEHICLES",
+  "desc": "C-07.1 notifies that entry is prohibited for vehicles having a laden mass exceeding the indicated figure (in tonnes) on the sign."
+ },
+ {
+  "id": "C-07.2",
+  "name": "NO ENTRY FOR TOO HEAVY VEHICLES",
+  "desc": "C-07.2 notifies that entry is prohibited for vehicles having a laden mass exceeding the indicated figure (in tonnes) with a decimal fraction on the sign. The decimal fraction shall be depicted with a \u201ccomma\u201d or a \u201cdot\u201d depending on the indication of decimal fractions in the State concerned."
+ },
+ {
+  "id": "C-08.1",
+  "name": "NO ENTRY FOR TOO HEAVY VEHICLES",
+  "desc": "C-08.1 notifies that entry is prohibited for vehicles having a mass (in tonnes) on one axle exceeding the indicated figure on the sign."
+ },
+ {
+  "id": "C-08.2",
+  "name": "NO ENTRY FOR TOO HEAVY VEHICLES",
+  "desc": "C-08.2 notifies that entry is prohibited for vehicles having a mass (in tonnes), with a decimal fraction, on one axle exceeding the indicated figure on the sign. The decimal fraction shall be depicted with a \u201ccomma\u201d or a \u201cdot\u201d depending on the indication of decimal fractions in the State concerned."
+ },
+ {
+  "id": "C-09.1",
+  "name": "NO ENTRY FOR TOO LONG VEHICLES",
+  "desc": "C-09.1 notifies that entry is prohibited for vehicles or combinations of vehicles having a length exceeding the indicated figure (in metres) on the sign."
+ },
+ {
+  "id": "C-10.1",
+  "name": "PROHIBITION OF DRIVING TOO CLOSE",
+  "desc": "C-10.1 notifies that vehicles shall not be driven closer together than the figure indicating the distance in metres on the sign."
+ },
+ {
+  "id": "C-11.1",
+  "name": "NO LEFT TURN",
+  "desc": "C-11.1 notifies that turning to the left is prohibited."
+ },
+ {
+  "id": "C-11.2",
+  "name": "NO RIGHT TURN",
+  "desc": "C-11.2 notifies that turning to the right is prohibited."
+ },
+ {
+  "id": "C-12.1",
+  "name": "NO U-TURN",
+  "desc": "C-12.1 notifies that a U-turn is prohibited. The symbol on this sign shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "C-13.1",
+  "name": "PROHIBITION OF OVERTAKING",
+  "desc": "C-13.1 notifies that, in addition to the general rules on overtaking laid down by the regulations in force, the overtaking of power-driven vehicles other than two-wheeled mopeds and two-wheeled motor cycles without side-car travelling on a road is prohibited. The symbol on this sign shall be reversed, if necessary, for traffic keeping to the left. Contracting Parties shall select a variant of this sign with or without the red oblique bar."
+ },
+ {
+  "id": "C-13.2",
+  "name": "END OF PROHIBITION OF OVERTAKING",
+  "desc": "C-13.2 notifies that the prohibition of overtaking indicated by sign C-13.1 ceases to apply. This sign shall be circular and have a white or yellow ground; it shall have no border or only have preferably a black rim, it shall show in light grey the symbol of the prohibition of overtaking which has ceased; and shall bear an oblique black band or preferably, black parallel lines forming such a band, sloping downward from right to left. The oblique band may be interrupted when crossing the grey symbol. If not interrupted, the band shall be placed over the grey symbol. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the prohibition of overtaking sign for traffic coming in the opposite direction."
+ },
+ {
+  "id": "C-13.3",
+  "name": "PROHIBITION OF OVERTAKING BY GOODS VEHICLES",
+  "desc": "C-13.3 notifies that overtaking is prohibited only for goods vehicles having a permissible maximum mass exceeding 3.5 tonnes. The symbol on this sign shall be reversed for traffic keeping to the left. Contracting Parties shall select a variant of this sign with or without the red oblique bar. An inscription on an additional panel placed below the sign in accordance with Article 8, paragraph 4 of this Convention may change the permissible maximum mass above which the prohibitions apply."
+ },
+ {
+  "id": "C-13.4",
+  "name": "END OF PROHIBITION OF OVERTAKING FOR GOODS VEHICLES",
+  "desc": "C-13.4 notifies that the prohibition of overtaking for goods vehicles indicated by sign C-13.3 ceases to apply. The symbol on this sign shall be reversed for traffic keeping to the left. This sign shall be circular and have a white or yellow ground; it shall have no border or only have preferably a black rim, it shall show in light grey the symbol of the prohibition of overtaking which has ceased; and shall bear an oblique black band or preferably, black parallel lines forming such a band, sloping downward from right to left. The oblique band may be interrupted when crossing the grey symbol. If not interrupted, the band shall be placed over the grey symbol. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the prohibition of overtaking for goods vehicles sign for traffic coming in the opposite direction."
+ },
+ {
+  "id": "C-14.1",
+  "name": "MAXIMUM SPEED LIMIT",
+  "desc": "C-14.1 notifies that the figure indicated on the sign is the permitted maximum speed. The figure shall be provided in the unit of measurement most commonly used to express the speed of vehicles in the country concerned. That unit of measurement may be shown on the sign after or below the figure. If shown, \u201ckm\u201d (for Kilometres) or \"m\" (for Miles) shall be used as appropriate. To indicate a speed limit applicable only to vehicles of a permissible maximum mass exceeding a given figure, an inscription comprising that figure shall be placed on an additional panel below the sign in accordance with Article 8, paragraph 4 of this Convention."
+ },
+ {
+  "id": "C-14.2",
+  "name": "END OF MAXIMUM SPEED LIMIT",
+  "desc": "C-14.2 notifies that the maximum speed limit indicated by sign C-14.1 ceases to apply. This sign shall be circular and have a white or yellow ground; it shall have no border or only have preferably a black rim, it shall show in light grey the speed limit inscription which has ceased; and shall bear an oblique black band or preferably, black parallel lines forming such a band, sloping downward from right to left. The oblique band may be interrupted when crossing the grey inscription If not interrupted, the band shall be placed over the grey symbol. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the maximum speed sign for traffic coming in the opposite direction."
+ },
+ {
+  "id": "C-15.1",
+  "name": "PROHIBITION OF THE USE OF AUDIBLE WARNING DEVICES",
+  "desc": "C-15.1 notifies that the use of audible warning devices is prohibited, except to avoid an accident. This sign, if not placed at the beginning of a built-up area beside or shortly after the sign identifying the built-up area, shall be accompanied by an additional panel H-02.1 described in section H, subsection II, paragraph 1 of this Annex, showing the distance over which the prohibition applies. It is recommended that this sign should not be placed at the beginning of built-up areas when the prohibition applies in all built-up areas and that it be provided that the sign identifying a built-up area placed at the beginning of that area shall notify road users that the traffic regulations applicable to built-up areas in that country apply from that point onwards."
+ },
+ {
+  "id": "C-16.1",
+  "name": "PROHIBITION OF PASSING WITHOUT STOPPING",
+  "desc": "C-16.1 notifies that passing without stopping is prohibited. When used in the proximity of a Customs-house at which a stop is compulsory, notwithstanding Article 8 of this Convention, the symbol of this sign shall include the inscription \"Customs\", preferably in two languages. Contracting Parties using this sign shall endeavour to reach a regional agreement to the effect that this inscription shall appear in the same language(s) on all the signs they set up. When used for other reasons, the inscription \"Customs\" shall be replaced by another very brief inscription indicating the reason for the stop."
+ },
+ {
+  "id": "C-17.1",
+  "name": "END OF PROHIBITION OR RESTRICTION",
+  "desc": "C-17.1 notifies that all prohibitions or restrictions notified indicated by prohibitory or restrictive signs for moving vehicles cease to apply. This sign shall be circular and have a white or yellow ground; it shall have no border or only have preferably a black rim, and shall bear an oblique black band, or preferably, black parallel lines forming such a band, sloping downward from right to left. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the prohibitory or restrictive sign intended for traffic coming in the opposite direction."
+ },
+ {
+  "id": "C-18.1",
+  "name": "PROHIBITION OF PARKING",
+  "desc": "C-18.1 notifies of places where parking is prohibited. Parking may also be prohibited by a circular sign with a red border and a red oblique bar sloping downwards from left to right, bearing the letter used in the State concerned to denote \"Parking\", in black or dark blue on a white or yellow ground."
+ },
+ {
+  "id": "C-19.1",
+  "name": "PROHIBITION OF STANDING AND PARKING",
+  "desc": "C-19.1 notifies of places where standing and parking are prohibited."
+ },
+ {
+  "id": "C-20.1",
+  "name": "ALTERNATE PARKING",
+  "desc": "C-20.1 notifies of places where parking is authorized on one side and prohibited on the opposite side of the road on days of the month that are an odd number. The time at which the side changes shall be prescribed by domestic legislation and need not necessarily be from midnight. The bar on the sign shall be white."
+ },
+ {
+  "id": "C-20.2",
+  "name": "ALTERNATE PARKING",
+  "desc": "C-20.2 notifies of places where parking is authorized on one side and prohibited on the opposite side of the road on days of the month that are an even number. The time at which the side changes shall be prescribed by domestic legislation and need not necessarily be from midnight. The two bars on the sign shall be white."
+ },
+ {
+  "id": "C-20.3",
+  "name": "ALTERNATE PARKING",
+  "desc": "C-20.3 notifies of places where parking is authorized on opposite sides of the road which alternates when the domestic legislation prescribes an alternation other than a daily alternation for parking; this sign may contain the period of alternation, e.g., 1-15 and 16-31 for an alternation on the first and sixteenth day of each month."
+ },
+ {
+  "id": "D-01.1",
+  "name": "DIRECTION LEFT TO BE FOLLOWED",
+  "desc": "D-01.1 notifies that the only direction in which vehicles are obliged to proceed is to the left."
+ },
+ {
+  "id": "D-01.2",
+  "name": "DIRECTION LEFT TO BE FOLLOWED",
+  "desc": "D-01.2 notifies that the only direction in which vehicles are obliged to proceed is to the left."
+ },
+ {
+  "id": "D-01.3",
+  "name": "DIRECTION LEFT OR STRAIGHT TO BE FOLLOWED",
+  "desc": "D-01.3 notifies that the only directions in which vehicles are obliged to proceed are to the left or straight."
+ },
+ {
+  "id": "D-01.4",
+  "name": "DIRECTION STRAIGHT TO BE FOLLOWED",
+  "desc": "D-01.4 notifies that the only direction in which vehicles are obliged to proceed is straight."
+ },
+ {
+  "id": "D-01.5",
+  "name": "DIRECTION RIGHT TO BE FOLLOWED",
+  "desc": "D-01.5 notifies that the only direction in which vehicles are obliged to proceed is to the right."
+ },
+ {
+  "id": "D-01.6",
+  "name": "DIRECTION RIGHT TO BE FOLLOWED",
+  "desc": "D-01.6 notifies that the only direction in which vehicles are obliged to proceed is to the right."
+ },
+ {
+  "id": "D-01.7",
+  "name": "DIRECTION RIGHT OR STRAIGHT TO BE FOLLOWED",
+  "desc": "D-01.7 notifies that the only directions in which vehicles are obliged to proceed are to the right or straight."
+ },
+ {
+  "id": "D-01.8",
+  "name": "DIRECTION LEFT OR RIGHT TO BE FOLLOWED",
+  "desc": "D-01.8 notifies that the only directions in which vehicles are obliged to proceed are to the left or to the right."
+ },
+ {
+  "id": "D-02.1",
+  "name": "PASS ON THE LEFT SIDE",
+  "desc": "D-02.1 notifies that vehicles must pass the island or obstacle on the left side. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign is placed on the island or before the obstacle on the carriageway."
+ },
+ {
+  "id": "D-02.2",
+  "name": "PASS ON THE RIGHT SIDE",
+  "desc": "D-02.2 notifies that vehicles must pass the island or obstacle on the right side. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign is placed on the island or before the obstacle on the carriageway."
+ },
+ {
+  "id": "D-02.3",
+  "name": "PASS ON THE LEFT OR ON THE RIGHT SIDE",
+  "desc": "D-02.3 notifies that vehicles must pass the island or obstacle on the left or on the right side. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign is placed on the island or before the obstacle on the carriageway."
+ },
+ {
+  "id": "D-03.1",
+  "name": "COMPULSORY ROUNDABOUT",
+  "desc": "D-03.1 notifies that vehicles must follow the direction at the roundabout indicated by the arrows. If the compulsory roundabout is indicated by the sign D-03.1 together with the sign B-01.1 or B-02.1, the vehicle in the roundabout has priority. The symbol on this sign shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "D-04.1",
+  "name": "COMPULSORY CYCLE TRACK",
+  "desc": "D-04.1 notifies cyclists that the track at the entrance to which it is placed is reserved for them, and notifies the drivers of other vehicles that they are not entitled to use that track. Cyclists shall be required to use the track if the track is running along a carriageway, footpath or track for riders on horseback and leading into the same direction. However, drivers of mopeds shall also be required, in the same conditions, to use the cycle track if domestic legislation so provides or if notification of this requirement is given by an additional panel bearing an inscription or the symbol of sign C-03.4."
+ },
+ {
+  "id": "D-04.2",
+  "name": "END OF COMPULSORY CYCLE TRACK",
+  "desc": "D-04.2 notifies cyclists of the end of the compulsory cycle track. This sign shall be identical to the sign D-04.1, except that it shall be crossed by an oblique red band or, preferably, red parallel lines forming such a band, sloping down from right to left. The band can be interrupted when crossing the symbol. If not interrupted, the red band shall be placed over the symbol. The end of compulsory cycle track may be indicated. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the sign D-04.1 for cyclists coming in the opposite direction."
+ },
+ {
+  "id": "D-04.3",
+  "name": "COMPULSORY FOOTPATH",
+  "desc": "D-04.3 notifies pedestrians that the path at the entrance to which it is placed is reserved for them, and notifies other road users that they are not entitled to use that path. Pedestrians shall be required to use the path if the path is running along a carriageway, cycle track or track for riders on horseback and leading into the same direction."
+ },
+ {
+  "id": "D-04.4",
+  "name": "END OF COMPULSORY FOOTPATH",
+  "desc": "D-04.4 notifies pedestrians of the end of the compulsory footpath. This sign shall be identical to the sign D-04.3, except that it shall be crossed by an oblique red band or, preferably, red parallel lines forming such a band sloping down from right to left. The band can be interrupted when crossing the symbol. If not interrupted, the red band shall be placed over the symbol. The end of compulsory footpath may be indicated. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the sign D-04.3 for pedestrians coming in the opposite direction."
+ },
+ {
+  "id": "D-04.5",
+  "name": "COMPULSORY TRACK FOR RIDERS ON HORSEBACK",
+  "desc": "D-04.5 notifies riders on horseback that the track at the entrance of which it is placed is reserved for them and notifies other road users that they are not entitled to use that track. Riders on horseback shall be required to use the track if the track is running along a carriageway, cycle track or footpath and leading into the same direction."
+ },
+ {
+  "id": "D-04.6",
+  "name": "END OF COMPULSORY TRACK FOR RIDERS ON HORSEBACK",
+  "desc": "D-04.6 notifies riders on horseback of the end of the compulsory track for them. This sign shall be identical to the sign D-04.5, except that it shall be crossed by an oblique red band or, preferably, red parallel lines forming such a band sloping down from right to left. The band can be interrupted when crossing the symbol. If not interrupted, the red band shall be placed over the symbol. The end of compulsory track for riders on horseback may be indicated. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the sign D-04.5 for riders on horseback coming in the opposite direction."
+ },
+ {
+  "id": "D-05.1",
+  "name": "COMPULSORY PATH OR TRACK FOR TWO CATEGORIES OF ROAD USERS",
+  "desc": "D-05.1 notifies the two categories of road users depicted by symbols on this sign that the path or track, at the entrance of which the sign is placed, is reserved for them; and notifies other road users that they are not entitled to use that path or track. The road users depicted by symbols on this sign shall be required to use that path or track. The symbols of the road users shall be placed side by side on this sign and separated by a vertical line through its centre. Each symbol shall be understood to mean that the relevant category must use the side of the path or track reserved for that category and shall notify other road users that they are not entitled to use that side. The two sides of the path or track shall be clearly separated, by physical means or road markings."
+ },
+ {
+  "id": "D-05.2",
+  "name": "END OF COMPULSORY PATH OR TRACK FOR TWO CATEGORIES OF ROAD USERS",
+  "desc": "D-05.2 notifies the two categories of road users depicted by symbols on this sign of the end of the compulsory path or track for them. This sign shall be identical to the sign D-05.1, except that it shall be crossed by an oblique red band or, preferably, red parallel lines forming such a band sloping down from right to left. The band can be interrupted when crossing the symbols. If not interrupted, the red band shall be placed over the symbols. The end of compulsory path or track for two categories of road users may be indicated. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the sign D-05.1 for the same road users coming in the opposite direction."
+ },
+ {
+  "id": "D-05.3",
+  "name": "COMPULSORY SHARED PATH OR TRACK FOR TWO CATEGORIES OF ROAD USERS",
+  "desc": "D-05.3 notifies the two categories of road users depicted by symbols on this sign that the path or track, at the entrance of which it is placed, is reserved for their shared use; and notifies other road users that they are not entitled to use that path or track. The road users depicted by symbols on this sign shall be required to use that path or track. The symbols of the road users shall be placed one above the other on this sign. The order in which the symbols are placed shall be optional. Where necessary the precautions to be taken by both categories of users shall be laid down in domestic legislation."
+ },
+ {
+  "id": "D-05.4",
+  "name": "END OF COMPULSORY SHARED PATH OR TRACK FOR TWO CATEGORIES OF ROAD USERS",
+  "desc": "D-05.4 notifies the two categories of road users depicted by symbols on this sign of the end of the compulsory shared path or track for them. This sign shall be identical to the sign D- 05.3, except that it shall be crossed by an oblique red band or, preferably, red parallel lines forming such a band sloping down from right to left. The band can be interrupted when crossing the symbols. If not interrupted, the red band shall be placed over the symbols. The end of compulsory shared path or track for two categories of road users may be indicated. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the sign D-05.3 for the same road users coming in the opposite direction."
+ },
+ {
+  "id": "D-06.1",
+  "name": "COMPULSORY MINIMUM SPEED",
+  "desc": "D-06.1 notifies drivers that they shall travel at not less than the speed specified. The figure shown on the sign shall express this speed in the unit of measurement most commonly used to express the speed of vehicles in the country concerned. That unit of measurement may be shown on the sign after or below the digit."
+ },
+ {
+  "id": "D-06.2",
+  "name": "END OF COMPULSORY MINIMUM SPEED",
+  "desc": "D-06.2 notifies drivers that the compulsory minimum speed imposed by sign D-06.1 is no longer in effect. This sign shall be identical to sign D-06.1, except that it shall be crossed by an oblique red band or, preferably, red parallel lines forming such a band sloping down from right to left. The band can be interrupted when crossing the figure shown on the sign. If not interrupted, the red band shall be placed over the figure. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the sign D-06.1 for drivers coming in the opposite direction."
+ },
+ {
+  "id": "D-07.1",
+  "name": "COMPULSORY SNOW CHAINS",
+  "desc": "D-07.1 notifies drivers that their vehicles travelling on the road at the entrance to which it is placed shall have snow chains fitted to not less than two of their driving wheels in situations when the carriageway is covered by snow and/or ice."
+ },
+ {
+  "id": "D-07.2",
+  "name": "END OF COMPULSORY SNOW CHAINS",
+  "desc": "D-07.2, notifies drivers that the compulsory use of snow chains imposed by the sign D-07.1 is no longer in effect. This sign shall be identical to the sign D-07.1, except that it shall be crossed by an oblique red band or, preferably, red parallel lines forming such a band sloping down from right to left. The band can be interrupted when crossing the symbol. If not interrupted, the red band shall be placed over the symbol. Notwithstanding the provisions of Article 6, paragraph 1 of this Convention, this sign may be placed on the reverse side of the sign D-07.1 for drivers coming in the opposite direction."
+ },
+ {
+  "id": "D-08.1",
+  "name": "COMPULSORY DIRECTION FOR VEHICLES CARRYING DANGEROUS GOODS",
+  "desc": "D-08.1 notifies drivers of vehicles carrying dangerous goods of the direction in which they shall proceed. This sign shall depict one of the symbols used on signs C-03.8, C-03.13 or C- 03.14 to specify the type of dangerous goods carried and one of the signs D-01.1, D-01.2, D- 01.4, D-01.5, D-01.6 to specify the direction to follow. The ground of this sign shall be white."
+ },
+ {
+  "id": "E-01.1",
+  "name": "REGULATION OR DANGER WARNING APPLYING TO A LANE",
+  "desc": "E-01.1 notifies that a regulation or danger warning applies to a lane, defined by longitudinal lane markings, on a multi-lanes carriage way for traffic moving in the same direction. This sign may also indicate a lane allocated to oncoming traffic. The sign relating to the regulation or danger warning shall be shown on each of the arrows concerned."
+ },
+ {
+  "id": "E-02.1",
+  "name": "LANE RESERVED FOR BUSES",
+  "desc": "E-02.1 notifies road users about the position of the lane, on a multi-lane carriageway, reserved for buses in accordance with Article 26 bis, paragraph 2. This sign may also indicate"
+ },
+ {
+  "id": "E-02.2",
+  "name": "LANE RESERVED FOR OTHER CATEGORIES OF VEHICLES",
+  "desc": "E-02.2 notifies road users about the position of the lane, on a multi-lane carriageway, reserved for specific categories of vehicles in accordance with Article 26 bis, paragraph 1. Additional panel H-05.1 depicting the symbol of that type of vehicle category, or only the symbol of that vehicle category, shall be shown on the arrow concerned."
+ },
+ {
+  "id": "E-03.1",
+  "name": "PRESELECTION OF LANES",
+  "desc": "E-03.1 notifies road users about directions to follow for each lane of a multi-lane carriageway at the intersection in order for them to preselect the required lane before the intersection. Lane markings may be included."
+ },
+ {
+  "id": "E-04.1",
+  "name": "ONE-WAY",
+  "desc": "E-04.1 notifies road users that a carriageway is one way. This sign shall be placed perpendicular to the axis of the carriageway. It shall be square or rectangular, the ground shall be blue and the symbol white."
+ },
+ {
+  "id": "E-04.2",
+  "name": "ONE-WAY",
+  "desc": "E-04.2 notifies road users that a carriageway is one way. This sign shall be placed parallel to the axis of the carriageway; it shall be an elongated rectangle with longer horizontal sides, the ground shall be blue and the symbol white. The inscription \"One way\" may be placed on the arrow of this sign in the national language or one of the national languages of the State concerned. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "E-05.1",
+  "name": "MOTORWAY",
+  "desc": "E-05.1 notifies drivers of vehicles about an entry onto a motorway where the special rules for the motorway begin to apply. The sign shall be placed at the entry to a motorway. It shall have blue or green ground and a white symbol."
+ },
+ {
+  "id": "E-05.2",
+  "name": "END OF MOTORWAY",
+  "desc": "E-05.2 notifies drivers of motor vehicles that the special rules imposed by sign E-05.1 cease to apply from the point of its placement. This sign shall be identical to the sign E-05.1 except that it shall be crossed by a diagonal red band or, preferably, red parallel lines forming such a band running from the upper right edge to the lower left edge. The diagonal band may be interrupted when crossing the symbol. If not interrupted, the diagonal band shall be placed over the symbol. This sign may also be used and repeated to give warning of the ending of a motorway; the distance between each sign set up for this purpose and the end of the motorway shall be inscribed on the lower part of the sign or on the additional panel H-01.1 described in section H, subsection II, paragraph 1."
+ },
+ {
+  "id": "E-06.1",
+  "name": "ROAD FOR MOTOR VEHICLES",
+  "desc": "E-06.1 notifies drivers of vehicles about an entry onto a road for motor vehicles where special traffic rules, on roads other than motorways, begin to apply and which are reserved for motor vehicle traffic and do not serve properties bordering on the road. An additional panel may be placed under this sign to show that, by way of exception, the access of motor vehicles to properties bordering on the road is permitted. This sign shall have blue or green ground, and a white symbol."
+ },
+ {
+  "id": "E-06.2",
+  "name": "END OF ROAD FOR MOTOR VEHICLES",
+  "desc": "E-06.2 notifies drivers of motor vehicles that the special rules imposed by sign E-06.1 cease to apply from the point of its placement. This sign shall be identical to the sign E-06.1, except that it shall be crossed by a diagonal red band or, preferably, red parallel lines forming such a band running from the upper right edge to the lower left edge. The diagonal band may be interrupted when crossing the symbol. If not interrupted, the diagonal band shall be placed over the symbol. This sign may also be used and repeated to give warning of the ending of the road; the distance between each sign set up for this purpose and the end of the road shall be inscribed on the lower part of the sign or on the additional panel H-01.1 described in section H, subsection II, paragraph 1."
+ },
+ {
+  "id": "E-07.1",
+  "name": "BEGINNING OF A BUILT-UP AREA",
+  "desc": "E-07.1 notifies road users about the beginning of a built-up area where special regulations governing traffic in built-up areas in the territory of the State apply. This sign shall bear the name of the built-up area. It may be replaced by signs E-07.3 or E-07.5."
+ },
+ {
+  "id": "E-07.2",
+  "name": "END OF A BUILT-UP AREA",
+  "desc": "E-07.2 notifies road users about the end of a built-up area and that the regulations imposed by the sign E-07.1 cease to apply. This sign shall be identical to E-07.1 except that it shall be crossed by a diagonal red band or, preferably, red parallel lines forming such a band running from the upper right edge to the lower left edge. The diagonal band may be interrupted when"
+ },
+ {
+  "id": "E-07.3",
+  "name": "BEGINNING OF A BUILT-UP AREA",
+  "desc": "E-07.3 notifies road users about the beginning of a built-up area where special regulations governing traffic in built-up areas in the territory of the State apply. This sign shall bear the symbol of the built-up area. It may be replaced by signs E-07.1 or E-07.5."
+ },
+ {
+  "id": "E-07.4",
+  "name": "END OF A BUILT-UP AREA",
+  "desc": "E-07.4 notifies road users about the end of a built-up area and that the regulations imposed by the sign E-07.3 cease to apply. This sign shall be identical to E-07.3 except that it shall be crossed by a diagonal red band or, preferably, red parallel lines forming such a band running from the upper right edge to the lower left edge. The diagonal band may be interrupted when crossing the symbol of the built-up area. If not interrupted, the diagonal band shall be placed over the symbol of the built-up area."
+ },
+ {
+  "id": "E-07.5",
+  "name": "BEGINNING OF A BUILT-UP AREA",
+  "desc": "E-07.5 notifies road users about the beginning of a built-up area where special regulations governing traffic in built-up areas in the territory of the State apply. This sign shall bear the name and the symbol of the built-up area. It may be replaced by signs E-07.1 or E-07.3."
+ },
+ {
+  "id": "E-07.6",
+  "name": "END OF A BUILT-UP AREA",
+  "desc": "E-07.6 notifies road users about the end of a built-up area and that the regulations imposed by the sign E-07.5 cease to apply. This sign shall be identical to E-07.5 except that it shall be crossed by a diagonal red band or, preferably, red parallel lines forming such a band running from the upper right edge to the lower left edge. The diagonal band may be interrupted when crossing the name and the symbol of the built-up area. If not interrupted, the diagonal band shall be placed over them."
+ },
+ {
+  "id": "E-08.1",
+  "name": "BEGINNING OF A ZONE",
+  "desc": "E-08.1 notifies road users of a beginning of a zone where restrictions, prohibitions or obligations indicated by the regulatory sign displayed on this sign apply to all the interconnecting roads (at least two) in the zone. This sign shall be a rectangle with a light-coloured ground. It preferably should bear the inscription \"ZONE\" or its equivalent in the national language. Specific details of the restrictions, prohibitions or obligations may be inscribed in the lower part of the sign or on an additional panel. The inscriptions shall be black or dark blue. This sign shall be set up at all roads giving access to the zone concerned. The zone preferably should only include roads which have similar characteristics."
+ },
+ {
+  "id": "E-08.2",
+  "name": "EXIT FROM A ZONE",
+  "desc": "E-08.2 notifies road users of the exit from a zone in which a sign has zonal validity E-08.1. This sign shall be similar to the E-08.1 sign except that the regulatory sign displayed on E- 08.1 shall be of grey colour and a black diagonal band or, preferably, parallel black lines forming such a band shall run from the upper right edge to the lower left edge. The diagonal band may be interrupted when crossing the displayed grey regulatory sign. If not interrupted, the diagonal band shall be placed over it. It shall be set up on all roads which may be used to leave that zone."
+ },
+ {
+  "id": "E-09.1",
+  "name": "TUNNEL",
+  "desc": "E-09.1 notifies of a section of road passing through a tunnel on which special traffic rules apply. It is placed at the point from which these rules apply. The sign shall be used for tunnels of 1,000 m or more and in cases provided for by domestic legislation. The length of such a tunnel shall be included either in the lower part of the sign or on an additional panel H-02.1 as described in section H, subsection II paragraph 1. The name of the tunnel may be placed on an additional panel or on the sign itself. The sign shall have a blue or green ground, and the symbol shall be white and black or white and dark blue. In order to warn road users in advance, sign E-09.1 may be placed in addition, at a suitable distance before the point where the special rules apply; such sign shall show, either in its lower part, or on an additional panel H-01.1, as described in section H, subsection II paragraph 1, the distance between the point at which it is set up and the point from which these special rules apply."
+ },
+ {
+  "id": "E-09.2",
+  "name": "END OF TUNNEL",
+  "desc": "E-09.2 notifies that the special traffic rules imposed by sign E-09.1 cease to apply from the point of its placement. This sign shall be identical to E-09.1 except that it shall be crossed by a diagonal red band or, preferably, red parallel lines forming such a band running from the"
+ },
+ {
+  "id": "E-10.1",
+  "name": "PEDESTRIAN CROSSING",
+  "desc": "E-10.1 notifies road users of the position of a pedestrian crossing. The ground of this sign shall be blue with a white or yellow triangle. The symbol shall be black or dark blue. This symbol shall display a pedestrian on a crossing marked by broad stripes. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "E-11.1",
+  "name": "HOSPITAL",
+  "desc": "E-11.1 notifies road users that a hospital is located nearby where they need to take the precautions required and where they shall not make any unnecessary noise. It shall have a blue ground and the symbol shall be white. It may be replaced by E-11.2."
+ },
+ {
+  "id": "E-11.2",
+  "name": "HOSPITAL",
+  "desc": "E-11.2 notifies road users that a hospital is located nearby where they need to take the precautions required and where they shall not make any unnecessary noise. It shall have a blue ground and the symbols shall be white and red. It may be replaced by E-11.1. The red cross on this sign may be replaced by a red symbol depicting first-aid stations in the States concerned."
+ },
+ {
+  "id": "E-12.1",
+  "name": "PARKING",
+  "desc": "E-12.1 notifies of places where parking is authorized. The sign shall be square or rectangular with a blue ground and it shall bear the letter in white used in the State concerned to denote \"Parking\". This sign may be set up parallel to the axis of the road. The direction in which the parking place lies or the categories of vehicle for which it is reserved may be shown on the sign itself or on an additional panel below the sign. Such inscriptions may also limit the period for which parking is permitted."
+ },
+ {
+  "id": "E-12.2",
+  "name": "PARK AND RIDE",
+  "desc": "E-12.2 notifies of places where parking is authorized with an option to change to other transport means. The sign shall have a blue ground and shall bear a white coloured symbol \u201cP + R\u201d with one horizontal line placed below and one above \u201cP + R\u201d. In the \u201cP + R\u201d symbol, the letters P and R may be replaced by the letters used in the State concerned to denote \"Parking\" and \u201cavailability of other transport means\u201d. This sign may be replaced by E-12.3 or E-12.4."
+ },
+ {
+  "id": "E-12.3",
+  "name": "PARK AND RIDE",
+  "desc": "E-12.3 notifies of places where parking is authorized with an option to change to a specific means of public transport. The sign shall have a blue ground and shall bear a white coloured symbol \u201cP +\u201d followed by an inscription indicating the type of public transport by its name. In the \u201cP +\u201d symbol, the letter P may be replaced by the letter used in the State concerned to denote \"Parking\". This sign may be replaced by E-12.2 or E-12.4."
+ },
+ {
+  "id": "E-12.4",
+  "name": "PARK AND RIDE",
+  "desc": "E-12.4 notifies of places where parking is authorized with an option to change to a specified means of public transport. The sign shall have a blue ground and shall bear a white coloured symbol \u201cP +\u201d followed by a symbol indicating the type of public transport. In the \u201cP +\u201d symbol, the letter P may be replaced by the letter used in the State concerned to denote \"Parking\". This sign may be replaced by E-12.2 or E-12.3."
+ },
+ {
+  "id": "E-13.1",
+  "name": "BUS STOP",
+  "desc": "E-13.1 notifies of a location of a bus stop. Special regulations in the territories of the State concerned may apply. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "E-13.2",
+  "name": "TRAMWAY STOP",
+  "desc": "E-13.2 notifies of a location of a tramway stop where special regulations in the territories of the State concerned may apply. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "E-14.1",
+  "name": "RESIDENTIAL AREA",
+  "desc": "E-14.1 notifies road users about the beginning of a residential area where special regulations governing traffic in residential areas in the territory of the State apply. This sign shall have a blue ground and white symbols."
+ },
+ {
+  "id": "E-14.2",
+  "name": "END OF RESIDENTIAL AREA",
+  "desc": "E-14.2 notifies of the exit from a residential area where the special regulations imposed by E-14.1 cease to apply. This sign shall be identical to the sign E-14.1 except that it shall be crossed by a diagonal red band or, preferably, red parallel lines forming such a band running from the upper right edge to the lower left edge. The diagonal band shall be placed over the symbols."
+ },
+ {
+  "id": "E-15.1",
+  "name": "EMERGENCY STOPPING PLACE",
+  "desc": "E-15.1 notifies of a place which shall only be used by drivers for stopping or parking in case of emergency or danger. If this stopping place is equipped with an emergency telephone and/or an extinguisher, the sign shall bear the symbols F-10.1 and/or F-11.1 either in its lower part or on an additional panel. The symbol on this sign shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "F-01.1",
+  "name": "FIRST-AID STATION",
+  "desc": "F-01.1 notifies of a location of a first aid station. The symbols depicting first-aid stations in the States concerned shall be used. These symbols shall be red."
+ },
+ {
+  "id": "F-02.1",
+  "name": "BREAKDOWN SERVICE",
+  "desc": "F-02.1 notifies of a location of a breakdown service."
+ },
+ {
+  "id": "F-03.1",
+  "name": "TELEPHONE",
+  "desc": "F-03.1 notifies of a location of a telephone."
+ },
+ {
+  "id": "F-04.1",
+  "name": "FILLING STATION",
+  "desc": "F-04.1 notifies of a location of a filling station."
+ },
+ {
+  "id": "F-05.1",
+  "name": "HOTEL OR MOTEL",
+  "desc": "F-05.1 notifies of a location of a hotel or motel. This sign - the variant with inscription \u2013 may contain the inscription \u201cHOTEL\u201d or \u201cMOTEL\u201d on the lower part of the sign."
+ },
+ {
+  "id": "F-05.2",
+  "name": "YOUTH HOSTEL",
+  "desc": "F-05.2 notifies of a location of a youth hostel."
+ },
+ {
+  "id": "F-06.1",
+  "name": "RESTAURANT",
+  "desc": "F-06.1 notifies of a location of a restaurant."
+ },
+ {
+  "id": "F-06.2",
+  "name": "REFRESHMENTS OR CAFETERIA",
+  "desc": "F-06.2 notifies of the availability of refreshments or a location of a cafeteria."
+ },
+ {
+  "id": "F-07.1",
+  "name": "PICNIC SITE OR REST AREA",
+  "desc": "F-07.1 notifies of a location of a picnic site or a rest area."
+ },
+ {
+  "id": "F-07.2",
+  "name": "CAMPING SITE",
+  "desc": "F-07.2 notifies of a location of a camping site."
+ },
+ {
+  "id": "F-07.3",
+  "name": "CARAVAN SITE",
+  "desc": "F-07.3 notifies of a location of a caravan site."
+ },
+ {
+  "id": "F-08.1",
+  "name": "RADIO STATIONS PROVIDING TRAFFIC INFORMATION",
+  "desc": "F-08.1 notifies of the frequency of a radio station that provides traffic information. The sign shall display an inscription \u201cRadio\u201d in a white square, which may be supplemented by the name or the code of the radio station. The inscription \u201cRadio\u201d may be repeated in the national language. This sign - the variant with inscription \u2013 shall display the inscription of the frequency and, if necessary, the wavelength of the local radio station in white on the lower part of the sign. For the variant of this sign without inscription, the frequency information shall be displayed on an additional panel. It is left to the discretion of the State concerned to add, in the case of VHF stations, the indication \u201cMHz\u201d or the regional code, and in the case of medium-frequency or long- frequency stations the indication \u201ckc/s\u201d."
+ },
+ {
+  "id": "F-09.1",
+  "name": "PUBLIC LAVATORY",
+  "desc": "F-09.1 notifies of a location of a public lavatory."
+ },
+ {
+  "id": "F-10.1",
+  "name": "EMERGENCY TELEPHONE",
+  "desc": "F-10.1 notifies of a location of a telephone for emergency calls. The symbol may also be red."
+ },
+ {
+  "id": "F-11.1",
+  "name": "EXTINGUISHER",
+  "desc": "F-11.1 notifies of a location of an extinguisher. The symbol shall be red."
+ },
+ {
+  "id": "F-12.1",
+  "name": "MULTIPLE FACILITIES OR SERVICES SIGNS",
+  "desc": "F-12.1 notifies of a location of two different types of facilities or services."
+ },
+ {
+  "id": "F-12.2",
+  "name": "MULTIPLE FACILITIES OR SERVICES SIGNS",
+  "desc": "F-12.2 notifies of a location of three different types of facilities or services."
+ },
+ {
+  "id": "F-12.3",
+  "name": "MULTIPLE FACILITIES OR SERVICES SIGNS",
+  "desc": "F-12.3 notifies of a location of four different types of facilities or services."
+ },
+ {
+  "id": "G-01.1",
+  "name": "ADVANCE DIRECTION",
+  "desc": "G-01.1 notifies of advance directions. This sign is an example of a stacked advance direction sign (two localities)."
+ },
+ {
+  "id": "G-01.2",
+  "name": "ADVANCE DIRECTION",
+  "desc": "G-01.2 notifies of advance directions. This sign is an example of a stacked advance direction sign (three localities)."
+ },
+ {
+  "id": "G-01.3",
+  "name": "ADVANCE DIRECTION ON A ROUNDABOUT",
+  "desc": "G-01.3 notifies of advance directions. This sign is an example of a stacked advance direction sign (roundabout). The roundabout arrows shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "G-02.1",
+  "name": "ADVANCE DIRECTION FOR AN INTERSECTION",
+  "desc": "G-02.1 notifies of advance directions. This sign is an example of an advance direction sign (intersection)."
+ },
+ {
+  "id": "G-02.2",
+  "name": "ADVANCE DIRECTION FOR A ROUNDABOUT",
+  "desc": "G-02.2 notifies of advance directions. This sign is an example of an advance direction sign on a roundabout. The symbol of the roundabout on this sign shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "G-02.3",
+  "name": "ADVANCE DIRECTION FOR LANES",
+  "desc": "G-02.3 notifies of advance directions. This sign is an example of an advance direction sign for lanes."
+ },
+ {
+  "id": "G-03.1",
+  "name": "ADVANCE DIRECTION SIGN OVER A LANE",
+  "desc": "G-03.1 notifies of advance directions. This sign is an example of an advance direction sign for placement over a lane and may also indicate advance direction for an exit from a motorway."
+ },
+ {
+  "id": "G-03.2",
+  "name": "ADVANCE DIRECTION SIGN OVER LANES",
+  "desc": "G-03.2 notifies of advance directions. This sign is an example of an advance direction sign for placement over a carriageway with two lanes."
+ },
+ {
+  "id": "G-03.3",
+  "name": "ADVANCE DIRECTION SIGN OVER LANES",
+  "desc": "G-03.3 notifies of advance directions. This sign is an example of an advance direction sign for placement over a carriageway with three lanes."
+ },
+ {
+  "id": "G-04.1",
+  "name": "ADVANCE DIRECTION SIGN FOR NO THROUGH ROAD",
+  "desc": "G-04.1 notifies in advance of a no through road. This sign shall have a blue ground and the symbol shall be white and red."
+ },
+ {
+  "id": "G-04.2",
+  "name": "ADVANCE DIRECTION SIGN FOR PROHIBITION TO TURN",
+  "desc": "G-04.2 notifies in advance of a route to be followed in order to turn left, where a left turn at the next intersection is prohibited. The symbol shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "G-05.1",
+  "name": "DIRECTION SIGN",
+  "desc": "G-05.1 notifies of a left direction. This sign is an example of a direction sign showing one direction with the sign panel terminating in an arrowhead to the left."
+ },
+ {
+  "id": "G-05.2",
+  "name": "DIRECTION SIGN",
+  "desc": "G-05.2 notifies of a right direction. This sign is an example of a direction sign showing one direction with the sign panel terminating in an arrowhead to the right."
+ },
+ {
+  "id": "G-05.3",
+  "name": "DIRECTION SIGN",
+  "desc": "G-05.3 notifies of a direction. This sign is an example of a direction sign showing one direction with an arrow."
+ },
+ {
+  "id": "G-05.4",
+  "name": "DIRECTION SIGN",
+  "desc": "G-05.4 notifies of a left direction. This sign is an example of a direction sign showing one direction with the sign panel terminating in an arrowhead to the left."
+ },
+ {
+  "id": "G-05.5",
+  "name": "DIRECTION SIGN",
+  "desc": "G-05.5 notifies of a right direction. This sign is an example of a direction sign showing one direction with the sign panel terminating in an arrowhead to the right."
+ },
+ {
+  "id": "G-05.6",
+  "name": "DIRECTION SIGN",
+  "desc": "G-05.6 notifies of a direction. This sign is an example of a direction sign showing one direction with an arrow."
+ },
+ {
+  "id": "G-06.1",
+  "name": "MULTIPLE DIRECTIONS SIGN",
+  "desc": "G-06.1 notifies of more than one direction. This sign is an example of a direction sign showing two directions with arrows."
+ },
+ {
+  "id": "G-06.2",
+  "name": "MULTIPLE DIRECTIONS SIGN",
+  "desc": "G-06.2 notifies of more than one direction. This sign is an example of a direction sign showing three directions with arrows."
+ },
+ {
+  "id": "G-07.1",
+  "name": "DIRECTION SIGN OVER A LANE",
+  "desc": "G-07.1 notifies of a direction. This sign is an example of a direction sign for placement over a lane."
+ },
+ {
+  "id": "G-08.1",
+  "name": "ROAD IDENTIFICATION",
+  "desc": "G-08.1 identifies the road by its number or name. This sign is an example of a road identification sign of a rectangular shape bearing a road number."
+ },
+ {
+  "id": "G-09.1",
+  "name": "PLACE IDENTIFICATION",
+  "desc": "G-09.1 identifies a place, other than a built-up area, by its name. This sign may additionally bear a symbol for the place. It shall indicate on-site point without the need to specify its end."
+ },
+ {
+  "id": "G-10.1",
+  "name": "PLACE CONFIRMATION",
+  "desc": "G-10.1 confirms the directions and distances to places. This sign is an example that displays the names of places and distances."
+ },
+ {
+  "id": "G-10.2",
+  "name": "PLACE CONFIRMATION",
+  "desc": "G-10.2 confirms the directions and distances to places. This sign is an example that displays the names of places and distances."
+ },
+ {
+  "id": "G-11.1",
+  "name": "DIRECTION OF LANES",
+  "desc": "G-11.1 notifies drivers about the number and direction of lanes. This sign is an example of a sign indicating the direction of lanes and showing an incoming lane."
+ },
+ {
+  "id": "G-11.2",
+  "name": "DIRECTION OF LANES",
+  "desc": "G-11.2 notifies drivers about the number and direction of lanes. This sign is an example of a sign indicating the direction of lanes and showing a lane which continues on the left side of an island or road divider."
+ },
+ {
+  "id": "G-12.1",
+  "name": "END OR CLOSURE OF A LANE",
+  "desc": "G-12.1 notifies drivers about the end or the closure of a lane. Road markings may be included. This sign is an example of a sign which indicates the end or closure of a lane by showing the end or closure with a curved arrow."
+ },
+ {
+  "id": "G-12.2",
+  "name": "END OR CLOSURE OF A LANE",
+  "desc": "G-12.2 notifies drivers about the end or closure of a lane. This sign is an example of a sign which indicates the end or closure of a lane by showing the end or closure with a curved line."
+ },
+ {
+  "id": "G-12.3",
+  "name": "END OR CLOSURE OF A LANE",
+  "desc": "G-12.3 notifies drivers about the end or closure of a lane. Road markings may be included. This sign is an example of a sign which indicates the end or closure of a lane by showing the end or closure with a bar instead of an arrowhead."
+ },
+ {
+  "id": "G-13.1",
+  "name": "NO THROUGH ROAD",
+  "desc": "G-13.1 indicates a \u201cno through road\u201d. It shall be placed at the entry to that road. The symbol shall be white and red, exceptionally the symbols of road users may be used on the sign to indicate a \u201cthrough road\u201d for them."
+ },
+ {
+  "id": "G-14.1",
+  "name": "GENERAL SPEED LIMITS",
+  "desc": "G-14.1 notifies road users about the general speed limits in force in a country or in a subdivision of that country. It shall be used, in particular at national borders. The name or distinguishing sign of the country, possibly accompanied by the national emblem, shall be placed at the top of the sign. On the sign, the general speed limits in force in a country will be displayed in the following order: (1) in built-up areas; (2) outside built-up areas; (3) on motorways. If appropriate, the symbol of sign E-06.1, \u201cRoad for motor vehicles\u201d, may be used to indicate the general speed limit on roads for motor vehicles. The ground of the sign shall be blue; the country name and the ground of the rectangles within the sign, preferably not more than four, shall be in white. The symbols used in the upper and central rectangles shall display the sign E-07.3 or its symbol, and the sign E-07.4, or its symbol, respectively."
+ },
+ {
+  "id": "G-15.1",
+  "name": "ROAD OPEN OR CLOSED",
+  "desc": "G-15.1 notifies drivers whether a mountain road, particularly a section leading over a pass, is open or closed; the sign shall be placed at the entry to the road or roads leading to the section in question. The name of the section of road (or pass) shall be inscribed in white, for example \u201cFurka\u201d. Rectangles 1, 2 and 3 shall be removable. If the section of the road is closed, rectangle 1 shall be red and shall bear the inscription \u201cCLOSED\u201d; if the section is open, rectangle 1 shall be green and shall bear the inscription \u201cOPEN\u201d. The inscriptions shall be in white. Rectangles 2 and 3 shall have a white ground with black inscriptions and symbols. If the section of road is open, rectangle 3 shall remain blank and rectangle 2, according to the condition of the road, shall either be blank, or display sign D-07.1, and/or display sign G- 16.1. If the section of road is closed, rectangle 3 shall show the name of the place up to which the road is open and rectangle 2 shall display, according to the condition of the road, either the inscription \u201cOPEN AS FAR AS\u201d, or signs D-07.1 and/or G-16.1. Rectangle 3 may also display other danger warning signs."
+ },
+ {
+  "id": "G-16.1",
+  "name": "ADVISORY SNOW TYRES OR SNOW CHAINS",
+  "desc": "G-16.1 notifies drivers that their vehicles should have snow tyres fitted to all wheels or to have snow chains fitted to at least two of their driving wheels. The snow tyres are recommended to be used in snow conditions."
+ },
+ {
+  "id": "G-17.1",
+  "name": "ADVISORY SPEED",
+  "desc": "G-17.1 notifies drivers of the speed at which it is advisable to drive if circumstances permit and if the driver is not required to comply with a lower limit specific to his category of vehicle. The figure or range of figures appearing on the sign shall indicate the speed in the unit of measurement most commonly used to express the speed of vehicles in the country concerned. That unit of measurement may be shown on the sign after or below the digit."
+ },
+ {
+  "id": "G-18.1",
+  "name": "ADVISED ITINERARY",
+  "desc": "G-18.1 notifies of an advised itinerary for the type of road user indicated by the symbol displayed on the sign."
+ },
+ {
+  "id": "G-19.1",
+  "name": "ESCAPE LANE",
+  "desc": "G-19.1 notifies drivers of an escape lane on a steep descent. This sign, with an additional panel displaying distance to the escape lane, should be placed in conjunction with sign A- 02.1 or A-02.2 at the top of the descent and at the entry to the escape lane. Depending on the length of the descent the sign should be repeated as necessary, again with an additional panel displaying the distance to the escape lane. The symbol shall be white and red. It may be varied depending on the location of the escape lane in relation to the road concerned. It shall be reversed for traffic keeping to the left."
+ },
+ {
+  "id": "G-20.1",
+  "name": "OVERPASS",
+  "desc": "G-20.1 notifies of a location of a pedestrian overpass."
+ },
+ {
+  "id": "G-20.2",
+  "name": "UNDERPASS",
+  "desc": "G-20.2 notifies of a location of a pedestrian underpass."
+ },
+ {
+  "id": "G-21.1",
+  "name": "OVERPASS WITHOUT STEPS",
+  "desc": "G-21.1 notifies of a location of a pedestrian overpass without steps. The symbol of a person displayed on the additional panel H-07.1 may also be used on this sign."
+ },
+ {
+  "id": "G-21.2",
+  "name": "OVERPASS WITHOUT STEPS",
+  "desc": "G-21.2 notifies of a location of a pedestrian underpass without steps. The symbol of a person displayed on the additional panel H-07.1 may also be used on this sign."
+ },
+ {
+  "id": "G-22.1",
+  "name": "EXIT FROM A MOTORWAY",
+  "desc": "G-22.1 notifies drivers of a distance to an exit from a motorway. It shall bear three oblique stripes sloping downwards towards the carriageway and it may bear a distance inscription. It shall be set up provided that signs bearing respectively one and two oblique stripes are set up at one-third and two-thirds of the distance between this sign and the exit from a motorway. It shall have a blue or green ground; the oblique stripes and inscriptions shall be white."
+ },
+ {
+  "id": "G-22.2",
+  "name": "EXIT FROM A MOTORWAY",
+  "desc": "G-22.2 notifies drivers of the distance to an exit from a motorway. It shall bear two oblique stripes sloping downwards towards the carriageway and it may bear a distance inscription. It shall be set up at two-thirds of a given distance, provided that signs bearing respectively one and three oblique stripes are also set up. It shall have a blue or green ground; the oblique stripes and inscriptions shall be white."
+ },
+ {
+  "id": "G-22.3",
+  "name": "EXIT FROM A MOTORWAY",
+  "desc": "G-22.3 notifies drivers of a distance to an exit from a motorway. It shall bear one oblique stripe sloping downwards towards the carriageway and it may bear a distance inscription. It shall be set up at one-third of a given distance, provided that signs bearing respectively two and three oblique stripes are also set up. It shall have a blue or green ground; the oblique stripe and inscriptions shall be white."
+ },
+ {
+  "id": "G-23.1",
+  "name": "EMERGENCY EXIT",
+  "desc": "G-23.1 notifies of the location of emergency exit. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "G-24.1",
+  "name": "DIRECTION TO THE NEAREST EMERGENCY EXIT (LEFT)",
+  "desc": "G-24.1 notifies of the direction and distance to the nearest emergency exits. to the left. In tunnels, they shall be placed at a maximum distance of 50 m apart and at a height of 1 to 1.5 m on the sidewalls."
+ },
+ {
+  "id": "G-24.2",
+  "name": "DIRECTION TO THE NEAREST EMERGENCY EXIT (RIGHT)",
+  "desc": "G-24.2 notifies of the direction and distance to the nearest emergency exit to the right. In tunnels, they shall be placed at a maximum distance of 50 apart and at a height of 1 to 1.5 m on the sidewalls."
+ },
+ {
+  "id": "G-24.3",
+  "name": "DIRECTIONS TO THE NEAREST EMERGENCY EXIT",
+  "desc": "G-24.3 notifies of the direction and distance to the nearest emergency exits to both the left and right. In tunnels, they shall be placed at a maximum distance of 50 m apart and at a height of 1 to 1.5 m on the sidewalls."
+ },
+ {
+  "id": "G-25.1",
+  "name": "CRASH THROUGH GATES",
+  "desc": "G-25.1 notifies drivers to crash through the level crossing gate when trapped between closed gates. This sign shall be placed on the inside of the second gate in the direction of traffic."
+ },
+ {
+  "id": "G-26.1",
+  "name": "SCHEME OF DIVERSION",
+  "desc": "G-26.1 displays a diagram for a diversion. It may bear the name of a place to which the diversion applies or the inscription \u201cDiversion\u201d in the national language. The symbol on this sign may be reversed."
+ },
+ {
+  "id": "G-26.2",
+  "name": "DIVERSION DIRECTION (RIGHT)",
+  "desc": "G-26.2 notifies of the direction of a diversion to the right. The sign shall differ conspicuously from the direction sign G-05.2. It may bear the name of a place to which the diversion applies or the inscription \u201cDiversion\u201d in the national language."
+ },
+ {
+  "id": "G-26.3",
+  "name": "DIRECTION OF DIVERSION",
+  "desc": "G-26.3 notifies of the direction of a diversion. This sign is an example of a diversion direction sign showing the direction of the diversion with an arrow. The sign shall differ conspicuously from the direction sign G-05.3. It may bear the name of a place to which the diversion applies or the inscription \u201cDiversion\u201d in the national language."
+ },
+ {
+  "id": "G-27.1",
+  "name": "DIRECTION OF LANES DURING ROAD WORKS",
+  "desc": "G-27.1 notifies of the direction of lanes during road works. The sign shall display the same number of arrows as the number of lanes allocated to traffic in the same direction."
+ },
+ {
+  "id": "G-28.1",
+  "name": "TEMPORARY LANE CLOSURE",
+  "desc": "G-28.1 notifies of a temporary closure of a lane. The sign shall display the same number of arrows as the number of lanes allocated to traffic in the same direction. Road markings may be included."
+ },
+ {
+  "id": "H-01.1",
+  "name": "DISTANCE PANEL",
+  "desc": "H-01.1 notifies of the distance from the sign to the beginning of the dangerous section of road or of the zone to which the regulation or information applies."
+ },
+ {
+  "id": "H-02.1",
+  "name": "LENGTH INDICATION PANEL",
+  "desc": "H-02.1 notifies of the length of the dangerous section of road or of the zone to which the regulation applies."
+ },
+ {
+  "id": "H-03.1",
+  "name": "PANEL INDICATING THE BEGINNING OF PARKING, PARKING PROHIBITION OR RESTRICTION OR THE DIRECTION TO PARKING PLACES",
+  "desc": "H-03.1 notifies of the point from which the parking prohibition or restriction begins when used in conjunction with signs notifying parking prohibition or restriction. It notifies of parking places to the left from E-12.1 sign. This panel shall be placed parallel to the axis of the road."
+ },
+ {
+  "id": "H-03.2",
+  "name": "PANEL INDICATING THE REPETITION OF PARKING PROHIBITION OR RESTRICTION OR THE DIRECTION TO PARKING PLACES",
+  "desc": "H-03.2 notifies that the parking prohibition or restriction continues when used in conjunction with signs notifying parking prohibition or restriction. It notifies of parking places to the left and right from E-12.1 sign. This panel shall be placed parallel to the axis of the road."
+ },
+ {
+  "id": "H-03.3",
+  "name": "PANEL INDICATING THE END OF PARKING PROHIBITION OR RESTRICTION OR THE DIRECTION TO PARKING PLACES",
+  "desc": "H-03.3 notifies of the point at which the parking prohibition or restriction ends when used in conjunction with signs notifying parking prohibition or restriction. It notifies of parking places to the right from E-12.1 sign. This panel shall be placed parallel to the axis of the road."
+ },
+ {
+  "id": "H-04.1",
+  "name": "PANEL INDICATING THE BEGINNING OF PARKING PROHIBITION OR RESTRICTION OR THE DIRECTION TO PARKING PLACES",
+  "desc": "H-04.1 notifies of the point from which the parking prohibition or restriction begins when used in conjunction with signs notifying parking prohibition or restriction. It notifies of parking places onward from the E-12.1 sign. This panel shall be placed perpendicular to the axis of the road."
+ },
+ {
+  "id": "H-04.2",
+  "name": "PANEL INDICATING THE REPETITION OF PARKING PROHIBITION OR RESTRICTION OR THE DIRECTION TO PARKING PLACES",
+  "desc": "H-04.2 notifies that the parking prohibition or restriction continues when used in conjunction with signs notifying parking prohibition or restriction. It notifies of parking places onward and backward from the E-12.1 sign. This panel shall be placed perpendicular to the axis of the road."
+ },
+ {
+  "id": "H-04.3",
+  "name": "PANEL INDICATING THE END OF PARKING PROHIBITION OR RESTRICTION OR THE DIRECTION TO PARKING PLACES",
+  "desc": "H-04.3 notifies of the point at which the parking prohibition or restriction ends when used in conjunction with signs notifying parking prohibition or restriction. It notifies of parking places backward from the E-12.1 sign. This panel shall be placed perpendicular to the axis of the road."
+ },
+ {
+  "id": "H-05.1",
+  "name": "ROAD USER PANEL",
+  "desc": "H-05.1 displays the symbol of a particular road user category to whom the regulatory sign applies. All symbols from signs C-03.1 to C-03.14, and E-13.1, E-13.2, and F-07.3 may be used on additional panel H-05.1. If necessary, the symbol may be replaced by an inscription in the national language of the State concerned."
+ },
+ {
+  "id": "H-06.1",
+  "name": "ROAD USER PANEL",
+  "desc": "H-06.1 displays the symbol of a particular road user category to whom the regulatory sign does not apply. This additional panel shall be identical to additional panel H-05.1 except that it shall display, in addition, the inscription \u201cexcept\u201d in the national language of the State concerned. If necessary, the symbol may be replaced by an inscription in the national language of the State concerned."
+ },
+ {
+  "id": "H-07.1",
+  "name": "PERSON WITH DISABILITIES PANEL",
+  "desc": "H-07.1 indicates, when used in conjunction with E-12.1, that parking space is reserved for persons with disabilities."
+ },
+ {
+  "id": "H-07.2",
+  "name": "PERSON WITH DISABILITIES PANEL",
+  "desc": "H-07.2 indicates, when used in conjunction with C-18.1, that parking is not prohibited for persons with disabilities. This additional panel shall be identical to additional panel H-07.1 except that it shall display, in addition, the inscription \u201cexcept\u201d in the national language of the State concerned."
+ },
+ {
+  "id": "H-08.1",
+  "name": "INTERSECTION PANEL",
+  "desc": "H-08.1 displays a diagram of the intersection in which broad strokes indicate priority roads and thin strokes indicate the roads on which signs B-01.1 or B-02.1 are set up."
+ },
+ {
+  "id": "H-09.1",
+  "name": "ICE OR SNOW PANEL",
+  "desc": "H-09.1 indicates that the section of road ahead is slippery because of ice or snow. This panel may only be used with A-09.1 or A-29.1 signs."
+ },
+ {
+  "id": "H-10.1",
+  "name": "DISTANCE TO A STOP SIGN",
+  "desc": "H-10.1 indicates the distance to a STOP sign. It shall be used in accordance with section B, paragraph 2 of this Annex."
+ }
+]

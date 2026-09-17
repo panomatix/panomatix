@@ -1,0 +1,3995 @@
+{
+  "title": "Comparison of the road signs of the Vienna Convention on Road Signs and Signals between the 2006 consolidated version and the 2023 revision",
+  "sources": {
+    "2006": {
+      "document": "Convention on Road Signs and Signals, consolidated version 2006 (Conv_road_signs_2006v_EN.pdf)",
+      "numbering": "Section letter + symbol number, e.g. \"A, 1a\", \"C, 3a\". For danger warning signs the model is prefixed: \"Aa\" (triangle) or \"Ab\" (square set on a diagonal)."
+    },
+    "2023": {
+      "document": "ECE/TRANS/WP.1/2023/2/Rev.2 (ECE-TRANS-WP1-2023-2-Rev2e.pdf)",
+      "numbering": "Section letter + two-digit paragraph + variant, e.g. \"A-01.1\", \"C-03.14\"."
+    }
+  },
+  "legend": {
+    "id": "Sign number in the 2023 revision.",
+    "legacy_id": "Corresponding sign or symbol number in the 2006 consolidated version; null when the sign has no 2006 equivalent.",
+    "name": "Sign name as given in the 2023 revision.",
+    "note": "Differences of numbering, naming, models or colour between the two versions.",
+    "removed": "2006 signs that have no counterpart in the 2023 revision.",
+    "cancellation_band": "For signs that cancel a prohibition, a restriction or an obligation: the oblique band may be drawn either as one single band (\"single_band\", the variant used e.g. in France) or as several parallel lines forming such a band (\"parallel_lines\", the variant used e.g. in Germany). \"preferred\" records which of the two each version of the Convention puts forward; null means the text placed them on an equal footing. The national examples are illustrative and are not part of the Convention text.",
+    "prohibition_bar": "For prohibitory signs: the red oblique bar that marks the prohibition itself. It slopes downwards from left to right, the opposite way to a cancellation band, and both versions of the Convention let Contracting Parties omit it on the \"no entry for...\" signs.",
+    "band_style": "On a shape entry: which of the two band variants that entry describes."
+  },
+  "categories": [
+    {
+      "category": "A",
+      "categoryName": "Danger warning signs",
+      "models": {
+        "2006": "Model Aa (triangle) or model Ab (square set on a diagonal)",
+        "2023": "Model one (triangle) or model two (square set on a diagonal)"
+      },
+      "shapes": [
+        {
+          "shape": "triangle",
+          "background_color": "white",
+          "border_color": "red",
+          "symbol_color": "black",
+          "legacy_model": "Aa",
+          "note": "Model one / model Aa. Symbols may also be dark blue.",
+          "reference": [
+            {
+              "id": "A-01.1",
+              "legacy_id": "Aa,1a",
+              "name": "Left bend"
+            },
+            {
+              "id": "A-01.2",
+              "legacy_id": "Aa,1b",
+              "name": "Right bend"
+            },
+            {
+              "id": "A-01.3",
+              "legacy_id": "Aa,1c",
+              "name": "Double bend or succession of more than two bends, the first to the left"
+            },
+            {
+              "id": "A-01.4",
+              "legacy_id": "Aa,1d",
+              "name": "Double bend or succession of more than two bends, the first to the right"
+            },
+            {
+              "id": "A-02.1",
+              "legacy_id": "Aa,2a",
+              "name": "Dangerous descent",
+              "note": "2006 offered A, 2c (model Aa) and A, 2d (model Ab) as alternatives."
+            },
+            {
+              "id": "A-02.2",
+              "legacy_id": "Aa,2c",
+              "name": "Dangerous descent",
+              "note": "Referenced but not separately defined in the 2023 text."
+            },
+            {
+              "id": "A-03.1",
+              "legacy_id": "Aa,3a",
+              "name": "Steep ascent",
+              "note": "2006 offered A, 3c (model Aa) and A, 3d (model Ab) as alternatives."
+            },
+            {
+              "id": "A-04.1",
+              "legacy_id": "Aa,4a",
+              "name": "Carriageway narrows"
+            },
+            {
+              "id": "A-04.2",
+              "legacy_id": "Aa,4b",
+              "name": "Carriageway narrows left",
+              "note": "2006 had a single symbol A, 4b for a one-sided narrowing; 2023 splits it into A-04.2 (left) and A-04.3 (right)."
+            },
+            {
+              "id": "A-04.3",
+              "legacy_id": "Aa,4b",
+              "name": "Carriageway narrows right",
+              "note": "2006 had a single symbol A, 4b for a one-sided narrowing; 2023 splits it into A-04.2 (left) and A-04.3 (right)."
+            },
+            {
+              "id": "A-05.1",
+              "legacy_id": "Aa,5",
+              "name": "Opening bridge",
+              "note": "Renamed: 2006 \"Swing bridge\" -> 2023 \"Opening bridge\"."
+            },
+            {
+              "id": "A-06.1",
+              "legacy_id": "Aa,6",
+              "name": "Quay or riverbank"
+            },
+            {
+              "id": "A-07.1",
+              "legacy_id": "Aa,7a",
+              "name": "Uneven road"
+            },
+            {
+              "id": "A-07.2",
+              "legacy_id": "Aa,7b",
+              "name": "Speed hump",
+              "note": "Renamed: 2006 \"Hump bridge or ridge\" -> 2023 \"Speed hump\"."
+            },
+            {
+              "id": "A-07.3",
+              "legacy_id": "Aa,7c",
+              "name": "Dip"
+            },
+            {
+              "id": "A-08.1",
+              "legacy_id": "Aa,8",
+              "name": "Dangerous shoulders"
+            },
+            {
+              "id": "A-09.1",
+              "legacy_id": "Aa,9",
+              "name": "Slippery road"
+            },
+            {
+              "id": "A-10.1",
+              "legacy_id": "Aa,10a",
+              "name": "Loose gravel"
+            },
+            {
+              "id": "A-11.1",
+              "legacy_id": "Aa,11a",
+              "name": "Falling rocks"
+            },
+            {
+              "id": "A-12.1",
+              "legacy_id": "Aa,12a",
+              "name": "Pedestrian crossing"
+            },
+            {
+              "id": "A-12.2",
+              "legacy_id": null,
+              "name": "Pedestrians",
+              "note": "New in 2023: no equivalent in the 2006 text."
+            },
+            {
+              "id": "A-13.1",
+              "legacy_id": "Aa,13",
+              "name": "Children"
+            },
+            {
+              "id": "A-14.1",
+              "legacy_id": "Aa,14",
+              "name": "Cyclists entering or crossing"
+            },
+            {
+              "id": "A-15.1",
+              "legacy_id": "Aa,15a",
+              "name": "Domestic animals crossing",
+              "note": "2006 covered both cases under one paragraph (\"Cattle or other animals crossing\"); 2023 separates domestic (A-15.1) and wild (A-15.2) animals."
+            },
+            {
+              "id": "A-15.2",
+              "legacy_id": "Aa,15b",
+              "name": "Wild animals crossing"
+            },
+            {
+              "id": "A-16.1",
+              "legacy_id": "Aa,16",
+              "name": "Road works"
+            },
+            {
+              "id": "A-17.1",
+              "legacy_id": "Aa,17",
+              "name": "Traffic light signals",
+              "note": "2006 symbol A, 17 had three models A, 17a / A, 17b / A, 17c matching the three-colour light arrangement."
+            },
+            {
+              "id": "A-18.1",
+              "legacy_id": "Aa,18a",
+              "name": "Intersection with general priority rule"
+            },
+            {
+              "id": "A-18.2",
+              "legacy_id": "Aa,18c",
+              "name": "Intersection with general priority rule",
+              "note": "2006 allowed A, 18c to A, 18g as clearer depictions of the intersection."
+            },
+            {
+              "id": "A-19.1",
+              "legacy_id": "Aa,19a",
+              "name": "Intersection with a give way road"
+            },
+            {
+              "id": "A-19.2",
+              "legacy_id": "Aa,19b",
+              "name": "Intersection with a give way road",
+              "note": "2006 allowed A, 19b and A, 19c as clearer depictions of the intersection."
+            },
+            {
+              "id": "A-20.1",
+              "legacy_id": "Aa,22",
+              "name": "Roundabout"
+            },
+            {
+              "id": "A-21.1",
+              "legacy_id": "Aa,23",
+              "name": "Two-way traffic"
+            },
+            {
+              "id": "A-22.1",
+              "legacy_id": "Aa,24",
+              "name": "Traffic congestion"
+            },
+            {
+              "id": "A-23.1",
+              "legacy_id": "Aa,25",
+              "name": "Level crossings with gates"
+            },
+            {
+              "id": "A-23.2",
+              "legacy_id": "Aa,26a",
+              "name": "Other level crossings"
+            },
+            {
+              "id": "A-23.3",
+              "legacy_id": "Aa,26b",
+              "name": "Other level crossings"
+            },
+            {
+              "id": "A-24.1",
+              "legacy_id": "Aa,27",
+              "name": "Intersection with a tramway"
+            },
+            {
+              "id": "A-27.1",
+              "legacy_id": "Aa,30",
+              "name": "Airfield"
+            },
+            {
+              "id": "A-28.1",
+              "legacy_id": "Aa,31",
+              "name": "Cross-wind"
+            },
+            {
+              "id": "A-29.1",
+              "legacy_id": "Aa,32",
+              "name": "Other dangers"
+            }
+          ]
+        },
+        {
+          "shape": "triangle",
+          "background_color": "yellow",
+          "border_color": "red",
+          "symbol_color": "black",
+          "legacy_model": "Aa",
+          "note": "Model one / model Aa with the yellow ground option.",
+          "reference": [
+            {
+              "id": "A-01.1",
+              "legacy_id": "Aa,1a",
+              "name": "Left bend"
+            },
+            {
+              "id": "A-01.2",
+              "legacy_id": "Aa,1b",
+              "name": "Right bend"
+            },
+            {
+              "id": "A-01.3",
+              "legacy_id": "Aa,1c",
+              "name": "Double bend or succession of more than two bends, the first to the left"
+            },
+            {
+              "id": "A-01.4",
+              "legacy_id": "Aa,1d",
+              "name": "Double bend or succession of more than two bends, the first to the right"
+            },
+            {
+              "id": "A-02.1",
+              "legacy_id": "Aa,2a",
+              "name": "Dangerous descent",
+              "note": "2006 offered A, 2c (model Aa) and A, 2d (model Ab) as alternatives."
+            },
+            {
+              "id": "A-02.2",
+              "legacy_id": "Aa,2c",
+              "name": "Dangerous descent",
+              "note": "Referenced but not separately defined in the 2023 text."
+            },
+            {
+              "id": "A-03.1",
+              "legacy_id": "Aa,3a",
+              "name": "Steep ascent",
+              "note": "2006 offered A, 3c (model Aa) and A, 3d (model Ab) as alternatives."
+            },
+            {
+              "id": "A-04.1",
+              "legacy_id": "Aa,4a",
+              "name": "Carriageway narrows"
+            },
+            {
+              "id": "A-04.2",
+              "legacy_id": "Aa,4b",
+              "name": "Carriageway narrows left",
+              "note": "2006 had a single symbol A, 4b for a one-sided narrowing; 2023 splits it into A-04.2 (left) and A-04.3 (right)."
+            },
+            {
+              "id": "A-04.3",
+              "legacy_id": "Aa,4b",
+              "name": "Carriageway narrows right",
+              "note": "2006 had a single symbol A, 4b for a one-sided narrowing; 2023 splits it into A-04.2 (left) and A-04.3 (right)."
+            },
+            {
+              "id": "A-05.1",
+              "legacy_id": "Aa,5",
+              "name": "Opening bridge",
+              "note": "Renamed: 2006 \"Swing bridge\" -> 2023 \"Opening bridge\"."
+            },
+            {
+              "id": "A-06.1",
+              "legacy_id": "Aa,6",
+              "name": "Quay or riverbank"
+            },
+            {
+              "id": "A-07.1",
+              "legacy_id": "Aa,7a",
+              "name": "Uneven road"
+            },
+            {
+              "id": "A-07.2",
+              "legacy_id": "Aa,7b",
+              "name": "Speed hump",
+              "note": "Renamed: 2006 \"Hump bridge or ridge\" -> 2023 \"Speed hump\"."
+            },
+            {
+              "id": "A-07.3",
+              "legacy_id": "Aa,7c",
+              "name": "Dip"
+            },
+            {
+              "id": "A-08.1",
+              "legacy_id": "Aa,8",
+              "name": "Dangerous shoulders"
+            },
+            {
+              "id": "A-09.1",
+              "legacy_id": "Aa,9",
+              "name": "Slippery road"
+            },
+            {
+              "id": "A-10.1",
+              "legacy_id": "Aa,10a",
+              "name": "Loose gravel"
+            },
+            {
+              "id": "A-11.1",
+              "legacy_id": "Aa,11a",
+              "name": "Falling rocks"
+            },
+            {
+              "id": "A-12.1",
+              "legacy_id": "Aa,12a",
+              "name": "Pedestrian crossing"
+            },
+            {
+              "id": "A-12.2",
+              "legacy_id": null,
+              "name": "Pedestrians",
+              "note": "New in 2023: no equivalent in the 2006 text."
+            },
+            {
+              "id": "A-13.1",
+              "legacy_id": "Aa,13",
+              "name": "Children"
+            },
+            {
+              "id": "A-14.1",
+              "legacy_id": "Aa,14",
+              "name": "Cyclists entering or crossing"
+            },
+            {
+              "id": "A-15.1",
+              "legacy_id": "Aa,15a",
+              "name": "Domestic animals crossing",
+              "note": "2006 covered both cases under one paragraph (\"Cattle or other animals crossing\"); 2023 separates domestic (A-15.1) and wild (A-15.2) animals."
+            },
+            {
+              "id": "A-15.2",
+              "legacy_id": "Aa,15b",
+              "name": "Wild animals crossing"
+            },
+            {
+              "id": "A-16.1",
+              "legacy_id": "Aa,16",
+              "name": "Road works"
+            },
+            {
+              "id": "A-17.1",
+              "legacy_id": "Aa,17",
+              "name": "Traffic light signals",
+              "note": "2006 symbol A, 17 had three models A, 17a / A, 17b / A, 17c matching the three-colour light arrangement."
+            },
+            {
+              "id": "A-18.1",
+              "legacy_id": "Aa,18a",
+              "name": "Intersection with general priority rule"
+            },
+            {
+              "id": "A-18.2",
+              "legacy_id": "Aa,18c",
+              "name": "Intersection with general priority rule",
+              "note": "2006 allowed A, 18c to A, 18g as clearer depictions of the intersection."
+            },
+            {
+              "id": "A-19.1",
+              "legacy_id": "Aa,19a",
+              "name": "Intersection with a give way road"
+            },
+            {
+              "id": "A-19.2",
+              "legacy_id": "Aa,19b",
+              "name": "Intersection with a give way road",
+              "note": "2006 allowed A, 19b and A, 19c as clearer depictions of the intersection."
+            },
+            {
+              "id": "A-20.1",
+              "legacy_id": "Aa,22",
+              "name": "Roundabout"
+            },
+            {
+              "id": "A-21.1",
+              "legacy_id": "Aa,23",
+              "name": "Two-way traffic"
+            },
+            {
+              "id": "A-22.1",
+              "legacy_id": "Aa,24",
+              "name": "Traffic congestion"
+            },
+            {
+              "id": "A-23.1",
+              "legacy_id": "Aa,25",
+              "name": "Level crossings with gates"
+            },
+            {
+              "id": "A-23.2",
+              "legacy_id": "Aa,26a",
+              "name": "Other level crossings"
+            },
+            {
+              "id": "A-23.3",
+              "legacy_id": "Aa,26b",
+              "name": "Other level crossings"
+            },
+            {
+              "id": "A-24.1",
+              "legacy_id": "Aa,27",
+              "name": "Intersection with a tramway"
+            },
+            {
+              "id": "A-27.1",
+              "legacy_id": "Aa,30",
+              "name": "Airfield"
+            },
+            {
+              "id": "A-28.1",
+              "legacy_id": "Aa,31",
+              "name": "Cross-wind"
+            },
+            {
+              "id": "A-29.1",
+              "legacy_id": "Aa,32",
+              "name": "Other dangers"
+            }
+          ]
+        },
+        {
+          "shape": "diamond",
+          "background_color": "yellow",
+          "border_color": "black",
+          "symbol_color": "black",
+          "legacy_model": "Ab",
+          "note": "Model two / model Ab. The rim may also be dark blue in the 2023 text (2006 allowed black only).",
+          "reference": [
+            {
+              "id": "A-01.1",
+              "legacy_id": "Ab,1a",
+              "name": "Left bend"
+            },
+            {
+              "id": "A-01.2",
+              "legacy_id": "Ab,1b",
+              "name": "Right bend"
+            },
+            {
+              "id": "A-01.3",
+              "legacy_id": "Ab,1c",
+              "name": "Double bend or succession of more than two bends, the first to the left"
+            },
+            {
+              "id": "A-01.4",
+              "legacy_id": "Ab,1d",
+              "name": "Double bend or succession of more than two bends, the first to the right"
+            },
+            {
+              "id": "A-02.1",
+              "legacy_id": "Ab,2b",
+              "name": "Dangerous descent",
+              "note": "2006 offered A, 2c (model Aa) and A, 2d (model Ab) as alternatives."
+            },
+            {
+              "id": "A-02.2",
+              "legacy_id": "Ab,2d",
+              "name": "Dangerous descent",
+              "note": "Referenced but not separately defined in the 2023 text."
+            },
+            {
+              "id": "A-03.1",
+              "legacy_id": "Ab,3b",
+              "name": "Steep ascent",
+              "note": "2006 offered A, 3c (model Aa) and A, 3d (model Ab) as alternatives."
+            },
+            {
+              "id": "A-04.1",
+              "legacy_id": "Ab,4a",
+              "name": "Carriageway narrows"
+            },
+            {
+              "id": "A-04.2",
+              "legacy_id": "Ab,4b",
+              "name": "Carriageway narrows left",
+              "note": "2006 had a single symbol A, 4b for a one-sided narrowing; 2023 splits it into A-04.2 (left) and A-04.3 (right)."
+            },
+            {
+              "id": "A-04.3",
+              "legacy_id": "Ab,4b",
+              "name": "Carriageway narrows right",
+              "note": "2006 had a single symbol A, 4b for a one-sided narrowing; 2023 splits it into A-04.2 (left) and A-04.3 (right)."
+            },
+            {
+              "id": "A-05.1",
+              "legacy_id": "Ab,5",
+              "name": "Opening bridge",
+              "note": "Renamed: 2006 \"Swing bridge\" -> 2023 \"Opening bridge\"."
+            },
+            {
+              "id": "A-06.1",
+              "legacy_id": "Ab,6",
+              "name": "Quay or riverbank"
+            },
+            {
+              "id": "A-07.1",
+              "legacy_id": "Ab,7a",
+              "name": "Uneven road"
+            },
+            {
+              "id": "A-07.2",
+              "legacy_id": "Ab,7b",
+              "name": "Speed hump",
+              "note": "Renamed: 2006 \"Hump bridge or ridge\" -> 2023 \"Speed hump\"."
+            },
+            {
+              "id": "A-07.3",
+              "legacy_id": "Ab,7c",
+              "name": "Dip"
+            },
+            {
+              "id": "A-08.1",
+              "legacy_id": "Ab,8",
+              "name": "Dangerous shoulders"
+            },
+            {
+              "id": "A-09.1",
+              "legacy_id": "Ab,9",
+              "name": "Slippery road"
+            },
+            {
+              "id": "A-10.1",
+              "legacy_id": "Ab,10b",
+              "name": "Loose gravel"
+            },
+            {
+              "id": "A-11.1",
+              "legacy_id": "Ab,11b",
+              "name": "Falling rocks"
+            },
+            {
+              "id": "A-12.1",
+              "legacy_id": "Ab,12b",
+              "name": "Pedestrian crossing"
+            },
+            {
+              "id": "A-12.2",
+              "legacy_id": null,
+              "name": "Pedestrians",
+              "note": "New in 2023: no equivalent in the 2006 text."
+            },
+            {
+              "id": "A-13.1",
+              "legacy_id": "Ab,13",
+              "name": "Children"
+            },
+            {
+              "id": "A-14.1",
+              "legacy_id": "Ab,14",
+              "name": "Cyclists entering or crossing"
+            },
+            {
+              "id": "A-15.1",
+              "legacy_id": "Ab,15a",
+              "name": "Domestic animals crossing",
+              "note": "2006 covered both cases under one paragraph (\"Cattle or other animals crossing\"); 2023 separates domestic (A-15.1) and wild (A-15.2) animals."
+            },
+            {
+              "id": "A-15.2",
+              "legacy_id": "Ab,15b",
+              "name": "Wild animals crossing"
+            },
+            {
+              "id": "A-16.1",
+              "legacy_id": "Ab,16",
+              "name": "Road works"
+            },
+            {
+              "id": "A-17.1",
+              "legacy_id": "Ab,17",
+              "name": "Traffic light signals",
+              "note": "2006 symbol A, 17 had three models A, 17a / A, 17b / A, 17c matching the three-colour light arrangement."
+            },
+            {
+              "id": "A-18.1",
+              "legacy_id": "Ab,18b",
+              "name": "Intersection with general priority rule"
+            },
+            {
+              "id": "A-18.2",
+              "legacy_id": "Ab,18c",
+              "name": "Intersection with general priority rule",
+              "note": "2006 allowed A, 18c to A, 18g as clearer depictions of the intersection."
+            },
+            {
+              "id": "A-19.1",
+              "legacy_id": "Ab,19a",
+              "name": "Intersection with a give way road"
+            },
+            {
+              "id": "A-19.2",
+              "legacy_id": "Ab,19b",
+              "name": "Intersection with a give way road",
+              "note": "2006 allowed A, 19b and A, 19c as clearer depictions of the intersection."
+            },
+            {
+              "id": "A-20.1",
+              "legacy_id": "Ab,22",
+              "name": "Roundabout"
+            },
+            {
+              "id": "A-21.1",
+              "legacy_id": "Ab,23",
+              "name": "Two-way traffic"
+            },
+            {
+              "id": "A-22.1",
+              "legacy_id": "Ab,24",
+              "name": "Traffic congestion"
+            },
+            {
+              "id": "A-23.1",
+              "legacy_id": "Ab,25",
+              "name": "Level crossings with gates"
+            },
+            {
+              "id": "A-23.2",
+              "legacy_id": "Ab,26a",
+              "name": "Other level crossings"
+            },
+            {
+              "id": "A-23.3",
+              "legacy_id": "Ab,26b",
+              "name": "Other level crossings"
+            },
+            {
+              "id": "A-24.1",
+              "legacy_id": "Ab,27",
+              "name": "Intersection with a tramway"
+            },
+            {
+              "id": "A-27.1",
+              "legacy_id": "Ab,30",
+              "name": "Airfield"
+            },
+            {
+              "id": "A-28.1",
+              "legacy_id": "Ab,31",
+              "name": "Cross-wind"
+            },
+            {
+              "id": "A-29.1",
+              "legacy_id": "Ab,32",
+              "name": "Other dangers"
+            }
+          ]
+        },
+        {
+          "shape": "cross",
+          "background_color": "white",
+          "border_color": "red",
+          "symbol_color": "black",
+          "legacy_model": null,
+          "note": "St Andrew's cross placed in the immediate vicinity of a level crossing; the ground may be white or yellow, the border red or black, or the sign may show red stripes.",
+          "reference": [
+            {
+              "id": "A-25.1",
+              "legacy_id": "A,28a",
+              "name": "Level crossings"
+            },
+            {
+              "id": "A-25.3",
+              "legacy_id": "A,28b",
+              "name": "Level crossings"
+            }
+          ]
+        },
+        {
+          "shape": "cross",
+          "background_color": "white",
+          "border_color": "black",
+          "symbol_color": "black",
+          "legacy_model": null,
+          "note": "St Andrew's cross with a black border and black inscription; the ground may be white or yellow.",
+          "reference": [
+            {
+              "id": "A-25.2",
+              "legacy_id": "A,28c",
+              "name": "Level crossings"
+            },
+            {
+              "id": "A-25.4",
+              "legacy_id": "A,28c",
+              "name": "Level crossings",
+              "note": "2006: model A, 28c with an additional panel indicating the number of tracks."
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "white",
+          "border_color": null,
+          "symbol_color": "red",
+          "legacy_model": null,
+          "note": "Countdown panels at the approach to a level crossing or opening bridge: one, two or three oblique red stripes on a white or yellow ground.",
+          "reference": [
+            {
+              "id": "A-26.1",
+              "legacy_id": "A,29a",
+              "name": "Approaches to level crossings or opening bridges"
+            },
+            {
+              "id": "A-26.2",
+              "legacy_id": "A,29b",
+              "name": "Approaches to level crossings or opening bridges"
+            },
+            {
+              "id": "A-26.3",
+              "legacy_id": "A,29c",
+              "name": "Approaches to level crossings or opening bridges"
+            }
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "legacy_id": "A,20",
+          "name": "Give way ahead",
+          "note": "Replaced in 2023 by sign B-01.1 with additional panel H-01.1."
+        },
+        {
+          "legacy_id": "A,21a",
+          "name": "Stop ahead (octagonal STOP sign depicted)",
+          "note": "Replaced in 2023 by sign B-01.1 with an additional panel bearing the \"STOP\" inscription and the distance (H-10.1)."
+        },
+        {
+          "legacy_id": "A,21b",
+          "name": "Stop ahead (circular STOP sign depicted)",
+          "note": "Dropped together with the circular STOP sign B, 2b."
+        }
+      ]
+    },
+    {
+      "category": "B",
+      "categoryName": "Priority signs",
+      "shapes": [
+        {
+          "shape": "inverted triangle",
+          "background_color": "white",
+          "border_color": "red",
+          "symbol_color": null,
+          "note": "The ground may be white or yellow. The sign bears no symbol.",
+          "reference": [
+            {
+              "id": "B-01.1",
+              "legacy_id": "B,1",
+              "name": "Give way"
+            }
+          ]
+        },
+        {
+          "shape": "octagon",
+          "background_color": "red",
+          "border_color": "white",
+          "symbol_color": "white",
+          "note": "Bears the \"STOP\" inscription in white.",
+          "reference": [
+            {
+              "id": "B-02.1",
+              "legacy_id": "B,2a",
+              "name": "Stop",
+              "note": "2006 model B, 2b (a circular STOP sign) is no longer provided for in 2023."
+            }
+          ]
+        },
+        {
+          "shape": "diamond",
+          "background_color": "white",
+          "border_color": "black",
+          "symbol_color": "yellow",
+          "note": "Square set on a diagonal with a black rim, a yellow square in the centre and a white space between the two squares.",
+          "reference": [
+            {
+              "id": "B-03.1",
+              "legacy_id": "B,3",
+              "name": "Priority road"
+            },
+            {
+              "id": "B-03.2",
+              "legacy_id": "B,4",
+              "name": "End of priority road",
+              "note": "2006 name: \"End of priority\". The sign adds a black or grey median band.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black or grey",
+                "direction": "perpendicular to the lower left and upper right sides of the square",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "Median band perpendicular to the lower left and upper right sides of the square. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            }
+          ]
+        },
+        {
+          "shape": "circle",
+          "background_color": "white",
+          "border_color": "red",
+          "symbol_color": "black",
+          "note": "The ground may be white or yellow; the arrow for the direction having priority is black, the other red.",
+          "reference": [
+            {
+              "id": "B-04.1",
+              "legacy_id": "B,5",
+              "name": "Priority for oncoming traffic",
+              "note": "2023 splits the 2006 sign into two models: parallel arrows (B-04.1) and arrowheads joining at the centre (B-04.2)."
+            },
+            {
+              "id": "B-04.2",
+              "legacy_id": "B,5",
+              "name": "Priority for oncoming traffic",
+              "note": "2023 splits the 2006 sign into two models: parallel arrows (B-04.1) and arrowheads joining at the centre (B-04.2)."
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "blue",
+          "border_color": null,
+          "symbol_color": "white",
+          "note": "The arrow pointing upwards is white, the other red.",
+          "reference": [
+            {
+              "id": "B-05.1",
+              "legacy_id": "B,6",
+              "name": "Priority over oncoming traffic",
+              "note": "2023 splits the 2006 sign into two models: parallel arrows (B-05.1) and arrows joining at the centre (B-05.2)."
+            },
+            {
+              "id": "B-05.2",
+              "legacy_id": "B,6",
+              "name": "Priority over oncoming traffic",
+              "note": "2023 splits the 2006 sign into two models: parallel arrows (B-05.1) and arrows joining at the centre (B-05.2)."
+            }
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "legacy_id": "B,2b",
+          "name": "Stop (circular model)",
+          "note": "The circular model of the STOP sign is not retained in 2023; only the octagonal B-02.1 remains."
+        }
+      ]
+    },
+    {
+      "category": "C",
+      "categoryName": "Prohibitory and restrictive signs",
+      "shapes": [
+        {
+          "shape": "circle",
+          "background_color": "white",
+          "border_color": "red",
+          "symbol_color": "black",
+          "note": "General case. Symbols and inscriptions may also be dark blue; oblique bars are red and slope downwards from left to right.",
+          "reference": [
+            {
+              "id": "C-02.1",
+              "legacy_id": "C,2",
+              "name": "Closed to all vehicles in both directions"
+            },
+            {
+              "id": "C-03.1",
+              "legacy_id": "C,3a",
+              "name": "No entry for any power-driven vehicle with more than two wheels",
+              "note": "Renamed: 2006 \"No entry for any power driven vehicle except two-wheeled motor cycles without side-car\" -> 2023 \"No entry for any power-driven vehicle with more than two wheels\".",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.2",
+              "legacy_id": "C,3b",
+              "name": "No entry for motor cycles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.3",
+              "legacy_id": "C,3c",
+              "name": "No entry for cycles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.4",
+              "legacy_id": "C,3d",
+              "name": "No entry for mopeds",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.5",
+              "legacy_id": "C,3e",
+              "name": "No entry for goods vehicles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.6",
+              "legacy_id": "C,3f",
+              "name": "No entry for any power-driven vehicle drawing a trailer other than a semi-trailer or a single axle trailer",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.7",
+              "legacy_id": "C,3g",
+              "name": "No entry for any power-driven vehicle drawing a trailer",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.8",
+              "legacy_id": "C,3h",
+              "name": "No entry for vehicles carrying dangerous goods for which special sign plating is prescribed",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.9",
+              "legacy_id": "C,3i",
+              "name": "No entry for pedestrians",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.10",
+              "legacy_id": "C,3j",
+              "name": "No entry for animal-drawn vehicles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.11",
+              "legacy_id": "C,3k",
+              "name": "No entry for handcarts",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.12",
+              "legacy_id": "C,3l",
+              "name": "No entry for power-driven agricultural vehicles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.13",
+              "legacy_id": "C,3m",
+              "name": "No entry for vehicles carrying more than a certain quantity of explosives or readily inflammable substances",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.14",
+              "legacy_id": "C,3n",
+              "name": "No entry for vehicles carrying more than a certain quantity of substances liable to cause water pollution",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-04.1",
+              "legacy_id": "C,4a",
+              "name": "No entry for more than one category of vehicle or road user",
+              "note": "2006 gave C, 4a and C, 4b as examples; 2023 gives C-04.1 and C-04.2 as examples.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-04.2",
+              "legacy_id": "C,4b",
+              "name": "No entry for more than one category of vehicle or road user",
+              "note": "2006 gave C, 4a and C, 4b as examples; 2023 gives C-04.1 and C-04.2 as examples.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-05.1",
+              "legacy_id": "C,5",
+              "name": "No entry for too wide vehicles"
+            },
+            {
+              "id": "C-05.2",
+              "legacy_id": "C,5",
+              "name": "No entry for too wide vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-06.1",
+              "legacy_id": "C,6",
+              "name": "No entry for too high vehicles"
+            },
+            {
+              "id": "C-06.2",
+              "legacy_id": "C,6",
+              "name": "No entry for too high vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-07.1",
+              "legacy_id": "C,7",
+              "name": "No entry for too heavy vehicles"
+            },
+            {
+              "id": "C-07.2",
+              "legacy_id": "C,7",
+              "name": "No entry for too heavy vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-08.1",
+              "legacy_id": "C,8",
+              "name": "No entry for too heavy vehicles"
+            },
+            {
+              "id": "C-08.2",
+              "legacy_id": "C,8",
+              "name": "No entry for too heavy vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-09.1",
+              "legacy_id": "C,9",
+              "name": "No entry for too long vehicles"
+            },
+            {
+              "id": "C-10.1",
+              "legacy_id": "C,10",
+              "name": "Prohibition of driving too close"
+            },
+            {
+              "id": "C-11.1",
+              "legacy_id": "C,11a",
+              "name": "No left turn"
+            },
+            {
+              "id": "C-11.2",
+              "legacy_id": "C,11b",
+              "name": "No right turn"
+            },
+            {
+              "id": "C-12.1",
+              "legacy_id": "C,12",
+              "name": "No U-turn"
+            },
+            {
+              "id": "C-13.1",
+              "legacy_id": "C,13a",
+              "name": "Prohibition of overtaking",
+              "note": "2006 had two models, C, 13aa and C, 13ab.",
+              "prohibition_bar": {
+                "note": "Contracting Parties shall select the variant with or without the red oblique bar (2023). 2006 described two models of the sign (C, 13aa / C, 13ab and C, 13ba / C, 13bb).",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right"
+              }
+            },
+            {
+              "id": "C-13.3",
+              "legacy_id": "C,13b",
+              "name": "Prohibition of overtaking by goods vehicles",
+              "note": "2006 had two models, C, 13ba and C, 13bb.",
+              "prohibition_bar": {
+                "note": "Contracting Parties shall select the variant with or without the red oblique bar (2023). 2006 described two models of the sign (C, 13aa / C, 13ab and C, 13ba / C, 13bb).",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right"
+              }
+            },
+            {
+              "id": "C-14.1",
+              "legacy_id": "C,14",
+              "name": "Maximum speed limit",
+              "note": "Renamed: 2006 \"Maximum speed limited to the figure indicated\"."
+            },
+            {
+              "id": "C-15.1",
+              "legacy_id": "C,15",
+              "name": "Prohibition of the use of audible warning devices"
+            }
+          ]
+        },
+        {
+          "shape": "circle",
+          "background_color": "yellow",
+          "border_color": "red",
+          "symbol_color": "black",
+          "note": "General case with the yellow ground option.",
+          "reference": [
+            {
+              "id": "C-02.1",
+              "legacy_id": "C,2",
+              "name": "Closed to all vehicles in both directions"
+            },
+            {
+              "id": "C-03.1",
+              "legacy_id": "C,3a",
+              "name": "No entry for any power-driven vehicle with more than two wheels",
+              "note": "Renamed: 2006 \"No entry for any power driven vehicle except two-wheeled motor cycles without side-car\" -> 2023 \"No entry for any power-driven vehicle with more than two wheels\".",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.2",
+              "legacy_id": "C,3b",
+              "name": "No entry for motor cycles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.3",
+              "legacy_id": "C,3c",
+              "name": "No entry for cycles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.4",
+              "legacy_id": "C,3d",
+              "name": "No entry for mopeds",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.5",
+              "legacy_id": "C,3e",
+              "name": "No entry for goods vehicles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.6",
+              "legacy_id": "C,3f",
+              "name": "No entry for any power-driven vehicle drawing a trailer other than a semi-trailer or a single axle trailer",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.7",
+              "legacy_id": "C,3g",
+              "name": "No entry for any power-driven vehicle drawing a trailer",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.8",
+              "legacy_id": "C,3h",
+              "name": "No entry for vehicles carrying dangerous goods for which special sign plating is prescribed",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.9",
+              "legacy_id": "C,3i",
+              "name": "No entry for pedestrians",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.10",
+              "legacy_id": "C,3j",
+              "name": "No entry for animal-drawn vehicles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.11",
+              "legacy_id": "C,3k",
+              "name": "No entry for handcarts",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.12",
+              "legacy_id": "C,3l",
+              "name": "No entry for power-driven agricultural vehicles",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.13",
+              "legacy_id": "C,3m",
+              "name": "No entry for vehicles carrying more than a certain quantity of explosives or readily inflammable substances",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-03.14",
+              "legacy_id": "C,3n",
+              "name": "No entry for vehicles carrying more than a certain quantity of substances liable to cause water pollution",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-04.1",
+              "legacy_id": "C,4a",
+              "name": "No entry for more than one category of vehicle or road user",
+              "note": "2006 gave C, 4a and C, 4b as examples; 2023 gives C-04.1 and C-04.2 as examples.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-04.2",
+              "legacy_id": "C,4b",
+              "name": "No entry for more than one category of vehicle or road user",
+              "note": "2006 gave C, 4a and C, 4b as examples; 2023 gives C-04.1 and C-04.2 as examples.",
+              "prohibition_bar": {
+                "note": "The red oblique bar may be omitted by Contracting Parties. It slopes downwards from left to right, i.e. the opposite way to a cancellation band.",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right",
+                "continuity": "2006 also allowed Contracting Parties not to interrupt the bar where it crosses the symbol, provided the symbol stays easy to see and understand."
+              }
+            },
+            {
+              "id": "C-05.1",
+              "legacy_id": "C,5",
+              "name": "No entry for too wide vehicles"
+            },
+            {
+              "id": "C-05.2",
+              "legacy_id": "C,5",
+              "name": "No entry for too wide vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-06.1",
+              "legacy_id": "C,6",
+              "name": "No entry for too high vehicles"
+            },
+            {
+              "id": "C-06.2",
+              "legacy_id": "C,6",
+              "name": "No entry for too high vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-07.1",
+              "legacy_id": "C,7",
+              "name": "No entry for too heavy vehicles"
+            },
+            {
+              "id": "C-07.2",
+              "legacy_id": "C,7",
+              "name": "No entry for too heavy vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-08.1",
+              "legacy_id": "C,8",
+              "name": "No entry for too heavy vehicles"
+            },
+            {
+              "id": "C-08.2",
+              "legacy_id": "C,8",
+              "name": "No entry for too heavy vehicles",
+              "note": "New model in 2023: the figure is shown with a decimal fraction."
+            },
+            {
+              "id": "C-09.1",
+              "legacy_id": "C,9",
+              "name": "No entry for too long vehicles"
+            },
+            {
+              "id": "C-10.1",
+              "legacy_id": "C,10",
+              "name": "Prohibition of driving too close"
+            },
+            {
+              "id": "C-11.1",
+              "legacy_id": "C,11a",
+              "name": "No left turn"
+            },
+            {
+              "id": "C-11.2",
+              "legacy_id": "C,11b",
+              "name": "No right turn"
+            },
+            {
+              "id": "C-12.1",
+              "legacy_id": "C,12",
+              "name": "No U-turn"
+            },
+            {
+              "id": "C-13.1",
+              "legacy_id": "C,13a",
+              "name": "Prohibition of overtaking",
+              "note": "2006 had two models, C, 13aa and C, 13ab.",
+              "prohibition_bar": {
+                "note": "Contracting Parties shall select the variant with or without the red oblique bar (2023). 2006 described two models of the sign (C, 13aa / C, 13ab and C, 13ba / C, 13bb).",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right"
+              }
+            },
+            {
+              "id": "C-13.3",
+              "legacy_id": "C,13b",
+              "name": "Prohibition of overtaking by goods vehicles",
+              "note": "2006 had two models, C, 13ba and C, 13bb.",
+              "prohibition_bar": {
+                "note": "Contracting Parties shall select the variant with or without the red oblique bar (2023). 2006 described two models of the sign (C, 13aa / C, 13ab and C, 13ba / C, 13bb).",
+                "styles": [
+                  "with_bar",
+                  "without_bar"
+                ],
+                "color": "red",
+                "direction": "sloping downwards from left to right"
+              }
+            },
+            {
+              "id": "C-14.1",
+              "legacy_id": "C,14",
+              "name": "Maximum speed limit",
+              "note": "Renamed: 2006 \"Maximum speed limited to the figure indicated\"."
+            },
+            {
+              "id": "C-15.1",
+              "legacy_id": "C,15",
+              "name": "Prohibition of the use of audible warning devices"
+            }
+          ]
+        },
+        {
+          "shape": "circle",
+          "background_color": "red",
+          "border_color": "white",
+          "symbol_color": "white",
+          "note": "Signs with a red ground and a white bar or inscription.",
+          "reference": [
+            {
+              "id": "C-01.1",
+              "legacy_id": "C,1a",
+              "name": "No entry"
+            },
+            {
+              "id": "C-01.2",
+              "legacy_id": "C,1b",
+              "name": "No entry"
+            },
+            {
+              "id": "C-16.1",
+              "legacy_id": "C,16",
+              "name": "Prohibition of passing without stopping",
+              "note": "The symbol includes the inscription \"Customs\" when used near a Customs-house."
+            }
+          ]
+        },
+        {
+          "shape": "circle",
+          "background_color": "blue",
+          "border_color": "red",
+          "symbol_color": "red",
+          "note": "Signs prohibiting or restricting standing and parking.",
+          "reference": [
+            {
+              "id": "C-18.1",
+              "legacy_id": "C,18",
+              "name": "Prohibition of parking"
+            },
+            {
+              "id": "C-19.1",
+              "legacy_id": "C,19",
+              "name": "Prohibition of standing and parking"
+            },
+            {
+              "id": "C-20.1",
+              "legacy_id": "C,20a",
+              "name": "Alternate parking",
+              "note": "2006 C, 20a applies to odd-numbered dates."
+            },
+            {
+              "id": "C-20.2",
+              "legacy_id": "C,20b",
+              "name": "Alternate parking",
+              "note": "2006 C, 20b applies to even-numbered dates."
+            },
+            {
+              "id": "C-20.3",
+              "legacy_id": null,
+              "name": "Alternate parking",
+              "note": "New in 2023: alternation other than daily."
+            }
+          ]
+        },
+        {
+          "shape": "circle",
+          "background_color": "white",
+          "border_color": "black",
+          "symbol_color": "grey",
+          "note": "End-of-prohibition signs bearing a single oblique band: white or yellow ground, no border or a black rim, a black band sloping downwards from right to left and the cancelled symbol in light grey. This is the variant used in France. 2006 also allowed the band to be dark grey.",
+          "reference": [
+            {
+              "id": "C-13.2",
+              "legacy_id": "C,17c",
+              "name": "End of prohibition of overtaking",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17c) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "C-13.4",
+              "legacy_id": "C,17d",
+              "name": "End of prohibition of overtaking for goods vehicles",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17d) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "C-14.2",
+              "legacy_id": "C,17b",
+              "name": "End of maximum speed limit",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17b) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "C-17.1",
+              "legacy_id": "C,17a",
+              "name": "End of prohibition or restriction",
+              "note": "Renamed: 2006 \"End of all local prohibitions imposed on moving vehicles\".",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17a) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            }
+          ],
+          "band_style": "single_band"
+        },
+        {
+          "shape": "circle",
+          "background_color": "white",
+          "border_color": "black",
+          "symbol_color": "grey",
+          "note": "Same sign with the band formed of black parallel lines instead of a single band. This is the variant used in Germany, and the one the 2023 text states is preferable; 2006 placed the two on an equal footing.",
+          "reference": [
+            {
+              "id": "C-13.2",
+              "legacy_id": "C,17c",
+              "name": "End of prohibition of overtaking",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17c) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "C-13.4",
+              "legacy_id": "C,17d",
+              "name": "End of prohibition of overtaking for goods vehicles",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17d) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "C-14.2",
+              "legacy_id": "C,17b",
+              "name": "End of maximum speed limit",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17b) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "C-17.1",
+              "legacy_id": "C,17a",
+              "name": "End of prohibition or restriction",
+              "note": "Renamed: 2006 \"End of all local prohibitions imposed on moving vehicles\".",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (C, 17a) allowed the band to be black or dark grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            }
+          ],
+          "band_style": "parallel_lines"
+        }
+      ],
+      "removed": []
+    },
+    {
+      "category": "D",
+      "categoryName": "Mandatory signs",
+      "shapes": [
+        {
+          "shape": "circle",
+          "background_color": "blue",
+          "border_color": null,
+          "symbol_color": "white",
+          "note": "General case. 2006 also allowed, as an alternative, a white sign with a red rim and black symbols; the 2023 text keeps only the blue sign with white symbols.",
+          "reference": [
+            {
+              "id": "D-01.1",
+              "legacy_id": "D,1a",
+              "name": "Direction left to be followed",
+              "note": "2006 sign D, 1 carried the arrow or arrows appropriate to the case; 2023 enumerates the eight arrow combinations D-01.1 to D-01.8."
+            },
+            {
+              "id": "D-01.3",
+              "legacy_id": "D,1a",
+              "name": "Direction left or straight to be followed"
+            },
+            {
+              "id": "D-01.4",
+              "legacy_id": "D,1a",
+              "name": "Direction straight to be followed"
+            },
+            {
+              "id": "D-01.5",
+              "legacy_id": "D,1a",
+              "name": "Direction right to be followed"
+            },
+            {
+              "id": "D-01.7",
+              "legacy_id": "D,1a",
+              "name": "Direction right or straight to be followed"
+            },
+            {
+              "id": "D-01.8",
+              "legacy_id": "D,1a",
+              "name": "Direction left or right to be followed"
+            },
+            {
+              "id": "D-02.1",
+              "legacy_id": "D,2",
+              "name": "Pass on the left side",
+              "note": "2006 sign D, 2 \"Pass this side\"; 2023 enumerates the three cases D-02.1 to D-02.3."
+            },
+            {
+              "id": "D-02.2",
+              "legacy_id": "D,2",
+              "name": "Pass on the right side"
+            },
+            {
+              "id": "D-02.3",
+              "legacy_id": "D,2",
+              "name": "Pass on the left or on the right side"
+            },
+            {
+              "id": "D-03.1",
+              "legacy_id": "D,3",
+              "name": "Compulsory roundabout"
+            },
+            {
+              "id": "D-04.1",
+              "legacy_id": "D,4",
+              "name": "Compulsory cycle track"
+            },
+            {
+              "id": "D-04.2",
+              "legacy_id": null,
+              "name": "End of compulsory cycle track",
+              "note": "New in 2023: end of the compulsory cycle track.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "No 2006 equivalent; the 2023 text prefers the parallel lines."
+              }
+            },
+            {
+              "id": "D-04.3",
+              "legacy_id": "D,5",
+              "name": "Compulsory footpath"
+            },
+            {
+              "id": "D-04.4",
+              "legacy_id": null,
+              "name": "End of compulsory footpath",
+              "note": "New in 2023: end of the compulsory footpath.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "No 2006 equivalent; the 2023 text prefers the parallel lines."
+              }
+            },
+            {
+              "id": "D-04.5",
+              "legacy_id": "D,6",
+              "name": "Compulsory track for riders on horseback"
+            },
+            {
+              "id": "D-04.6",
+              "legacy_id": null,
+              "name": "End of compulsory track for riders on horseback",
+              "note": "New in 2023: end of the compulsory track for riders on horseback.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "No 2006 equivalent; the 2023 text prefers the parallel lines."
+              }
+            },
+            {
+              "id": "D-05.1",
+              "legacy_id": "D,11a",
+              "name": "Compulsory path or track for two categories of road users",
+              "note": "2006 paragraph 11 on combinations of signs D, 4; D, 5 and D, 6: symbols side by side separated by a vertical line."
+            },
+            {
+              "id": "D-05.2",
+              "legacy_id": null,
+              "name": "End of compulsory path or track for two categories of road users",
+              "note": "New in 2023: end of the compulsory path or track for two categories of road users.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "No 2006 equivalent; the 2023 text prefers the parallel lines."
+              }
+            },
+            {
+              "id": "D-05.3",
+              "legacy_id": "D,11b",
+              "name": "Compulsory shared path or track for two categories of road users",
+              "note": "2006 paragraph 11: symbols shown one above the other, for shared use."
+            },
+            {
+              "id": "D-05.4",
+              "legacy_id": null,
+              "name": "End of compulsory shared path or track for two categories of road users",
+              "note": "New in 2023: end of the compulsory shared path or track.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "No 2006 equivalent; the 2023 text prefers the parallel lines."
+              }
+            },
+            {
+              "id": "D-06.1",
+              "legacy_id": "D,7",
+              "name": "Compulsory minimum speed"
+            },
+            {
+              "id": "D-06.2",
+              "legacy_id": "D,8",
+              "name": "End of compulsory minimum speed",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": "single_band",
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "Substantive change: 2006 (D, 8) allowed only a single oblique red bar; 2023 adds the parallel lines and makes them preferable."
+              }
+            },
+            {
+              "id": "D-07.1",
+              "legacy_id": "D,9",
+              "name": "Compulsory snow chains",
+              "note": "Renamed: 2006 \"Snow chains compulsory\" -> 2023 \"Compulsory snow chains\"."
+            },
+            {
+              "id": "D-07.2",
+              "legacy_id": null,
+              "name": "End of compulsory snow chains",
+              "note": "New in 2023: end of compulsory snow chains.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "No 2006 equivalent; the 2023 text prefers the parallel lines."
+              }
+            }
+          ]
+        },
+        {
+          "shape": "circle",
+          "background_color": "black",
+          "border_color": "white",
+          "symbol_color": "white",
+          "note": "Alternative model of the \"direction to be followed\" sign (2006 model D, 1b).",
+          "reference": [
+            {
+              "id": "D-01.2",
+              "legacy_id": "D,1b",
+              "name": "Direction left to be followed"
+            },
+            {
+              "id": "D-01.6",
+              "legacy_id": "D,1b",
+              "name": "Direction right to be followed"
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "white",
+          "border_color": null,
+          "symbol_color": "black",
+          "note": "The only rectangular mandatory sign; it combines a dangerous-goods symbol with a direction symbol.",
+          "reference": [
+            {
+              "id": "D-08.1",
+              "legacy_id": "D,10a",
+              "name": "Compulsory direction for vehicles carrying dangerous goods",
+              "note": "2006 gave three models, D, 10a; D, 10b and D, 10c."
+            }
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "category": "E",
+      "categoryName": "Special regulation signs",
+      "shapes": [
+        {
+          "shape": "square or rectangle",
+          "background_color": "blue",
+          "border_color": null,
+          "symbol_color": "white",
+          "note": "General case: usually a blue ground with a light-coloured symbol or inscription.",
+          "reference": [
+            {
+              "id": "E-01.1",
+              "legacy_id": "E,1a",
+              "name": "Regulation or danger warning applying to a lane",
+              "note": "2006 gave three examples: E, 1a and E, 1b (compulsory minimum speed applying to lanes) and E, 1c (speed limits applying to different lanes)."
+            },
+            {
+              "id": "E-02.1",
+              "legacy_id": "E,2a",
+              "name": "Lane reserved for buses",
+              "note": "2006 gave E, 2a and E, 2b as examples of lanes reserved for buses."
+            },
+            {
+              "id": "E-02.2",
+              "legacy_id": "E,2b",
+              "name": "Lane reserved for other categories of vehicles",
+              "note": "2023 extends the sign to lanes reserved for other categories of vehicles."
+            },
+            {
+              "id": "E-03.1",
+              "legacy_id": "E,4",
+              "name": "Preselection of lanes",
+              "note": "Renamed: 2006 \"Preselection sign\" -> 2023 \"Preselection of lanes\"."
+            },
+            {
+              "id": "E-04.1",
+              "legacy_id": "E,3a",
+              "name": "One-way",
+              "note": "Placed perpendicular to the axis of the carriageway."
+            },
+            {
+              "id": "E-04.2",
+              "legacy_id": "E,3b",
+              "name": "One-way",
+              "note": "Placed parallel to the axis of the carriageway."
+            },
+            {
+              "id": "E-05.1",
+              "legacy_id": "E,5a",
+              "name": "Motorway"
+            },
+            {
+              "id": "E-05.2",
+              "legacy_id": "E,5b",
+              "name": "End of motorway",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "The 2006 text did not describe the band for E, 5b. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-06.1",
+              "legacy_id": "E,6a",
+              "name": "Road for motor vehicles"
+            },
+            {
+              "id": "E-06.2",
+              "legacy_id": "E,6b",
+              "name": "End of road for motor vehicles",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "The 2006 text did not describe the band for E, 6b. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-07.1",
+              "legacy_id": "E,7a",
+              "name": "Beginning of a built-up area",
+              "note": "2006 gave four examples of the beginning of a built-up area: E, 7a to E, 7d."
+            },
+            {
+              "id": "E-07.2",
+              "legacy_id": "E,8a",
+              "name": "End of a built-up area",
+              "note": "2006 gave four examples of the end of a built-up area: E, 8a to E, 8d.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 8a-d) wording: \"an oblique bar coloured red or consisting of parallel lines coloured red\". 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-07.3",
+              "legacy_id": "E,7b",
+              "name": "Beginning of a built-up area"
+            },
+            {
+              "id": "E-07.4",
+              "legacy_id": "E,8b",
+              "name": "End of a built-up area",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 8a-d) wording: \"an oblique bar coloured red or consisting of parallel lines coloured red\". 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-07.5",
+              "legacy_id": "E,7c",
+              "name": "Beginning of a built-up area",
+              "note": "2006 also had a fourth example, E, 7d."
+            },
+            {
+              "id": "E-07.6",
+              "legacy_id": "E,8c",
+              "name": "End of a built-up area",
+              "note": "2006 also had a fourth example, E, 8d.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 8a-d) wording: \"an oblique bar coloured red or consisting of parallel lines coloured red\". 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-08.1",
+              "legacy_id": "E,9a",
+              "name": "Beginning of a zone",
+              "note": "2006 gave four examples of zonal validity: E, 9a (no parking), E, 9b (no parking at certain times), E, 9c (parking zone) and E, 9d (maximum speed zone); 2023 generalises them into one sign bearing the regulatory sign concerned."
+            },
+            {
+              "id": "E-08.2",
+              "legacy_id": "E,10a",
+              "name": "Exit from a zone",
+              "note": "2006 gave E, 10a to E, 10d as the matching exit signs.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 10a-d) allowed a black or dark grey band or parallel grey or black lines; the cancelled sign itself is shown in grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-09.1",
+              "legacy_id": "E,11a",
+              "name": "Tunnel"
+            },
+            {
+              "id": "E-09.2",
+              "legacy_id": "E,11b",
+              "name": "End of tunnel"
+            },
+            {
+              "id": "E-10.1",
+              "legacy_id": "E,12a",
+              "name": "Pedestrian crossing",
+              "note": "2006 also allowed E, 12b (irregular pentagon, blue ground, white symbol) and E, 12c (dark ground, white symbol)."
+            },
+            {
+              "id": "E-11.1",
+              "legacy_id": "E,13a",
+              "name": "Hospital"
+            },
+            {
+              "id": "E-11.2",
+              "legacy_id": "E,13b",
+              "name": "Hospital",
+              "note": "2006 model E, 13b; the red cross may be replaced by another symbol."
+            },
+            {
+              "id": "E-12.1",
+              "legacy_id": "E,14a",
+              "name": "Parking",
+              "note": "2006 also gave E, 14b and E, 14c as examples of car-park signs."
+            },
+            {
+              "id": "E-12.2",
+              "legacy_id": null,
+              "name": "Park and ride",
+              "note": "New in 2023: park and ride."
+            },
+            {
+              "id": "E-12.3",
+              "legacy_id": null,
+              "name": "Park and ride",
+              "note": "New in 2023: park and ride."
+            },
+            {
+              "id": "E-12.4",
+              "legacy_id": null,
+              "name": "Park and ride",
+              "note": "New in 2023: park and ride."
+            },
+            {
+              "id": "E-13.1",
+              "legacy_id": "E,15",
+              "name": "Bus stop"
+            },
+            {
+              "id": "E-13.2",
+              "legacy_id": "E,16",
+              "name": "Tramway stop"
+            },
+            {
+              "id": "E-14.1",
+              "legacy_id": "E,17a",
+              "name": "Residential area",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023."
+            },
+            {
+              "id": "E-14.2",
+              "legacy_id": "E,17b",
+              "name": "End of residential area",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 sign E, 17b came from the European Agreement. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-15.1",
+              "legacy_id": "E,18",
+              "name": "Emergency stopping place",
+              "note": "2006 sign E, 18 had two models, E, 18a and E, 18b (previously numbered E, 17; E, 17a and E, 17b)."
+            }
+          ]
+        },
+        {
+          "shape": "square or rectangle",
+          "background_color": "white",
+          "border_color": null,
+          "symbol_color": "black",
+          "note": "Alternative allowed by both texts: a light-coloured ground with a dark-coloured symbol or inscription. Commonly used for the built-up area and zonal signs.",
+          "reference": [
+            {
+              "id": "E-01.1",
+              "legacy_id": "E,1a",
+              "name": "Regulation or danger warning applying to a lane",
+              "note": "2006 gave three examples: E, 1a and E, 1b (compulsory minimum speed applying to lanes) and E, 1c (speed limits applying to different lanes)."
+            },
+            {
+              "id": "E-02.1",
+              "legacy_id": "E,2a",
+              "name": "Lane reserved for buses",
+              "note": "2006 gave E, 2a and E, 2b as examples of lanes reserved for buses."
+            },
+            {
+              "id": "E-02.2",
+              "legacy_id": "E,2b",
+              "name": "Lane reserved for other categories of vehicles",
+              "note": "2023 extends the sign to lanes reserved for other categories of vehicles."
+            },
+            {
+              "id": "E-03.1",
+              "legacy_id": "E,4",
+              "name": "Preselection of lanes",
+              "note": "Renamed: 2006 \"Preselection sign\" -> 2023 \"Preselection of lanes\"."
+            },
+            {
+              "id": "E-04.1",
+              "legacy_id": "E,3a",
+              "name": "One-way",
+              "note": "Placed perpendicular to the axis of the carriageway."
+            },
+            {
+              "id": "E-04.2",
+              "legacy_id": "E,3b",
+              "name": "One-way",
+              "note": "Placed parallel to the axis of the carriageway."
+            },
+            {
+              "id": "E-05.1",
+              "legacy_id": "E,5a",
+              "name": "Motorway"
+            },
+            {
+              "id": "E-05.2",
+              "legacy_id": "E,5b",
+              "name": "End of motorway",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "The 2006 text did not describe the band for E, 5b. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-06.1",
+              "legacy_id": "E,6a",
+              "name": "Road for motor vehicles"
+            },
+            {
+              "id": "E-06.2",
+              "legacy_id": "E,6b",
+              "name": "End of road for motor vehicles",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "The 2006 text did not describe the band for E, 6b. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-07.1",
+              "legacy_id": "E,7a",
+              "name": "Beginning of a built-up area",
+              "note": "2006 gave four examples of the beginning of a built-up area: E, 7a to E, 7d."
+            },
+            {
+              "id": "E-07.2",
+              "legacy_id": "E,8a",
+              "name": "End of a built-up area",
+              "note": "2006 gave four examples of the end of a built-up area: E, 8a to E, 8d.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 8a-d) wording: \"an oblique bar coloured red or consisting of parallel lines coloured red\". 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-07.3",
+              "legacy_id": "E,7b",
+              "name": "Beginning of a built-up area"
+            },
+            {
+              "id": "E-07.4",
+              "legacy_id": "E,8b",
+              "name": "End of a built-up area",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 8a-d) wording: \"an oblique bar coloured red or consisting of parallel lines coloured red\". 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-07.5",
+              "legacy_id": "E,7c",
+              "name": "Beginning of a built-up area",
+              "note": "2006 also had a fourth example, E, 7d."
+            },
+            {
+              "id": "E-07.6",
+              "legacy_id": "E,8c",
+              "name": "End of a built-up area",
+              "note": "2006 also had a fourth example, E, 8d.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 8a-d) wording: \"an oblique bar coloured red or consisting of parallel lines coloured red\". 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-08.1",
+              "legacy_id": "E,9a",
+              "name": "Beginning of a zone",
+              "note": "2006 gave four examples of zonal validity: E, 9a (no parking), E, 9b (no parking at certain times), E, 9c (parking zone) and E, 9d (maximum speed zone); 2023 generalises them into one sign bearing the regulatory sign concerned."
+            },
+            {
+              "id": "E-08.2",
+              "legacy_id": "E,10a",
+              "name": "Exit from a zone",
+              "note": "2006 gave E, 10a to E, 10d as the matching exit signs.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "black",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 (E, 10a-d) allowed a black or dark grey band or parallel grey or black lines; the cancelled sign itself is shown in grey. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-09.1",
+              "legacy_id": "E,11a",
+              "name": "Tunnel"
+            },
+            {
+              "id": "E-09.2",
+              "legacy_id": "E,11b",
+              "name": "End of tunnel"
+            },
+            {
+              "id": "E-10.1",
+              "legacy_id": "E,12a",
+              "name": "Pedestrian crossing",
+              "note": "2006 also allowed E, 12b (irregular pentagon, blue ground, white symbol) and E, 12c (dark ground, white symbol)."
+            },
+            {
+              "id": "E-11.1",
+              "legacy_id": "E,13a",
+              "name": "Hospital"
+            },
+            {
+              "id": "E-11.2",
+              "legacy_id": "E,13b",
+              "name": "Hospital",
+              "note": "2006 model E, 13b; the red cross may be replaced by another symbol."
+            },
+            {
+              "id": "E-12.1",
+              "legacy_id": "E,14a",
+              "name": "Parking",
+              "note": "2006 also gave E, 14b and E, 14c as examples of car-park signs."
+            },
+            {
+              "id": "E-12.2",
+              "legacy_id": null,
+              "name": "Park and ride",
+              "note": "New in 2023: park and ride."
+            },
+            {
+              "id": "E-12.3",
+              "legacy_id": null,
+              "name": "Park and ride",
+              "note": "New in 2023: park and ride."
+            },
+            {
+              "id": "E-12.4",
+              "legacy_id": null,
+              "name": "Park and ride",
+              "note": "New in 2023: park and ride."
+            },
+            {
+              "id": "E-13.1",
+              "legacy_id": "E,15",
+              "name": "Bus stop"
+            },
+            {
+              "id": "E-13.2",
+              "legacy_id": "E,16",
+              "name": "Tramway stop"
+            },
+            {
+              "id": "E-14.1",
+              "legacy_id": "E,17a",
+              "name": "Residential area",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023."
+            },
+            {
+              "id": "E-14.2",
+              "legacy_id": "E,17b",
+              "name": "End of residential area",
+              "note": "Introduced by the European Agreement supplementing the Convention; brought into the main text in 2023.",
+              "cancellation_band": {
+                "styles": [
+                  "single_band",
+                  "parallel_lines"
+                ],
+                "color": "red",
+                "direction": "from the upper right edge to the lower left edge (sloping downwards from right to left)",
+                "preferred": {
+                  "2006": null,
+                  "2023": "parallel_lines"
+                },
+                "national_examples": {
+                  "single_band": "France",
+                  "parallel_lines": "Germany"
+                },
+                "note": "2006 sign E, 17b came from the European Agreement. 2006 allowed the single band and the parallel lines on an equal footing; 2023 states the parallel lines are preferable."
+              }
+            },
+            {
+              "id": "E-15.1",
+              "legacy_id": "E,18",
+              "name": "Emergency stopping place",
+              "note": "2006 sign E, 18 had two models, E, 18a and E, 18b (previously numbered E, 17; E, 17a and E, 17b)."
+            }
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "category": "F",
+      "categoryName": "Information, facilities or service signs",
+      "shapes": [
+        {
+          "shape": "rectangle",
+          "background_color": "blue",
+          "border_color": "white",
+          "symbol_color": "black",
+          "note": "Blue ground with a white square placed in the centre carrying the symbol; the symbol is black or dark blue unless otherwise indicated. border_color here denotes the white inner square.",
+          "reference": [
+            {
+              "id": "F-01.1",
+              "legacy_id": "F,1a",
+              "name": "First-aid station",
+              "note": "2006 gave three examples, F, 1a; F, 1b and F, 1c. The symbol is red."
+            },
+            {
+              "id": "F-02.1",
+              "legacy_id": "F,2",
+              "name": "Breakdown service"
+            },
+            {
+              "id": "F-03.1",
+              "legacy_id": "F,3",
+              "name": "Telephone"
+            },
+            {
+              "id": "F-04.1",
+              "legacy_id": "F,4",
+              "name": "Filling station"
+            },
+            {
+              "id": "F-05.1",
+              "legacy_id": "F,5",
+              "name": "Hotel or motel",
+              "note": "2006 \"HOTEL or MOTEL\"."
+            },
+            {
+              "id": "F-05.2",
+              "legacy_id": "F,13",
+              "name": "Youth hostel"
+            },
+            {
+              "id": "F-06.1",
+              "legacy_id": "F,6",
+              "name": "Restaurant"
+            },
+            {
+              "id": "F-06.2",
+              "legacy_id": "F,7",
+              "name": "Refreshments or cafeteria"
+            },
+            {
+              "id": "F-07.1",
+              "legacy_id": "F,8",
+              "name": "Picnic site or rest area",
+              "note": "Renamed: 2006 \"Picnic site\" -> 2023 \"Picnic site or rest area\"."
+            },
+            {
+              "id": "F-07.2",
+              "legacy_id": "F,10",
+              "name": "Camping site"
+            },
+            {
+              "id": "F-07.3",
+              "legacy_id": "F,11",
+              "name": "Caravan site"
+            },
+            {
+              "id": "F-08.1",
+              "legacy_id": "F,14",
+              "name": "Radio stations providing traffic information",
+              "note": "Introduced by the European Agreement supplementing the Convention (\"Radio stations giving traffic information\"); brought into the main text in 2023."
+            },
+            {
+              "id": "F-09.1",
+              "legacy_id": "F,15",
+              "name": "Public lavatory",
+              "note": "Introduced by the European Agreement supplementing the Convention (\"Public lavatory\"); brought into the main text in 2023."
+            },
+            {
+              "id": "F-10.1",
+              "legacy_id": "F,17",
+              "name": "Emergency telephone"
+            },
+            {
+              "id": "F-11.1",
+              "legacy_id": "F,18",
+              "name": "Extinguisher"
+            },
+            {
+              "id": "F-12.1",
+              "legacy_id": null,
+              "name": "Multiple facilities or services signs",
+              "note": "New in 2023: a single sign grouping several facilities or services."
+            },
+            {
+              "id": "F-12.2",
+              "legacy_id": null,
+              "name": "Multiple facilities or services signs",
+              "note": "New in 2023: a single sign grouping several facilities or services."
+            },
+            {
+              "id": "F-12.3",
+              "legacy_id": null,
+              "name": "Multiple facilities or services signs",
+              "note": "New in 2023: a single sign grouping several facilities or services."
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "green",
+          "border_color": "white",
+          "symbol_color": "black",
+          "note": "Green ground variant, otherwise identical.",
+          "reference": [
+            {
+              "id": "F-01.1",
+              "legacy_id": "F,1a",
+              "name": "First-aid station",
+              "note": "2006 gave three examples, F, 1a; F, 1b and F, 1c. The symbol is red."
+            },
+            {
+              "id": "F-02.1",
+              "legacy_id": "F,2",
+              "name": "Breakdown service"
+            },
+            {
+              "id": "F-03.1",
+              "legacy_id": "F,3",
+              "name": "Telephone"
+            },
+            {
+              "id": "F-04.1",
+              "legacy_id": "F,4",
+              "name": "Filling station"
+            },
+            {
+              "id": "F-05.1",
+              "legacy_id": "F,5",
+              "name": "Hotel or motel",
+              "note": "2006 \"HOTEL or MOTEL\"."
+            },
+            {
+              "id": "F-05.2",
+              "legacy_id": "F,13",
+              "name": "Youth hostel"
+            },
+            {
+              "id": "F-06.1",
+              "legacy_id": "F,6",
+              "name": "Restaurant"
+            },
+            {
+              "id": "F-06.2",
+              "legacy_id": "F,7",
+              "name": "Refreshments or cafeteria"
+            },
+            {
+              "id": "F-07.1",
+              "legacy_id": "F,8",
+              "name": "Picnic site or rest area",
+              "note": "Renamed: 2006 \"Picnic site\" -> 2023 \"Picnic site or rest area\"."
+            },
+            {
+              "id": "F-07.2",
+              "legacy_id": "F,10",
+              "name": "Camping site"
+            },
+            {
+              "id": "F-07.3",
+              "legacy_id": "F,11",
+              "name": "Caravan site"
+            },
+            {
+              "id": "F-08.1",
+              "legacy_id": "F,14",
+              "name": "Radio stations providing traffic information",
+              "note": "Introduced by the European Agreement supplementing the Convention (\"Radio stations giving traffic information\"); brought into the main text in 2023."
+            },
+            {
+              "id": "F-09.1",
+              "legacy_id": "F,15",
+              "name": "Public lavatory",
+              "note": "Introduced by the European Agreement supplementing the Convention (\"Public lavatory\"); brought into the main text in 2023."
+            },
+            {
+              "id": "F-10.1",
+              "legacy_id": "F,17",
+              "name": "Emergency telephone"
+            },
+            {
+              "id": "F-11.1",
+              "legacy_id": "F,18",
+              "name": "Extinguisher"
+            },
+            {
+              "id": "F-12.1",
+              "legacy_id": null,
+              "name": "Multiple facilities or services signs",
+              "note": "New in 2023: a single sign grouping several facilities or services."
+            },
+            {
+              "id": "F-12.2",
+              "legacy_id": null,
+              "name": "Multiple facilities or services signs",
+              "note": "New in 2023: a single sign grouping several facilities or services."
+            },
+            {
+              "id": "F-12.3",
+              "legacy_id": null,
+              "name": "Multiple facilities or services signs",
+              "note": "New in 2023: a single sign grouping several facilities or services."
+            }
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "legacy_id": "F,9",
+          "name": "Starting-point for walks",
+          "note": "Not retained in the 2023 text."
+        },
+        {
+          "legacy_id": "F,12",
+          "name": "Camping and caravan site",
+          "note": "Not retained as a separate sign; 2023 keeps F-07.2 (camping site) and F-07.3 (caravan site)."
+        },
+        {
+          "legacy_id": "F,16",
+          "name": "Beach or swimming pool",
+          "note": "European Agreement sign, not retained in the 2023 text."
+        }
+      ]
+    },
+    {
+      "category": "G",
+      "categoryName": "Other information signs (2006: Direction, position or indication signs)",
+      "shapes": [
+        {
+          "shape": "rectangle",
+          "background_color": "blue",
+          "border_color": null,
+          "symbol_color": "white",
+          "note": "Light-coloured symbols or inscriptions on a dark ground. Direction signs and signs indicating temporary conditions may terminate in an arrowhead.",
+          "reference": [
+            {
+              "id": "G-01.1",
+              "legacy_id": "G,1a",
+              "name": "Advance direction",
+              "note": "2006 gave G, 1a; G, 1b and G, 1c as examples of advance direction signs."
+            },
+            {
+              "id": "G-01.2",
+              "legacy_id": "G,1b",
+              "name": "Advance direction"
+            },
+            {
+              "id": "G-01.3",
+              "legacy_id": "G,1c",
+              "name": "Advance direction on a roundabout",
+              "note": "2023 uses this number for the advance direction sign on a roundabout."
+            },
+            {
+              "id": "G-02.1",
+              "legacy_id": "G,1a",
+              "name": "Advance direction for an intersection",
+              "note": "2023 separates advance direction signs for an intersection from the stacked ones."
+            },
+            {
+              "id": "G-02.2",
+              "legacy_id": "G,1a",
+              "name": "Advance direction for a roundabout",
+              "note": "2023 separates advance direction signs for a roundabout."
+            },
+            {
+              "id": "G-02.3",
+              "legacy_id": "G,1a",
+              "name": "Advance direction for lanes",
+              "note": "2023 separates advance direction signs for lanes."
+            },
+            {
+              "id": "G-03.1",
+              "legacy_id": null,
+              "name": "Advance direction sign over a lane",
+              "note": "New in 2023: advance direction sign placed over a lane."
+            },
+            {
+              "id": "G-03.2",
+              "legacy_id": null,
+              "name": "Advance direction sign over lanes",
+              "note": "New in 2023: advance direction sign placed over lanes."
+            },
+            {
+              "id": "G-03.3",
+              "legacy_id": null,
+              "name": "Advance direction sign over lanes",
+              "note": "New in 2023: advance direction sign placed over lanes."
+            },
+            {
+              "id": "G-04.1",
+              "legacy_id": "G,2a",
+              "name": "Advance direction sign for no through road",
+              "note": "2006 gave G, 2a and G, 2b as examples for \"No through road\"."
+            },
+            {
+              "id": "G-04.2",
+              "legacy_id": "G,3",
+              "name": "Advance direction sign for prohibition to turn",
+              "note": "2006 example of an advance direction sign where a left turn at the next intersection is prohibited."
+            },
+            {
+              "id": "G-05.1",
+              "legacy_id": "G,4a",
+              "name": "Direction sign",
+              "note": "2006 gave G, 4a; G, 4b; G, 4c and G, 5 as examples of direction signs, and G, 6a to G, 6c for an airfield, G, 7 for a camping site and G, 8 for a youth hostel."
+            },
+            {
+              "id": "G-05.2",
+              "legacy_id": "G,4b",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.3",
+              "legacy_id": "G,4c",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.4",
+              "legacy_id": "G,5",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.5",
+              "legacy_id": "G,6a",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.6",
+              "legacy_id": "G,6b",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-06.1",
+              "legacy_id": "G,5",
+              "name": "Multiple directions sign",
+              "note": "2023 groups signs showing more than one direction under G-06."
+            },
+            {
+              "id": "G-06.2",
+              "legacy_id": "G,5",
+              "name": "Multiple directions sign"
+            },
+            {
+              "id": "G-07.1",
+              "legacy_id": null,
+              "name": "Direction sign over a lane",
+              "note": "New in 2023: direction sign placed over a lane."
+            },
+            {
+              "id": "G-08.1",
+              "legacy_id": null,
+              "name": "Road identification",
+              "note": "Road identification signs are covered by Article 17 of the 2006 Convention but carry no \"G\" number there; 2023 gives them the number G-08.1."
+            },
+            {
+              "id": "G-09.1",
+              "legacy_id": null,
+              "name": "Place identification",
+              "note": "Place identification signs are covered by Article 18 of the 2006 Convention but carry no \"G\" number there; 2023 gives them the number G-09.1."
+            },
+            {
+              "id": "G-10.1",
+              "legacy_id": "G,10",
+              "name": "Place confirmation",
+              "note": "2006 sign G, 10 was given as an example of a confirmatory sign."
+            },
+            {
+              "id": "G-10.2",
+              "legacy_id": "G,10",
+              "name": "Place confirmation"
+            },
+            {
+              "id": "G-11.1",
+              "legacy_id": "G,11a",
+              "name": "Direction of lanes",
+              "note": "2006 gave G, 11a; G, 11b and G, 11c as examples."
+            },
+            {
+              "id": "G-11.2",
+              "legacy_id": "G,11b",
+              "name": "Direction of lanes"
+            },
+            {
+              "id": "G-12.1",
+              "legacy_id": "G,12a",
+              "name": "End or closure of a lane",
+              "note": "2006 gave G, 12a and G, 12b as examples of lane closure signs."
+            },
+            {
+              "id": "G-12.2",
+              "legacy_id": "G,12b",
+              "name": "End or closure of a lane"
+            },
+            {
+              "id": "G-12.3",
+              "legacy_id": "G,12b",
+              "name": "End or closure of a lane"
+            },
+            {
+              "id": "G-13.1",
+              "legacy_id": "G,13",
+              "name": "No through road"
+            },
+            {
+              "id": "G-14.1",
+              "legacy_id": "G,14",
+              "name": "General speed limits"
+            },
+            {
+              "id": "G-15.1",
+              "legacy_id": "G,15",
+              "name": "Road open or closed"
+            },
+            {
+              "id": "G-16.1",
+              "legacy_id": "G,16",
+              "name": "Advisory snow tyres or snow chains",
+              "note": "Renamed: 2006 \"Chains or snow tyres recommended\" -> 2023 \"Advisory snow tyres or snow chains\"."
+            },
+            {
+              "id": "G-17.1",
+              "legacy_id": "G,17",
+              "name": "Advisory speed"
+            },
+            {
+              "id": "G-18.1",
+              "legacy_id": "G,18",
+              "name": "Advised itinerary",
+              "note": "Renamed: 2006 \"Advised itinerary for heavy vehicles\"."
+            },
+            {
+              "id": "G-19.1",
+              "legacy_id": "G,19",
+              "name": "Escape lane"
+            },
+            {
+              "id": "G-20.1",
+              "legacy_id": "G,20",
+              "name": "Overpass",
+              "note": "2006 sign G, 20 covered both the overpass and the underpass; 2023 splits them into G-20.1 and G-20.2."
+            },
+            {
+              "id": "G-20.2",
+              "legacy_id": "G,20",
+              "name": "Underpass"
+            },
+            {
+              "id": "G-21.1",
+              "legacy_id": "G,21",
+              "name": "Overpass without steps",
+              "note": "2006 sign G, 21 covered an overpass or underpass without steps."
+            },
+            {
+              "id": "G-21.2",
+              "legacy_id": "G,21",
+              "name": "Overpass without steps"
+            },
+            {
+              "id": "G-22.1",
+              "legacy_id": "G,22a",
+              "name": "Exit from a motorway",
+              "note": "2006 gave G, 22a; G, 22b and G, 22c as examples."
+            },
+            {
+              "id": "G-22.2",
+              "legacy_id": "G,22b",
+              "name": "Exit from a motorway"
+            },
+            {
+              "id": "G-22.3",
+              "legacy_id": "G,22c",
+              "name": "Exit from a motorway"
+            },
+            {
+              "id": "G-25.1",
+              "legacy_id": null,
+              "name": "Crash through gates",
+              "note": "New in 2023: crash through gates."
+            },
+            {
+              "id": "G-26.1",
+              "legacy_id": null,
+              "name": "Scheme of diversion",
+              "note": "New in 2023. The 2006 text mentioned signs for temporary conditions such as road works, diversions or detours without numbering them."
+            },
+            {
+              "id": "G-26.2",
+              "legacy_id": null,
+              "name": "Diversion direction (right)",
+              "note": "New in 2023. The 2006 text mentioned signs for temporary conditions such as road works, diversions or detours without numbering them."
+            },
+            {
+              "id": "G-26.3",
+              "legacy_id": null,
+              "name": "Direction of diversion",
+              "note": "New in 2023. The 2006 text mentioned signs for temporary conditions such as road works, diversions or detours without numbering them."
+            },
+            {
+              "id": "G-27.1",
+              "legacy_id": null,
+              "name": "Direction of lanes during road works",
+              "note": "New in 2023: direction of lanes during road works."
+            },
+            {
+              "id": "G-28.1",
+              "legacy_id": null,
+              "name": "Temporary lane closure",
+              "note": "New in 2023: temporary lane closure."
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "white",
+          "border_color": null,
+          "symbol_color": "black",
+          "note": "Dark-coloured symbols or inscriptions on a white or light-coloured ground. Red may be used only exceptionally and must never predominate, except on road identification signs which may have a red ground.",
+          "reference": [
+            {
+              "id": "G-01.1",
+              "legacy_id": "G,1a",
+              "name": "Advance direction",
+              "note": "2006 gave G, 1a; G, 1b and G, 1c as examples of advance direction signs."
+            },
+            {
+              "id": "G-01.2",
+              "legacy_id": "G,1b",
+              "name": "Advance direction"
+            },
+            {
+              "id": "G-01.3",
+              "legacy_id": "G,1c",
+              "name": "Advance direction on a roundabout",
+              "note": "2023 uses this number for the advance direction sign on a roundabout."
+            },
+            {
+              "id": "G-02.1",
+              "legacy_id": "G,1a",
+              "name": "Advance direction for an intersection",
+              "note": "2023 separates advance direction signs for an intersection from the stacked ones."
+            },
+            {
+              "id": "G-02.2",
+              "legacy_id": "G,1a",
+              "name": "Advance direction for a roundabout",
+              "note": "2023 separates advance direction signs for a roundabout."
+            },
+            {
+              "id": "G-02.3",
+              "legacy_id": "G,1a",
+              "name": "Advance direction for lanes",
+              "note": "2023 separates advance direction signs for lanes."
+            },
+            {
+              "id": "G-03.1",
+              "legacy_id": null,
+              "name": "Advance direction sign over a lane",
+              "note": "New in 2023: advance direction sign placed over a lane."
+            },
+            {
+              "id": "G-03.2",
+              "legacy_id": null,
+              "name": "Advance direction sign over lanes",
+              "note": "New in 2023: advance direction sign placed over lanes."
+            },
+            {
+              "id": "G-03.3",
+              "legacy_id": null,
+              "name": "Advance direction sign over lanes",
+              "note": "New in 2023: advance direction sign placed over lanes."
+            },
+            {
+              "id": "G-04.1",
+              "legacy_id": "G,2a",
+              "name": "Advance direction sign for no through road",
+              "note": "2006 gave G, 2a and G, 2b as examples for \"No through road\"."
+            },
+            {
+              "id": "G-04.2",
+              "legacy_id": "G,3",
+              "name": "Advance direction sign for prohibition to turn",
+              "note": "2006 example of an advance direction sign where a left turn at the next intersection is prohibited."
+            },
+            {
+              "id": "G-05.1",
+              "legacy_id": "G,4a",
+              "name": "Direction sign",
+              "note": "2006 gave G, 4a; G, 4b; G, 4c and G, 5 as examples of direction signs, and G, 6a to G, 6c for an airfield, G, 7 for a camping site and G, 8 for a youth hostel."
+            },
+            {
+              "id": "G-05.2",
+              "legacy_id": "G,4b",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.3",
+              "legacy_id": "G,4c",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.4",
+              "legacy_id": "G,5",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.5",
+              "legacy_id": "G,6a",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-05.6",
+              "legacy_id": "G,6b",
+              "name": "Direction sign"
+            },
+            {
+              "id": "G-06.1",
+              "legacy_id": "G,5",
+              "name": "Multiple directions sign",
+              "note": "2023 groups signs showing more than one direction under G-06."
+            },
+            {
+              "id": "G-06.2",
+              "legacy_id": "G,5",
+              "name": "Multiple directions sign"
+            },
+            {
+              "id": "G-07.1",
+              "legacy_id": null,
+              "name": "Direction sign over a lane",
+              "note": "New in 2023: direction sign placed over a lane."
+            },
+            {
+              "id": "G-08.1",
+              "legacy_id": null,
+              "name": "Road identification",
+              "note": "Road identification signs are covered by Article 17 of the 2006 Convention but carry no \"G\" number there; 2023 gives them the number G-08.1."
+            },
+            {
+              "id": "G-09.1",
+              "legacy_id": null,
+              "name": "Place identification",
+              "note": "Place identification signs are covered by Article 18 of the 2006 Convention but carry no \"G\" number there; 2023 gives them the number G-09.1."
+            },
+            {
+              "id": "G-10.1",
+              "legacy_id": "G,10",
+              "name": "Place confirmation",
+              "note": "2006 sign G, 10 was given as an example of a confirmatory sign."
+            },
+            {
+              "id": "G-10.2",
+              "legacy_id": "G,10",
+              "name": "Place confirmation"
+            },
+            {
+              "id": "G-11.1",
+              "legacy_id": "G,11a",
+              "name": "Direction of lanes",
+              "note": "2006 gave G, 11a; G, 11b and G, 11c as examples."
+            },
+            {
+              "id": "G-11.2",
+              "legacy_id": "G,11b",
+              "name": "Direction of lanes"
+            },
+            {
+              "id": "G-12.1",
+              "legacy_id": "G,12a",
+              "name": "End or closure of a lane",
+              "note": "2006 gave G, 12a and G, 12b as examples of lane closure signs."
+            },
+            {
+              "id": "G-12.2",
+              "legacy_id": "G,12b",
+              "name": "End or closure of a lane"
+            },
+            {
+              "id": "G-12.3",
+              "legacy_id": "G,12b",
+              "name": "End or closure of a lane"
+            },
+            {
+              "id": "G-13.1",
+              "legacy_id": "G,13",
+              "name": "No through road"
+            },
+            {
+              "id": "G-14.1",
+              "legacy_id": "G,14",
+              "name": "General speed limits"
+            },
+            {
+              "id": "G-15.1",
+              "legacy_id": "G,15",
+              "name": "Road open or closed"
+            },
+            {
+              "id": "G-16.1",
+              "legacy_id": "G,16",
+              "name": "Advisory snow tyres or snow chains",
+              "note": "Renamed: 2006 \"Chains or snow tyres recommended\" -> 2023 \"Advisory snow tyres or snow chains\"."
+            },
+            {
+              "id": "G-17.1",
+              "legacy_id": "G,17",
+              "name": "Advisory speed"
+            },
+            {
+              "id": "G-18.1",
+              "legacy_id": "G,18",
+              "name": "Advised itinerary",
+              "note": "Renamed: 2006 \"Advised itinerary for heavy vehicles\"."
+            },
+            {
+              "id": "G-19.1",
+              "legacy_id": "G,19",
+              "name": "Escape lane"
+            },
+            {
+              "id": "G-20.1",
+              "legacy_id": "G,20",
+              "name": "Overpass",
+              "note": "2006 sign G, 20 covered both the overpass and the underpass; 2023 splits them into G-20.1 and G-20.2."
+            },
+            {
+              "id": "G-20.2",
+              "legacy_id": "G,20",
+              "name": "Underpass"
+            },
+            {
+              "id": "G-21.1",
+              "legacy_id": "G,21",
+              "name": "Overpass without steps",
+              "note": "2006 sign G, 21 covered an overpass or underpass without steps."
+            },
+            {
+              "id": "G-21.2",
+              "legacy_id": "G,21",
+              "name": "Overpass without steps"
+            },
+            {
+              "id": "G-22.1",
+              "legacy_id": "G,22a",
+              "name": "Exit from a motorway",
+              "note": "2006 gave G, 22a; G, 22b and G, 22c as examples."
+            },
+            {
+              "id": "G-22.2",
+              "legacy_id": "G,22b",
+              "name": "Exit from a motorway"
+            },
+            {
+              "id": "G-22.3",
+              "legacy_id": "G,22c",
+              "name": "Exit from a motorway"
+            },
+            {
+              "id": "G-25.1",
+              "legacy_id": null,
+              "name": "Crash through gates",
+              "note": "New in 2023: crash through gates."
+            },
+            {
+              "id": "G-26.1",
+              "legacy_id": null,
+              "name": "Scheme of diversion",
+              "note": "New in 2023. The 2006 text mentioned signs for temporary conditions such as road works, diversions or detours without numbering them."
+            },
+            {
+              "id": "G-26.2",
+              "legacy_id": null,
+              "name": "Diversion direction (right)",
+              "note": "New in 2023. The 2006 text mentioned signs for temporary conditions such as road works, diversions or detours without numbering them."
+            },
+            {
+              "id": "G-26.3",
+              "legacy_id": null,
+              "name": "Direction of diversion",
+              "note": "New in 2023. The 2006 text mentioned signs for temporary conditions such as road works, diversions or detours without numbering them."
+            },
+            {
+              "id": "G-27.1",
+              "legacy_id": null,
+              "name": "Direction of lanes during road works",
+              "note": "New in 2023: direction of lanes during road works."
+            },
+            {
+              "id": "G-28.1",
+              "legacy_id": null,
+              "name": "Temporary lane closure",
+              "note": "New in 2023: temporary lane closure."
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "green",
+          "border_color": null,
+          "symbol_color": "white",
+          "note": "Emergency exit signs have a green ground with white symbols, arrows and inscriptions.",
+          "reference": [
+            {
+              "id": "G-23.1",
+              "legacy_id": "G,23a",
+              "name": "Emergency exit",
+              "note": "2006 gave G, 23a and G, 23b to indicate the location of emergency exits."
+            },
+            {
+              "id": "G-24.1",
+              "legacy_id": "G,24a",
+              "name": "Direction to the nearest emergency exit (left)",
+              "note": "2006 gave G, 24a; G, 24b and G, 24c as examples of signs indicating the direction to the nearest emergency exit."
+            },
+            {
+              "id": "G-24.2",
+              "legacy_id": "G,24b",
+              "name": "Direction to the nearest emergency exit (right)"
+            },
+            {
+              "id": "G-24.3",
+              "legacy_id": "G,24c",
+              "name": "Directions to the nearest emergency exit"
+            }
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "legacy_id": "G,7",
+          "name": "Direction of a camping site",
+          "note": "Absorbed into the general direction signs G-05.x, which may bear the symbols of other signs."
+        },
+        {
+          "legacy_id": "G,8",
+          "name": "Direction of a youth hostel",
+          "note": "Absorbed into the general direction signs G-05.x."
+        },
+        {
+          "legacy_id": "G,9a",
+          "name": "Direction of a parking place for users of public transport",
+          "note": "Covered in 2023 by the park and ride signs E-12.2 to E-12.4."
+        },
+        {
+          "legacy_id": "G,9b",
+          "name": "Direction of a parking place for users of public transport",
+          "note": "Covered in 2023 by the park and ride signs E-12.2 to E-12.4."
+        }
+      ]
+    },
+    {
+      "category": "H",
+      "categoryName": "Additional panels",
+      "shapes": [
+        {
+          "shape": "rectangle",
+          "background_color": "white",
+          "border_color": "black",
+          "symbol_color": "black",
+          "note": "Panels used with danger warning, priority, prohibitory and restrictive signs: white or yellow ground with a black or dark blue symbol or inscription. 2006 also allowed a dark ground with a light inscription and a red rim.",
+          "reference": [
+            {
+              "id": "H-01.1",
+              "legacy_id": "H,1",
+              "name": "Distance panel"
+            },
+            {
+              "id": "H-02.1",
+              "legacy_id": "H,2",
+              "name": "Length indication panel",
+              "note": "Renamed: 2006 panels H, 2 show the length of the section or zone concerned."
+            },
+            {
+              "id": "H-03.1",
+              "legacy_id": "H,3a",
+              "name": "Panel indicating the beginning of parking, parking prohibition or restriction or the direction to parking places",
+              "note": "2006 panels H, 3 had three models: H, 3a; H, 3b and H, 3c."
+            },
+            {
+              "id": "H-03.2",
+              "legacy_id": "H,3b",
+              "name": "Panel indicating the repetition of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-03.3",
+              "legacy_id": "H,3c",
+              "name": "Panel indicating the end of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-04.1",
+              "legacy_id": "H,4a",
+              "name": "Panel indicating the beginning of parking prohibition or restriction or the direction to parking places",
+              "note": "2006 panels H, 4 had three models: H, 4a; H, 4b and H, 4c."
+            },
+            {
+              "id": "H-04.2",
+              "legacy_id": "H,4b",
+              "name": "Panel indicating the repetition of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-04.3",
+              "legacy_id": "H,4c",
+              "name": "Panel indicating the end of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-05.1",
+              "legacy_id": "H,5a",
+              "name": "Road user panel",
+              "note": "2006 gave H, 5a and H, 5b as examples of panels restricting a sign to a category of road user."
+            },
+            {
+              "id": "H-06.1",
+              "legacy_id": "H,6",
+              "name": "Road user panel",
+              "note": "Panel bearing the category of road user to which the sign does not apply, with the term \"except\"."
+            },
+            {
+              "id": "H-07.1",
+              "legacy_id": "H,7",
+              "name": "Person with disabilities panel",
+              "note": "2006 panel H, 7 for parking reserved for handicapped persons; 2023 wording: persons with disabilities."
+            },
+            {
+              "id": "H-07.2",
+              "legacy_id": "H,7",
+              "name": "Person with disabilities panel",
+              "note": "2023 adds the case of parking not prohibited for persons with disabilities (used with C-18.1)."
+            },
+            {
+              "id": "H-08.1",
+              "legacy_id": "H,8",
+              "name": "Intersection panel"
+            },
+            {
+              "id": "H-09.1",
+              "legacy_id": "H,9",
+              "name": "Ice or snow panel"
+            },
+            {
+              "id": "H-10.1",
+              "legacy_id": null,
+              "name": "Distance to a STOP sign",
+              "note": "New in 2023: distance to a STOP sign. It takes over the function of the 2006 symbols A, 21a and A, 21b (\"Stop ahead\")."
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "yellow",
+          "border_color": "black",
+          "symbol_color": "black",
+          "note": "Yellow ground variant.",
+          "reference": [
+            {
+              "id": "H-01.1",
+              "legacy_id": "H,1",
+              "name": "Distance panel"
+            },
+            {
+              "id": "H-02.1",
+              "legacy_id": "H,2",
+              "name": "Length indication panel",
+              "note": "Renamed: 2006 panels H, 2 show the length of the section or zone concerned."
+            },
+            {
+              "id": "H-03.1",
+              "legacy_id": "H,3a",
+              "name": "Panel indicating the beginning of parking, parking prohibition or restriction or the direction to parking places",
+              "note": "2006 panels H, 3 had three models: H, 3a; H, 3b and H, 3c."
+            },
+            {
+              "id": "H-03.2",
+              "legacy_id": "H,3b",
+              "name": "Panel indicating the repetition of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-03.3",
+              "legacy_id": "H,3c",
+              "name": "Panel indicating the end of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-04.1",
+              "legacy_id": "H,4a",
+              "name": "Panel indicating the beginning of parking prohibition or restriction or the direction to parking places",
+              "note": "2006 panels H, 4 had three models: H, 4a; H, 4b and H, 4c."
+            },
+            {
+              "id": "H-04.2",
+              "legacy_id": "H,4b",
+              "name": "Panel indicating the repetition of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-04.3",
+              "legacy_id": "H,4c",
+              "name": "Panel indicating the end of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-05.1",
+              "legacy_id": "H,5a",
+              "name": "Road user panel",
+              "note": "2006 gave H, 5a and H, 5b as examples of panels restricting a sign to a category of road user."
+            },
+            {
+              "id": "H-06.1",
+              "legacy_id": "H,6",
+              "name": "Road user panel",
+              "note": "Panel bearing the category of road user to which the sign does not apply, with the term \"except\"."
+            },
+            {
+              "id": "H-07.1",
+              "legacy_id": "H,7",
+              "name": "Person with disabilities panel",
+              "note": "2006 panel H, 7 for parking reserved for handicapped persons; 2023 wording: persons with disabilities."
+            },
+            {
+              "id": "H-07.2",
+              "legacy_id": "H,7",
+              "name": "Person with disabilities panel",
+              "note": "2023 adds the case of parking not prohibited for persons with disabilities (used with C-18.1)."
+            },
+            {
+              "id": "H-08.1",
+              "legacy_id": "H,8",
+              "name": "Intersection panel"
+            },
+            {
+              "id": "H-09.1",
+              "legacy_id": "H,9",
+              "name": "Ice or snow panel"
+            },
+            {
+              "id": "H-10.1",
+              "legacy_id": null,
+              "name": "Distance to a STOP sign",
+              "note": "New in 2023: distance to a STOP sign. It takes over the function of the 2006 symbols A, 21a and A, 21b (\"Stop ahead\")."
+            }
+          ]
+        },
+        {
+          "shape": "rectangle",
+          "background_color": "blue",
+          "border_color": null,
+          "symbol_color": "white",
+          "note": "2023 addition: panels used with mandatory, special regulation and informative signs may instead have a green or blue ground with a white symbol or inscription.",
+          "reference": [
+            {
+              "id": "H-01.1",
+              "legacy_id": "H,1",
+              "name": "Distance panel"
+            },
+            {
+              "id": "H-02.1",
+              "legacy_id": "H,2",
+              "name": "Length indication panel",
+              "note": "Renamed: 2006 panels H, 2 show the length of the section or zone concerned."
+            },
+            {
+              "id": "H-03.1",
+              "legacy_id": "H,3a",
+              "name": "Panel indicating the beginning of parking, parking prohibition or restriction or the direction to parking places",
+              "note": "2006 panels H, 3 had three models: H, 3a; H, 3b and H, 3c."
+            },
+            {
+              "id": "H-03.2",
+              "legacy_id": "H,3b",
+              "name": "Panel indicating the repetition of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-03.3",
+              "legacy_id": "H,3c",
+              "name": "Panel indicating the end of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-04.1",
+              "legacy_id": "H,4a",
+              "name": "Panel indicating the beginning of parking prohibition or restriction or the direction to parking places",
+              "note": "2006 panels H, 4 had three models: H, 4a; H, 4b and H, 4c."
+            },
+            {
+              "id": "H-04.2",
+              "legacy_id": "H,4b",
+              "name": "Panel indicating the repetition of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-04.3",
+              "legacy_id": "H,4c",
+              "name": "Panel indicating the end of parking prohibition or restriction or the direction to parking places"
+            },
+            {
+              "id": "H-05.1",
+              "legacy_id": "H,5a",
+              "name": "Road user panel",
+              "note": "2006 gave H, 5a and H, 5b as examples of panels restricting a sign to a category of road user."
+            },
+            {
+              "id": "H-06.1",
+              "legacy_id": "H,6",
+              "name": "Road user panel",
+              "note": "Panel bearing the category of road user to which the sign does not apply, with the term \"except\"."
+            },
+            {
+              "id": "H-07.1",
+              "legacy_id": "H,7",
+              "name": "Person with disabilities panel",
+              "note": "2006 panel H, 7 for parking reserved for handicapped persons; 2023 wording: persons with disabilities."
+            },
+            {
+              "id": "H-07.2",
+              "legacy_id": "H,7",
+              "name": "Person with disabilities panel",
+              "note": "2023 adds the case of parking not prohibited for persons with disabilities (used with C-18.1)."
+            },
+            {
+              "id": "H-08.1",
+              "legacy_id": "H,8",
+              "name": "Intersection panel"
+            },
+            {
+              "id": "H-09.1",
+              "legacy_id": "H,9",
+              "name": "Ice or snow panel"
+            },
+            {
+              "id": "H-10.1",
+              "legacy_id": null,
+              "name": "Distance to a STOP sign",
+              "note": "New in 2023: distance to a STOP sign. It takes over the function of the 2006 symbols A, 21a and A, 21b (\"Stop ahead\")."
+            }
+          ]
+        }
+      ],
+      "removed": []
+    }
+  ]
+}
