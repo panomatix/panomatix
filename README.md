@@ -112,8 +112,7 @@ rules come from the Convention texts. National codes come from `road_signs_all.j
 ## Name, licence, versioning
 
 A reviewer made the point that three things should be settled at the earliest stage of a project like
-this — a name, a licence and a versioning strategy — and that CC0 would waive the attribution the
-project would like to keep. Here is where the project stands on each.
+this — a name, a licence and a versioning strategy. Here is where the project stands on each.
 
 ### Name
 
@@ -125,32 +124,16 @@ which is what a cross-reference database is for.
 
 ### Licence
 
-The intended split is:
+The repository is dedicated to the public domain under **CC0 1.0 Universal**, see the `LICENSE` file.
+This applies to everything in the repository that the project itself can license — data
+(`full_database.json`, `comparison_2006-2023.json`, `template.json`) and scripts alike — with no
+attribution requirement and no share-alike obligation, for any purpose including commercial use and
+import into OpenStreetMap, Panoramax, or any other project.
 
-- **Data** (`full_database.json`, `comparison_2006-2023.json`, `template.json`): **CC BY 4.0**.
-  Version 4 of the Creative Commons licences explicitly covers *sui generis* database rights, so
-  attribution is preserved in the EU without the share-alike constraint of ODbL. ODbL is the alternative
-  if compatibility with OpenStreetMap matters more than simplicity: CC BY 4.0 data cannot be imported
-  into OSM without a separate waiver, ODbL data can. Given that the database *points to* OSM tags rather
-  than feeding OSM, CC BY 4.0 is the better default; the choice can be revisited before 1.0.
-- **Scripts** (`scripts/`): **MIT**.
-- **Sources**: the Convention texts are United Nations documents, and `road_signs_all.json` and the
-  pictures keep whatever licence they were obtained under. Neither is relicensed here, and the origin
-  and licence of the two source catalogues should be recorded before the data is published.
-
-Nothing is licensed until a `LICENSE` file says so; this section records the intent so that the choice
-is made before, not after, the first external user.
-
-### Derogation for OpenStreetMap and Panoramax
-
-The CC BY 4.0 / ODbL split above governs *external* reuse. As an explicit exception to it, the
-**OpenStreetMap Foundation and the OpenStreetMap community**, and **Panoramax** (the open street-level
-imagery platform), are granted unrestricted, royalty-free, worldwide access to every file in this
-repository — data, scripts, sources and derived products — for any purpose, including import into OSM
-or Panoramax, redistribution and modification, with **no attribution requirement, no share-alike
-obligation, and no other condition of any licence in this repository**. This derogation exists because
-the database points to OSM tags by design and both projects should be free to build on it without a
-wall; it does not extend to any other party, who remains bound by the licences above.
+**Sources** are the exception: the Convention texts are United Nations documents, and
+`road_signs_all.json` and the pictures keep whatever licence they were obtained under. Neither is
+relicensed here, and the origin and licence of the two source catalogues should be recorded before the
+data is published.
 
 ### Versioning
 
