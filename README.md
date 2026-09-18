@@ -26,6 +26,45 @@ VIENNA:C-14.1  Maximum speed limit
 | `pictures_of_road_signs/` | Source: sign images per country (27 folders; several — Croatia, Cyprus, Greece, Ireland, Italy, Luxembourg, Malta — are not covered by `road_signs_all.json`). |
 | `Conv_road_signs_2006v_EN.pdf`, `ECE-TRANS-WP1-2023-2-Rev2e.pdf` | Sources: the 2006 consolidated Convention and the 2023 revision (ECE/TRANS/WP.1/2023/2/Rev.2). |
 | `scripts/` | Build pipeline (see below). |
+| `display/` | Static web viewer for `full_database.json` (see [Browsing the database](#browsing-the-database)). |
+
+## Browsing the database
+
+`display/` is a plain HTML/CSS/JS page that shows `full_database.json` as a table — one row per Vienna
+sign, one column per country — with the national sign images from `pictures_of_road_signs/`.
+
+It must be served over HTTP (the page loads the JSON with `fetch()`, which browsers block on `file://`),
+and the server must be started **from the repository root** so that the images, which live outside
+`display/`, are reachable:
+
+```
+python3 -m http.server 8000
+```
+
+then open <http://localhost:8000/display/>.
+
+- **Category** — the dropdown filters the table by Vienna category (A, B, C, … and the `OTHER-*` groups).
+- **One sign per cell** — checked by default; each cell shows the country's main code only. Uncheck it to
+  see every code attached to the sign for that country (variants, mirrored versions, …).
+- **Click a sign** to open its full record: the national code(s), texts, OSM tag and additional panels;
+  the design it belongs to (shape, colours, band, bar, model, versions); the Vienna sign itself (names,
+  description, legacy references); and the raw JSON.
+
+Images are matched by name: national code `fr:A7` → file `FR-A7.svg`. The lookup table is
+`display/images_index.json`; regenerate it after adding pictures:
+
+```
+python3 -c "
+import json, os
+idx = {}
+for root, _, files in os.walk('pictures_of_road_signs'):
+    for f in files:
+        name, ext = os.path.splitext(f)
+        if ext.lower() in ('.svg', '.png', '.jpg', '.jpeg', '.gif'):
+            idx.setdefault(name.lower(), os.path.join('..', root, f))
+json.dump(idx, open('display/images_index.json', 'w'), indent=2, sort_keys=True)
+"
+```
 
 ## Data model
 
