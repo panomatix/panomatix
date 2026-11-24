@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="194.737"
+   height="300"
+   viewBox="0 0 51.524163 79.375002"
+   version="1.1"
+   id="svg3126"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Nederlandse Wegenverkeersregeling 1966 figuur 114.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3128"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.8529742"
+     inkscape:cx="145.44185"
+     inkscape:cy="159.47335"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3123" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect3546"
+       style="fill:#04518e;fill-opacity:1;stroke:#4d348b;stroke-width:0.0489904;stroke-linecap:square"
+       d="M 0.0244952,0.0244952 H 51.499669 V 79.350507 H 0.0244952 Z" />
+    <path
+       style="display:inline;vector-effect:none;fill:#f7fbf5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.59741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 8.35526,8.35526 H 43.16884 V 43.16884 H 8.35526 Z"
+       id="path5132"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.8589px;line-height:1.25;font-family:WF-Oo-F;-inkscape-font-specification:WF-Oo-F;letter-spacing:0px;word-spacing:0px;fill:#2a2d2f;fill-opacity:1;stroke:none;stroke-width:1.39254"
+       d="m 11.20969,9.81716 v 2.46147 5.21379 24.21453 h 5.34717 V 25.51863 h 10.97175 c 9.75617,0.0158 9.8088,-15.70147 0.14421,-15.70147 z m 5.34717,5.21395 h 10.18843 c 3.64874,0 3.32942,5.27373 0,5.27373 H 16.55686 v -0.14421 -4.98542 z m 2.46958,15.11942 c -0.39631,-0.0158 -0.78116,0.0753 -1.058,0.36736 -0.55353,0.58306 -0.23158,1.4289 0.0763,1.61285 0.30789,0.18421 0.92263,0.42894 1.19947,0.76689 0.27684,0.33737 0.36895,1.22653 -0.4921,1.77884 -0.86127,0.55253 -1.10611,1.59764 -1.13685,2.51853 -0.0316,0.92074 1.50674,4.51211 1.50674,4.51211 h 0.27737 2.83131 c -1.79121,-1.37374 -2.909,-4.07543 -2.29689,-4.52574 0.33684,-0.21737 1.12726,2.0671 2.11947,2.89242 0.75253,0.6261 2.3288,1.63332 2.3288,1.63332 h 15.18475 l 0.74795,-2.42606 c 0,0 -0.15211,-0.30737 -0.45948,0.12263 -0.30737,0.42948 -0.84773,0.98453 -1.27831,0.98453 H 36.8227 c 0,0 -0.70373,-0.0316 -1.13415,-1.10958 -0.43053,-1.07437 -1.12148,-2.07574 -1.98274,-2.59752 -0.86133,-0.52158 -2.15643,-1.08327 -3.2638,0.0847 -1.25942,0.94948 -2.35379,1.71895 -2.90747,1.71895 -0.55369,0 -1.45574,0.12947 -2.62464,-1.19132 -1.16873,-1.31968 -1.74201,-2.90647 -2.78779,-3.48958 -0.70811,-0.45105 -0.84685,-0.52689 -1.15322,-0.84578 0,0 0.29316,-0.15316 0.41632,-0.76706 0.12263,-0.61379 -0.58626,-1.59373 -1.2321,-1.80863 -0.32316,-0.10737 -0.72995,-0.22 -1.126,-0.23105 z m 12.60364,8.34163 c 0.61484,-0.0474 1.17984,0.31 1.55301,0.70447 0.54437,0.69448 -0.0868,0.89205 -0.0868,0.89205 0,0 -0.63438,0.29053 -2.26559,0.0316 -0.0863,-0.0211 -0.97858,-0.45684 0.17421,-1.43331 0.21053,-0.12 0.42053,-0.1779 0.62558,-0.19316 z"
+       id="path6031"
+       sodipodi:nodetypes="cccccccsccssccccccssssccccscccssccscscccssccccccccc" />
+  </g>
+</svg>

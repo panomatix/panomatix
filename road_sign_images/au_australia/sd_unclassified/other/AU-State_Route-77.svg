@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1440"
+   height="1350"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Susan and Tristan\My Documents"
+   sodipodi:docname="Australian State Route 77.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4037037"
+     inkscape:cx="639.77363"
+     inkscape:cy="759.94106"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccscc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7.14798641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.073786,170.56971 C 18.073786,132.0504 34.583256,41.192757 36.597331,3.5739868 L 1395.5796,5.6924668 C 1397.5937,43.311257 1409.8907,102.08885 1415.563,140.18175 C 1509.5818,771.57667 1286.3586,1285.5997 735.17949,1346.426 C 244.27135,1292.3475 -68.984278,761.47692 18.073786,170.56971 z "
+       id="path1690" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       style="fill:#007bcf;fill-opacity:0.94117647"
+       d="M 71.781499,210.94623 C 71.781499,175.50651 86.971049,91.912917 88.824099,57.301767 L 1333.0353,59.250867 C 1334.8884,93.862027 1352.3231,147.94038 1357.542,182.98776 C 1444.044,763.90289 1238.6674,1236.8299 731.55487,1292.7933 C 279.89466,1243.0385 -8.3162958,754.6106 71.781499,210.94623 z "
+       id="path1479" />
+    <path
+       id="path3114"
+       d="M 372.4178,858.81734 C 381.98005,702.09261 401.77556,610.56815 452.01568,490.79722 C 469.20998,449.80646 511.10088,366.77848 530.80888,334.62868 L 547.28738,307.74721 L 383.73308,307.08836 L 220.17885,306.4295 L 220.17885,252.68538 L 220.17885,198.94126 L 451.87158,198.94126 L 683.56428,198.94126 L 683.56428,253.52746 L 683.56428,308.11366 L 669.37438,325.85142 C 586.74918,429.13527 513.30878,603.24297 491.80908,746.81121 C 487.21048,777.51933 481.35748,849.34083 481.32508,875.45824 L 481.31318,885.05874 L 426.06488,885.05874 L 370.81674,885.05874 L 372.4178,858.81734 z "
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       id="path1439"
+       d="M 931.46367,856.81734 C 941.02592,700.09261 960.82143,608.56815 1011.0616,488.79722 C 1028.2559,447.80646 1070.1468,364.77848 1089.8548,332.62868 L 1106.3333,305.74721 L 942.77895,305.08836 L 779.22472,304.4295 L 779.22472,250.68538 L 779.22472,196.94126 L 1010.9175,196.94126 L 1242.6102,196.94126 L 1242.6102,251.52746 L 1242.6102,306.11366 L 1228.4203,323.85142 C 1145.7951,427.13527 1072.3547,601.24297 1050.855,744.81121 C 1046.2564,775.51933 1040.4034,847.34083 1040.371,873.45824 L 1040.3591,883.05874 L 985.11075,883.05874 L 929.86261,883.05874 L 931.46367,856.81734 z "
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="123.64626"
+   height="61.761253"
+   viewBox="0 0 348.95731 174.30397"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Australia T2-6-1.svg">
+  <metadata
+     id="metadata62">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs60" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     id="namedview58"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4"
+     inkscape:cx="55.253438"
+     inkscape:cy="-22.811679"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <!-- draw the bicycle -->
+  <!-- RIGHT -->
+  <!-- LANE -->
+  <!-- ONLY -->
+  <path
+     inkscape:connector-curvature="0"
+     d="m 0,174.304 348.9573,0 0,-174.304025841627 -348.9573,0 L 0,174.304 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="path3319" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 4.81895,169.82725 339.26296,0 0,-165.2446959 -339.26296,0 0,165.2446959 z"
+     style="fill:#fee011;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="path3321" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 274.82102,145.26332 -2.11314,-79.791296 12.69648,2.31775 c 1.3335,0.24341 2.31775,-0.93839 2.31775,-2.1202 0,-0.4445 -0.15183,-0.889 -0.2928,-1.13594 l -18.95123,-34.06071 c -0.34925,-0.69144 -1.09009,-1.38289 -1.97203,-1.38289 -0.83961,0 -1.57692,0.69145 -1.91911,1.38289 l -18.95123,34.06071 c -0.15169,0.24694 -0.29633,0.69144 -0.29633,1.13594 0,1.18181 0.98425,2.36361 2.31069,2.1202 l 12.70353,-2.31775 -2.12019,79.791296 16.58761,0 z m -83.33319,0 -2.12019,-79.791296 12.70353,2.31775 c 1.32644,0.24341 2.31069,-0.93839 2.31069,-2.1202 0,-0.4445 -0.14463,-0.889 -0.29633,-1.13594 L 185.1343,30.472924 c -0.34219,-0.69144 -1.0795,-1.38289 -1.9685,-1.38289 -0.83255,0 -1.57339,0.69145 -1.91911,1.38289 l -18.95475,34.06071 c -0.14112,0.24694 -0.29281,0.69144 -0.29281,1.13594 0,1.18181 0.98425,2.36361 2.3107,2.1202 l 12.70353,-2.31775 -2.1202,79.791296 16.59467,0 z M 61.23872,71.624464 l 69.74771,0 0,-23.23148 -69.74771,0 0,23.23148 z m 26.58181,73.638856 16.63383,0 0,-58.134266 -16.63383,0 0,58.134266 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path3325" />
+</svg>

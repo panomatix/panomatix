@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+	<style>
+		.s0 { fill: #0060aa } 
+		.s1 { fill: none;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 15 } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<path id="Background" fill-rule="evenodd" class="s0" d="m30 0h540c16.57 0 30 13.43 30 30v740c0 16.57-13.43 30-30 30h-540c-16.57 0-30-13.43-30-30v-740c0-16.57 13.43-30 30-30z"/>
+	<path id="path3" fill-rule="evenodd" class="s1" d="m52 20h495c16.57 0 30 13.43 30 30v700c0 16.57-13.43 30-30 30h-495c-16.57 0-30-13.43-30-30v-700c0-16.57 13.43-30 30-30z"/>
+	<path id="path4" class="s2" d="m531.83 314.51v20.12h-64.89l-40.37 41.66v-41.66h-262.42v41.66l-40.36-41.66h-56.24v-20.12zm-249.44-22.99v-229.88h-30.28l-43.25 229.88zm30.28 0v-229.88h31.72l41.82 229.88zm0 446.84v-369.25h87.96l67.76 369.25zm-30.28 0v-369.25h-86.51l-67.77 369.25z"/>
+</svg>

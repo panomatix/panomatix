@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1440"
+   height="1350"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Michael Buchan\My Documents\My Pictures\Route Numbers\State Route"
+   sodipodi:docname="Australian_State_Route_45.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="-28.358262"
+     inkscape:cy="272.63907"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccscc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7.14798641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.073786,170.56971 C 18.073786,132.0504 34.583256,41.192757 36.597331,3.5739868 L 1395.5796,5.6924668 C 1397.5937,43.311257 1409.8907,102.08885 1415.563,140.18175 C 1509.5818,771.57667 1286.3586,1285.5997 735.17949,1346.426 C 244.27135,1292.3475 -68.984278,761.47692 18.073786,170.56971 z "
+       id="path1690" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       style="fill:#007bcf;fill-opacity:0.94117647"
+       d="M 71.781499,210.94623 C 71.781499,175.50651 86.971049,91.912917 88.824099,57.301767 L 1332.7081,60.06898 C 1337.3427,94.516517 1352.3231,147.94038 1357.542,182.98776 C 1444.044,763.90289 1238.6674,1236.8299 731.55487,1292.7933 C 279.89466,1243.0385 -8.3162958,754.6106 71.781499,210.94623 z "
+       id="path1479" />
+    <path
+       style="font-size:900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Roadgeek 2005 Series D"
+       d="M 599.94034,758.78252 L 599.94034,909.08252 L 505.44034,909.08252 L 505.44034,758.78252 L 206.64034,758.78252 L 206.64034,702.08252 L 505.44034,306.08252 L 599.94034,306.08252 L 599.94034,672.38252 L 657.54034,672.38252 L 657.54034,758.78252 L 599.94034,758.78252 M 505.44034,445.58252 L 333.54034,672.38252 L 505.44034,672.38252 L 505.44034,445.58252 M 1199.9732,686.78252 C 1199.9727,720.38271 1193.3727,751.28268 1180.1732,779.48252 C 1167.5727,807.68262 1149.5727,832.2826 1126.1732,853.28252 C 1102.7728,874.28255 1074.8728,890.78254 1042.4732,902.78252 C 1010.6729,914.18251 975.57291,919.88251 937.17316,919.88252 C 910.77298,919.88251 884.673,916.88251 858.87316,910.88252 C 833.67305,904.88252 810.57308,896.48253 789.57316,885.68252 L 836.37316,801.08252 C 848.97304,807.68262 865.47302,813.08262 885.87316,817.28252 C 906.27298,820.88261 927.57296,822.68261 949.77316,822.68252 C 971.37292,822.68261 991.4729,819.38261 1010.0732,812.78252 C 1029.2729,805.58262 1045.7728,795.98263 1059.5732,783.98252 C 1073.9728,771.98266 1085.0728,757.88267 1092.8732,741.68252 C 1100.6728,724.8827 1104.5728,706.58272 1104.5732,686.78252 C 1104.5728,671.78276 1101.5728,657.98277 1095.5732,645.38252 C 1090.1728,632.7828 1082.3728,621.68281 1072.1732,612.08252 C 1062.5728,602.48283 1051.1728,594.98283 1037.9732,589.58252 C 1025.3729,584.18284 1011.5729,581.48285 996.57316,581.48252 C 985.7729,581.48285 976.17291,582.38285 967.77316,584.18252 C 959.97293,585.98284 952.47293,589.28284 945.27316,594.08252 C 938.07295,598.88283 930.87296,605.48282 923.67316,613.88252 C 916.47297,621.68281 908.37298,631.8828 899.37316,644.48252 L 803.97316,617.48252 L 819.27316,306.08252 L 1165.7732,306.08252 L 1165.7732,401.48252 L 911.97316,401.48252 L 905.67316,500.48252 C 927.87296,493.88293 945.27294,489.38294 957.87316,486.98252 C 970.47292,484.58294 984.2729,483.38295 999.27316,483.38252 C 1026.8729,483.38295 1052.6728,488.78294 1076.6732,499.58252 C 1101.2728,510.38292 1122.5728,525.0829 1140.5732,543.68252 C 1159.1727,562.28287 1173.5727,583.88284 1183.7732,608.48252 C 1194.5727,633.0828 1199.9727,659.18277 1199.9732,686.78252"
+       id="text1339" />
+  </g>
+</svg>

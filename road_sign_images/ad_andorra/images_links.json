@@ -1,0 +1,1221 @@
+{
+  "country_code": "AD",
+  "country": "Andorra",
+  "images": [
+    {
+      "filename": "h_additional_panels/other/AD-3aI.svg",
+      "iso": "AD",
+      "id": "3aI",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Andorra_traffic_signal_3aI.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/04-Andorra_traffic_signal_3aI.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/04-Andorra_traffic_signal_3aI.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Andorra_traffic_signal_3aI.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_municipality_road_signs_of_Andorra/3-Andorra_traffic_signal_3aI.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Andorra_traffic_signal_3aI.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/02-Andorra_traffic_signal_3aI.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Andorra_traffic_signal_3aI.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/227-Andorra_traffic_signal_3aI.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Andorra_traffic_signal_3aI.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AD-3aIII.svg",
+      "iso": "AD",
+      "id": "3aIII",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Andorra_traffic_signal_3aIII.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/05-Andorra_traffic_signal_3aIII.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/05-Andorra_traffic_signal_3aIII.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Andorra_traffic_signal_3aIII.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_municipality_road_signs_of_Andorra/4-Andorra_traffic_signal_3aIII.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Andorra_traffic_signal_3aIII.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/03-Andorra_traffic_signal_3aIII.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Andorra_traffic_signal_3aIII.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/229-Andorra_traffic_signal_3aIII.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Andorra_traffic_signal_3aIII.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AD-3aIV.svg",
+      "iso": "AD",
+      "id": "3aIV",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Andorra_traffic_signal_3aIV.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/06-Andorra_traffic_signal_3aIV.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/06-Andorra_traffic_signal_3aIV.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Andorra_traffic_signal_3aIV.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_municipality_road_signs_of_Andorra/5-Andorra_traffic_signal_3aIV.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Andorra_traffic_signal_3aIV.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/04-Andorra_traffic_signal_3aIV.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Andorra_traffic_signal_3aIV.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/230-Andorra_traffic_signal_3aIV.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Andorra_traffic_signal_3aIV.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AD-3bI.svg",
+      "iso": "AD",
+      "id": "3bI",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Andorra_traffic_signal_3bI.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_distance_road_signs_of_Andorra/1-Andorra_traffic_signal_3bI.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_distance_road_signs_of_Andorra/1-Andorra_traffic_signal_3bI.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Andorra_traffic_signal_3bI.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/231-Andorra_traffic_signal_3bI.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Andorra_traffic_signal_3bI.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/AD-3bII.svg",
+      "iso": "AD",
+      "id": "3bII",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Andorra_traffic_signal_3bII.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_distance_road_signs_of_Andorra/2-Andorra_traffic_signal_3bII.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_distance_road_signs_of_Andorra/2-Andorra_traffic_signal_3bII.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Andorra_traffic_signal_3bII.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/232-Andorra_traffic_signal_3bII.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Andorra_traffic_signal_3bII.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-Duana.svg",
+      "iso": "AD",
+      "id": "Duana",
+      "description": "Duana",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Andorra_traffic_signal_Duana.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/01-Andorra_traffic_signal_Duana.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/01-Andorra_traffic_signal_Duana.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Andorra_traffic_signal_Duana.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AD-I.22.svg",
+      "iso": "AD",
+      "id": "I.22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Andorra_traffic_signal_I.22.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_warning_road_signs_of_Andorra/01-Andorra_traffic_signal_I.22.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_warning_road_signs_of_Andorra/01-Andorra_traffic_signal_I.22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Andorra_traffic_signal_I.22.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/028-Andorra_traffic_signal_I.22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Andorra_traffic_signal_I.22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AD-I.22_temp.svg",
+      "iso": "AD",
+      "id": "I.22_temp",
+      "description": "temp",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Andorra_traffic_signal_I.22_temp.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/01-Andorra_traffic_signal_I.22_temp.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/01-Andorra_traffic_signal_I.22_temp.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Andorra_traffic_signal_I.22_temp.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/251-Andorra_traffic_signal_I.22_temp.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Andorra_traffic_signal_I.22_temp.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AD-I.34.svg",
+      "iso": "AD",
+      "id": "I.34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Andorra_traffic_signal_I.34.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/02-Andorra_traffic_signal_I.34.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/02-Andorra_traffic_signal_I.34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Andorra_traffic_signal_I.34.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/249-Andorra_traffic_signal_I.34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Andorra_traffic_signal_I.34.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AD-I.38.svg",
+      "iso": "AD",
+      "id": "I.38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Andorra_traffic_signal_I.38.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_warning_road_signs_of_Andorra/02-Andorra_traffic_signal_I.38.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_warning_road_signs_of_Andorra/02-Andorra_traffic_signal_I.38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Andorra_traffic_signal_I.38.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/052-Andorra_traffic_signal_I.38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Andorra_traffic_signal_I.38.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AD-I.40.svg",
+      "iso": "AD",
+      "id": "I.40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Andorra_traffic_signal_I.40.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_warning_road_signs_of_Andorra/03-Andorra_traffic_signal_I.40.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_warning_road_signs_of_Andorra/03-Andorra_traffic_signal_I.40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Andorra_traffic_signal_I.40.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/054-Andorra_traffic_signal_I.40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Andorra_traffic_signal_I.40.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.10.svg",
+      "iso": "AD",
+      "id": "II.A.10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Andorra_traffic_signal_II.A.10.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/02-Andorra_traffic_signal_II.A.10.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/02-Andorra_traffic_signal_II.A.10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Andorra_traffic_signal_II.A.10.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/079-Andorra_traffic_signal_II.A.10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Andorra_traffic_signal_II.A.10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "sd_unclassified/other/AD-II.A.17d.svg",
+      "iso": "AD",
+      "id": "II.A.17d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Andorra_traffic_signal_II.A.17d.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/03-Andorra_traffic_signal_II.A.17d.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/03-Andorra_traffic_signal_II.A.17d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Andorra_traffic_signal_II.A.17d.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/089-Andorra_traffic_signal_II.A.17d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Andorra_traffic_signal_II.A.17d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.17e.svg",
+      "iso": "AD",
+      "id": "II.A.17e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andorra_traffic_signal_II.A.17e.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/03-Andorra_traffic_signal_II.A.17e.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/03-Andorra_traffic_signal_II.A.17e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andorra_traffic_signal_II.A.17e.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/261-Andorra_traffic_signal_II.A.17e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andorra_traffic_signal_II.A.17e.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/other/AD-II.A.18a.svg",
+      "iso": "AD",
+      "id": "II.A.18a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Andorra_traffic_signal_II.A.18a.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_priority_road_signs_of_Andorra/1-Andorra_traffic_signal_II.A.18a.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_priority_road_signs_of_Andorra/1-Andorra_traffic_signal_II.A.18a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Andorra_traffic_signal_II.A.18a.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/091-Andorra_traffic_signal_II.A.18a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Andorra_traffic_signal_II.A.18a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.986
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AD-II.A.20a.svg",
+      "iso": "AD",
+      "id": "II.A.20a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Spain_traffic_signal_r308.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/1-Spain_traffic_signal_r308.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/1-Spain_traffic_signal_r308.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Spain_traffic_signal_r308.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/39-Spain_traffic_signal_r308.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Spain_traffic_signal_r308.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/17-Spain_traffic_signal_r308.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Spain_traffic_signal_r308.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/094-Spain_traffic_signal_r308.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Spain_traffic_signal_r308.svg"
+        }
+      ],
+      "foreign_iso": "ES",
+      "foreign_id": "r308",
+      "id_source": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Andorra",
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20b.svg",
+      "iso": "AD",
+      "id": "II.A.20b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Andorra_traffic_signal_II.A.20b.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/04-Andorra_traffic_signal_II.A.20b.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/04-Andorra_traffic_signal_II.A.20b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Andorra_traffic_signal_II.A.20b.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/095-Andorra_traffic_signal_II.A.20b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Andorra_traffic_signal_II.A.20b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20c.svg",
+      "iso": "AD",
+      "id": "II.A.20c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Andorra_traffic_signal_II.A.20c.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/05-Andorra_traffic_signal_II.A.20c.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/05-Andorra_traffic_signal_II.A.20c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Andorra_traffic_signal_II.A.20c.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/096-Andorra_traffic_signal_II.A.20c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Andorra_traffic_signal_II.A.20c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20d.svg",
+      "iso": "AD",
+      "id": "II.A.20d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Andorra_traffic_signal_II.A.20d.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/06-Andorra_traffic_signal_II.A.20d.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/06-Andorra_traffic_signal_II.A.20d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Andorra_traffic_signal_II.A.20d.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/097-Andorra_traffic_signal_II.A.20d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Andorra_traffic_signal_II.A.20d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20e.svg",
+      "iso": "AD",
+      "id": "II.A.20e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Andorra_traffic_signal_II.A.20e.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/07-Andorra_traffic_signal_II.A.20e.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/07-Andorra_traffic_signal_II.A.20e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Andorra_traffic_signal_II.A.20e.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/098-Andorra_traffic_signal_II.A.20e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Andorra_traffic_signal_II.A.20e.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20f.svg",
+      "iso": "AD",
+      "id": "II.A.20f",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Andorra_traffic_signal_II.A.20f.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/08-Andorra_traffic_signal_II.A.20f.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/08-Andorra_traffic_signal_II.A.20f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Andorra_traffic_signal_II.A.20f.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/099-Andorra_traffic_signal_II.A.20f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Andorra_traffic_signal_II.A.20f.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20g.svg",
+      "iso": "AD",
+      "id": "II.A.20g",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Andorra_traffic_signal_II.A.20g.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/09-Andorra_traffic_signal_II.A.20g.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/09-Andorra_traffic_signal_II.A.20g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Andorra_traffic_signal_II.A.20g.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/100-Andorra_traffic_signal_II.A.20g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Andorra_traffic_signal_II.A.20g.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20h.svg",
+      "iso": "AD",
+      "id": "II.A.20h",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Andorra_traffic_signal_II.A.20h.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/10-Andorra_traffic_signal_II.A.20h.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/10-Andorra_traffic_signal_II.A.20h.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Andorra_traffic_signal_II.A.20h.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/101-Andorra_traffic_signal_II.A.20h.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Andorra_traffic_signal_II.A.20h.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AD-II.A.20i.svg",
+      "iso": "AD",
+      "id": "II.A.20i",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Spain_traffic_signal_r308c.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/2-Spain_traffic_signal_r308c.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/2-Spain_traffic_signal_r308c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Spain_traffic_signal_r308c.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/42-Spain_traffic_signal_r308c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Spain_traffic_signal_r308c.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/102-Spain_traffic_signal_r308c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Spain_traffic_signal_r308c.svg"
+        }
+      ],
+      "foreign_iso": "ES",
+      "foreign_id": "r308c",
+      "id_source": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Andorra",
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AD-II.A.20j.svg",
+      "iso": "AD",
+      "id": "II.A.20j",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spain_traffic_signal_r308d.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/3-Spain_traffic_signal_r308d.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/3-Spain_traffic_signal_r308d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spain_traffic_signal_r308d.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/43-Spain_traffic_signal_r308d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spain_traffic_signal_r308d.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/103-Spain_traffic_signal_r308d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spain_traffic_signal_r308d.svg"
+        }
+      ],
+      "foreign_iso": "ES",
+      "foreign_id": "r308d",
+      "id_source": "https://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_of_Andorra",
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20k.svg",
+      "iso": "AD",
+      "id": "II.A.20k",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Andorra_traffic_signal_II.A.20k.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/11-Andorra_traffic_signal_II.A.20k.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/11-Andorra_traffic_signal_II.A.20k.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Andorra_traffic_signal_II.A.20k.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/104-Andorra_traffic_signal_II.A.20k.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Andorra_traffic_signal_II.A.20k.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.20l.svg",
+      "iso": "AD",
+      "id": "II.A.20l",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Andorra_traffic_signal_II.A.20l.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/12-Andorra_traffic_signal_II.A.20l.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/12-Andorra_traffic_signal_II.A.20l.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Andorra_traffic_signal_II.A.20l.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/105-Andorra_traffic_signal_II.A.20l.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Andorra_traffic_signal_II.A.20l.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.3a.svg",
+      "iso": "AD",
+      "id": "II.A.3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Andorra_traffic_signal_II.A.3a.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/04-Andorra_traffic_signal_II.A.3a.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/04-Andorra_traffic_signal_II.A.3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Andorra_traffic_signal_II.A.3a.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/258-Andorra_traffic_signal_II.A.3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Andorra_traffic_signal_II.A.3a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.3b.svg",
+      "iso": "AD",
+      "id": "II.A.3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Andorra_traffic_signal_II.A.3b.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/13-Andorra_traffic_signal_II.A.3b.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/13-Andorra_traffic_signal_II.A.3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Andorra_traffic_signal_II.A.3b.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/059-Andorra_traffic_signal_II.A.3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Andorra_traffic_signal_II.A.3b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.3b_temp.svg",
+      "iso": "AD",
+      "id": "II.A.3b_temp",
+      "description": "temp",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Andorra_traffic_signal_II.A.3b_temp.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/05-Andorra_traffic_signal_II.A.3b_temp.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/05-Andorra_traffic_signal_II.A.3b_temp.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Andorra_traffic_signal_II.A.3b_temp.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/257-Andorra_traffic_signal_II.A.3b_temp.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Andorra_traffic_signal_II.A.3b_temp.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AD-II.A.4a.svg",
+      "iso": "AD",
+      "id": "II.A.4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Andorra_traffic_signal_II.A.4a.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/06-Andorra_traffic_signal_II.A.4a.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/06-Andorra_traffic_signal_II.A.4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Andorra_traffic_signal_II.A.4a.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/259-Andorra_traffic_signal_II.A.4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Andorra_traffic_signal_II.A.4a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AD-II.A.4b.svg",
+      "iso": "AD",
+      "id": "II.A.4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andorra_traffic_signal_II.A.4b.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/07-Andorra_traffic_signal_II.A.4b.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/07-Andorra_traffic_signal_II.A.4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andorra_traffic_signal_II.A.4b.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/260-Andorra_traffic_signal_II.A.4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andorra_traffic_signal_II.A.4b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.5d.svg",
+      "iso": "AD",
+      "id": "II.A.5d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Andorra_traffic_signal_II.A.5d.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/08-Andorra_traffic_signal_II.A.5d.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/08-Andorra_traffic_signal_II.A.5d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Andorra_traffic_signal_II.A.5d.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/252-Andorra_traffic_signal_II.A.5d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Andorra_traffic_signal_II.A.5d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.5j.svg",
+      "iso": "AD",
+      "id": "II.A.5j",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Andorra_traffic_signal_II.A.5j.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/14-Andorra_traffic_signal_II.A.5j.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/14-Andorra_traffic_signal_II.A.5j.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Andorra_traffic_signal_II.A.5j.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/072-Andorra_traffic_signal_II.A.5j.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Andorra_traffic_signal_II.A.5j.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.6.svg",
+      "iso": "AD",
+      "id": "II.A.6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Andorra_traffic_signal_II.A.6.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/09-Andorra_traffic_signal_II.A.6.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/09-Andorra_traffic_signal_II.A.6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Andorra_traffic_signal_II.A.6.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/254-Andorra_traffic_signal_II.A.6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Andorra_traffic_signal_II.A.6.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-II.A.7.svg",
+      "iso": "AD",
+      "id": "II.A.7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Andorra_traffic_signal_II.A.7.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/10-Andorra_traffic_signal_II.A.7.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/10-Andorra_traffic_signal_II.A.7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Andorra_traffic_signal_II.A.7.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/255-Andorra_traffic_signal_II.A.7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Andorra_traffic_signal_II.A.7.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AD-II.A.8a.svg",
+      "iso": "AD",
+      "id": "II.A.8a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Andorra_traffic_signal_II.A.8a.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/11-Andorra_traffic_signal_II.A.8a.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_temporary_road_signs_of_Andorra/11-Andorra_traffic_signal_II.A.8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Andorra_traffic_signal_II.A.8a.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/253-Andorra_traffic_signal_II.A.8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Andorra_traffic_signal_II.A.8a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AD-III.101a.svg",
+      "iso": "AD",
+      "id": "III.101a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Andorra_traffic_signal_III.101a.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/07-Andorra_traffic_signal_III.101a.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/07-Andorra_traffic_signal_III.101a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Andorra_traffic_signal_III.101a.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/220-Andorra_traffic_signal_III.101a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Andorra_traffic_signal_III.101a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AD-III.20.svg",
+      "iso": "AD",
+      "id": "III.20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andorra_traffic_signal_III.20.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/08-Andorra_traffic_signal_III.20.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/08-Andorra_traffic_signal_III.20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andorra_traffic_signal_III.20.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/163-Andorra_traffic_signal_III.20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andorra_traffic_signal_III.20.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AD-III.23.svg",
+      "iso": "AD",
+      "id": "III.23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Andorra_traffic_signal_III.23.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/09-Andorra_traffic_signal_III.23.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/09-Andorra_traffic_signal_III.23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Andorra_traffic_signal_III.23.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/166-Andorra_traffic_signal_III.23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Andorra_traffic_signal_III.23.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AD-III.24.svg",
+      "iso": "AD",
+      "id": "III.24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Andorra_traffic_signal_III.24.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/10-Andorra_traffic_signal_III.24.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/10-Andorra_traffic_signal_III.24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Andorra_traffic_signal_III.24.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/06-Andorra_traffic_signal_III.24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Andorra_traffic_signal_III.24.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/167-Andorra_traffic_signal_III.24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Andorra_traffic_signal_III.24.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AD-III.27.svg",
+      "iso": "AD",
+      "id": "III.27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Andorra_traffic_signal_III.27.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/11-Andorra_traffic_signal_III.27.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/11-Andorra_traffic_signal_III.27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Andorra_traffic_signal_III.27.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/172-Andorra_traffic_signal_III.27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Andorra_traffic_signal_III.27.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AD-III.42.svg",
+      "iso": "AD",
+      "id": "III.42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Andorra_traffic_signal_III.42.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/12-Andorra_traffic_signal_III.42.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/12-Andorra_traffic_signal_III.42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Andorra_traffic_signal_III.42.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/196-Andorra_traffic_signal_III.42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Andorra_traffic_signal_III.42.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AD-III.5b.svg",
+      "iso": "AD",
+      "id": "III.5b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Andorra_traffic_signal_III.5b.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_service_road_signs_of_Andorra/1-Andorra_traffic_signal_III.5b.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_service_road_signs_of_Andorra/1-Andorra_traffic_signal_III.5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Andorra_traffic_signal_III.5b.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/143-Andorra_traffic_signal_III.5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Andorra_traffic_signal_III.5b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AD-III.6b.svg",
+      "iso": "AD",
+      "id": "III.6b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Andorra_traffic_signal_III.6b.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_service_road_signs_of_Andorra/2-Andorra_traffic_signal_III.6b.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_service_road_signs_of_Andorra/2-Andorra_traffic_signal_III.6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Andorra_traffic_signal_III.6b.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/145-Andorra_traffic_signal_III.6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Andorra_traffic_signal_III.6b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/AD-III.9a.svg",
+      "iso": "AD",
+      "id": "III.9a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Andorra_traffic_signal_III.9a.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/13-Andorra_traffic_signal_III.9a.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/13-Andorra_traffic_signal_III.9a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Andorra_traffic_signal_III.9a.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/149-Andorra_traffic_signal_III.9a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Andorra_traffic_signal_III.9a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AD-Peatge.svg",
+      "iso": "AD",
+      "id": "Peatge",
+      "description": "Peatge",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Andorra_traffic_signal_Peatge.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/15-Andorra_traffic_signal_Peatge.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/SVG_prohibitory_road_signs_of_Andorra/15-Andorra_traffic_signal_Peatge.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Andorra_traffic_signal_Peatge.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/other/AD-R-415.svg",
+      "iso": "AD",
+      "id": "R-415",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/R-415_spain.svg",
+      "kept_from": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/133-R-415_spain.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/133-R-415_spain.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/R-415_spain.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/AD-R-417.svg",
+      "iso": "AD",
+      "id": "R-417",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/R-417.svg",
+      "kept_from": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/135-R-417.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/135-R-417.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/R-417.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/AD-b1.svg",
+      "iso": "AD",
+      "id": "b1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andorra_traffic_signal_b1.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/1-Andorra_traffic_signal_b1.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/1-Andorra_traffic_signal_b1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andorra_traffic_signal_b1.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/221-Andorra_traffic_signal_b1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andorra_traffic_signal_b1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/AD-b2.svg",
+      "iso": "AD",
+      "id": "b2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andorra_traffic_signal_b2.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/2-Andorra_traffic_signal_b2.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/2-Andorra_traffic_signal_b2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andorra_traffic_signal_b2.svg"
+        },
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/SVG_road_signs_in_Andorra/05-Andorra_traffic_signal_b2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andorra_traffic_signal_b2.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/222-Andorra_traffic_signal_b2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Andorra_traffic_signal_b2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.865
+    },
+    {
+      "filename": "h_additional_panels/other/AD-b3.svg",
+      "iso": "AD",
+      "id": "b3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Andorra_traffic_signal_b3.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_distance_road_signs_of_Andorra/3-Andorra_traffic_signal_b3.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_distance_road_signs_of_Andorra/3-Andorra_traffic_signal_b3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Andorra_traffic_signal_b3.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/223-Andorra_traffic_signal_b3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Andorra_traffic_signal_b3.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.926
+    },
+    {
+      "filename": "h_additional_panels/other/AD-b4.svg",
+      "iso": "AD",
+      "id": "b4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andorra_traffic_signal_b4.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/3-Andorra_traffic_signal_b4.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/3-Andorra_traffic_signal_b4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andorra_traffic_signal_b4.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/224-Andorra_traffic_signal_b4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andorra_traffic_signal_b4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/AD-b5.svg",
+      "iso": "AD",
+      "id": "b5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andorra_traffic_signal_b5.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/4-Andorra_traffic_signal_b5.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/4-Andorra_traffic_signal_b5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andorra_traffic_signal_b5.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/225-Andorra_traffic_signal_b5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andorra_traffic_signal_b5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/AD-b6.svg",
+      "iso": "AD",
+      "id": "b6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Andorra_traffic_signal_b6.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/5-Andorra_traffic_signal_b6.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_direction_road_signs_of_Andorra/5-Andorra_traffic_signal_b6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Andorra_traffic_signal_b6.svg"
+        },
+        {
+          "file": "AD_Andorra/wikipedia/01-it_Segnaletica_stradale_ad_Andorra/226-Andorra_traffic_signal_b6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Andorra_traffic_signal_b6.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AD-left_chevron.svg",
+      "iso": "AD",
+      "id": "left",
+      "description": "left",
+      "variants": [
+        "chevron"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Andorra_chevron_sign_left.svg",
+      "kept_from": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/01-Andorra_chevron_sign_left.svg",
+      "sources": [
+        {
+          "file": "AD_Andorra/wiki_commons/01-commons_Category_Diagrams_of_road_signs_of_Andorra/Diagrams_of_indication_road_signs_of_Andorra/01-Andorra_chevron_sign_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Andorra_chevron_sign_left.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    }
+  ]
+}

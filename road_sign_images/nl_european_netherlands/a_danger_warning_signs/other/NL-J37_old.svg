@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Nederlands_verkeersbord_J37"
+   width="350"
+   height="300"
+   viewBox="0 0 350 300"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Ajax.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="1.5733333"
+     inkscape:cx="142.07723"
+     inkscape:cy="81.143539"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Nederlands_verkeersbord_J37" />
+  <path
+     id="rode_driehoek"
+     fill="#c1121c"
+     d="M 11,300 C 11,300 27.820331,300 11,300 C -3.9165388,300 3.7804912,283.85305 3.7804912,283.85305 L 164.90679,8.074496 C 164.90679,8.074496 161.40064,14.190767 164.90679,8.074496 C 171.16011,-2.85324 179.31089,-2.372093 185.11873,7.601505 L 346.21203,283.85305 C 346.21203,283.85305 353.91732,300 339,300 C 322.17219,300 339,300 339,300 L 11,300" />
+  <path
+     id="witte_driehoek"
+     fill="#f7fbf5"
+     d="M 175.483,73.698 L 283.20852,259.57553 L 66.297261,259.57553 L 175.483,73.698" />
+  <path
+     id="zwart_symbool"
+     style="fill:#2a2d2f;stroke:none"
+     d="m 175.00664,248.01437 c 6.30552,0 11.46539,-5.25129 11.46539,-11.67275 l 0,-105.47543 c 0,-6.42146 -5.15987,-11.67275 -11.46539,-11.67275 -6.3437,0 -11.4654,5.25129 -11.4654,11.67275 l 0,105.47543 c 0,6.42146 5.1217,11.67275 11.4654,11.67275 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssss" />
+</svg>

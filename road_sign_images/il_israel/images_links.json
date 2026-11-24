@@ -1,0 +1,4092 @@
+{
+  "country_code": "IL",
+  "country": "Israel",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-101.svg",
+      "iso": "IL",
+      "id": "101",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Israel_road_sign_101.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/008-Israel_road_sign_101.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/008-Israel_road_sign_101.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Israel_road_sign_101.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/003-Israel_road_sign_101.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Israel_road_sign_101.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-102.svg",
+      "iso": "IL",
+      "id": "102",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Israel_road_sign_102.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/009-Israel_road_sign_102.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/009-Israel_road_sign_102.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Israel_road_sign_102.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/004-Israel_road_sign_102.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Israel_road_sign_102.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-103.svg",
+      "iso": "IL",
+      "id": "103",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_103.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/010-Israel_road_sign_103.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/010-Israel_road_sign_103.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_103.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/005-Israel_road_sign_103.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_103.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-104.svg",
+      "iso": "IL",
+      "id": "104",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Israel_road_sign_104.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/011-Israel_road_sign_104.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/011-Israel_road_sign_104.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Israel_road_sign_104.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/006-Israel_road_sign_104.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Israel_road_sign_104.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-105.svg",
+      "iso": "IL",
+      "id": "105",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Israel_road_sign_105.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/012-Israel_road_sign_105.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/012-Israel_road_sign_105.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Israel_road_sign_105.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/007-Israel_road_sign_105.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Israel_road_sign_105.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-106.svg",
+      "iso": "IL",
+      "id": "106",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_106.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/013-Israel_road_sign_106.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/013-Israel_road_sign_106.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_106.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/008-Israel_road_sign_106.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_106.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "sd_unclassified/other/IL-107.svg",
+      "iso": "IL",
+      "id": "107",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Israel_road_sign_107.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/014-Israel_road_sign_107.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/014-Israel_road_sign_107.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Israel_road_sign_107.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/009-Israel_road_sign_107.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Israel_road_sign_107.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-108.svg",
+      "iso": "IL",
+      "id": "108",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Israel_road_sign_108.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/015-Israel_road_sign_108.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/015-Israel_road_sign_108.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Israel_road_sign_108.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/010-Israel_road_sign_108.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Israel_road_sign_108.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-109.svg",
+      "iso": "IL",
+      "id": "109",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Israel_road_sign_109.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/016-Israel_road_sign_109.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/016-Israel_road_sign_109.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Israel_road_sign_109.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/011-Israel_road_sign_109.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Israel_road_sign_109.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-110.svg",
+      "iso": "IL",
+      "id": "110",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_110.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/017-Israel_road_sign_110.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/017-Israel_road_sign_110.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_110.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/012-Israel_road_sign_110.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_110.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-111.svg",
+      "iso": "IL",
+      "id": "111",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_111.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/018-Israel_road_sign_111.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/018-Israel_road_sign_111.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_111.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/013-Israel_road_sign_111.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_111.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "sd_unclassified/other/IL-112L.svg",
+      "iso": "IL",
+      "id": "112L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Israel_road_sign_112L.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/020-Israel_road_sign_112L.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/020-Israel_road_sign_112L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Israel_road_sign_112L.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/014-Israel_road_sign_112L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Israel_road_sign_112L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-112R.svg",
+      "iso": "IL",
+      "id": "112R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_112R.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/019-Israel_road_sign_112R.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/019-Israel_road_sign_112R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_112R.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/015-Israel_road_sign_112R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_112R.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-113.svg",
+      "iso": "IL",
+      "id": "113",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Israel_road_sign_113.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/021-Israel_road_sign_113.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/021-Israel_road_sign_113.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Israel_road_sign_113.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/016-Israel_road_sign_113.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Israel_road_sign_113.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-114.svg",
+      "iso": "IL",
+      "id": "114",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Israel_road_sign_114.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/022-Israel_road_sign_114.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/022-Israel_road_sign_114.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Israel_road_sign_114.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/017-Israel_road_sign_114.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Israel_road_sign_114.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-115.svg",
+      "iso": "IL",
+      "id": "115",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Israel_road_sign_115.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/023-Israel_road_sign_115.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/023-Israel_road_sign_115.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Israel_road_sign_115.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/018-Israel_road_sign_115.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Israel_road_sign_115.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-116.svg",
+      "iso": "IL",
+      "id": "116",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_116.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/024-Israel_road_sign_116.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/024-Israel_road_sign_116.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_116.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/019-Israel_road_sign_116.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_116.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-117.svg",
+      "iso": "IL",
+      "id": "117",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Israel_road_sign_117.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/025-Israel_road_sign_117.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/025-Israel_road_sign_117.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Israel_road_sign_117.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/020-Israel_road_sign_117.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Israel_road_sign_117.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "sd_unclassified/other/IL-118.svg",
+      "iso": "IL",
+      "id": "118",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Israel_road_sign_118.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/026-Israel_road_sign_118.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/026-Israel_road_sign_118.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Israel_road_sign_118.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/021-Israel_road_sign_118.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Israel_road_sign_118.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-119.svg",
+      "iso": "IL",
+      "id": "119",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Israel_road_sign_119.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/027-Israel_road_sign_119.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/027-Israel_road_sign_119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Israel_road_sign_119.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/022-Israel_road_sign_119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Israel_road_sign_119.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-120.svg",
+      "iso": "IL",
+      "id": "120",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Israel_road_sign_120.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/028-Israel_road_sign_120.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/028-Israel_road_sign_120.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Israel_road_sign_120.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/023-Israel_road_sign_120.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Israel_road_sign_120.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-121.svg",
+      "iso": "IL",
+      "id": "121",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Israel_road_sign_121.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/029-Israel_road_sign_121.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/029-Israel_road_sign_121.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Israel_road_sign_121.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/024-Israel_road_sign_121.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Israel_road_sign_121.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-122.svg",
+      "iso": "IL",
+      "id": "122",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Israel_road_sign_122.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/030-Israel_road_sign_122.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/030-Israel_road_sign_122.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Israel_road_sign_122.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/025-Israel_road_sign_122.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Israel_road_sign_122.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-123.svg",
+      "iso": "IL",
+      "id": "123",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Israel_road_sign_123.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/031-Israel_road_sign_123.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/031-Israel_road_sign_123.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Israel_road_sign_123.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/026-Israel_road_sign_123.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Israel_road_sign_123.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-124.svg",
+      "iso": "IL",
+      "id": "124",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Israel_road_sign_124.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/032-Israel_road_sign_124.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/032-Israel_road_sign_124.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Israel_road_sign_124.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/027-Israel_road_sign_124.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Israel_road_sign_124.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-125.svg",
+      "iso": "IL",
+      "id": "125",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Israel_road_sign_125.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/033-Israel_road_sign_125.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/033-Israel_road_sign_125.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Israel_road_sign_125.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/028-Israel_road_sign_125.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Israel_road_sign_125.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-126.svg",
+      "iso": "IL",
+      "id": "126",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Israel_road_sign_126.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/034-Israel_road_sign_126.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/034-Israel_road_sign_126.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Israel_road_sign_126.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/029-Israel_road_sign_126.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Israel_road_sign_126.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-127a.svg",
+      "iso": "IL",
+      "id": "127a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_127a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/035-Israel_road_sign_127a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/035-Israel_road_sign_127a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_127a.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/030-Israel_road_sign_127a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_127a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-127b.svg",
+      "iso": "IL",
+      "id": "127b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Israel_road_sign_127b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/036-Israel_road_sign_127b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/036-Israel_road_sign_127b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Israel_road_sign_127b.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/031-Israel_road_sign_127b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Israel_road_sign_127b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-128a.svg",
+      "iso": "IL",
+      "id": "128a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Israel_road_sign_128a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/037-Israel_road_sign_128a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/037-Israel_road_sign_128a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Israel_road_sign_128a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-128b.svg",
+      "iso": "IL",
+      "id": "128b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Israel_road_sign_128b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/038-Israel_road_sign_128b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/038-Israel_road_sign_128b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Israel_road_sign_128b.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/032-Israel_road_sign_128b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Israel_road_sign_128b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.915
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-129a.svg",
+      "iso": "IL",
+      "id": "129a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Israel_road_sign_129a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/039-Israel_road_sign_129a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/039-Israel_road_sign_129a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Israel_road_sign_129a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-129b.svg",
+      "iso": "IL",
+      "id": "129b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Israel_road_sign_129b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/040-Israel_road_sign_129b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/040-Israel_road_sign_129b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Israel_road_sign_129b.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/033-Israel_road_sign_129b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Israel_road_sign_129b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.915
+    },
+    {
+      "filename": "sd_unclassified/other/IL-130.svg",
+      "iso": "IL",
+      "id": "130",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Israel_road_sign_130.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/041-Israel_road_sign_130.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/041-Israel_road_sign_130.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Israel_road_sign_130.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-131.svg",
+      "iso": "IL",
+      "id": "131",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Israel_road_sign_131.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/042-Israel_road_sign_131.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/042-Israel_road_sign_131.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Israel_road_sign_131.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-132.svg",
+      "iso": "IL",
+      "id": "132",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Israel_road_sign_132.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/043-Israel_road_sign_132.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/043-Israel_road_sign_132.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Israel_road_sign_132.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-133.svg",
+      "iso": "IL",
+      "id": "133",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_133.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/044-Israel_road_sign_133.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/044-Israel_road_sign_133.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_133.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.411
+    },
+    {
+      "filename": "sd_unclassified/other/IL-134.svg",
+      "iso": "IL",
+      "id": "134",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Israel_road_sign_134.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/045-Israel_road_sign_134.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/045-Israel_road_sign_134.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Israel_road_sign_134.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.523
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-135.svg",
+      "iso": "IL",
+      "id": "135",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Israel_road_sign_135.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/046-Israel_road_sign_135.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/046-Israel_road_sign_135.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Israel_road_sign_135.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/034-Israel_road_sign_135.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Israel_road_sign_135.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-136.svg",
+      "iso": "IL",
+      "id": "136",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Israel_road_sign_136.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/047-Israel_road_sign_136.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/047-Israel_road_sign_136.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Israel_road_sign_136.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/035-Israel_road_sign_136.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Israel_road_sign_136.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-137.svg",
+      "iso": "IL",
+      "id": "137",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_137.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/048-Israel_road_sign_137.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/048-Israel_road_sign_137.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_137.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/036-Israel_road_sign_137.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_137.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-138.svg",
+      "iso": "IL",
+      "id": "138",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Israel_road_sign_138.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/049-Israel_road_sign_138.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/049-Israel_road_sign_138.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Israel_road_sign_138.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/037-Israel_road_sign_138.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Israel_road_sign_138.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-139.svg",
+      "iso": "IL",
+      "id": "139",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Israel_road_sign_139.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/050-Israel_road_sign_139.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/050-Israel_road_sign_139.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Israel_road_sign_139.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/038-Israel_road_sign_139.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Israel_road_sign_139.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-140.svg",
+      "iso": "IL",
+      "id": "140",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Israel_road_sign_140.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/051-Israel_road_sign_140.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/051-Israel_road_sign_140.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Israel_road_sign_140.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/039-Israel_road_sign_140.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Israel_road_sign_140.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-141.svg",
+      "iso": "IL",
+      "id": "141",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Israel_road_sign_141.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/052-Israel_road_sign_141.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/052-Israel_road_sign_141.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Israel_road_sign_141.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/040-Israel_road_sign_141.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Israel_road_sign_141.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-142.svg",
+      "iso": "IL",
+      "id": "142",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_142.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/053-Israel_road_sign_142.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/053-Israel_road_sign_142.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_142.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/041-Israel_road_sign_142.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_142.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-143.svg",
+      "iso": "IL",
+      "id": "143",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Israel_road_sign_143.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/054-Israel_road_sign_143.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/054-Israel_road_sign_143.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Israel_road_sign_143.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/042-Israel_road_sign_143.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Israel_road_sign_143.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.923
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-144.svg",
+      "iso": "IL",
+      "id": "144",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Israel_road_sign_144.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/055-Israel_road_sign_144.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/055-Israel_road_sign_144.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Israel_road_sign_144.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/044-Israel_road_sign_144.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Israel_road_sign_144.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-145.svg",
+      "iso": "IL",
+      "id": "145",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Israel_road_sign_145.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/056-Israel_road_sign_145.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/056-Israel_road_sign_145.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Israel_road_sign_145.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/045-Israel_road_sign_145.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Israel_road_sign_145.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-146a.svg",
+      "iso": "IL",
+      "id": "146a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Israel_road_sign_146a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/057-Israel_road_sign_146a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/057-Israel_road_sign_146a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Israel_road_sign_146a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-146b.svg",
+      "iso": "IL",
+      "id": "146b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Israel_road_sign_146b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/058-Israel_road_sign_146b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/058-Israel_road_sign_146b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Israel_road_sign_146b.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/046-Israel_road_sign_146b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Israel_road_sign_146b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-147.svg",
+      "iso": "IL",
+      "id": "147",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_147.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/059-Israel_road_sign_147.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/059-Israel_road_sign_147.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_147.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/047-Israel_road_sign_147.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_147.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "sd_unclassified/other/IL-148.svg",
+      "iso": "IL",
+      "id": "148",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Israel_road_sign_148.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/060-Israel_road_sign_148.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/060-Israel_road_sign_148.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Israel_road_sign_148.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/IL-149.svg",
+      "iso": "IL",
+      "id": "149",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_149.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/061-Israel_road_sign_149.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/061-Israel_road_sign_149.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_149.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/043-Israel_road_sign_149.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_149.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.972
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-150.svg",
+      "iso": "IL",
+      "id": "150",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Israel_road_sign_150.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/062-Israel_road_sign_150.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/062-Israel_road_sign_150.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Israel_road_sign_150.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-151.svg",
+      "iso": "IL",
+      "id": "151",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Israel_road_sign_151.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/063-Israel_road_sign_151.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/063-Israel_road_sign_151.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Israel_road_sign_151.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-152a.svg",
+      "iso": "IL",
+      "id": "152a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Israel_road_sign_152a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/064-Israel_road_sign_152a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/064-Israel_road_sign_152a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Israel_road_sign_152a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IL-152b.svg",
+      "iso": "IL",
+      "id": "152b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Israel_road_sign_152b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/065-Israel_road_sign_152b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/065-Israel_road_sign_152b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Israel_road_sign_152b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-201.svg",
+      "iso": "IL",
+      "id": "201",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Israel_road_sign_201.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/066-Israel_road_sign_201.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/066-Israel_road_sign_201.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Israel_road_sign_201.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/052-Israel_road_sign_201.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Israel_road_sign_201.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-202.svg",
+      "iso": "IL",
+      "id": "202",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Israel_road_sign_202.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/067-Israel_road_sign_202.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/067-Israel_road_sign_202.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Israel_road_sign_202.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/053-Israel_road_sign_202.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Israel_road_sign_202.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-203.svg",
+      "iso": "IL",
+      "id": "203",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Israel_road_sign_203.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/068-Israel_road_sign_203.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/068-Israel_road_sign_203.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Israel_road_sign_203.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/054-Israel_road_sign_203.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Israel_road_sign_203.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-204.svg",
+      "iso": "IL",
+      "id": "204",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Israel_road_sign_204.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/069-Israel_road_sign_204.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/069-Israel_road_sign_204.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Israel_road_sign_204.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/055-Israel_road_sign_204.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Israel_road_sign_204.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-205.svg",
+      "iso": "IL",
+      "id": "205",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_205.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/070-Israel_road_sign_205.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/070-Israel_road_sign_205.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_205.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-206.svg",
+      "iso": "IL",
+      "id": "206",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Israel_road_sign_206.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/071-Israel_road_sign_206.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/071-Israel_road_sign_206.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Israel_road_sign_206.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-207.svg",
+      "iso": "IL",
+      "id": "207",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Israel_road_sign_207.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/072-Israel_road_sign_207.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/072-Israel_road_sign_207.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Israel_road_sign_207.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/056-Israel_road_sign_207.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Israel_road_sign_207.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-208.svg",
+      "iso": "IL",
+      "id": "208",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_208.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/073-Israel_road_sign_208.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/073-Israel_road_sign_208.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_208.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/057-Israel_road_sign_208.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_208.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-209.svg",
+      "iso": "IL",
+      "id": "209",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Israel_road_sign_209.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/074-Israel_road_sign_209.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/074-Israel_road_sign_209.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Israel_road_sign_209.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/058-Israel_road_sign_209.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Israel_road_sign_209.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-210.svg",
+      "iso": "IL",
+      "id": "210",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_210.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/075-Israel_road_sign_210.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/075-Israel_road_sign_210.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_210.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/059-Israel_road_sign_210.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_210.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-211.svg",
+      "iso": "IL",
+      "id": "211",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_211.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/076-Israel_road_sign_211.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/076-Israel_road_sign_211.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_211.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/060-Israel_road_sign_211.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Israel_road_sign_211.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-212.svg",
+      "iso": "IL",
+      "id": "212",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Israel_road_sign_212.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/077-Israel_road_sign_212.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/077-Israel_road_sign_212.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Israel_road_sign_212.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/061-Israel_road_sign_212.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Israel_road_sign_212.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-213.svg",
+      "iso": "IL",
+      "id": "213",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Israel_road_sign_213.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/078-Israel_road_sign_213.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/078-Israel_road_sign_213.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Israel_road_sign_213.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/062-Israel_road_sign_213.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Israel_road_sign_213.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-214.svg",
+      "iso": "IL",
+      "id": "214",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Israel_road_sign_214.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/079-Israel_road_sign_214.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/079-Israel_road_sign_214.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Israel_road_sign_214.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/063-Israel_road_sign_214.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Israel_road_sign_214.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-215.svg",
+      "iso": "IL",
+      "id": "215",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Israel_road_sign_215.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/080-Israel_road_sign_215.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/080-Israel_road_sign_215.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Israel_road_sign_215.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/064-Israel_road_sign_215.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Israel_road_sign_215.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/IL-216.svg",
+      "iso": "IL",
+      "id": "216",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Israel_road_sign_216.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/081-Israel_road_sign_216.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/081-Israel_road_sign_216.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Israel_road_sign_216.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/065-Israel_road_sign_216.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Israel_road_sign_216.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IL-217.svg",
+      "iso": "IL",
+      "id": "217",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Israel_road_sign_217.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/082-Israel_road_sign_217.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/082-Israel_road_sign_217.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Israel_road_sign_217.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/066-Israel_road_sign_217.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Israel_road_sign_217.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-218.svg",
+      "iso": "IL",
+      "id": "218",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Israel_road_sign_218.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/083-Israel_road_sign_218.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/083-Israel_road_sign_218.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Israel_road_sign_218.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/067-Israel_road_sign_218.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Israel_road_sign_218.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IL-219.svg",
+      "iso": "IL",
+      "id": "219",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Israel_road_sign_219.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/084-Israel_road_sign_219.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/084-Israel_road_sign_219.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Israel_road_sign_219.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/068-Israel_road_sign_219.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Israel_road_sign_219.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-220.svg",
+      "iso": "IL",
+      "id": "220",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Israel_road_sign_220.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/085-Israel_road_sign_220.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/085-Israel_road_sign_220.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Israel_road_sign_220.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/069-Israel_road_sign_220.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Israel_road_sign_220.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-221.svg",
+      "iso": "IL",
+      "id": "221",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_221.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/086-Israel_road_sign_221.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/086-Israel_road_sign_221.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_221.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/070-Israel_road_sign_221.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_221.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-222.svg",
+      "iso": "IL",
+      "id": "222",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Israel_road_sign_222.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/087-Israel_road_sign_222.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/087-Israel_road_sign_222.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Israel_road_sign_222.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/071-Israel_road_sign_222.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Israel_road_sign_222.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-223.svg",
+      "iso": "IL",
+      "id": "223",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_223.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/088-Israel_road_sign_223.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/088-Israel_road_sign_223.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_223.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/072-Israel_road_sign_223.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Israel_road_sign_223.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-224.svg",
+      "iso": "IL",
+      "id": "224",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Israel_road_sign_224.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/089-Israel_road_sign_224.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/089-Israel_road_sign_224.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Israel_road_sign_224.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/073-Israel_road_sign_224.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Israel_road_sign_224.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-225.svg",
+      "iso": "IL",
+      "id": "225",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Israel_road_sign_225.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/090-Israel_road_sign_225.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/090-Israel_road_sign_225.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Israel_road_sign_225.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/074-Israel_road_sign_225.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Israel_road_sign_225.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-226.svg",
+      "iso": "IL",
+      "id": "226",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_226.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/091-Israel_road_sign_226.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/091-Israel_road_sign_226.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_226.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/075-Israel_road_sign_226.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_226.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-227.svg",
+      "iso": "IL",
+      "id": "227",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Israel_road_sign_227.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/092-Israel_road_sign_227.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/092-Israel_road_sign_227.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Israel_road_sign_227.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/076-Israel_road_sign_227.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Israel_road_sign_227.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-228.svg",
+      "iso": "IL",
+      "id": "228",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Israel_road_sign_228.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/093-Israel_road_sign_228.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/093-Israel_road_sign_228.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Israel_road_sign_228.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/077-Israel_road_sign_228.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Israel_road_sign_228.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-229.svg",
+      "iso": "IL",
+      "id": "229",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Israel_road_sign_229.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/094-Israel_road_sign_229.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/094-Israel_road_sign_229.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Israel_road_sign_229.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/078-Israel_road_sign_229.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Israel_road_sign_229.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IL-230a.svg",
+      "iso": "IL",
+      "id": "230a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Israel_road_sign_230a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/004-Israel_road_sign_230a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/004-Israel_road_sign_230a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Israel_road_sign_230a.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/079-Israel_road_sign_230a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Israel_road_sign_230a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-230b.svg",
+      "iso": "IL",
+      "id": "230b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Israel_road_sign_230b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/095-Israel_road_sign_230b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/095-Israel_road_sign_230b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Israel_road_sign_230b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-231a.svg",
+      "iso": "IL",
+      "id": "231a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Israel_road_sign_231a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/096-Israel_road_sign_231a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/096-Israel_road_sign_231a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Israel_road_sign_231a.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/080-Israel_road_sign_231a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Israel_road_sign_231a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-231b.svg",
+      "iso": "IL",
+      "id": "231b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Israel_road_sign_231b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/097-Israel_road_sign_231b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/097-Israel_road_sign_231b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Israel_road_sign_231b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-301.svg",
+      "iso": "IL",
+      "id": "301",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_301.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/098-Israel_road_sign_301.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/098-Israel_road_sign_301.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_301.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/081-Israel_road_sign_301.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_301.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.927
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-302.svg",
+      "iso": "IL",
+      "id": "302",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_302.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/001-Israel_road_sign_302.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/001-Israel_road_sign_302.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_302.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/082-Israel_road_sign_302.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_302.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-302_old.svg",
+      "iso": "IL",
+      "id": "302",
+      "description": null,
+      "variants": [
+        "old"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Israel_road_sign_302_%28historic%29.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/222-Israel_road_sign_302_(historic).svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/222-Israel_road_sign_302_(historic).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Israel_road_sign_302_%28historic%29.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.927
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IL-303.svg",
+      "iso": "IL",
+      "id": "303",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_303.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/099-Israel_road_sign_303.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/099-Israel_road_sign_303.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_303.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/083-Israel_road_sign_303.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_303.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-304.svg",
+      "iso": "IL",
+      "id": "304",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Israel_road_sign_304.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/100-Israel_road_sign_304.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/100-Israel_road_sign_304.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Israel_road_sign_304.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/084-Israel_road_sign_304.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Israel_road_sign_304.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/IL-305.svg",
+      "iso": "IL",
+      "id": "305",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Israel_road_sign_305.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/101-Israel_road_sign_305.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/101-Israel_road_sign_305.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Israel_road_sign_305.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/085-Israel_road_sign_305.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Israel_road_sign_305.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IL-306.svg",
+      "iso": "IL",
+      "id": "306",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Israel_road_sign_306.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/102-Israel_road_sign_306.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/102-Israel_road_sign_306.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Israel_road_sign_306.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/145-Israel_road_sign_306.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Israel_road_sign_306.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-307.svg",
+      "iso": "IL",
+      "id": "307",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Israel_road_sign_307.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/103-Israel_road_sign_307.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/103-Israel_road_sign_307.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Israel_road_sign_307.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/086-Israel_road_sign_307.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Israel_road_sign_307.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-308.svg",
+      "iso": "IL",
+      "id": "308",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Israel_road_sign_308.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/104-Israel_road_sign_308.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/104-Israel_road_sign_308.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Israel_road_sign_308.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/087-Israel_road_sign_308.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Israel_road_sign_308.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-309.svg",
+      "iso": "IL",
+      "id": "309",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_309.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/105-Israel_road_sign_309.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/105-Israel_road_sign_309.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_309.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/088-Israel_road_sign_309.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_309.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "b_priority_signs/vienna/IL-310.svg",
+      "iso": "IL",
+      "id": "310",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Israel_road_sign_310.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/106-Israel_road_sign_310.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/106-Israel_road_sign_310.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Israel_road_sign_310.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/089-Israel_road_sign_310.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Israel_road_sign_310.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-401.svg",
+      "iso": "IL",
+      "id": "401",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Israel_road_sign_401.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/107-Israel_road_sign_401.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/107-Israel_road_sign_401.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Israel_road_sign_401.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/090-Israel_road_sign_401.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Israel_road_sign_401.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-402.svg",
+      "iso": "IL",
+      "id": "402",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_402.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/108-Israel_road_sign_402.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/108-Israel_road_sign_402.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_402.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/091-Israel_road_sign_402.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_402.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/IL-403.svg",
+      "iso": "IL",
+      "id": "403",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Israel_road_sign_403.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/109-Israel_road_sign_403.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/109-Israel_road_sign_403.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Israel_road_sign_403.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/092-Israel_road_sign_403.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Israel_road_sign_403.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/IL-404.svg",
+      "iso": "IL",
+      "id": "404",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_404.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/110-Israel_road_sign_404.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/110-Israel_road_sign_404.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_404.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/093-Israel_road_sign_404.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_404.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-405.svg",
+      "iso": "IL",
+      "id": "405",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Israel_road_sign_405.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/111-Israel_road_sign_405.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/111-Israel_road_sign_405.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Israel_road_sign_405.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/094-Israel_road_sign_405.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Israel_road_sign_405.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-406.svg",
+      "iso": "IL",
+      "id": "406",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Israel_road_sign_406.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/112-Israel_road_sign_406.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/112-Israel_road_sign_406.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Israel_road_sign_406.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/095-Israel_road_sign_406.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Israel_road_sign_406.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-407.svg",
+      "iso": "IL",
+      "id": "407",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Israel_road_sign_407.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/113-Israel_road_sign_407.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/113-Israel_road_sign_407.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Israel_road_sign_407.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/096-Israel_road_sign_407.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Israel_road_sign_407.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-408.svg",
+      "iso": "IL",
+      "id": "408",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_408.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/114-Israel_road_sign_408.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/114-Israel_road_sign_408.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_408.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/097-Israel_road_sign_408.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_408.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-409.svg",
+      "iso": "IL",
+      "id": "409",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Israel_road_sign_409.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/115-Israel_road_sign_409.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/115-Israel_road_sign_409.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Israel_road_sign_409.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/098-Israel_road_sign_409.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Israel_road_sign_409.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-410.svg",
+      "iso": "IL",
+      "id": "410",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_410.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/116-Israel_road_sign_410.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/116-Israel_road_sign_410.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_410.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/099-Israel_road_sign_410.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_410.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-411.svg",
+      "iso": "IL",
+      "id": "411",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Israel_road_sign_411.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/117-Israel_road_sign_411.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/117-Israel_road_sign_411.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Israel_road_sign_411.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/100-Israel_road_sign_411.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Israel_road_sign_411.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-412.svg",
+      "iso": "IL",
+      "id": "412",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Israel_road_sign_412.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/118-Israel_road_sign_412.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/118-Israel_road_sign_412.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Israel_road_sign_412.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/101-Israel_road_sign_412.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Israel_road_sign_412.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-413.svg",
+      "iso": "IL",
+      "id": "413",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Israel_road_sign_413.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/119-Israel_road_sign_413.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/119-Israel_road_sign_413.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Israel_road_sign_413.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/102-Israel_road_sign_413.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Israel_road_sign_413.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-414.svg",
+      "iso": "IL",
+      "id": "414",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_414.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/120-Israel_road_sign_414.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/120-Israel_road_sign_414.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_414.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/103-Israel_road_sign_414.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_414.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-414a.svg",
+      "iso": "IL",
+      "id": "414a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Israel_road_sign_414a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/121-Israel_road_sign_414a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/121-Israel_road_sign_414a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Israel_road_sign_414a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-415.svg",
+      "iso": "IL",
+      "id": "415",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Israel_road_sign_415.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/007-Israel_road_sign_415.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/007-Israel_road_sign_415.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Israel_road_sign_415.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/104-Israel_road_sign_415.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Israel_road_sign_415.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-416.svg",
+      "iso": "IL",
+      "id": "416",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Israel_road_sign_416.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/122-Israel_road_sign_416.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/122-Israel_road_sign_416.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Israel_road_sign_416.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/105-Israel_road_sign_416.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Israel_road_sign_416.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-417.svg",
+      "iso": "IL",
+      "id": "417",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Israel_road_sign_417.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/123-Israel_road_sign_417.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/123-Israel_road_sign_417.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Israel_road_sign_417.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/106-Israel_road_sign_417.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Israel_road_sign_417.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-418.svg",
+      "iso": "IL",
+      "id": "418",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Israel_road_sign_418.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/006-Israel_road_sign_418.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/006-Israel_road_sign_418.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Israel_road_sign_418.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/107-Israel_road_sign_418.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Israel_road_sign_418.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-419.svg",
+      "iso": "IL",
+      "id": "419",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_419.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/124-Israel_road_sign_419.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/124-Israel_road_sign_419.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_419.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/108-Israel_road_sign_419.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_419.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-420.svg",
+      "iso": "IL",
+      "id": "420",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Israel_road_sign_420.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/125-Israel_road_sign_420.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/125-Israel_road_sign_420.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Israel_road_sign_420.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/109-Israel_road_sign_420.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Israel_road_sign_420.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-421.svg",
+      "iso": "IL",
+      "id": "421",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Israel_road_sign_421.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/126-Israel_road_sign_421.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/126-Israel_road_sign_421.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Israel_road_sign_421.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/110-Israel_road_sign_421.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Israel_road_sign_421.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-422.svg",
+      "iso": "IL",
+      "id": "422",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_422.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/127-Israel_road_sign_422.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/127-Israel_road_sign_422.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_422.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/111-Israel_road_sign_422.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_422.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-423.svg",
+      "iso": "IL",
+      "id": "423",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_423.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/128-Israel_road_sign_423.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/128-Israel_road_sign_423.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_423.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/112-Israel_road_sign_423.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Israel_road_sign_423.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-424.svg",
+      "iso": "IL",
+      "id": "424",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Israel_road_sign_424.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/129-Israel_road_sign_424.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/129-Israel_road_sign_424.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Israel_road_sign_424.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/113-Israel_road_sign_424.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Israel_road_sign_424.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-425.svg",
+      "iso": "IL",
+      "id": "425",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Israel_road_sign_425.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/130-Israel_road_sign_425.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/130-Israel_road_sign_425.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Israel_road_sign_425.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/114-Israel_road_sign_425.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Israel_road_sign_425.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-426-50.svg",
+      "iso": "IL",
+      "id": "426-50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Israel_road_sign_426-50.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/131-Israel_road_sign_426-50.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/131-Israel_road_sign_426-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Israel_road_sign_426-50.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/115-Israel_road_sign_426-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Israel_road_sign_426-50.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-427-50.svg",
+      "iso": "IL",
+      "id": "427-50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Israel_road_sign_427-50.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/132-Israel_road_sign_427-50.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/132-Israel_road_sign_427-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Israel_road_sign_427-50.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/117-Israel_road_sign_427-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Israel_road_sign_427-50.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-428.svg",
+      "iso": "IL",
+      "id": "428",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Israel_road_sign_428.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/133-Israel_road_sign_428.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/133-Israel_road_sign_428.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Israel_road_sign_428.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/118-Israel_road_sign_428.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Israel_road_sign_428.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-429.svg",
+      "iso": "IL",
+      "id": "429",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Israel_road_sign_429.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/134-Israel_road_sign_429.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/134-Israel_road_sign_429.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Israel_road_sign_429.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/119-Israel_road_sign_429.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Israel_road_sign_429.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-430.svg",
+      "iso": "IL",
+      "id": "430",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_430.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/135-Israel_road_sign_430.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/135-Israel_road_sign_430.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_430.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/120-Israel_road_sign_430.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Israel_road_sign_430.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-431.svg",
+      "iso": "IL",
+      "id": "431",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Israel_road_sign_431.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/136-Israel_road_sign_431.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/136-Israel_road_sign_431.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Israel_road_sign_431.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/121-Israel_road_sign_431.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Israel_road_sign_431.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-432.svg",
+      "iso": "IL",
+      "id": "432",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Israel_road_sign_432.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/137-Israel_road_sign_432.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/137-Israel_road_sign_432.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Israel_road_sign_432.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/122-Israel_road_sign_432.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Israel_road_sign_432.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-433.svg",
+      "iso": "IL",
+      "id": "433",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Israel_road_sign_433.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/138-Israel_road_sign_433.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/138-Israel_road_sign_433.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Israel_road_sign_433.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/123-Israel_road_sign_433.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Israel_road_sign_433.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-434.svg",
+      "iso": "IL",
+      "id": "434",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Israel_road_sign_434.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/139-Israel_road_sign_434.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/139-Israel_road_sign_434.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Israel_road_sign_434.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/124-Israel_road_sign_434.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Israel_road_sign_434.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-435.svg",
+      "iso": "IL",
+      "id": "435",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Israel_road_sign_435.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/140-Israel_road_sign_435.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/140-Israel_road_sign_435.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Israel_road_sign_435.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/125-Israel_road_sign_435.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Israel_road_sign_435.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-436.svg",
+      "iso": "IL",
+      "id": "436",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Israel_road_sign_436.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/141-Israel_road_sign_436.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/141-Israel_road_sign_436.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Israel_road_sign_436.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/126-Israel_road_sign_436.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Israel_road_sign_436.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-437.svg",
+      "iso": "IL",
+      "id": "437",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Israel_road_sign_437.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/142-Israel_road_sign_437.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/142-Israel_road_sign_437.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Israel_road_sign_437.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/144-Israel_road_sign_437.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Israel_road_sign_437.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-438.svg",
+      "iso": "IL",
+      "id": "438",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Israel_road_sign_438.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/143-Israel_road_sign_438.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/143-Israel_road_sign_438.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Israel_road_sign_438.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/127-Israel_road_sign_438.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Israel_road_sign_438.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-439.svg",
+      "iso": "IL",
+      "id": "439",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Israel_road_sign_439.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/144-Israel_road_sign_439.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/144-Israel_road_sign_439.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Israel_road_sign_439.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/128-Israel_road_sign_439.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Israel_road_sign_439.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IL-440.svg",
+      "iso": "IL",
+      "id": "440",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Israel_road_sign_440.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/145-Israel_road_sign_440.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/145-Israel_road_sign_440.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Israel_road_sign_440.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/129-Israel_road_sign_440.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Israel_road_sign_440.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-441.svg",
+      "iso": "IL",
+      "id": "441",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_441.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/146-Israel_road_sign_441.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/146-Israel_road_sign_441.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_441.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/130-Israel_road_sign_441.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_road_sign_441.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IL-4f26-50.svg",
+      "iso": "IL",
+      "id": "4f26-50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_4%D7%A426-50.svg",
+      "kept_from": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/116-Israel_road_sign_4פ26-50.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/116-Israel_road_sign_4פ26-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_4%D7%A426-50.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-504.svg",
+      "iso": "IL",
+      "id": "504",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Israel_road_sign_504.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/147-Israel_road_sign_504.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/147-Israel_road_sign_504.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Israel_road_sign_504.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-505.svg",
+      "iso": "IL",
+      "id": "505",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Israel_road_sign_505.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/148-Israel_road_sign_505.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/148-Israel_road_sign_505.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Israel_road_sign_505.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-601a.svg",
+      "iso": "IL",
+      "id": "601a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Israel_road_sign_601a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/150-Israel_road_sign_601a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/150-Israel_road_sign_601a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Israel_road_sign_601a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IL-601b.svg",
+      "iso": "IL",
+      "id": "601b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_601b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/149-Israel_road_sign_601b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/149-Israel_road_sign_601b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Israel_road_sign_601b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-602a.svg",
+      "iso": "IL",
+      "id": "602a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Israel_road_sign_602a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/152-Israel_road_sign_602a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/152-Israel_road_sign_602a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Israel_road_sign_602a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IL-602b.svg",
+      "iso": "IL",
+      "id": "602b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Israel_road_sign_602b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/151-Israel_road_sign_602b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/151-Israel_road_sign_602b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Israel_road_sign_602b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-607a.svg",
+      "iso": "IL",
+      "id": "607a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Israel_road_sign_607a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/153-Israel_road_sign_607a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/153-Israel_road_sign_607a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Israel_road_sign_607a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IL-608.svg",
+      "iso": "IL",
+      "id": "608",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Israel_road_sign_608.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/154-Israel_road_sign_608.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/154-Israel_road_sign_608.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Israel_road_sign_608.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/146-Israel_road_sign_608.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Israel_road_sign_608.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IL-610a.svg",
+      "iso": "IL",
+      "id": "610a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_610a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/155-Israel_road_sign_610a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/155-Israel_road_sign_610a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_610a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-610b.svg",
+      "iso": "IL",
+      "id": "610b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Israel_road_sign_610b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/156-Israel_road_sign_610b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/156-Israel_road_sign_610b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Israel_road_sign_610b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-613a.svg",
+      "iso": "IL",
+      "id": "613a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Israel_road_sign_613a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/157-Israel_road_sign_613a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/157-Israel_road_sign_613a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Israel_road_sign_613a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-613b.svg",
+      "iso": "IL",
+      "id": "613b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Israel_road_sign_613b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/158-Israel_road_sign_613b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/158-Israel_road_sign_613b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Israel_road_sign_613b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-613c.svg",
+      "iso": "IL",
+      "id": "613c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Israel_road_sign_613c.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/159-Israel_road_sign_613c.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/159-Israel_road_sign_613c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Israel_road_sign_613c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IL-615a.svg",
+      "iso": "IL",
+      "id": "615a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Israel_road_sign_615a.svg",
+      "kept_from": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/138-Israel_road_sign_615a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/138-Israel_road_sign_615a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Israel_road_sign_615a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-616a.svg",
+      "iso": "IL",
+      "id": "616a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Israel_road_sign_616a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/160-Israel_road_sign_616a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/160-Israel_road_sign_616a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Israel_road_sign_616a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-616b.svg",
+      "iso": "IL",
+      "id": "616b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Israel_road_sign_616b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/161-Israel_road_sign_616b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/161-Israel_road_sign_616b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Israel_road_sign_616b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IL-617a.svg",
+      "iso": "IL",
+      "id": "617a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Israel_road_sign_617a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/162-Israel_road_sign_617a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/162-Israel_road_sign_617a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Israel_road_sign_617a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.916
+    },
+    {
+      "filename": "h_additional_panels/other/IL-617b.svg",
+      "iso": "IL",
+      "id": "617b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Israel_road_sign_617b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/163-Israel_road_sign_617b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/163-Israel_road_sign_617b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Israel_road_sign_617b.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/140-Israel_road_sign_617b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Israel_road_sign_617b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.881
+    },
+    {
+      "filename": "sd_unclassified/other/IL-617c.svg",
+      "iso": "IL",
+      "id": "617c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Israel_road_sign_617c.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/164-Israel_road_sign_617c.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/164-Israel_road_sign_617c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Israel_road_sign_617c.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/141-Israel_road_sign_617c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Israel_road_sign_617c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.905
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IL-618.svg",
+      "iso": "IL",
+      "id": "618",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Israel_road_sign_618.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/165-Israel_road_sign_618.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/165-Israel_road_sign_618.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Israel_road_sign_618.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/147-Israel_road_sign_618.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Israel_road_sign_618.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-619.svg",
+      "iso": "IL",
+      "id": "619",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Israel_road_sign_619.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/166-Israel_road_sign_619.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/166-Israel_road_sign_619.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Israel_road_sign_619.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-620.svg",
+      "iso": "IL",
+      "id": "620",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Israel_road_sign_620.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/167-Israel_road_sign_620.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/167-Israel_road_sign_620.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Israel_road_sign_620.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-621.svg",
+      "iso": "IL",
+      "id": "621",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Israel_road_sign_621.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/168-Israel_road_sign_621.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/168-Israel_road_sign_621.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Israel_road_sign_621.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-622.svg",
+      "iso": "IL",
+      "id": "622",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Israel_road_sign_622.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/169-Israel_road_sign_622.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/169-Israel_road_sign_622.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Israel_road_sign_622.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/IL-623.svg",
+      "iso": "IL",
+      "id": "623",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_623.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/170-Israel_road_sign_623.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/170-Israel_road_sign_623.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_623.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/149-Israel_road_sign_623.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_623.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/IL-624.svg",
+      "iso": "IL",
+      "id": "624",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Israel_road_sign_624.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/171-Israel_road_sign_624.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/171-Israel_road_sign_624.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Israel_road_sign_624.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/150-Israel_road_sign_624.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Israel_road_sign_624.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/IL-625.svg",
+      "iso": "IL",
+      "id": "625",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Israel_road_sign_625.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/172-Israel_road_sign_625.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/172-Israel_road_sign_625.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Israel_road_sign_625.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/151-Israel_road_sign_625.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Israel_road_sign_625.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-626.svg",
+      "iso": "IL",
+      "id": "626",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Israel_road_sign_626.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/173-Israel_road_sign_626.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/173-Israel_road_sign_626.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Israel_road_sign_626.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/143-Israel_road_sign_626.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Israel_road_sign_626.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-627.svg",
+      "iso": "IL",
+      "id": "627",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Israel_road_sign_627.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/174-Israel_road_sign_627.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/174-Israel_road_sign_627.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Israel_road_sign_627.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-628.svg",
+      "iso": "IL",
+      "id": "628",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Israel_road_sign_628.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/175-Israel_road_sign_628.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/175-Israel_road_sign_628.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Israel_road_sign_628.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/IL-629a.svg",
+      "iso": "IL",
+      "id": "629a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Israel_road_sign_629a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/176-Israel_road_sign_629a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/176-Israel_road_sign_629a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Israel_road_sign_629a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-629b.svg",
+      "iso": "IL",
+      "id": "629b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_629b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/177-Israel_road_sign_629b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/177-Israel_road_sign_629b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Israel_road_sign_629b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-629c.svg",
+      "iso": "IL",
+      "id": "629c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Israel_road_sign_629c.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/178-Israel_road_sign_629c.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/178-Israel_road_sign_629c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Israel_road_sign_629c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-629p.svg",
+      "iso": "IL",
+      "id": "629p",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Israel_road_sign_629p.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/179-Israel_road_sign_629p.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/179-Israel_road_sign_629p.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Israel_road_sign_629p.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-630.svg",
+      "iso": "IL",
+      "id": "630",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_630.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/180-Israel_road_sign_630.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/180-Israel_road_sign_630.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Israel_road_sign_630.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-631.svg",
+      "iso": "IL",
+      "id": "631",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Israel_road_sign_631.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/181-Israel_road_sign_631.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/181-Israel_road_sign_631.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Israel_road_sign_631.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-632.svg",
+      "iso": "IL",
+      "id": "632",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Israel_road_sign_632.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/182-Israel_road_sign_632.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/182-Israel_road_sign_632.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Israel_road_sign_632.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IL-633.svg",
+      "iso": "IL",
+      "id": "633",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Israel_road_sign_633.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/183-Israel_road_sign_633.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/183-Israel_road_sign_633.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Israel_road_sign_633.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/152-Israel_road_sign_633.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Israel_road_sign_633.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IL-634.svg",
+      "iso": "IL",
+      "id": "634",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Israel_road_sign_634.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/184-Israel_road_sign_634.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/184-Israel_road_sign_634.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Israel_road_sign_634.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/153-Israel_road_sign_634.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Israel_road_sign_634.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/IL-635.svg",
+      "iso": "IL",
+      "id": "635",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_635.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/185-Israel_road_sign_635.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/185-Israel_road_sign_635.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Israel_road_sign_635.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-636.svg",
+      "iso": "IL",
+      "id": "636",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Israel_road_sign_636.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/186-Israel_road_sign_636.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/186-Israel_road_sign_636.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Israel_road_sign_636.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IL-637.svg",
+      "iso": "IL",
+      "id": "637",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Israel_road_sign_637.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/187-Israel_road_sign_637.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/187-Israel_road_sign_637.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Israel_road_sign_637.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IL-901.svg",
+      "iso": "IL",
+      "id": "901",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_901.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/201-Israel_road_sign_901.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/201-Israel_road_sign_901.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_901.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/049-Israel_road_sign_901.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Israel_road_sign_901.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.921
+    },
+    {
+      "filename": "sd_unclassified/other/IL-902.svg",
+      "iso": "IL",
+      "id": "902",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Israel_road_sign_902.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/202-Israel_road_sign_902.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/202-Israel_road_sign_902.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Israel_road_sign_902.svg"
+        },
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/050-Israel_road_sign_902.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Israel_road_sign_902.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-903.svg",
+      "iso": "IL",
+      "id": "903",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Israel_road_sign_903.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/203-Israel_road_sign_903.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/203-Israel_road_sign_903.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Israel_road_sign_903.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-904.svg",
+      "iso": "IL",
+      "id": "904",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Israel_road_sign_904.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/204-Israel_road_sign_904.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/204-Israel_road_sign_904.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Israel_road_sign_904.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-905.svg",
+      "iso": "IL",
+      "id": "905",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Israel_road_sign_905.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/205-Israel_road_sign_905.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/205-Israel_road_sign_905.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Israel_road_sign_905.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-906.svg",
+      "iso": "IL",
+      "id": "906",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Israel_road_sign_906.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/206-Israel_road_sign_906.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/206-Israel_road_sign_906.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Israel_road_sign_906.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-907.svg",
+      "iso": "IL",
+      "id": "907",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Israel_road_sign_907.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/207-Israel_road_sign_907.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/207-Israel_road_sign_907.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Israel_road_sign_907.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-908.svg",
+      "iso": "IL",
+      "id": "908",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Israel_road_sign_908.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/208-Israel_road_sign_908.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/208-Israel_road_sign_908.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Israel_road_sign_908.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-909.svg",
+      "iso": "IL",
+      "id": "909",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Israel_road_sign_909.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/209-Israel_road_sign_909.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/209-Israel_road_sign_909.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Israel_road_sign_909.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-910.svg",
+      "iso": "IL",
+      "id": "910",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_910.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/210-Israel_road_sign_910.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/210-Israel_road_sign_910.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_910.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-911.svg",
+      "iso": "IL",
+      "id": "911",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Israel_road_sign_911.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/211-Israel_road_sign_911.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/211-Israel_road_sign_911.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Israel_road_sign_911.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-912.svg",
+      "iso": "IL",
+      "id": "912",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_912.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/212-Israel_road_sign_912.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/212-Israel_road_sign_912.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Israel_road_sign_912.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-913.svg",
+      "iso": "IL",
+      "id": "913",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Israel_road_sign_913.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/213-Israel_road_sign_913.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/213-Israel_road_sign_913.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Israel_road_sign_913.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-914a.svg",
+      "iso": "IL",
+      "id": "914a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Israel_road_sign_914a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/215-Israel_road_sign_914a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/215-Israel_road_sign_914a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Israel_road_sign_914a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-914b.svg",
+      "iso": "IL",
+      "id": "914b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_914b.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/214-Israel_road_sign_914b.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/214-Israel_road_sign_914b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Israel_road_sign_914b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-915a.svg",
+      "iso": "IL",
+      "id": "915a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Israel_road_sign_915a.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/216-Israel_road_sign_915a.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/216-Israel_road_sign_915a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Israel_road_sign_915a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-915d.svg",
+      "iso": "IL",
+      "id": "915d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Israel_road_sign_915d.svg",
+      "kept_from": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/051-Israel_road_sign_915d.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia_en/01-en_Road_signs_in_Israel/051-Israel_road_sign_915d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Israel_road_sign_915d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IL-916.svg",
+      "iso": "IL",
+      "id": "916",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Israel_road_sign_916.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/217-Israel_road_sign_916.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/217-Israel_road_sign_916.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Israel_road_sign_916.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-917.svg",
+      "iso": "IL",
+      "id": "917",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Israel_road_sign_917.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/218-Israel_road_sign_917.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/218-Israel_road_sign_917.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Israel_road_sign_917.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IL-929.svg",
+      "iso": "IL",
+      "id": "929",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Israel_road_sign_929.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/219-Israel_road_sign_929.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/219-Israel_road_sign_929.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Israel_road_sign_929.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/IL-935.svg",
+      "iso": "IL",
+      "id": "935",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Israel_road_sign_935.svg",
+      "kept_from": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/220-Israel_road_sign_935.svg",
+      "sources": [
+        {
+          "file": "IL_Israel/wikipedia/01-he_תמרורים_בישראל/220-Israel_road_sign_935.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Israel_road_sign_935.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    }
+  ]
+}

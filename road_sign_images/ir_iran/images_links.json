@@ -1,0 +1,1523 @@
+{
+  "country_code": "IR",
+  "country": "Iran",
+  "images": [
+    {
+      "filename": "sd_unclassified/other/IR-14562.png",
+      "iso": "IR",
+      "id": "14562",
+      "description": "olpi",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/14562-olpi.png",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/189-14562-olpi.png",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/189-14562-olpi.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/14562-olpi.png"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/122-14562-olpi.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/14562-olpi.png"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-10.svg",
+      "iso": "IR",
+      "id": "2-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/IR_road_sign_2-10.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/058-IR_road_sign_2-10.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/058-IR_road_sign_2-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/IR_road_sign_2-10.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/100-IR_road_sign_2-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/IR_road_sign_2-10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-11a.svg",
+      "iso": "IR",
+      "id": "2-11a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/IR_road_sign_2-11_a.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/054-IR_road_sign_2-11_a.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/054-IR_road_sign_2-11_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/IR_road_sign_2-11_a.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/099-IR_road_sign_2-11_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/IR_road_sign_2-11_a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-11b.svg",
+      "iso": "IR",
+      "id": "2-11b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/IR_road_sign_2-11_b.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/055-IR_road_sign_2-11_b.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/055-IR_road_sign_2-11_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/IR_road_sign_2-11_b.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/098-IR_road_sign_2-11_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/IR_road_sign_2-11_b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-12.svg",
+      "iso": "IR",
+      "id": "2-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/IR_road_sign_2-12.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/057-IR_road_sign_2-12.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/057-IR_road_sign_2-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/IR_road_sign_2-12.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/102-IR_road_sign_2-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/IR_road_sign_2-12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-13.svg",
+      "iso": "IR",
+      "id": "2-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/IR_road_sign_2-13.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/056-IR_road_sign_2-13.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/056-IR_road_sign_2-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/IR_road_sign_2-13.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/097-IR_road_sign_2-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/IR_road_sign_2-13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IR-2-14.svg",
+      "iso": "IR",
+      "id": "2-14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/IR_road_sign_2-14.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/059-IR_road_sign_2-14.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/059-IR_road_sign_2-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/IR_road_sign_2-14.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/107-IR_road_sign_2-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/IR_road_sign_2-14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IR-2-15.svg",
+      "iso": "IR",
+      "id": "2-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/IR_road_sign_2-15.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/060-IR_road_sign_2-15.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/060-IR_road_sign_2-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/IR_road_sign_2-15.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/106-IR_road_sign_2-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/IR_road_sign_2-15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-16.svg",
+      "iso": "IR",
+      "id": "2-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-16.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/061-IR_road_sign_2-16.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/061-IR_road_sign_2-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-16.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/108-IR_road_sign_2-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-16.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-17.svg",
+      "iso": "IR",
+      "id": "2-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/IR_road_sign_2-17.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/008-IR_road_sign_2-17.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/008-IR_road_sign_2-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/IR_road_sign_2-17.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/054-IR_road_sign_2-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/IR_road_sign_2-17.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-18a.svg",
+      "iso": "IR",
+      "id": "2-18a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/IR_road_sign_2-18_a.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/034-IR_road_sign_2-18_a.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/034-IR_road_sign_2-18_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/IR_road_sign_2-18_a.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/056-IR_road_sign_2-18_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/IR_road_sign_2-18_a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-18b.svg",
+      "iso": "IR",
+      "id": "2-18b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/IR_road_sign_2-18_b.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/035-IR_road_sign_2-18_b.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/035-IR_road_sign_2-18_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/IR_road_sign_2-18_b.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/055-IR_road_sign_2-18_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/IR_road_sign_2-18_b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-19.svg",
+      "iso": "IR",
+      "id": "2-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/IR_road_sign_2-19.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/036-IR_road_sign_2-19.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/036-IR_road_sign_2-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/IR_road_sign_2-19.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/057-IR_road_sign_2-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/IR_road_sign_2-19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-22.svg",
+      "iso": "IR",
+      "id": "2-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/IR_road_sign_2-22.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/010-IR_road_sign_2-22.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/010-IR_road_sign_2-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/IR_road_sign_2-22.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/058-IR_road_sign_2-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/IR_road_sign_2-22.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-23.svg",
+      "iso": "IR",
+      "id": "2-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-23.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/026-IR_road_sign_2-23.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/026-IR_road_sign_2-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-23.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/066-IR_road_sign_2-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-23.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-28.svg",
+      "iso": "IR",
+      "id": "2-28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/IR_road_sign_2-28.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/024-IR_road_sign_2-28.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/024-IR_road_sign_2-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/IR_road_sign_2-28.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-28b.svg",
+      "iso": "IR",
+      "id": "2-28b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/IR_road_sign_2-28_b.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/025-IR_road_sign_2-28_b.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/025-IR_road_sign_2-28_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/IR_road_sign_2-28_b.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/074-IR_road_sign_2-28_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/IR_road_sign_2-28_b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-29.svg",
+      "iso": "IR",
+      "id": "2-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/IR_road_sign_2-29.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/018-IR_road_sign_2-29.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/018-IR_road_sign_2-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/IR_road_sign_2-29.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/086-IR_road_sign_2-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/IR_road_sign_2-29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-30.svg",
+      "iso": "IR",
+      "id": "2-30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/IR_road_sign_2-30.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/012-IR_road_sign_2-30.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/012-IR_road_sign_2-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/IR_road_sign_2-30.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/063-IR_road_sign_2-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/IR_road_sign_2-30.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-31.svg",
+      "iso": "IR",
+      "id": "2-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/IR_road_sign_2-31.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/030-IR_road_sign_2-31.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/030-IR_road_sign_2-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/IR_road_sign_2-31.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/068-IR_road_sign_2-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/IR_road_sign_2-31.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-32.svg",
+      "iso": "IR",
+      "id": "2-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/IR_road_sign_2-32.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/031-IR_road_sign_2-32.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/031-IR_road_sign_2-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/IR_road_sign_2-32.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/069-IR_road_sign_2-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/IR_road_sign_2-32.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-33.svg",
+      "iso": "IR",
+      "id": "2-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IR_road_sign_2-33.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/019-IR_road_sign_2-33.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/019-IR_road_sign_2-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IR_road_sign_2-33.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/064-IR_road_sign_2-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IR_road_sign_2-33.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-34.svg",
+      "iso": "IR",
+      "id": "2-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/IR_road_sign_2-34.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/028-IR_road_sign_2-34.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/028-IR_road_sign_2-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/IR_road_sign_2-34.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/070-IR_road_sign_2-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/IR_road_sign_2-34.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-35.svg",
+      "iso": "IR",
+      "id": "2-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-35.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/029-IR_road_sign_2-35.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/029-IR_road_sign_2-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-35.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/071-IR_road_sign_2-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/IR_road_sign_2-35.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-36.svg",
+      "iso": "IR",
+      "id": "2-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/IR_road_sign_2-36.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/037-IR_road_sign_2-36.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/037-IR_road_sign_2-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/IR_road_sign_2-36.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/077-IR_road_sign_2-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/IR_road_sign_2-36.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/IR-2-37.svg",
+      "iso": "IR",
+      "id": "2-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IR_road_sign_2-37.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/069-IR_road_sign_2-37.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/069-IR_road_sign_2-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IR_road_sign_2-37.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/078-IR_road_sign_2-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IR_road_sign_2-37.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-38.svg",
+      "iso": "IR",
+      "id": "2-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/IR_road_sign_2-38.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/007-IR_road_sign_2-38.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/007-IR_road_sign_2-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/IR_road_sign_2-38.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/051-IR_road_sign_2-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/IR_road_sign_2-38.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "b_priority_signs/other/IR-2-4.svg",
+      "iso": "IR",
+      "id": "2-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/IR_road_sign_2-4.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/073-IR_road_sign_2-4.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/073-IR_road_sign_2-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/IR_road_sign_2-4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/IR-2-40.svg",
+      "iso": "IR",
+      "id": "2-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/IR_road_sign_2-40.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/065-IR_road_sign_2-40.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/065-IR_road_sign_2-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/IR_road_sign_2-40.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/103-IR_road_sign_2-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/IR_road_sign_2-40.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-41.svg",
+      "iso": "IR",
+      "id": "2-41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/IR_road_sign_2-41.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/038-IR_road_sign_2-41.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/038-IR_road_sign_2-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/IR_road_sign_2-41.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/079-IR_road_sign_2-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/IR_road_sign_2-41.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/IR-2-42.svg",
+      "iso": "IR",
+      "id": "2-42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IR_road_sign_2-42.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/070-IR_road_sign_2-42.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/070-IR_road_sign_2-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IR_road_sign_2-42.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/080-IR_road_sign_2-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IR_road_sign_2-42.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-43.svg",
+      "iso": "IR",
+      "id": "2-43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/IR_road_sign_2-43.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/033-IR_road_sign_2-43.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/033-IR_road_sign_2-43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/IR_road_sign_2-43.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/089-IR_road_sign_2-43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/IR_road_sign_2-43.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-44.svg",
+      "iso": "IR",
+      "id": "2-44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/IR_road_sign_2-44.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/017-IR_road_sign_2-44.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/017-IR_road_sign_2-44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/IR_road_sign_2-44.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/073-IR_road_sign_2-44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/IR_road_sign_2-44.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-45.svg",
+      "iso": "IR",
+      "id": "2-45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/IR_road_sign_2-45.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/011-IR_road_sign_2-45.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/011-IR_road_sign_2-45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/IR_road_sign_2-45.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/062-IR_road_sign_2-45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/IR_road_sign_2-45.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-2-46.svg",
+      "iso": "IR",
+      "id": "2-46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/IR_road_sign_2-46.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/040-IR_road_sign_2-46.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/040-IR_road_sign_2-46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/IR_road_sign_2-46.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/081-IR_road_sign_2-46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/IR_road_sign_2-46.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-49.svg",
+      "iso": "IR",
+      "id": "2-49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/IR_road_sign_2-49.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/043-IR_road_sign_2-49.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/043-IR_road_sign_2-49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/IR_road_sign_2-49.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/085-IR_road_sign_2-49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/IR_road_sign_2-49.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/IR-2-5.svg",
+      "iso": "IR",
+      "id": "2-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/IR_road_sign_2-5.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/074-IR_road_sign_2-5.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/074-IR_road_sign_2-5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/IR_road_sign_2-5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-2-52.svg",
+      "iso": "IR",
+      "id": "2-52",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/IR_road_sign_2-52.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/044-IR_road_sign_2-52.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/044-IR_road_sign_2-52.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/IR_road_sign_2-52.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/084-IR_road_sign_2-52.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/IR_road_sign_2-52.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-6a.svg",
+      "iso": "IR",
+      "id": "2-6a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/IR_road_sign_2-6_a.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/050-IR_road_sign_2-6_a.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/050-IR_road_sign_2-6_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/IR_road_sign_2-6_a.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/095-IR_road_sign_2-6_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/IR_road_sign_2-6_a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-6b.svg",
+      "iso": "IR",
+      "id": "2-6b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/IR_road_sign_2-6_b.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/048-IR_road_sign_2-6_b.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/048-IR_road_sign_2-6_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/IR_road_sign_2-6_b.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/093-IR_road_sign_2-6_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/IR_road_sign_2-6_b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-6c.svg",
+      "iso": "IR",
+      "id": "2-6c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IR_road_sign_2-6_c.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/051-IR_road_sign_2-6_c.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/051-IR_road_sign_2-6_c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IR_road_sign_2-6_c.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/096-IR_road_sign_2-6_c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IR_road_sign_2-6_c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-6d.svg",
+      "iso": "IR",
+      "id": "2-6d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/IR_road_sign_2-6_d.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/047-IR_road_sign_2-6_d.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/047-IR_road_sign_2-6_d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/IR_road_sign_2-6_d.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/094-IR_road_sign_2-6_d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/IR_road_sign_2-6_d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-6e.svg",
+      "iso": "IR",
+      "id": "2-6e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/IR_road_sign_2-6_e.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/049-IR_road_sign_2-6_e.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/049-IR_road_sign_2-6_e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/IR_road_sign_2-6_e.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/090-IR_road_sign_2-6_e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/IR_road_sign_2-6_e.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-7a.svg",
+      "iso": "IR",
+      "id": "2-7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/IR_road_sign_2-7_a.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/053-IR_road_sign_2-7_a.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/053-IR_road_sign_2-7_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/IR_road_sign_2-7_a.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/091-IR_road_sign_2-7_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/IR_road_sign_2-7_a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-2-7b.svg",
+      "iso": "IR",
+      "id": "2-7b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/IR_road_sign_2-7_b.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/052-IR_road_sign_2-7_b.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/052-IR_road_sign_2-7_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/IR_road_sign_2-7_b.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/092-IR_road_sign_2-7_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/IR_road_sign_2-7_b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-10.svg",
+      "iso": "IR",
+      "id": "3-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/IR_road_sign_3-10.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/111-IR_road_sign_3-10.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/111-IR_road_sign_3-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/IR_road_sign_3-10.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/011-IR_road_sign_3-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/IR_road_sign_3-10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-11.svg",
+      "iso": "IR",
+      "id": "3-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/IR_road_sign_3-11.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/108-IR_road_sign_3-11.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/108-IR_road_sign_3-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/IR_road_sign_3-11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-12.svg",
+      "iso": "IR",
+      "id": "3-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/IR_road_sign_3-12.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/112-IR_road_sign_3-12.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/112-IR_road_sign_3-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/IR_road_sign_3-12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-17.svg",
+      "iso": "IR",
+      "id": "3-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/IR_road_sign_3-17.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/120-IR_road_sign_3-17.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/120-IR_road_sign_3-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/IR_road_sign_3-17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-18.svg",
+      "iso": "IR",
+      "id": "3-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/IR_road_sign_3-18.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/092-IR_road_sign_3-18.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/092-IR_road_sign_3-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/IR_road_sign_3-18.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/019-IR_road_sign_3-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/IR_road_sign_3-18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-19.svg",
+      "iso": "IR",
+      "id": "3-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/IR_road_sign_3-19.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/119-IR_road_sign_3-19.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/119-IR_road_sign_3-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/IR_road_sign_3-19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "b_priority_signs/vienna/IR-3-2.svg",
+      "iso": "IR",
+      "id": "3-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/IR_road_sign_3-2.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/003-IR_road_sign_3-2.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/003-IR_road_sign_3-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/IR_road_sign_3-2.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/048-IR_road_sign_3-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/IR_road_sign_3-2.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-23.svg",
+      "iso": "IR",
+      "id": "3-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/IR_road_sign_3-23.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/079-IR_road_sign_3-23.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/079-IR_road_sign_3-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/IR_road_sign_3-23.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/012-IR_road_sign_3-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/IR_road_sign_3-23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-24.svg",
+      "iso": "IR",
+      "id": "3-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/IR_road_sign_3-24.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/080-IR_road_sign_3-24.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/080-IR_road_sign_3-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/IR_road_sign_3-24.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/013-IR_road_sign_3-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/IR_road_sign_3-24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-35.svg",
+      "iso": "IR",
+      "id": "3-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/IR_road_sign_3-35.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/121-IR_road_sign_3-35.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/121-IR_road_sign_3-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/IR_road_sign_3-35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-40.svg",
+      "iso": "IR",
+      "id": "3-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IR_road_sign_3-40.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/089-IR_road_sign_3-40.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/089-IR_road_sign_3-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IR_road_sign_3-40.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/018-IR_road_sign_3-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IR_road_sign_3-40.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-53.svg",
+      "iso": "IR",
+      "id": "3-53",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IR_road_sign_3-53.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/093-IR_road_sign_3-53.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/093-IR_road_sign_3-53.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IR_road_sign_3-53.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/027-IR_road_sign_3-53.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IR_road_sign_3-53.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-55b.svg",
+      "iso": "IR",
+      "id": "3-55b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/IR_road_sign_3-55_b.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/122-IR_road_sign_3-55_b.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/122-IR_road_sign_3-55_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/IR_road_sign_3-55_b.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/035-IR_road_sign_3-55_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/IR_road_sign_3-55_b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-55c.svg",
+      "iso": "IR",
+      "id": "3-55c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/IR_road_sign_3-55_c.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/116-IR_road_sign_3-55_c.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/116-IR_road_sign_3-55_c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/IR_road_sign_3-55_c.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/034-IR_road_sign_3-55_c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/IR_road_sign_3-55_c.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "sd_unclassified/other/IR-3-56a.svg",
+      "iso": "IR",
+      "id": "3-56a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/IR_road_sign_3-56_a.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/123-IR_road_sign_3-56_a.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/123-IR_road_sign_3-56_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/IR_road_sign_3-56_a.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/002-IR_road_sign_3-56_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/IR_road_sign_3-56_a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-60.svg",
+      "iso": "IR",
+      "id": "3-60",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/IR_road_sign_3-60.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/124-IR_road_sign_3-60.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/124-IR_road_sign_3-60.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/IR_road_sign_3-60.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-61.svg",
+      "iso": "IR",
+      "id": "3-61",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/IR_road_sign_3-61.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/125-IR_road_sign_3-61.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/125-IR_road_sign_3-61.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/IR_road_sign_3-61.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-62.svg",
+      "iso": "IR",
+      "id": "3-62",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/IR_road_sign_3-62.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/126-IR_road_sign_3-62.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/126-IR_road_sign_3-62.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/IR_road_sign_3-62.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-3-63.svg",
+      "iso": "IR",
+      "id": "3-63",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/IR_road_sign_3-63.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/109-IR_road_sign_3-63.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/109-IR_road_sign_3-63.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/IR_road_sign_3-63.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "sd_unclassified/other/IR-3-64.svg",
+      "iso": "IR",
+      "id": "3-64",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/IR_road_sign_3-64.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/127-IR_road_sign_3-64.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/127-IR_road_sign_3-64.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/IR_road_sign_3-64.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3-65.svg",
+      "iso": "IR",
+      "id": "3-65",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/IR_road_sign_3-65.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/090-IR_road_sign_3-65.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/090-IR_road_sign_3-65.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/IR_road_sign_3-65.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/024-IR_road_sign_3-65.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/IR_road_sign_3-65.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IR-3935.svg",
+      "iso": "IR",
+      "id": "3935",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/IR_road_sign_3935.svg",
+      "kept_from": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/028-IR_road_sign_3935.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/028-IR_road_sign_3935.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/IR_road_sign_3935.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "sd_unclassified/other/IR-3936.svg",
+      "iso": "IR",
+      "id": "3936",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/IR_road_sign_3936.svg",
+      "kept_from": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/029-IR_road_sign_3936.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/029-IR_road_sign_3936.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/IR_road_sign_3936.svg"
+        }
+      ],
+      "shape": "pentagon",
+      "shape_score": 0.959
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-4-1.svg",
+      "iso": "IR",
+      "id": "4-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IR_road_sign_4-1.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/039-IR_road_sign_4-1.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/039-IR_road_sign_4-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IR_road_sign_4-1.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/075-IR_road_sign_4-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IR_road_sign_4-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-4-3_50.svg",
+      "iso": "IR",
+      "id": "4-3",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/IR_road_sign_4-3_%2850%29.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/063-IR_road_sign_4-3_(50).svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/063-IR_road_sign_4-3_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/IR_road_sign_4-3_%2850%29.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/104-IR_road_sign_4-3_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/IR_road_sign_4-3_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IR-4-4_80.svg",
+      "iso": "IR",
+      "id": "4-4",
+      "description": null,
+      "variants": [
+        "80"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/IR_road_sign_4-4_%2880%29.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/068-IR_road_sign_4-4_(80).svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/068-IR_road_sign_4-4_(80).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/IR_road_sign_4-4_%2880%29.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/076-IR_road_sign_4-4_(80).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/IR_road_sign_4-4_%2880%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IR-4-5_50.svg",
+      "iso": "IR",
+      "id": "4-5",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/IR_road_sign_4-5_%2850%29.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/064-IR_road_sign_4-5_(50).svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/064-IR_road_sign_4-5_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/IR_road_sign_4-5_%2850%29.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/105-IR_road_sign_4-5_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/IR_road_sign_4-5_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IR-A8.svg",
+      "iso": "IR",
+      "id": "A8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/A8_CZ.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/197-A8_CZ.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/197-A8_CZ.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/A8_CZ.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "b_priority_signs/vienna/IR-stop.svg",
+      "iso": "IR",
+      "id": "stop",
+      "description": "stop",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Iran_road_sign_-_stop.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/002-Iran_road_sign_-_stop.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/002-Iran_road_sign_-_stop.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Iran_road_sign_-_stop.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/047-Iran_road_sign_-_stop.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Iran_road_sign_-_stop.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IR-stop_to_pay_toll_duty.svg",
+      "iso": "IR",
+      "id": "stop_to_pay_toll_duty",
+      "description": "stop_to_pay_toll_duty",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Iran_road_sign_-_stop_to_pay_toll_duty.svg",
+      "kept_from": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/041-Iran_road_sign_-_stop_to_pay_toll_duty.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia/01-fa_نشان‌های_راهنمایی_و_رانندگی_در_ایران/041-Iran_road_sign_-_stop_to_pay_toll_duty.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Iran_road_sign_-_stop_to_pay_toll_duty.svg"
+        },
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/083-Iran_road_sign_-_stop_to_pay_toll_duty.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Iran_road_sign_-_stop_to_pay_toll_duty.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "country_code": "CL",
+  "country": "Chile",
+  "images": [
+    {
+      "filename": "_non_identifies/Commons-logo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+      "kept_from": "CL_Chile/wikipedia/01-es_Anexo_Señales_de_tráfico_en_Chile/153-Commons-logo.svg",
+      "sources": [
+        {
+          "file": "CL_Chile/wikipedia/01-es_Anexo_Señales_de_tráfico_en_Chile/153-Commons-logo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg"
+        },
+        {
+          "file": "CL_Chile/wikipedia_en/01-en_Road_signs_in_Chile/160-Commons-logo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Fin_ruta_CH-199.jpg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fin_ruta_CH-199.jpg",
+      "kept_from": "CL_Chile/wikipedia_en/01-en_Road_signs_in_Chile/001-Fin_ruta_CH-199.jpg",
+      "sources": [
+        {
+          "file": "CL_Chile/wikipedia_en/01-en_Road_signs_in_Chile/001-Fin_ruta_CH-199.jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fin_ruta_CH-199.jpg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Chile.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+      "kept_from": "CL_Chile/wikipedia/01-es_Anexo_Señales_de_tráfico_en_Chile/001-Flag_of_Chile.svg",
+      "sources": [
+        {
+          "file": "CL_Chile/wikipedia/01-es_Anexo_Señales_de_tráfico_en_Chile/001-Flag_of_Chile.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Symbol_category_class.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg",
+      "kept_from": "CL_Chile/wikipedia_en/01-en_Road_signs_in_Chile/161-Symbol_category_class.svg",
+      "sources": [
+        {
+          "file": "CL_Chile/wikipedia_en/01-en_Road_signs_in_Chile/161-Symbol_category_class.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Wikidata-logo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg",
+      "kept_from": "CL_Chile/wikipedia/01-es_Anexo_Señales_de_tráfico_en_Chile/152-Wikidata-logo.svg",
+      "sources": [
+        {
+          "file": "CL_Chile/wikipedia/01-es_Anexo_Señales_de_tráfico_en_Chile/152-Wikidata-logo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4270 @@
+{
+  "country_code": "LU",
+  "country": "Luxembourg",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/other/LU-A1-a1.svg",
+      "iso": "LU",
+      "id": "A1-a1",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Luxembourg_road_sign_diagram_A_1_a1_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/001-Luxembourg_road_sign_diagram_A_1_a1_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/001-Luxembourg_road_sign_diagram_A_1_a1_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Luxembourg_road_sign_diagram_A_1_a1_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.954,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A1-a2.svg",
+      "iso": "LU",
+      "id": "A1-a2",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_diagram_A_1_a2_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/002-Luxembourg_road_sign_diagram_A_1_a2_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/002-Luxembourg_road_sign_diagram_A_1_a2_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_diagram_A_1_a2_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.946,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A1-b1.svg",
+      "iso": "LU",
+      "id": "A1-b1",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luxembourg_road_sign_diagram_A_1_b1_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/003-Luxembourg_road_sign_diagram_A_1_b1_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/003-Luxembourg_road_sign_diagram_A_1_b1_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luxembourg_road_sign_diagram_A_1_b1_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.952,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A1-b2.svg",
+      "iso": "LU",
+      "id": "A1-b2",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Luxembourg_road_sign_diagram_A_1_b2_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/004-Luxembourg_road_sign_diagram_A_1_b2_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/004-Luxembourg_road_sign_diagram_A_1_b2_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Luxembourg_road_sign_diagram_A_1_b2_%282018%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.946,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A10.svg",
+      "iso": "LU",
+      "id": "A10",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Luxembourg_road_sign_diagram_A_10_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/018-Luxembourg_road_sign_diagram_A_10_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/018-Luxembourg_road_sign_diagram_A_10_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Luxembourg_road_sign_diagram_A_10_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A11a.svg",
+      "iso": "LU",
+      "id": "A11a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Luxembourg_road_sign_A%2C11a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/019-Luxembourg_road_sign_A,11a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/019-Luxembourg_road_sign_A,11a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Luxembourg_road_sign_A%2C11a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A11b.svg",
+      "iso": "LU",
+      "id": "A11b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_A%2C11b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/020-Luxembourg_road_sign_A,11b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/020-Luxembourg_road_sign_A,11b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_A%2C11b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A12b.svg",
+      "iso": "LU",
+      "id": "A12b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Luxembourg_road_sign_A%2C12b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/021-Luxembourg_road_sign_A,12b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/021-Luxembourg_road_sign_A,12b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Luxembourg_road_sign_A%2C12b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A13.svg",
+      "iso": "LU",
+      "id": "A13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luxembourg_road_sign_A%2C13.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/022-Luxembourg_road_sign_A,13.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/022-Luxembourg_road_sign_A,13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luxembourg_road_sign_A%2C13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A14.svg",
+      "iso": "LU",
+      "id": "A14",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_diagram_A_14_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/024-Luxembourg_road_sign_diagram_A_14_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/024-Luxembourg_road_sign_diagram_A_14_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_diagram_A_14_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.957,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A15.svg",
+      "iso": "LU",
+      "id": "A15",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_diagram_A_15_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/025-Luxembourg_road_sign_diagram_A_15_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/025-Luxembourg_road_sign_diagram_A_15_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_diagram_A_15_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A16a.svg",
+      "iso": "LU",
+      "id": "A16a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luxembourg_road_sign_A%2C16a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/026-Luxembourg_road_sign_A,16a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/026-Luxembourg_road_sign_A,16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luxembourg_road_sign_A%2C16a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A17.svg",
+      "iso": "LU",
+      "id": "A17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_road_sign_A%2C17.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/027-Luxembourg_road_sign_A,17.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/027-Luxembourg_road_sign_A,17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_road_sign_A%2C17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A18.svg",
+      "iso": "LU",
+      "id": "A18",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_A_18_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/029-Luxembourg_road_sign_diagram_A_18_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/029-Luxembourg_road_sign_diagram_A_18_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_A_18_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.948,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A19.svg",
+      "iso": "LU",
+      "id": "A19",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Luxembourg_road_sign_diagram_A_19_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/030-Luxembourg_road_sign_diagram_A_19_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/030-Luxembourg_road_sign_diagram_A_19_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Luxembourg_road_sign_diagram_A_19_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A20a.svg",
+      "iso": "LU",
+      "id": "A20a",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Luxembourg_road_sign_diagram_A_20_a_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/031-Luxembourg_road_sign_diagram_A_20_a_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/031-Luxembourg_road_sign_diagram_A_20_a_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Luxembourg_road_sign_diagram_A_20_a_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.951,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A20b.svg",
+      "iso": "LU",
+      "id": "A20b",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Luxembourg_road_sign_diagram_A_20_b_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/032-Luxembourg_road_sign_diagram_A_20_b_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/032-Luxembourg_road_sign_diagram_A_20_b_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Luxembourg_road_sign_diagram_A_20_b_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.951,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A21.svg",
+      "iso": "LU",
+      "id": "A21",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Luxembourg_road_sign_diagram_A_21_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/033-Luxembourg_road_sign_diagram_A_21_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/033-Luxembourg_road_sign_diagram_A_21_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Luxembourg_road_sign_diagram_A_21_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A22-b1.svg",
+      "iso": "LU",
+      "id": "A22-b1",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Luxembourg_road_sign_diagram_A_22_b1_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/035-Luxembourg_road_sign_diagram_A_22_b1_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/035-Luxembourg_road_sign_diagram_A_22_b1_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Luxembourg_road_sign_diagram_A_22_b1_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.941,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A22-b2.svg",
+      "iso": "LU",
+      "id": "A22-b2",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Luxembourg_road_sign_diagram_A_22_b2_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/036-Luxembourg_road_sign_diagram_A_22_b2_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/036-Luxembourg_road_sign_diagram_A_22_b2_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Luxembourg_road_sign_diagram_A_22_b2_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.946,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A22-c1.svg",
+      "iso": "LU",
+      "id": "A22-c1",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Luxembourg_road_sign_diagram_A_22_c1_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/037-Luxembourg_road_sign_diagram_A_22_c1_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/037-Luxembourg_road_sign_diagram_A_22_c1_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Luxembourg_road_sign_diagram_A_22_c1_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.946,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A22-c2.svg",
+      "iso": "LU",
+      "id": "A22-c2",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Luxembourg_road_sign_diagram_A_22_c2_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/038-Luxembourg_road_sign_diagram_A_22_c2_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/038-Luxembourg_road_sign_diagram_A_22_c2_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Luxembourg_road_sign_diagram_A_22_c2_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A22a.svg",
+      "iso": "LU",
+      "id": "A22a",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Luxembourg_road_sign_diagram_A_22_a_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/034-Luxembourg_road_sign_diagram_A_22_a_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/034-Luxembourg_road_sign_diagram_A_22_a_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Luxembourg_road_sign_diagram_A_22_a_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A23.svg",
+      "iso": "LU",
+      "id": "A23",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_diagram_A_23_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/039-Luxembourg_road_sign_diagram_A_23_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/039-Luxembourg_road_sign_diagram_A_23_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_diagram_A_23_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.946,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A24.svg",
+      "iso": "LU",
+      "id": "A24",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Luxembourg_road_sign_diagram_A_24_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/040-Luxembourg_road_sign_diagram_A_24_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/040-Luxembourg_road_sign_diagram_A_24_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Luxembourg_road_sign_diagram_A_24_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.955,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A25.svg",
+      "iso": "LU",
+      "id": "A25",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Luxembourg_road_sign_diagram_A_25_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/041-Luxembourg_road_sign_diagram_A_25_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/041-Luxembourg_road_sign_diagram_A_25_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Luxembourg_road_sign_diagram_A_25_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.948,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A26.svg",
+      "iso": "LU",
+      "id": "A26",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Luxembourg_road_sign_diagram_A_26_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/042-Luxembourg_road_sign_diagram_A_26_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/042-Luxembourg_road_sign_diagram_A_26_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Luxembourg_road_sign_diagram_A_26_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.951,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "sd_unclassified/other/LU-A27a.svg",
+      "iso": "LU",
+      "id": "A27a",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Luxembourg_road_sign_diagram_A_27_a_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/043-Luxembourg_road_sign_diagram_A_27_a_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/043-Luxembourg_road_sign_diagram_A_27_a_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Luxembourg_road_sign_diagram_A_27_a_%282018%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "sd_unclassified/other/LU-A27b.svg",
+      "iso": "LU",
+      "id": "A27b",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Luxembourg_road_sign_diagram_A_27_b_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/044-Luxembourg_road_sign_diagram_A_27_b_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/044-Luxembourg_road_sign_diagram_A_27_b_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Luxembourg_road_sign_diagram_A_27_b_%282018%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "sd_unclassified/other/LU-A27c.svg",
+      "iso": "LU",
+      "id": "A27c",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Luxembourg_road_sign_diagram_A_27_c_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/045-Luxembourg_road_sign_diagram_A_27_c_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/045-Luxembourg_road_sign_diagram_A_27_c_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Luxembourg_road_sign_diagram_A_27_c_%282018%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A28.svg",
+      "iso": "LU",
+      "id": "A28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luxembourg_road_sign_A%2C28.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/046-Luxembourg_road_sign_A,28.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/046-Luxembourg_road_sign_A,28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luxembourg_road_sign_A%2C28.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A29.svg",
+      "iso": "LU",
+      "id": "A29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Luxembourg_road_sign_A%2C29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/047-Luxembourg_road_sign_A,29.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/047-Luxembourg_road_sign_A,29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Luxembourg_road_sign_A%2C29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A2.svg",
+      "iso": "LU",
+      "id": "A2",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Luxembourg_road_sign_diagram_A_2_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/005-Luxembourg_road_sign_diagram_A_2_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/005-Luxembourg_road_sign_diagram_A_2_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Luxembourg_road_sign_diagram_A_2_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.949,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A3.svg",
+      "iso": "LU",
+      "id": "A3",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Luxembourg_road_sign_diagram_A_3_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/006-Luxembourg_road_sign_diagram_A_3_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/006-Luxembourg_road_sign_diagram_A_3_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Luxembourg_road_sign_diagram_A_3_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A4-b1.svg",
+      "iso": "LU",
+      "id": "A4-b1",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Luxembourg_road_sign_diagram_A_4_b1_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/008-Luxembourg_road_sign_diagram_A_4_b1_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/008-Luxembourg_road_sign_diagram_A_4_b1_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Luxembourg_road_sign_diagram_A_4_b1_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LU-A4-b2.svg",
+      "iso": "LU",
+      "id": "A4-b2",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Luxembourg_road_sign_diagram_A_4_b2_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/009-Luxembourg_road_sign_diagram_A_4_b2_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/009-Luxembourg_road_sign_diagram_A_4_b2_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Luxembourg_road_sign_diagram_A_4_b2_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A4a.svg",
+      "iso": "LU",
+      "id": "A4a",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Luxembourg_road_sign_diagram_A_4_a_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/007-Luxembourg_road_sign_diagram_A_4_a_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/007-Luxembourg_road_sign_diagram_A_4_a_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Luxembourg_road_sign_diagram_A_4_a_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.936,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A6.svg",
+      "iso": "LU",
+      "id": "A6",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Luxembourg_road_sign_diagram_A_6_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/012-Luxembourg_road_sign_diagram_A_6_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/012-Luxembourg_road_sign_diagram_A_6_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Luxembourg_road_sign_diagram_A_6_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.946,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A7a.svg",
+      "iso": "LU",
+      "id": "A7a",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Luxembourg_road_sign_diagram_A_7_a_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/013-Luxembourg_road_sign_diagram_A_7_a_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/013-Luxembourg_road_sign_diagram_A_7_a_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Luxembourg_road_sign_diagram_A_7_a_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A7b.svg",
+      "iso": "LU",
+      "id": "A7b",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Luxembourg_road_sign_diagram_A_7_b_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/014-Luxembourg_road_sign_diagram_A_7_b_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/014-Luxembourg_road_sign_diagram_A_7_b_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Luxembourg_road_sign_diagram_A_7_b_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A7c.svg",
+      "iso": "LU",
+      "id": "A7c",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Luxembourg_road_sign_diagram_A_7_c_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/015-Luxembourg_road_sign_diagram_A_7_c_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/015-Luxembourg_road_sign_diagram_A_7_c_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Luxembourg_road_sign_diagram_A_7_c_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A8.svg",
+      "iso": "LU",
+      "id": "A8",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Luxembourg_road_sign_diagram_A_8_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/016-Luxembourg_road_sign_diagram_A_8_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/016-Luxembourg_road_sign_diagram_A_8_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Luxembourg_road_sign_diagram_A_8_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.915,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-A9.svg",
+      "iso": "LU",
+      "id": "A9",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Luxembourg_road_sign_diagram_A_9_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/017-Luxembourg_road_sign_diagram_A_9_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/017-Luxembourg_road_sign_diagram_A_9_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Luxembourg_road_sign_diagram_A_9_%282018%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "b_priority_signs/vienna/LU-B1.svg",
+      "iso": "LU",
+      "id": "B1",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Luxembourg_road_sign_diagram_B%2C1_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/048-Luxembourg_road_sign_diagram_B,1_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/048-Luxembourg_road_sign_diagram_B,1_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Luxembourg_road_sign_diagram_B%2C1_%282018%29.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.949,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "b_priority_signs/vienna/LU-B2a.svg",
+      "iso": "LU",
+      "id": "B2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Luxembourg_road_sign_B%2C2a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/049-Luxembourg_road_sign_B,2a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/049-Luxembourg_road_sign_B,2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Luxembourg_road_sign_B%2C2a.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/LU-B3.svg",
+      "iso": "LU",
+      "id": "B3",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Luxembourg_road_sign_diagram_B%2C3_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/050-Luxembourg_road_sign_diagram_B,3_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/050-Luxembourg_road_sign_diagram_B,3_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Luxembourg_road_sign_diagram_B%2C3_%282018%29.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.945,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "b_priority_signs/vienna/LU-B4.svg",
+      "iso": "LU",
+      "id": "B4",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Luxembourg_road_sign_diagram_B%2C4_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/051-Luxembourg_road_sign_diagram_B,4_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/051-Luxembourg_road_sign_diagram_B,4_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Luxembourg_road_sign_diagram_B%2C4_%282018%29.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.951,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "b_priority_signs/vienna/LU-B5.svg",
+      "iso": "LU",
+      "id": "B5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_B%2C5.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/053-Luxembourg_road_sign_B,5.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/053-Luxembourg_road_sign_B,5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_B%2C5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/LU-B6.svg",
+      "iso": "LU",
+      "id": "B6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luxembourg_road_sign_B%2C6.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/054-Luxembourg_road_sign_B,6.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/054-Luxembourg_road_sign_B,6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luxembourg_road_sign_B%2C6.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-B7a.svg",
+      "iso": "LU",
+      "id": "B7a",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Luxembourg_road_sign_diagram_B%2C7a_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/055-Luxembourg_road_sign_diagram_B,7a_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/055-Luxembourg_road_sign_diagram_B,7a_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Luxembourg_road_sign_diagram_B%2C7a_%282018%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.537,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LU-B7b.svg",
+      "iso": "LU",
+      "id": "B7b",
+      "description": null,
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Luxembourg_road_sign_diagram_B%2C7b_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/056-Luxembourg_road_sign_diagram_B,7b_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/056-Luxembourg_road_sign_diagram_B,7b_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Luxembourg_road_sign_diagram_B%2C7b_%282018%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.532,
+      "valid_years": "2018"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C10.gif",
+      "iso": "LU",
+      "id": "C10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luxembourg_road_sign_diagram_C_10.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/081-Luxembourg_road_sign_diagram_C_10.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/081-Luxembourg_road_sign_diagram_C_10.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luxembourg_road_sign_diagram_C_10.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C11a.gif",
+      "iso": "LU",
+      "id": "C11a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luxembourg_road_sign_diagram_C_11_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/082-Luxembourg_road_sign_diagram_C_11_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/082-Luxembourg_road_sign_diagram_C_11_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luxembourg_road_sign_diagram_C_11_a.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C11b.gif",
+      "iso": "LU",
+      "id": "C11b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Luxembourg_road_sign_diagram_C_11_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/083-Luxembourg_road_sign_diagram_C_11_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/083-Luxembourg_road_sign_diagram_C_11_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Luxembourg_road_sign_diagram_C_11_b.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C12.gif",
+      "iso": "LU",
+      "id": "C12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Luxembourg_road_sign_diagram_C_12.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/084-Luxembourg_road_sign_diagram_C_12.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/084-Luxembourg_road_sign_diagram_C_12.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Luxembourg_road_sign_diagram_C_12.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C13.gif",
+      "iso": "LU",
+      "id": "C13",
+      "description": "ba",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luxembourg_road_sign_diagram_C_13_ba.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/086-Luxembourg_road_sign_diagram_C_13_ba.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/086-Luxembourg_road_sign_diagram_C_13_ba.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luxembourg_road_sign_diagram_C_13_ba.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C13aa.svg",
+      "iso": "LU",
+      "id": "C13aa",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Luxembourg_road_sign_C%2C13aa.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/085-Luxembourg_road_sign_C,13aa.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/085-Luxembourg_road_sign_C,13aa.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Luxembourg_road_sign_C%2C13aa.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C14_50.svg",
+      "iso": "LU",
+      "id": "C14",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_C%2C14_%2850%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/087-Luxembourg_road_sign_C,14_(50).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/087-Luxembourg_road_sign_C,14_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_C%2C14_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C15.svg",
+      "iso": "LU",
+      "id": "C15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luxembourg_road_sign_C%2C15.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/088-Luxembourg_road_sign_C,15.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/088-Luxembourg_road_sign_C,15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luxembourg_road_sign_C%2C15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C16.gif",
+      "iso": "LU",
+      "id": "C16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Luxembourg_road_sign_diagram_C_16.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/089-Luxembourg_road_sign_diagram_C_16.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/089-Luxembourg_road_sign_diagram_C_16.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Luxembourg_road_sign_diagram_C_16.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C17a.svg",
+      "iso": "LU",
+      "id": "C17a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_C%2C17a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/090-Luxembourg_road_sign_C,17a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/090-Luxembourg_road_sign_C,17a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_C%2C17a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-C17b_50.svg",
+      "iso": "LU",
+      "id": "C17b",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Luxembourg_road_sign_C%2C17b_%2850%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/091-Luxembourg_road_sign_C,17b_(50).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/091-Luxembourg_road_sign_C,17b_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Luxembourg_road_sign_C%2C17b_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-C17c.svg",
+      "iso": "LU",
+      "id": "C17c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Luxembourg_road_sign_C%2C17c.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/092-Luxembourg_road_sign_C,17c.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/092-Luxembourg_road_sign_C,17c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Luxembourg_road_sign_C%2C17c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-C17d.gif",
+      "iso": "LU",
+      "id": "C17d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Luxembourg_road_sign_diagram_C_17_d.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/093-Luxembourg_road_sign_diagram_C_17_d.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/093-Luxembourg_road_sign_diagram_C_17_d.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Luxembourg_road_sign_diagram_C_17_d.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C18.gif",
+      "iso": "LU",
+      "id": "C18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Luxembourg_road_sign_diagram_C_18.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/205-Luxembourg_road_sign_diagram_C_18.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/205-Luxembourg_road_sign_diagram_C_18.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Luxembourg_road_sign_diagram_C_18.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C19.gif",
+      "iso": "LU",
+      "id": "C19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Luxembourg_road_sign_diagram_C_19.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/206-Luxembourg_road_sign_diagram_C_19.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/206-Luxembourg_road_sign_diagram_C_19.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Luxembourg_road_sign_diagram_C_19.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C1a.svg",
+      "iso": "LU",
+      "id": "C1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Luxembourg_road_sign_C%2C1a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/057-Luxembourg_road_sign_C,1a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/057-Luxembourg_road_sign_C,1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Luxembourg_road_sign_C%2C1a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C2.svg",
+      "iso": "LU",
+      "id": "C2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Luxembourg_road_sign_C%2C2.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/058-Luxembourg_road_sign_C,2.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/058-Luxembourg_road_sign_C,2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Luxembourg_road_sign_C%2C2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C20_a_bis.gif",
+      "iso": "LU",
+      "id": "C20_a_bis",
+      "description": "a_bis",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Luxembourg_road_sign_diagram_C_20_a_bis.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/207-Luxembourg_road_sign_diagram_C_20_a_bis.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/207-Luxembourg_road_sign_diagram_C_20_a_bis.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Luxembourg_road_sign_diagram_C_20_a_bis.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C20_b_bis.gif",
+      "iso": "LU",
+      "id": "C20_b_bis",
+      "description": "b_bis",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luxembourg_road_sign_diagram_C_20_b_bis.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/208-Luxembourg_road_sign_diagram_C_20_b_bis.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/208-Luxembourg_road_sign_diagram_C_20_b_bis.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Luxembourg_road_sign_diagram_C_20_b_bis.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C2a.svg",
+      "iso": "LU",
+      "id": "C2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Luxembourg_road_sign_C%2C2a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/059-Luxembourg_road_sign_C,2a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/059-Luxembourg_road_sign_C,2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Luxembourg_road_sign_C%2C2a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.988
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3a.gif",
+      "iso": "LU",
+      "id": "C3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Luxembourg_road_sign_diagram_C_3_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/060-Luxembourg_road_sign_diagram_C_3_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/060-Luxembourg_road_sign_diagram_C_3_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Luxembourg_road_sign_diagram_C_3_a.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3b.gif",
+      "iso": "LU",
+      "id": "C3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Luxembourg_road_sign_diagram_C_3_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/061-Luxembourg_road_sign_diagram_C_3_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/061-Luxembourg_road_sign_diagram_C_3_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Luxembourg_road_sign_diagram_C_3_b.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3c.gif",
+      "iso": "LU",
+      "id": "C3c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Luxembourg_road_sign_diagram_C_3_c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/062-Luxembourg_road_sign_diagram_C_3_c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/062-Luxembourg_road_sign_diagram_C_3_c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Luxembourg_road_sign_diagram_C_3_c.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C3d.gif",
+      "iso": "LU",
+      "id": "C3d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Luxembourg_road_sign_diagram_C_3_d.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/063-Luxembourg_road_sign_diagram_C_3_d.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/063-Luxembourg_road_sign_diagram_C_3_d.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Luxembourg_road_sign_diagram_C_3_d.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C3e.gif",
+      "iso": "LU",
+      "id": "C3e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Luxembourg_road_sign_diagram_C_3_e.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/064-Luxembourg_road_sign_diagram_C_3_e.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/064-Luxembourg_road_sign_diagram_C_3_e.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Luxembourg_road_sign_diagram_C_3_e.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C3f.gif",
+      "iso": "LU",
+      "id": "C3f",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Luxembourg_road_sign_diagram_C_3_f.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/065-Luxembourg_road_sign_diagram_C_3_f.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/065-Luxembourg_road_sign_diagram_C_3_f.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Luxembourg_road_sign_diagram_C_3_f.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3g.gif",
+      "iso": "LU",
+      "id": "C3g",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Luxembourg_road_sign_diagram_C_3_g.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/067-Luxembourg_road_sign_diagram_C_3_g.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/067-Luxembourg_road_sign_diagram_C_3_g.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Luxembourg_road_sign_diagram_C_3_g.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3h.gif",
+      "iso": "LU",
+      "id": "C3h",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luxembourg_road_sign_diagram_C_3_h.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/068-Luxembourg_road_sign_diagram_C_3_h.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/068-Luxembourg_road_sign_diagram_C_3_h.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luxembourg_road_sign_diagram_C_3_h.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C3j.gif",
+      "iso": "LU",
+      "id": "C3j",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Luxembourg_road_sign_diagram_C_3_j.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/069-Luxembourg_road_sign_diagram_C_3_j.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/069-Luxembourg_road_sign_diagram_C_3_j.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Luxembourg_road_sign_diagram_C_3_j.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3k.gif",
+      "iso": "LU",
+      "id": "C3k",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Luxembourg_road_sign_diagram_C_3_k.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/070-Luxembourg_road_sign_diagram_C_3_k.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/070-Luxembourg_road_sign_diagram_C_3_k.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Luxembourg_road_sign_diagram_C_3_k.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3l.gif",
+      "iso": "LU",
+      "id": "C3l",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Luxembourg_road_sign_diagram_C_3_l.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/071-Luxembourg_road_sign_diagram_C_3_l.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/071-Luxembourg_road_sign_diagram_C_3_l.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Luxembourg_road_sign_diagram_C_3_l.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3m.gif",
+      "iso": "LU",
+      "id": "C3m",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Luxembourg_road_sign_diagram_C_3_m.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/072-Luxembourg_road_sign_diagram_C_3_m.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/072-Luxembourg_road_sign_diagram_C_3_m.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Luxembourg_road_sign_diagram_C_3_m.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C3n.gif",
+      "iso": "LU",
+      "id": "C3n",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Luxembourg_road_sign_diagram_C_3_n.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/073-Luxembourg_road_sign_diagram_C_3_n.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/073-Luxembourg_road_sign_diagram_C_3_n.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Luxembourg_road_sign_diagram_C_3_n.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C4a.svg",
+      "iso": "LU",
+      "id": "C4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Luxembourg_road_sign_C%2C4a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/074-Luxembourg_road_sign_C,4a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/074-Luxembourg_road_sign_C,4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Luxembourg_road_sign_C%2C4a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-C4b.svg",
+      "iso": "LU",
+      "id": "C4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Luxembourg_road_sign_C%2C4b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/075-Luxembourg_road_sign_C,4b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/075-Luxembourg_road_sign_C,4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Luxembourg_road_sign_C%2C4b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C5.gif",
+      "iso": "LU",
+      "id": "C5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Luxembourg_road_sign_diagram_C_5.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/076-Luxembourg_road_sign_diagram_C_5.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/076-Luxembourg_road_sign_diagram_C_5.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Luxembourg_road_sign_diagram_C_5.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C6.gif",
+      "iso": "LU",
+      "id": "C6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Luxembourg_road_sign_diagram_C_6.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/077-Luxembourg_road_sign_diagram_C_6.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/077-Luxembourg_road_sign_diagram_C_6.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Luxembourg_road_sign_diagram_C_6.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C7.gif",
+      "iso": "LU",
+      "id": "C7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Luxembourg_road_sign_diagram_C_7.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/078-Luxembourg_road_sign_diagram_C_7.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/078-Luxembourg_road_sign_diagram_C_7.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Luxembourg_road_sign_diagram_C_7.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C8.gif",
+      "iso": "LU",
+      "id": "C8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Luxembourg_road_sign_diagram_C_8.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/079-Luxembourg_road_sign_diagram_C_8.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/079-Luxembourg_road_sign_diagram_C_8.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Luxembourg_road_sign_diagram_C_8.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LU-C9.gif",
+      "iso": "LU",
+      "id": "C9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Luxembourg_road_sign_diagram_C_9.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/080-Luxembourg_road_sign_diagram_C_9.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/080-Luxembourg_road_sign_diagram_C_9.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Luxembourg_road_sign_diagram_C_9.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D1.svg",
+      "iso": "LU",
+      "id": "D1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Luxembourg_road_signs_D%2C1.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/094-Luxembourg_road_signs_D,1.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/094-Luxembourg_road_signs_D,1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Luxembourg_road_signs_D%2C1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D10.gif",
+      "iso": "LU",
+      "id": "D10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Luxembourg_road_sign_diagram_D%2C10.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/114-Luxembourg_road_sign_diagram_D,10.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/114-Luxembourg_road_sign_diagram_D,10.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Luxembourg_road_sign_diagram_D%2C10.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D10a.gif",
+      "iso": "LU",
+      "id": "D10a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Luxembourg_road_sign_diagram_D%2C10a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/115-Luxembourg_road_sign_diagram_D,10a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/115-Luxembourg_road_sign_diagram_D,10a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Luxembourg_road_sign_diagram_D%2C10a.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.988
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D11.svg",
+      "iso": "LU",
+      "id": "D11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Luxembourg_road_sign_D%2C11.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/116-Luxembourg_road_sign_D,11.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/116-Luxembourg_road_sign_D,11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Luxembourg_road_sign_D%2C11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-D11a.svg",
+      "iso": "LU",
+      "id": "D11a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Luxembourg_road_sign_D%2C11a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/117-Luxembourg_road_sign_D,11a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/117-Luxembourg_road_sign_D,11a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Luxembourg_road_sign_D%2C11a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D1a_straight-right.gif",
+      "iso": "LU",
+      "id": "D1a_straight-right",
+      "description": "straight-right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Luxembourg_road_sign_diagram_D%2C1a_straight-right.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/097-Luxembourg_road_sign_diagram_D,1a_straight-right.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/097-Luxembourg_road_sign_diagram_D,1a_straight-right.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Luxembourg_road_sign_diagram_D%2C1a_straight-right.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D1a_straight.gif",
+      "iso": "LU",
+      "id": "D1a_straight",
+      "description": "straight",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Luxembourg_road_sign_diagram_D%2C1a_straight.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/095-Luxembourg_road_sign_diagram_D,1a_straight.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/095-Luxembourg_road_sign_diagram_D,1a_straight.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Luxembourg_road_sign_diagram_D%2C1a_straight.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D2.gif",
+      "iso": "LU",
+      "id": "D2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_D%2C2.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/098-Luxembourg_road_sign_diagram_D,2.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/098-Luxembourg_road_sign_diagram_D,2.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_D%2C2.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D2b.svg",
+      "iso": "LU",
+      "id": "D2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luxembourg_road_signs_D%2C2b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/096-Luxembourg_road_signs_D,2b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/096-Luxembourg_road_signs_D,2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luxembourg_road_signs_D%2C2b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D3.gif",
+      "iso": "LU",
+      "id": "D3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Luxembourg_road_sign_diagram_D%2C3.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/099-Luxembourg_road_sign_diagram_D,3.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/099-Luxembourg_road_sign_diagram_D,3.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Luxembourg_road_sign_diagram_D%2C3.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D4.gif",
+      "iso": "LU",
+      "id": "D4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Luxembourg_road_sign_diagram_D%2C4.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/100-Luxembourg_road_sign_diagram_D,4.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/100-Luxembourg_road_sign_diagram_D,4.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Luxembourg_road_sign_diagram_D%2C4.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.988
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D4a.gif",
+      "iso": "LU",
+      "id": "D4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Luxembourg_road_sign_diagram_D%2C4a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/101-Luxembourg_road_sign_diagram_D,4a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/101-Luxembourg_road_sign_diagram_D,4a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Luxembourg_road_sign_diagram_D%2C4a.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D5.svg",
+      "iso": "LU",
+      "id": "D5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Luxembourg_road_signs_D%2C5.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/102-Luxembourg_road_signs_D,5.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/102-Luxembourg_road_signs_D,5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Luxembourg_road_signs_D%2C5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D5a.svg",
+      "iso": "LU",
+      "id": "D5a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Luxembourg_road_signs_D%2C5a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/103-Luxembourg_road_signs_D,5a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/103-Luxembourg_road_signs_D,5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Luxembourg_road_signs_D%2C5a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D5aa.svg",
+      "iso": "LU",
+      "id": "D5aa",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Luxembourg_road_signs_D%2C5aa.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/106-Luxembourg_road_signs_D,5aa.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/106-Luxembourg_road_signs_D,5aa.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Luxembourg_road_signs_D%2C5aa.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D5b.svg",
+      "iso": "LU",
+      "id": "D5b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Luxembourg_road_signs_D%2C5b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/104-Luxembourg_road_signs_D,5b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/104-Luxembourg_road_signs_D,5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Luxembourg_road_signs_D%2C5b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D5ba.svg",
+      "iso": "LU",
+      "id": "D5ba",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Luxembourg_road_sign_D%2C5ba.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/107-Luxembourg_road_sign_D,5ba.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/107-Luxembourg_road_sign_D,5ba.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Luxembourg_road_sign_D%2C5ba.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D5c.gif",
+      "iso": "LU",
+      "id": "D5c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Luxembourg_road_sign_diagram_D%2C5c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/105-Luxembourg_road_sign_diagram_D,5c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/105-Luxembourg_road_sign_diagram_D,5c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Luxembourg_road_sign_diagram_D%2C5c.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D6.gif",
+      "iso": "LU",
+      "id": "D6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Luxembourg_road_sign_diagram_D%2C6.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/108-Luxembourg_road_sign_diagram_D,6.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/108-Luxembourg_road_sign_diagram_D,6.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Luxembourg_road_sign_diagram_D%2C6.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-D6a.gif",
+      "iso": "LU",
+      "id": "D6a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Luxembourg_road_sign_diagram_D%2C6a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/109-Luxembourg_road_sign_diagram_D,6a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/109-Luxembourg_road_sign_diagram_D,6a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Luxembourg_road_sign_diagram_D%2C6a.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D7.gif",
+      "iso": "LU",
+      "id": "D7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Luxembourg_road_sign_diagram_D%2C7.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/110-Luxembourg_road_sign_diagram_D,7.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/110-Luxembourg_road_sign_diagram_D,7.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Luxembourg_road_sign_diagram_D%2C7.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LU-D8.gif",
+      "iso": "LU",
+      "id": "D8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Luxembourg_road_sign_diagram_D%2C8.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/111-Luxembourg_road_sign_diagram_D,8.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/111-Luxembourg_road_sign_diagram_D,8.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Luxembourg_road_sign_diagram_D%2C8.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "sd_unclassified/other/LU-D9.gif",
+      "iso": "LU",
+      "id": "D9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Luxembourg_road_sign_diagram_D%2C9.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/112-Luxembourg_road_sign_diagram_D,9.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/112-Luxembourg_road_sign_diagram_D,9.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Luxembourg_road_sign_diagram_D%2C9.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/LU-D9a.gif",
+      "iso": "LU",
+      "id": "D9a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Luxembourg_road_sign_diagram_D%2C9a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/113-Luxembourg_road_sign_diagram_D,9a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/113-Luxembourg_road_sign_diagram_D,9a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Luxembourg_road_sign_diagram_D%2C9a.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E1-a1.gif",
+      "iso": "LU",
+      "id": "E1-a1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Luxembourg_road_sign_diagram_E_1_a1.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/118-Luxembourg_road_sign_diagram_E_1_a1.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/118-Luxembourg_road_sign_diagram_E_1_a1.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Luxembourg_road_sign_diagram_E_1_a1.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E1-a4.gif",
+      "iso": "LU",
+      "id": "E1-a4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_E_1_a4.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/119-Luxembourg_road_sign_diagram_E_1_a4.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/119-Luxembourg_road_sign_diagram_E_1_a4.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_E_1_a4.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E10.gif",
+      "iso": "LU",
+      "id": "E10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Luxembourg_road_sign_diagram_E_10.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/141-Luxembourg_road_sign_diagram_E_10.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/141-Luxembourg_road_sign_diagram_E_10.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Luxembourg_road_sign_diagram_E_10.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E10a.gif",
+      "iso": "LU",
+      "id": "E10a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Luxembourg_road_sign_diagram_E_10_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/142-Luxembourg_road_sign_diagram_E_10_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/142-Luxembourg_road_sign_diagram_E_10_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Luxembourg_road_sign_diagram_E_10_a.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LU-E11a.svg",
+      "iso": "LU",
+      "id": "E11a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Luxembourg_road_sign_E%2C11a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/143-Luxembourg_road_sign_E,11a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/143-Luxembourg_road_sign_E,11a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Luxembourg_road_sign_E%2C11a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E11b.svg",
+      "iso": "LU",
+      "id": "E11b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Luxembourg_road_sign_E%2C11b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/144-Luxembourg_road_sign_E,11b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/144-Luxembourg_road_sign_E,11b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Luxembourg_road_sign_E%2C11b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E11c.gif",
+      "iso": "LU",
+      "id": "E11c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_E_11c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/145-Luxembourg_road_sign_diagram_E_11c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/145-Luxembourg_road_sign_diagram_E_11c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_E_11c.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E12a.gif",
+      "iso": "LU",
+      "id": "E12a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Luxembourg_road_sign_diagram_E_12_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/146-Luxembourg_road_sign_diagram_E_12_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/146-Luxembourg_road_sign_diagram_E_12_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Luxembourg_road_sign_diagram_E_12_a.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E12b.gif",
+      "iso": "LU",
+      "id": "E12b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Luxembourg_road_sign_diagram_E_12_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/147-Luxembourg_road_sign_diagram_E_12_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/147-Luxembourg_road_sign_diagram_E_12_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Luxembourg_road_sign_diagram_E_12_b.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E13a.svg",
+      "iso": "LU",
+      "id": "E13a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Luxembourg_road_sign_E%2C13a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/148-Luxembourg_road_sign_E,13a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/148-Luxembourg_road_sign_E,13a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Luxembourg_road_sign_E%2C13a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E13b-1.svg",
+      "iso": "LU",
+      "id": "E13b-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Luxembourg_road_sign_E%2C13b-1.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/149-Luxembourg_road_sign_E,13b-1.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/149-Luxembourg_road_sign_E,13b-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Luxembourg_road_sign_E%2C13b-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E14.svg",
+      "iso": "LU",
+      "id": "E14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Luxembourg_road_sign_E%2C14.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/150-Luxembourg_road_sign_E,14.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/150-Luxembourg_road_sign_E,14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Luxembourg_road_sign_E%2C14.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LU-E15.gif",
+      "iso": "LU",
+      "id": "E15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Luxembourg_road_sign_diagram_E_15.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/151-Luxembourg_road_sign_diagram_E_15.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/151-Luxembourg_road_sign_diagram_E_15.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Luxembourg_road_sign_diagram_E_15.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-E16.gif",
+      "iso": "LU",
+      "id": "E16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Luxembourg_road_sign_diagram_E_16.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/152-Luxembourg_road_sign_diagram_E_16.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/152-Luxembourg_road_sign_diagram_E_16.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Luxembourg_road_sign_diagram_E_16.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LU-E17.gif",
+      "iso": "LU",
+      "id": "E17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Luxembourg_road_sign_diagram_E_17.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/153-Luxembourg_road_sign_diagram_E_17.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/153-Luxembourg_road_sign_diagram_E_17.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Luxembourg_road_sign_diagram_E_17.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E18.gif",
+      "iso": "LU",
+      "id": "E18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_E_18.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/154-Luxembourg_road_sign_diagram_E_18.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/154-Luxembourg_road_sign_diagram_E_18.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_E_18.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E19.svg",
+      "iso": "LU",
+      "id": "E19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Luxembourg_road_sign_E%2C19.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/155-Luxembourg_road_sign_E,19.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/155-Luxembourg_road_sign_E,19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Luxembourg_road_sign_E%2C19.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E1b.gif",
+      "iso": "LU",
+      "id": "E1b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Luxembourg_road_sign_diagram_E_1_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/120-Luxembourg_road_sign_diagram_E_1_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/120-Luxembourg_road_sign_diagram_E_1_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Luxembourg_road_sign_diagram_E_1_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E1c.gif",
+      "iso": "LU",
+      "id": "E1c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Luxembourg_road_sign_diagram_E_1_c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/121-Luxembourg_road_sign_diagram_E_1_c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/121-Luxembourg_road_sign_diagram_E_1_c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Luxembourg_road_sign_diagram_E_1_c.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "h_additional_panels/other/LU-E1d.gif",
+      "iso": "LU",
+      "id": "E1d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Luxembourg_road_sign_diagram_E_1_d.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/122-Luxembourg_road_sign_diagram_E_1_d.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/122-Luxembourg_road_sign_diagram_E_1_d.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Luxembourg_road_sign_diagram_E_1_d.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E1e.gif",
+      "iso": "LU",
+      "id": "E1e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_diagram_E_1_e.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/123-Luxembourg_road_sign_diagram_E_1_e.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/123-Luxembourg_road_sign_diagram_E_1_e.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_diagram_E_1_e.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E1f.gif",
+      "iso": "LU",
+      "id": "E1f",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Luxembourg_road_sign_diagram_E_1_f.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/124-Luxembourg_road_sign_diagram_E_1_f.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/124-Luxembourg_road_sign_diagram_E_1_f.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Luxembourg_road_sign_diagram_E_1_f.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E20.gif",
+      "iso": "LU",
+      "id": "E20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Luxembourg_road_sign_diagram_E_20.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/156-Luxembourg_road_sign_diagram_E_20.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/156-Luxembourg_road_sign_diagram_E_20.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Luxembourg_road_sign_diagram_E_20.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/LU-E21_da.gif",
+      "iso": "LU",
+      "id": "E21_da",
+      "description": "da",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Luxembourg_road_sign_diagram_E_21_da.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/161-Luxembourg_road_sign_diagram_E_21_da.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/161-Luxembourg_road_sign_diagram_E_21_da.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Luxembourg_road_sign_diagram_E_21_da.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E21_db.gif",
+      "iso": "LU",
+      "id": "E21_db",
+      "description": "db",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_diagram_E_21_db.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/162-Luxembourg_road_sign_diagram_E_21_db.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/162-Luxembourg_road_sign_diagram_E_21_db.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_diagram_E_21_db.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E21_dc.gif",
+      "iso": "LU",
+      "id": "E21_dc",
+      "description": "dc",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Luxembourg_road_sign_diagram_E_21_dc.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/163-Luxembourg_road_sign_diagram_E_21_dc.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/163-Luxembourg_road_sign_diagram_E_21_dc.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Luxembourg_road_sign_diagram_E_21_dc.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E21a.gif",
+      "iso": "LU",
+      "id": "E21a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_diagram_E_21_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/157-Luxembourg_road_sign_diagram_E_21_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/157-Luxembourg_road_sign_diagram_E_21_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_diagram_E_21_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E21b.svg",
+      "iso": "LU",
+      "id": "E21b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Luxembourg_road_sign_E%2C21b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/158-Luxembourg_road_sign_E,21b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/158-Luxembourg_road_sign_E,21b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Luxembourg_road_sign_E%2C21b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E21c.gif",
+      "iso": "LU",
+      "id": "E21c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Luxembourg_road_sign_diagram_E_21_c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/159-Luxembourg_road_sign_diagram_E_21_c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/159-Luxembourg_road_sign_diagram_E_21_c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Luxembourg_road_sign_diagram_E_21_c.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E21d.gif",
+      "iso": "LU",
+      "id": "E21d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Luxembourg_road_sign_diagram_E_21_d.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/160-Luxembourg_road_sign_diagram_E_21_d.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/160-Luxembourg_road_sign_diagram_E_21_d.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Luxembourg_road_sign_diagram_E_21_d.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E22_aa.gif",
+      "iso": "LU",
+      "id": "E22_aa",
+      "description": "aa",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luxembourg_road_sign_diagram_E_22_aa.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/165-Luxembourg_road_sign_diagram_E_22_aa.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/165-Luxembourg_road_sign_diagram_E_22_aa.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luxembourg_road_sign_diagram_E_22_aa.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.949
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E22_ba.gif",
+      "iso": "LU",
+      "id": "E22_ba",
+      "description": "ba",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Luxembourg_road_sign_diagram_E_22_ba.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/167-Luxembourg_road_sign_diagram_E_22_ba.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/167-Luxembourg_road_sign_diagram_E_22_ba.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Luxembourg_road_sign_diagram_E_22_ba.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E22_ca.gif",
+      "iso": "LU",
+      "id": "E22_ca",
+      "description": "ca",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_diagram_E_22_ca.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/168-Luxembourg_road_sign_diagram_E_22_ca.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/168-Luxembourg_road_sign_diagram_E_22_ca.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_diagram_E_22_ca.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E22a.svg",
+      "iso": "LU",
+      "id": "E22a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Luxembourg_road_sign_E%2C22a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/164-Luxembourg_road_sign_E,22a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/164-Luxembourg_road_sign_E,22a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Luxembourg_road_sign_E%2C22a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.951
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E22b.gif",
+      "iso": "LU",
+      "id": "E22b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Luxembourg_road_sign_diagram_E_22_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/166-Luxembourg_road_sign_diagram_E_22_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/166-Luxembourg_road_sign_diagram_E_22_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Luxembourg_road_sign_diagram_E_22_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LU-E23.gif",
+      "iso": "LU",
+      "id": "E23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Luxembourg_road_sign_diagram_E_23.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/209-Luxembourg_road_sign_diagram_E_23.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/209-Luxembourg_road_sign_diagram_E_23.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Luxembourg_road_sign_diagram_E_23.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E23a.gif",
+      "iso": "LU",
+      "id": "E23a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Luxembourg_road_sign_diagram_E_23_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/210-Luxembourg_road_sign_diagram_E_23_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/210-Luxembourg_road_sign_diagram_E_23_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Luxembourg_road_sign_diagram_E_23_a.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E23b.gif",
+      "iso": "LU",
+      "id": "E23b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Luxembourg_road_sign_diagram_E_23_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/211-Luxembourg_road_sign_diagram_E_23_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/211-Luxembourg_road_sign_diagram_E_23_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Luxembourg_road_sign_diagram_E_23_b.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E23c.gif",
+      "iso": "LU",
+      "id": "E23c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Luxembourg_road_sign_diagram_E_23_c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/212-Luxembourg_road_sign_diagram_E_23_c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/212-Luxembourg_road_sign_diagram_E_23_c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Luxembourg_road_sign_diagram_E_23_c.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E23d.gif",
+      "iso": "LU",
+      "id": "E23d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Luxembourg_road_sign_diagram_E_23_d.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/213-Luxembourg_road_sign_diagram_E_23_d.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/213-Luxembourg_road_sign_diagram_E_23_d.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Luxembourg_road_sign_diagram_E_23_d.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E23e.gif",
+      "iso": "LU",
+      "id": "E23e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Luxembourg_road_sign_diagram_E_23_e.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/214-Luxembourg_road_sign_diagram_E_23_e.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/214-Luxembourg_road_sign_diagram_E_23_e.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Luxembourg_road_sign_diagram_E_23_e.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E24a.svg",
+      "iso": "LU",
+      "id": "E24a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Luxembourg_road_sign_E%2C24a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/170-Luxembourg_road_sign_E,24a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/170-Luxembourg_road_sign_E,24a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Luxembourg_road_sign_E%2C24a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E24b.gif",
+      "iso": "LU",
+      "id": "E24b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Luxembourg_road_sign_diagram_E_24_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/169-Luxembourg_road_sign_diagram_E_24_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/169-Luxembourg_road_sign_diagram_E_24_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Luxembourg_road_sign_diagram_E_24_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.9
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E25a.svg",
+      "iso": "LU",
+      "id": "E25a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Luxembourg_road_sign_E%2C25a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/171-Luxembourg_road_sign_E,25a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/171-Luxembourg_road_sign_E,25a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Luxembourg_road_sign_E%2C25a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E25b.svg",
+      "iso": "LU",
+      "id": "E25b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_road_sign_E%2C25b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/172-Luxembourg_road_sign_E,25b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/172-Luxembourg_road_sign_E,25b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_road_sign_E%2C25b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E26a.svg",
+      "iso": "LU",
+      "id": "E26a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Luxembourg_road_sign_E%2C26a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/173-Luxembourg_road_sign_E,26a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/173-Luxembourg_road_sign_E,26a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Luxembourg_road_sign_E%2C26a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E26b.svg",
+      "iso": "LU",
+      "id": "E26b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_E%2C26b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/174-Luxembourg_road_sign_E,26b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/174-Luxembourg_road_sign_E,26b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_E%2C26b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-E27a.svg",
+      "iso": "LU",
+      "id": "E27a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Luxembourg_road_sign_E%2C27a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/175-Luxembourg_road_sign_E,27a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/175-Luxembourg_road_sign_E,27a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Luxembourg_road_sign_E%2C27a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-E27b.svg",
+      "iso": "LU",
+      "id": "E27b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Luxembourg_road_sign_E%2C27b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/176-Luxembourg_road_sign_E,27b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/176-Luxembourg_road_sign_E,27b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Luxembourg_road_sign_E%2C27b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LU-E28a.svg",
+      "iso": "LU",
+      "id": "E28a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Luxembourg_road_sign_E%2C28a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/177-Luxembourg_road_sign_E,28a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/177-Luxembourg_road_sign_E,28a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Luxembourg_road_sign_E%2C28a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-E28b.svg",
+      "iso": "LU",
+      "id": "E28b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Luxembourg_road_sign_E%2C28b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/178-Luxembourg_road_sign_E,28b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/178-Luxembourg_road_sign_E,28b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Luxembourg_road_sign_E%2C28b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E29.svg",
+      "iso": "LU",
+      "id": "E29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Luxembourg_road_sign_E%2C29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/179-Luxembourg_road_sign_E,29.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/179-Luxembourg_road_sign_E,29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Luxembourg_road_sign_E%2C29.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E2a.gif",
+      "iso": "LU",
+      "id": "E2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Luxembourg_road_sign_diagram_E_2_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/125-Luxembourg_road_sign_diagram_E_2_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/125-Luxembourg_road_sign_diagram_E_2_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Luxembourg_road_sign_diagram_E_2_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E3.gif",
+      "iso": "LU",
+      "id": "E3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Luxembourg_road_sign_diagram_E_3.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/126-Luxembourg_road_sign_diagram_E_3.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/126-Luxembourg_road_sign_diagram_E_3.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Luxembourg_road_sign_diagram_E_3.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E30a.gif",
+      "iso": "LU",
+      "id": "E30a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Luxembourg_road_sign_diagram_E_30_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/180-Luxembourg_road_sign_diagram_E_30_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/180-Luxembourg_road_sign_diagram_E_30_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Luxembourg_road_sign_diagram_E_30_a.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E30b.gif",
+      "iso": "LU",
+      "id": "E30b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Luxembourg_road_sign_diagram_E_30_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/181-Luxembourg_road_sign_diagram_E_30_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/181-Luxembourg_road_sign_diagram_E_30_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Luxembourg_road_sign_diagram_E_30_b.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E31a.gif",
+      "iso": "LU",
+      "id": "E31a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_diagram_E_31_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/182-Luxembourg_road_sign_diagram_E_31_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/182-Luxembourg_road_sign_diagram_E_31_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Luxembourg_road_sign_diagram_E_31_a.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/LU-E31b.gif",
+      "iso": "LU",
+      "id": "E31b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Luxembourg_road_sign_diagram_E_31_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/183-Luxembourg_road_sign_diagram_E_31_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/183-Luxembourg_road_sign_diagram_E_31_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Luxembourg_road_sign_diagram_E_31_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.903
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E4-a2.gif",
+      "iso": "LU",
+      "id": "E4-a2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Luxembourg_road_sign_diagram_E_4_a2.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/127-Luxembourg_road_sign_diagram_E_4_a2.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/127-Luxembourg_road_sign_diagram_E_4_a2.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Luxembourg_road_sign_diagram_E_4_a2.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.937
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E4-b3.gif",
+      "iso": "LU",
+      "id": "E4-b3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Luxembourg_road_sign_diagram_E_4_b3.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/128-Luxembourg_road_sign_diagram_E_4_b3.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/128-Luxembourg_road_sign_diagram_E_4_b3.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Luxembourg_road_sign_diagram_E_4_b3.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.939
+    },
+    {
+      "filename": "h_additional_panels/other/LU-E6-b1.gif",
+      "iso": "LU",
+      "id": "E6-b1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Luxembourg_road_sign_diagram_E_6_b1.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/129-Luxembourg_road_sign_diagram_E_6_b1.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/129-Luxembourg_road_sign_diagram_E_6_b1.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Luxembourg_road_sign_diagram_E_6_b1.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "h_additional_panels/other/LU-E6-c2.gif",
+      "iso": "LU",
+      "id": "E6-c2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Luxembourg_road_sign_diagram_E_6_c2.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/130-Luxembourg_road_sign_diagram_E_6_c2.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/130-Luxembourg_road_sign_diagram_E_6_c2.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Luxembourg_road_sign_diagram_E_6_c2.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.937
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E7-b1.gif",
+      "iso": "LU",
+      "id": "E7-b1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Luxembourg_road_sign_diagram_E_7_b1.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/132-Luxembourg_road_sign_diagram_E_7_b1.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/132-Luxembourg_road_sign_diagram_E_7_b1.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Luxembourg_road_sign_diagram_E_7_b1.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-E7-c1.gif",
+      "iso": "LU",
+      "id": "E7-c1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Luxembourg_road_sign_diagram_E_7_c1.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/134-Luxembourg_road_sign_diagram_E_7_c1.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/134-Luxembourg_road_sign_diagram_E_7_c1.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Luxembourg_road_sign_diagram_E_7_c1.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E7a.gif",
+      "iso": "LU",
+      "id": "E7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Luxembourg_road_sign_diagram_E_7_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/131-Luxembourg_road_sign_diagram_E_7_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/131-Luxembourg_road_sign_diagram_E_7_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Luxembourg_road_sign_diagram_E_7_a.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-E7d.gif",
+      "iso": "LU",
+      "id": "E7d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Luxembourg_road_sign_diagram_E_7_d.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/133-Luxembourg_road_sign_diagram_E_7_d.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/133-Luxembourg_road_sign_diagram_E_7_d.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Luxembourg_road_sign_diagram_E_7_d.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-E8-a1.gif",
+      "iso": "LU",
+      "id": "E8-a1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Luxembourg_road_sign_diagram_E_8_a1.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/135-Luxembourg_road_sign_diagram_E_8_a1.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/135-Luxembourg_road_sign_diagram_E_8_a1.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Luxembourg_road_sign_diagram_E_8_a1.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E8-b2.gif",
+      "iso": "LU",
+      "id": "E8-b2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Luxembourg_road_sign_diagram_E_8_b2.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/136-Luxembourg_road_sign_diagram_E_8_b2.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/136-Luxembourg_road_sign_diagram_E_8_b2.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Luxembourg_road_sign_diagram_E_8_b2.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E9a.svg",
+      "iso": "LU",
+      "id": "E9a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Luxembourg_road_sign_E%2C9a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/137-Luxembourg_road_sign_E,9a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/137-Luxembourg_road_sign_E,9a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Luxembourg_road_sign_E%2C9a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-E9aa.svg",
+      "iso": "LU",
+      "id": "E9aa",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Luxembourg_road_sign_E%2C9aa.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/139-Luxembourg_road_sign_E,9aa.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/139-Luxembourg_road_sign_E,9aa.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Luxembourg_road_sign_E%2C9aa.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-E9b.svg",
+      "iso": "LU",
+      "id": "E9b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Luxembourg_road_sign_E%2C9b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/138-Luxembourg_road_sign_E,9b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/138-Luxembourg_road_sign_E,9b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Luxembourg_road_sign_E%2C9b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-E9ba.svg",
+      "iso": "LU",
+      "id": "E9ba",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Luxembourg_road_sign_E%2C9ba.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/140-Luxembourg_road_sign_E,9ba.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/140-Luxembourg_road_sign_E,9ba.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Luxembourg_road_sign_E%2C9ba.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-F02.gif",
+      "iso": "LU",
+      "id": "F02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_diagram_F_02.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/185-Luxembourg_road_sign_diagram_F_02.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/185-Luxembourg_road_sign_diagram_F_02.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_diagram_F_02.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LU-F04.gif",
+      "iso": "LU",
+      "id": "F04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Luxembourg_road_sign_diagram_F_04.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/187-Luxembourg_road_sign_diagram_F_04.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/187-Luxembourg_road_sign_diagram_F_04.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Luxembourg_road_sign_diagram_F_04.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F05.gif",
+      "iso": "LU",
+      "id": "F05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Luxembourg_road_sign_diagram_F_05.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/188-Luxembourg_road_sign_diagram_F_05.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/188-Luxembourg_road_sign_diagram_F_05.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Luxembourg_road_sign_diagram_F_05.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F06.gif",
+      "iso": "LU",
+      "id": "F06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_F_06.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/189-Luxembourg_road_sign_diagram_F_06.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/189-Luxembourg_road_sign_diagram_F_06.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_F_06.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F07.gif",
+      "iso": "LU",
+      "id": "F07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Luxembourg_road_sign_diagram_F_07.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/190-Luxembourg_road_sign_diagram_F_07.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/190-Luxembourg_road_sign_diagram_F_07.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Luxembourg_road_sign_diagram_F_07.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F08.gif",
+      "iso": "LU",
+      "id": "F08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Luxembourg_road_sign_diagram_F_08.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/191-Luxembourg_road_sign_diagram_F_08.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/191-Luxembourg_road_sign_diagram_F_08.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Luxembourg_road_sign_diagram_F_08.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F09.gif",
+      "iso": "LU",
+      "id": "F09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Luxembourg_road_sign_diagram_F_09.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/192-Luxembourg_road_sign_diagram_F_09.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/192-Luxembourg_road_sign_diagram_F_09.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Luxembourg_road_sign_diagram_F_09.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-F10.gif",
+      "iso": "LU",
+      "id": "F10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Luxembourg_road_sign_diagram_F_10.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/193-Luxembourg_road_sign_diagram_F_10.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/193-Luxembourg_road_sign_diagram_F_10.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Luxembourg_road_sign_diagram_F_10.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-F11.gif",
+      "iso": "LU",
+      "id": "F11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Luxembourg_road_sign_diagram_F_11.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/194-Luxembourg_road_sign_diagram_F_11.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/194-Luxembourg_road_sign_diagram_F_11.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Luxembourg_road_sign_diagram_F_11.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F12.gif",
+      "iso": "LU",
+      "id": "F12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Luxembourg_road_sign_diagram_F_12.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/195-Luxembourg_road_sign_diagram_F_12.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/195-Luxembourg_road_sign_diagram_F_12.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Luxembourg_road_sign_diagram_F_12.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F13.gif",
+      "iso": "LU",
+      "id": "F13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Luxembourg_road_sign_diagram_F_13.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/196-Luxembourg_road_sign_diagram_F_13.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/196-Luxembourg_road_sign_diagram_F_13.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Luxembourg_road_sign_diagram_F_13.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/LU-F14a.svg",
+      "iso": "LU",
+      "id": "F14a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Luxembourg_road_sign_F%2C14a.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/197-Luxembourg_road_sign_F,14a.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/197-Luxembourg_road_sign_F,14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Luxembourg_road_sign_F%2C14a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-F14b.gif",
+      "iso": "LU",
+      "id": "F14b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Luxembourg_road_sign_diagram_F_14_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/198-Luxembourg_road_sign_diagram_F_14_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/198-Luxembourg_road_sign_diagram_F_14_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Luxembourg_road_sign_diagram_F_14_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-F15-1.svg",
+      "iso": "LU",
+      "id": "F15-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luxembourg_road_sign_F%2C15-1.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/199-Luxembourg_road_sign_F,15-1.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/199-Luxembourg_road_sign_F,15-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luxembourg_road_sign_F%2C15-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/LU-F16.gif",
+      "iso": "LU",
+      "id": "F16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Luxembourg_road_sign_diagram_F_16.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/200-Luxembourg_road_sign_diagram_F_16.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/200-Luxembourg_road_sign_diagram_F_16.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Luxembourg_road_sign_diagram_F_16.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/LU-F17.gif",
+      "iso": "LU",
+      "id": "F17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Luxembourg_road_sign_diagram_F_17.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/201-Luxembourg_road_sign_diagram_F_17.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/201-Luxembourg_road_sign_diagram_F_17.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Luxembourg_road_sign_diagram_F_17.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/LU-F18.gif",
+      "iso": "LU",
+      "id": "F18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Luxembourg_road_sign_diagram_F_18.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/202-Luxembourg_road_sign_diagram_F_18.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/202-Luxembourg_road_sign_diagram_F_18.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Luxembourg_road_sign_diagram_F_18.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-F18a.gif",
+      "iso": "LU",
+      "id": "F18a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Luxembourg_road_sign_diagram_F_18_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/203-Luxembourg_road_sign_diagram_F_18_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/203-Luxembourg_road_sign_diagram_F_18_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Luxembourg_road_sign_diagram_F_18_a.gif"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "g_other_information_signs/vienna/LU-F22.svg",
+      "iso": "LU",
+      "id": "F22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Luxembourg_road_signs_F%2C22.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/204-Luxembourg_road_signs_F,22.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/204-Luxembourg_road_signs_F,22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Luxembourg_road_signs_F%2C22.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-G1a_1.gif",
+      "iso": "LU",
+      "id": "G1a",
+      "description": null,
+      "variants": [
+        "1"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Luxembourg_road_sign_diagram_G_1_a_%281%29.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/215-Luxembourg_road_sign_diagram_G_1_a_(1).gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/215-Luxembourg_road_sign_diagram_G_1_a_(1).gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Luxembourg_road_sign_diagram_G_1_a_%281%29.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-G1b.gif",
+      "iso": "LU",
+      "id": "G1b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Luxembourg_road_sign_diagram_G_1_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/216-Luxembourg_road_sign_diagram_G_1_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/216-Luxembourg_road_sign_diagram_G_1_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Luxembourg_road_sign_diagram_G_1_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-G2a.gif",
+      "iso": "LU",
+      "id": "G2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Luxembourg_road_sign_diagram_G_2_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/217-Luxembourg_road_sign_diagram_G_2_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/217-Luxembourg_road_sign_diagram_G_2_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Luxembourg_road_sign_diagram_G_2_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-G2b_1.gif",
+      "iso": "LU",
+      "id": "G2b",
+      "description": null,
+      "variants": [
+        "1"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Luxembourg_road_sign_diagram_G_2_b_%281%29.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/218-Luxembourg_road_sign_diagram_G_2_b_(1).gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/218-Luxembourg_road_sign_diagram_G_2_b_(1).gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Luxembourg_road_sign_diagram_G_2_b_%281%29.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-G2b_2.gif",
+      "iso": "LU",
+      "id": "G2b",
+      "description": null,
+      "variants": [
+        "2"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Luxembourg_road_sign_diagram_G_2_b_%282%29.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/219-Luxembourg_road_sign_diagram_G_2_b_(2).gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/219-Luxembourg_road_sign_diagram_G_2_b_(2).gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Luxembourg_road_sign_diagram_G_2_b_%282%29.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-G3a.gif",
+      "iso": "LU",
+      "id": "G3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Luxembourg_road_sign_diagram_G_3_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/220-Luxembourg_road_sign_diagram_G_3_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/220-Luxembourg_road_sign_diagram_G_3_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Luxembourg_road_sign_diagram_G_3_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/LU-G3b.gif",
+      "iso": "LU",
+      "id": "G3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Luxembourg_road_sign_diagram_G_3_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/221-Luxembourg_road_sign_diagram_G_3_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/221-Luxembourg_road_sign_diagram_G_3_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Luxembourg_road_sign_diagram_G_3_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LU-G4a.gif",
+      "iso": "LU",
+      "id": "G4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Luxembourg_road_sign_diagram_G_4_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/222-Luxembourg_road_sign_diagram_G_4_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/222-Luxembourg_road_sign_diagram_G_4_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Luxembourg_road_sign_diagram_G_4_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-G4b.gif",
+      "iso": "LU",
+      "id": "G4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Luxembourg_road_sign_diagram_G_4_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/223-Luxembourg_road_sign_diagram_G_4_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/223-Luxembourg_road_sign_diagram_G_4_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Luxembourg_road_sign_diagram_G_4_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-G5a.gif",
+      "iso": "LU",
+      "id": "G5a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Luxembourg_road_sign_diagram_G_5_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/224-Luxembourg_road_sign_diagram_G_5_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/224-Luxembourg_road_sign_diagram_G_5_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Luxembourg_road_sign_diagram_G_5_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-G5b.gif",
+      "iso": "LU",
+      "id": "G5b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Luxembourg_road_sign_diagram_G_5_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/225-Luxembourg_road_sign_diagram_G_5_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/225-Luxembourg_road_sign_diagram_G_5_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Luxembourg_road_sign_diagram_G_5_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-H1-1.svg",
+      "iso": "LU",
+      "id": "H1-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_H%2C1-1.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/226-Luxembourg_road_sign_H,1-1.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/226-Luxembourg_road_sign_H,1-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_H%2C1-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H1-2.svg",
+      "iso": "LU",
+      "id": "H1-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_H%2C1-2.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/227-Luxembourg_road_sign_H,1-2.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/227-Luxembourg_road_sign_H,1-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_H%2C1-2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LU-H1-3.svg",
+      "iso": "LU",
+      "id": "H1-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Luxembourg_road_sign_H%2C1-3.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/228-Luxembourg_road_sign_H,1-3.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/228-Luxembourg_road_sign_H,1-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Luxembourg_road_sign_H%2C1-3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-H2-1.svg",
+      "iso": "LU",
+      "id": "H2-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Luxembourg_road_sign_H%2C2-1.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/229-Luxembourg_road_sign_H,2-1.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/229-Luxembourg_road_sign_H,2-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Luxembourg_road_sign_H%2C2-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-H2-2.svg",
+      "iso": "LU",
+      "id": "H2-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Luxembourg_road_sign_H%2C2-2.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/230-Luxembourg_road_sign_H,2-2.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/230-Luxembourg_road_sign_H,2-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Luxembourg_road_sign_H%2C2-2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H2-3.svg",
+      "iso": "LU",
+      "id": "H2-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_H%2C2-3.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/231-Luxembourg_road_sign_H,2-3.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/231-Luxembourg_road_sign_H,2-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_H%2C2-3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H3a.gif",
+      "iso": "LU",
+      "id": "H3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Luxembourg_road_sign_diagram_H_3_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/232-Luxembourg_road_sign_diagram_H_3_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/232-Luxembourg_road_sign_diagram_H_3_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Luxembourg_road_sign_diagram_H_3_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H3b.gif",
+      "iso": "LU",
+      "id": "H3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Luxembourg_road_sign_diagram_H_3_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/233-Luxembourg_road_sign_diagram_H_3_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/233-Luxembourg_road_sign_diagram_H_3_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Luxembourg_road_sign_diagram_H_3_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H3c.gif",
+      "iso": "LU",
+      "id": "H3c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Luxembourg_road_sign_diagram_H_3_c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/234-Luxembourg_road_sign_diagram_H_3_c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/234-Luxembourg_road_sign_diagram_H_3_c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Luxembourg_road_sign_diagram_H_3_c.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H4a.gif",
+      "iso": "LU",
+      "id": "H4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Luxembourg_road_sign_diagram_H_4_a.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/235-Luxembourg_road_sign_diagram_H_4_a.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/235-Luxembourg_road_sign_diagram_H_4_a.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Luxembourg_road_sign_diagram_H_4_a.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H4b.gif",
+      "iso": "LU",
+      "id": "H4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luxembourg_road_sign_diagram_H_4_b.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/236-Luxembourg_road_sign_diagram_H_4_b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/236-Luxembourg_road_sign_diagram_H_4_b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luxembourg_road_sign_diagram_H_4_b.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LU-H4c.gif",
+      "iso": "LU",
+      "id": "H4c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Luxembourg_road_sign_diagram_H_4_c.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/237-Luxembourg_road_sign_diagram_H_4_c.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/237-Luxembourg_road_sign_diagram_H_4_c.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Luxembourg_road_sign_diagram_H_4_c.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/LU-Model6b.svg",
+      "iso": "LU",
+      "id": "Model6b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Luxembourg_road_sign_Model%2C6b.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/257-Luxembourg_road_sign_Model,6b.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/257-Luxembourg_road_sign_Model,6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Luxembourg_road_sign_Model%2C6b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LU-Model6c.svg",
+      "iso": "LU",
+      "id": "Model6c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Luxembourg_road_sign_Model%2C6c.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/258-Luxembourg_road_sign_Model,6c.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/258-Luxembourg_road_sign_Model,6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Luxembourg_road_sign_Model%2C6c.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LU-Model6d.svg",
+      "iso": "LU",
+      "id": "Model6d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_Model%2C6d.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/259-Luxembourg_road_sign_Model,6d.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/259-Luxembourg_road_sign_Model,6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luxembourg_road_sign_Model%2C6d.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-Model9.svg",
+      "iso": "LU",
+      "id": "Model9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Luxembourg_road_sign_Model%2C9.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/264-Luxembourg_road_sign_Model,9.svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/264-Luxembourg_road_sign_Model,9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Luxembourg_road_sign_Model%2C9.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LU-c3.gif",
+      "iso": "LU",
+      "id": "c3",
+      "description": "fbis",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_diagram_c_3_fbis.gif",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/066-Luxembourg_road_sign_diagram_c_3_fbis.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/066-Luxembourg_road_sign_diagram_c_3_fbis.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Luxembourg_road_sign_diagram_c_3_fbis.gif"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "h_additional_panels/other/LU-mod_3e.gif",
+      "iso": "LU",
+      "id": "mod_3e",
+      "description": "mod_3e",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_road_sign_diagram_mod_3e.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/247-Luxembourg_road_sign_diagram_mod_3e.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/247-Luxembourg_road_sign_diagram_mod_3e.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_road_sign_diagram_mod_3e.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LU-mod_3f.gif",
+      "iso": "LU",
+      "id": "mod_3f",
+      "description": "mod_3f",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Luxembourg_road_sign_diagram_mod_3f.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/248-Luxembourg_road_sign_diagram_mod_3f.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/248-Luxembourg_road_sign_diagram_mod_3f.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Luxembourg_road_sign_diagram_mod_3f.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-mod_3g.gif",
+      "iso": "LU",
+      "id": "mod_3g",
+      "description": "mod_3g",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_mod_3g.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/249-Luxembourg_road_sign_diagram_mod_3g.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/249-Luxembourg_road_sign_diagram_mod_3g.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Luxembourg_road_sign_diagram_mod_3g.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LU-mod_3h.gif",
+      "iso": "LU",
+      "id": "mod_3h",
+      "description": "mod_3h",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Luxembourg_road_sign_diagram_mod_3h.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/250-Luxembourg_road_sign_diagram_mod_3h.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/250-Luxembourg_road_sign_diagram_mod_3h.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Luxembourg_road_sign_diagram_mod_3h.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LU-mod_3i.gif",
+      "iso": "LU",
+      "id": "mod_3i",
+      "description": "mod_3i",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_diagram_mod_3i.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/251-Luxembourg_road_sign_diagram_mod_3i.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/251-Luxembourg_road_sign_diagram_mod_3i.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_diagram_mod_3i.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LU-mod_5b.gif",
+      "iso": "LU",
+      "id": "mod_5b",
+      "description": "mod_5b",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Luxembourg_road_sign_diagram_mod_5b.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/256-Luxembourg_road_sign_diagram_mod_5b.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/256-Luxembourg_road_sign_diagram_mod_5b.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Luxembourg_road_sign_diagram_mod_5b.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "h_additional_panels/other/LU-mod_7d.gif",
+      "iso": "LU",
+      "id": "mod_7d",
+      "description": "mod_7d",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Luxembourg_road_sign_diagram_mod_7d.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/262-Luxembourg_road_sign_diagram_mod_7d.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/262-Luxembourg_road_sign_diagram_mod_7d.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Luxembourg_road_sign_diagram_mod_7d.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LU-mod_8.gif",
+      "iso": "LU",
+      "id": "mod_8",
+      "description": "mod_8",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Luxembourg_road_sign_diagram_mod_8.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/263-Luxembourg_road_sign_diagram_mod_8.gif",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/263-Luxembourg_road_sign_diagram_mod_8.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Luxembourg_road_sign_diagram_mod_8.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LU-panneau_de_configuration.svg",
+      "iso": "LU",
+      "id": "panneau_de_configuration",
+      "description": "panneau_de_configuration",
+      "variants": [
+        "2018"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_panneau_de_configuration_%282018%29.svg",
+      "kept_from": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/052-Luxembourg_road_sign_diagram_panneau_de_configuration_(2018).svg",
+      "sources": [
+        {
+          "file": "LU_Luxembourg/wikipedia/01-it_Segnaletica_stradale_in_Lussemburgo/052-Luxembourg_road_sign_diagram_panneau_de_configuration_(2018).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Luxembourg_road_sign_diagram_panneau_de_configuration_%282018%29.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997,
+      "valid_years": "2018"
+    }
+  ]
+}

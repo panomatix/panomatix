@@ -1,0 +1,2435 @@
+{
+  "country_code": "NP",
+  "country": "Nepal",
+  "images": [
+    {
+      "filename": "b_priority_signs/vienna/NP-A1.svg",
+      "iso": "NP",
+      "id": "A1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nepal_road_sign_A1.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/20-Nepal_road_sign_A1.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/20-Nepal_road_sign_A1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nepal_road_sign_A1.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/003-Nepal_road_sign_A1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nepal_road_sign_A1.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A10.svg",
+      "iso": "NP",
+      "id": "A10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nepal_road_sign_A10.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/08-Nepal_road_sign_A10.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/08-Nepal_road_sign_A10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nepal_road_sign_A10.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/012-Nepal_road_sign_A10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nepal_road_sign_A10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A11.svg",
+      "iso": "NP",
+      "id": "A11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nepal_road_sign_A11.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/09-Nepal_road_sign_A11.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/09-Nepal_road_sign_A11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nepal_road_sign_A11.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/013-Nepal_road_sign_A11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nepal_road_sign_A11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A12.svg",
+      "iso": "NP",
+      "id": "A12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nepal_road_sign_A12.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/10-Nepal_road_sign_A12.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/10-Nepal_road_sign_A12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nepal_road_sign_A12.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/014-Nepal_road_sign_A12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nepal_road_sign_A12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A13.svg",
+      "iso": "NP",
+      "id": "A13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nepal_road_sign_A13.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/11-Nepal_road_sign_A13.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/11-Nepal_road_sign_A13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nepal_road_sign_A13.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/015-Nepal_road_sign_A13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nepal_road_sign_A13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A14.svg",
+      "iso": "NP",
+      "id": "A14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nepal_road_sign_A14.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/12-Nepal_road_sign_A14.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/12-Nepal_road_sign_A14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nepal_road_sign_A14.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/016-Nepal_road_sign_A14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nepal_road_sign_A14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A15.svg",
+      "iso": "NP",
+      "id": "A15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nepal_road_sign_A15.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/13-Nepal_road_sign_A15.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/13-Nepal_road_sign_A15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nepal_road_sign_A15.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/017-Nepal_road_sign_A15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nepal_road_sign_A15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A16.svg",
+      "iso": "NP",
+      "id": "A16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nepal_road_sign_A16.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/14-Nepal_road_sign_A16.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/14-Nepal_road_sign_A16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nepal_road_sign_A16.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/018-Nepal_road_sign_A16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nepal_road_sign_A16.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A17.svg",
+      "iso": "NP",
+      "id": "A17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Nepal_road_sign_A17.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/15-Nepal_road_sign_A17.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/15-Nepal_road_sign_A17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Nepal_road_sign_A17.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/019-Nepal_road_sign_A17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Nepal_road_sign_A17.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A18.svg",
+      "iso": "NP",
+      "id": "A18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nepal_road_sign_A18.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/16-Nepal_road_sign_A18.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/16-Nepal_road_sign_A18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nepal_road_sign_A18.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/020-Nepal_road_sign_A18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nepal_road_sign_A18.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A19.svg",
+      "iso": "NP",
+      "id": "A19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nepal_road_sign_A19.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/17-Nepal_road_sign_A19.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/17-Nepal_road_sign_A19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nepal_road_sign_A19.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/021-Nepal_road_sign_A19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nepal_road_sign_A19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "b_priority_signs/vienna/NP-A2.svg",
+      "iso": "NP",
+      "id": "A2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nepal_road_sign_A2.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/21-Nepal_road_sign_A2.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/21-Nepal_road_sign_A2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nepal_road_sign_A2.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/004-Nepal_road_sign_A2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nepal_road_sign_A2.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A20.svg",
+      "iso": "NP",
+      "id": "A20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Nepal_road_sign_A20.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/18-Nepal_road_sign_A20.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/18-Nepal_road_sign_A20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Nepal_road_sign_A20.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/022-Nepal_road_sign_A20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Nepal_road_sign_A20.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A21.svg",
+      "iso": "NP",
+      "id": "A21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nepal_road_sign_A21.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/023-Nepal_road_sign_A21.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/023-Nepal_road_sign_A21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nepal_road_sign_A21.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A22-40.svg",
+      "iso": "NP",
+      "id": "A22-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Nepal_road_sign_A22-40.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/024-Nepal_road_sign_A22-40.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/024-Nepal_road_sign_A22-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Nepal_road_sign_A22-40.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A23-40.svg",
+      "iso": "NP",
+      "id": "A23-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nepal_road_sign_A23-40.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/025-Nepal_road_sign_A23-40.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/025-Nepal_road_sign_A23-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nepal_road_sign_A23-40.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "b_priority_signs/vienna/NP-A24.svg",
+      "iso": "NP",
+      "id": "A24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nepal_road_sign_A24.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/22-Nepal_road_sign_A24.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/22-Nepal_road_sign_A24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nepal_road_sign_A24.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/026-Nepal_road_sign_A24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nepal_road_sign_A24.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "sd_unclassified/other/NP-A25.svg",
+      "iso": "NP",
+      "id": "A25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nepal_road_sign_A25.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/23-Nepal_road_sign_A25.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/23-Nepal_road_sign_A25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nepal_road_sign_A25.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/027-Nepal_road_sign_A25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nepal_road_sign_A25.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A26.svg",
+      "iso": "NP",
+      "id": "A26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nepal_road_sign_A26.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/19-Nepal_road_sign_A26.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/19-Nepal_road_sign_A26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nepal_road_sign_A26.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/028-Nepal_road_sign_A26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nepal_road_sign_A26.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A27.svg",
+      "iso": "NP",
+      "id": "A27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Nepal_road_sign_A27.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/24-Nepal_road_sign_A27.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/24-Nepal_road_sign_A27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Nepal_road_sign_A27.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/029-Nepal_road_sign_A27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Nepal_road_sign_A27.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A28-L.svg",
+      "iso": "NP",
+      "id": "A28-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nepal_road_sign_A28-L.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/25-Nepal_road_sign_A28-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/25-Nepal_road_sign_A28-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nepal_road_sign_A28-L.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/030-Nepal_road_sign_A28-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nepal_road_sign_A28-L.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A28-R.svg",
+      "iso": "NP",
+      "id": "A28-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nepal_road_sign_A28-R.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/26-Nepal_road_sign_A28-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/26-Nepal_road_sign_A28-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nepal_road_sign_A28-R.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/031-Nepal_road_sign_A28-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nepal_road_sign_A28-R.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A29-L.svg",
+      "iso": "NP",
+      "id": "A29-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nepal_road_sign_A29-L.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/27-Nepal_road_sign_A29-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/27-Nepal_road_sign_A29-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nepal_road_sign_A29-L.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/032-Nepal_road_sign_A29-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nepal_road_sign_A29-L.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A29-R.svg",
+      "iso": "NP",
+      "id": "A29-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Nepal_road_sign_A29-R.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/28-Nepal_road_sign_A29-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/28-Nepal_road_sign_A29-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Nepal_road_sign_A29-R.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/033-Nepal_road_sign_A29-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Nepal_road_sign_A29-R.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A3.svg",
+      "iso": "NP",
+      "id": "A3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nepal_road_sign_A3.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/01-Nepal_road_sign_A3.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/01-Nepal_road_sign_A3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nepal_road_sign_A3.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/005-Nepal_road_sign_A3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nepal_road_sign_A3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A30-L.svg",
+      "iso": "NP",
+      "id": "A30-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nepal_road_sign_A30-L.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/29-Nepal_road_sign_A30-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/29-Nepal_road_sign_A30-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nepal_road_sign_A30-L.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/034-Nepal_road_sign_A30-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Nepal_road_sign_A30-L.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A30-R.svg",
+      "iso": "NP",
+      "id": "A30-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nepal_road_sign_A30-R.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/30-Nepal_road_sign_A30-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/30-Nepal_road_sign_A30-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nepal_road_sign_A30-R.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/035-Nepal_road_sign_A30-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nepal_road_sign_A30-R.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A31.svg",
+      "iso": "NP",
+      "id": "A31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nepal_road_sign_A31.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/31-Nepal_road_sign_A31.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/31-Nepal_road_sign_A31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nepal_road_sign_A31.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/036-Nepal_road_sign_A31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nepal_road_sign_A31.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/NP-A32.svg",
+      "iso": "NP",
+      "id": "A32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nepal_road_sign_A32.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/32-Nepal_road_sign_A32.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/32-Nepal_road_sign_A32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nepal_road_sign_A32.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/037-Nepal_road_sign_A32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nepal_road_sign_A32.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/NP-A33.svg",
+      "iso": "NP",
+      "id": "A33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nepal_road_sign_A33.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/038-Nepal_road_sign_A33.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/038-Nepal_road_sign_A33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nepal_road_sign_A33.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A4.svg",
+      "iso": "NP",
+      "id": "A4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nepal_road_sign_A4.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/02-Nepal_road_sign_A4.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/02-Nepal_road_sign_A4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nepal_road_sign_A4.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/006-Nepal_road_sign_A4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nepal_road_sign_A4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A5.svg",
+      "iso": "NP",
+      "id": "A5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nepal_road_sign_A5.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/03-Nepal_road_sign_A5.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/03-Nepal_road_sign_A5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nepal_road_sign_A5.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/007-Nepal_road_sign_A5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nepal_road_sign_A5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A6.svg",
+      "iso": "NP",
+      "id": "A6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nepal_road_sign_A6.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/04-Nepal_road_sign_A6.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/04-Nepal_road_sign_A6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nepal_road_sign_A6.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/008-Nepal_road_sign_A6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nepal_road_sign_A6.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A7.svg",
+      "iso": "NP",
+      "id": "A7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nepal_road_sign_A7.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/05-Nepal_road_sign_A7.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/05-Nepal_road_sign_A7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nepal_road_sign_A7.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/009-Nepal_road_sign_A7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nepal_road_sign_A7.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/NP-A8.svg",
+      "iso": "NP",
+      "id": "A8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nepal_road_sign_A8.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/06-Nepal_road_sign_A8.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/06-Nepal_road_sign_A8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nepal_road_sign_A8.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/010-Nepal_road_sign_A8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nepal_road_sign_A8.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/NP-A9.svg",
+      "iso": "NP",
+      "id": "A9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nepal_road_sign_A9.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/07-Nepal_road_sign_A9.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/07-Nepal_road_sign_A9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nepal_road_sign_A9.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/011-Nepal_road_sign_A9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nepal_road_sign_A9.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B1.svg",
+      "iso": "NP",
+      "id": "B1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Nepal_road_sign_B1.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/33-Nepal_road_sign_B1.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/33-Nepal_road_sign_B1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Nepal_road_sign_B1.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/039-Nepal_road_sign_B1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Nepal_road_sign_B1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B10-L.svg",
+      "iso": "NP",
+      "id": "B10-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nepal_road_sign_B10-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/050-Nepal_road_sign_B10-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/050-Nepal_road_sign_B10-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nepal_road_sign_B10-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B10-R.svg",
+      "iso": "NP",
+      "id": "B10-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nepal_road_sign_B10-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/051-Nepal_road_sign_B10-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/051-Nepal_road_sign_B10-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nepal_road_sign_B10-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B11-L.svg",
+      "iso": "NP",
+      "id": "B11-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nepal_road_sign_B11-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/052-Nepal_road_sign_B11-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/052-Nepal_road_sign_B11-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nepal_road_sign_B11-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B11-R.svg",
+      "iso": "NP",
+      "id": "B11-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nepal_road_sign_B11-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/053-Nepal_road_sign_B11-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/053-Nepal_road_sign_B11-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nepal_road_sign_B11-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B12-L.svg",
+      "iso": "NP",
+      "id": "B12-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nepal_road_sign_B12-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/054-Nepal_road_sign_B12-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/054-Nepal_road_sign_B12-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nepal_road_sign_B12-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B12-R.svg",
+      "iso": "NP",
+      "id": "B12-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Nepal_road_sign_B12-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/055-Nepal_road_sign_B12-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/055-Nepal_road_sign_B12-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Nepal_road_sign_B12-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B13-L1.svg",
+      "iso": "NP",
+      "id": "B13-L1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nepal_road_sign_B13-L1.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/056-Nepal_road_sign_B13-L1.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/056-Nepal_road_sign_B13-L1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nepal_road_sign_B13-L1.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.528
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B13-L3.svg",
+      "iso": "NP",
+      "id": "B13-L3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nepal_road_sign_B13-L3.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/058-Nepal_road_sign_B13-L3.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/058-Nepal_road_sign_B13-L3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nepal_road_sign_B13-L3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B13-R1.svg",
+      "iso": "NP",
+      "id": "B13-R1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Nepal_road_sign_B13-R1.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/057-Nepal_road_sign_B13-R1.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/057-Nepal_road_sign_B13-R1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Nepal_road_sign_B13-R1.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.528
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B13-R3.svg",
+      "iso": "NP",
+      "id": "B13-R3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nepal_road_sign_B13-R3.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/059-Nepal_road_sign_B13-R3.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/059-Nepal_road_sign_B13-R3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Nepal_road_sign_B13-R3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B14.svg",
+      "iso": "NP",
+      "id": "B14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nepal_road_sign_B14.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/060-Nepal_road_sign_B14.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/060-Nepal_road_sign_B14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nepal_road_sign_B14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B15-L.svg",
+      "iso": "NP",
+      "id": "B15-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nepal_road_sign_B15-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/061-Nepal_road_sign_B15-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/061-Nepal_road_sign_B15-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nepal_road_sign_B15-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B15-R.svg",
+      "iso": "NP",
+      "id": "B15-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nepal_road_sign_B15-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/062-Nepal_road_sign_B15-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/062-Nepal_road_sign_B15-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nepal_road_sign_B15-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B16.svg",
+      "iso": "NP",
+      "id": "B16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nepal_road_sign_B16.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/063-Nepal_road_sign_B16.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/063-Nepal_road_sign_B16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nepal_road_sign_B16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B17.svg",
+      "iso": "NP",
+      "id": "B17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepal_road_sign_B17.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/064-Nepal_road_sign_B17.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/064-Nepal_road_sign_B17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nepal_road_sign_B17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B18.svg",
+      "iso": "NP",
+      "id": "B18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nepal_road_sign_B18.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/065-Nepal_road_sign_B18.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/065-Nepal_road_sign_B18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nepal_road_sign_B18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B19.svg",
+      "iso": "NP",
+      "id": "B19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nepal_road_sign_B19.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/066-Nepal_road_sign_B19.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/066-Nepal_road_sign_B19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nepal_road_sign_B19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B2.svg",
+      "iso": "NP",
+      "id": "B2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nepal_road_sign_B2.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/34-Nepal_road_sign_B2.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/34-Nepal_road_sign_B2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nepal_road_sign_B2.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/040-Nepal_road_sign_B2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nepal_road_sign_B2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B20.svg",
+      "iso": "NP",
+      "id": "B20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nepal_road_sign_B20.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/067-Nepal_road_sign_B20.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/067-Nepal_road_sign_B20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nepal_road_sign_B20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B21.svg",
+      "iso": "NP",
+      "id": "B21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Nepal_road_sign_B21.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/068-Nepal_road_sign_B21.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/068-Nepal_road_sign_B21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Nepal_road_sign_B21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B22.svg",
+      "iso": "NP",
+      "id": "B22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nepal_road_sign_B22.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/069-Nepal_road_sign_B22.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/069-Nepal_road_sign_B22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nepal_road_sign_B22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B23.svg",
+      "iso": "NP",
+      "id": "B23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nepal_road_sign_B23.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/070-Nepal_road_sign_B23.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/070-Nepal_road_sign_B23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nepal_road_sign_B23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B24.svg",
+      "iso": "NP",
+      "id": "B24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nepal_road_sign_B24.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/071-Nepal_road_sign_B24.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/071-Nepal_road_sign_B24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nepal_road_sign_B24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B25.svg",
+      "iso": "NP",
+      "id": "B25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nepal_road_sign_B25.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/37-Nepal_road_sign_B25.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/37-Nepal_road_sign_B25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nepal_road_sign_B25.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/072-Nepal_road_sign_B25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nepal_road_sign_B25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B26.svg",
+      "iso": "NP",
+      "id": "B26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Nepal_road_sign_B26.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/38-Nepal_road_sign_B26.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/38-Nepal_road_sign_B26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Nepal_road_sign_B26.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/073-Nepal_road_sign_B26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Nepal_road_sign_B26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B27.svg",
+      "iso": "NP",
+      "id": "B27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nepal_road_sign_B27.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/39-Nepal_road_sign_B27.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/39-Nepal_road_sign_B27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nepal_road_sign_B27.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/074-Nepal_road_sign_B27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nepal_road_sign_B27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B28.svg",
+      "iso": "NP",
+      "id": "B28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nepal_road_sign_B28.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/40-Nepal_road_sign_B28.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/40-Nepal_road_sign_B28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nepal_road_sign_B28.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/075-Nepal_road_sign_B28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nepal_road_sign_B28.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B29.svg",
+      "iso": "NP",
+      "id": "B29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Nepal_road_sign_B29.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/076-Nepal_road_sign_B29.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/076-Nepal_road_sign_B29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Nepal_road_sign_B29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B3-L.svg",
+      "iso": "NP",
+      "id": "B3-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nepal_road_sign_B3-L.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/35-Nepal_road_sign_B3-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/35-Nepal_road_sign_B3-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nepal_road_sign_B3-L.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/041-Nepal_road_sign_B3-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nepal_road_sign_B3-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B3-R.svg",
+      "iso": "NP",
+      "id": "B3-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Nepal_road_sign_B3-R.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/36-Nepal_road_sign_B3-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/36-Nepal_road_sign_B3-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Nepal_road_sign_B3-R.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/042-Nepal_road_sign_B3-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Nepal_road_sign_B3-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B30.svg",
+      "iso": "NP",
+      "id": "B30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nepal_road_sign_B30.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/077-Nepal_road_sign_B30.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/077-Nepal_road_sign_B30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nepal_road_sign_B30.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B31.svg",
+      "iso": "NP",
+      "id": "B31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nepal_road_sign_B31.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/078-Nepal_road_sign_B31.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/078-Nepal_road_sign_B31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nepal_road_sign_B31.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B32.svg",
+      "iso": "NP",
+      "id": "B32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nepal_road_sign_B32.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/079-Nepal_road_sign_B32.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/079-Nepal_road_sign_B32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nepal_road_sign_B32.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B33-L.svg",
+      "iso": "NP",
+      "id": "B33-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nepal_road_sign_B33-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/080-Nepal_road_sign_B33-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/080-Nepal_road_sign_B33-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nepal_road_sign_B33-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B33-R.svg",
+      "iso": "NP",
+      "id": "B33-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nepal_road_sign_B33-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/081-Nepal_road_sign_B33-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/081-Nepal_road_sign_B33-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nepal_road_sign_B33-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B34.svg",
+      "iso": "NP",
+      "id": "B34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nepal_road_sign_B34.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/082-Nepal_road_sign_B34.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/082-Nepal_road_sign_B34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nepal_road_sign_B34.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B35.svg",
+      "iso": "NP",
+      "id": "B35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nepal_road_sign_B35.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/083-Nepal_road_sign_B35.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/083-Nepal_road_sign_B35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nepal_road_sign_B35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B36.svg",
+      "iso": "NP",
+      "id": "B36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Nepal_road_sign_B36.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/084-Nepal_road_sign_B36.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/084-Nepal_road_sign_B36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Nepal_road_sign_B36.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B37.svg",
+      "iso": "NP",
+      "id": "B37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nepal_road_sign_B37.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/085-Nepal_road_sign_B37.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/085-Nepal_road_sign_B37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nepal_road_sign_B37.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B38.svg",
+      "iso": "NP",
+      "id": "B38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nepal_road_sign_B38.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/086-Nepal_road_sign_B38.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/086-Nepal_road_sign_B38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nepal_road_sign_B38.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B39.svg",
+      "iso": "NP",
+      "id": "B39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nepal_road_sign_B39.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/087-Nepal_road_sign_B39.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/087-Nepal_road_sign_B39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nepal_road_sign_B39.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B4-LR.svg",
+      "iso": "NP",
+      "id": "B4-LR",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nepal_road_sign_B4-LR.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/043-Nepal_road_sign_B4-LR.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/043-Nepal_road_sign_B4-LR.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nepal_road_sign_B4-LR.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B4-RL.svg",
+      "iso": "NP",
+      "id": "B4-RL",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nepal_road_sign_B4-RL.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/044-Nepal_road_sign_B4-RL.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/044-Nepal_road_sign_B4-RL.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nepal_road_sign_B4-RL.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B40.svg",
+      "iso": "NP",
+      "id": "B40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nepal_road_sign_B40.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/41-Nepal_road_sign_B40.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/41-Nepal_road_sign_B40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nepal_road_sign_B40.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/089-Nepal_road_sign_B40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nepal_road_sign_B40.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B41.svg",
+      "iso": "NP",
+      "id": "B41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nepal_road_sign_B41.svg",
+      "kept_from": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/42-Nepal_road_sign_B41.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wiki_commons/01-commons_Road_signs_of_Nepal/42-Nepal_road_sign_B41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nepal_road_sign_B41.svg"
+        },
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/088-Nepal_road_sign_B41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nepal_road_sign_B41.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B42.svg",
+      "iso": "NP",
+      "id": "B42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nepal_road_sign_B42.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/090-Nepal_road_sign_B42.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/090-Nepal_road_sign_B42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Nepal_road_sign_B42.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B43-L.svg",
+      "iso": "NP",
+      "id": "B43-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Nepal_road_sign_B43-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/091-Nepal_road_sign_B43-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/091-Nepal_road_sign_B43-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Nepal_road_sign_B43-L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B43-R.svg",
+      "iso": "NP",
+      "id": "B43-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nepal_road_sign_B43-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/092-Nepal_road_sign_B43-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/092-Nepal_road_sign_B43-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nepal_road_sign_B43-R.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B44.svg",
+      "iso": "NP",
+      "id": "B44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nepal_road_sign_B44.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/093-Nepal_road_sign_B44.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/093-Nepal_road_sign_B44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nepal_road_sign_B44.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B45.svg",
+      "iso": "NP",
+      "id": "B45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nepal_road_sign_B45.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/094-Nepal_road_sign_B45.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/094-Nepal_road_sign_B45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nepal_road_sign_B45.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.913
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B46-L.svg",
+      "iso": "NP",
+      "id": "B46-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nepal_road_sign_B46-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/095-Nepal_road_sign_B46-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/095-Nepal_road_sign_B46-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nepal_road_sign_B46-L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B46-R.svg",
+      "iso": "NP",
+      "id": "B46-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nepal_road_sign_B46-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/096-Nepal_road_sign_B46-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/096-Nepal_road_sign_B46-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nepal_road_sign_B46-R.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B47-L.svg",
+      "iso": "NP",
+      "id": "B47-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Nepal_road_sign_B47-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/097-Nepal_road_sign_B47-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/097-Nepal_road_sign_B47-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Nepal_road_sign_B47-L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/NP-B47-R.svg",
+      "iso": "NP",
+      "id": "B47-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nepal_road_sign_B47-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/098-Nepal_road_sign_B47-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/098-Nepal_road_sign_B47-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nepal_road_sign_B47-R.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B5.svg",
+      "iso": "NP",
+      "id": "B5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nepal_road_sign_B5.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/045-Nepal_road_sign_B5.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/045-Nepal_road_sign_B5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nepal_road_sign_B5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B6.svg",
+      "iso": "NP",
+      "id": "B6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nepal_road_sign_B6.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/046-Nepal_road_sign_B6.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/046-Nepal_road_sign_B6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nepal_road_sign_B6.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B7.svg",
+      "iso": "NP",
+      "id": "B7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nepal_road_sign_B7.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/047-Nepal_road_sign_B7.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/047-Nepal_road_sign_B7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nepal_road_sign_B7.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/NP-B8.svg",
+      "iso": "NP",
+      "id": "B8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nepal_road_sign_B8.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/048-Nepal_road_sign_B8.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/048-Nepal_road_sign_B8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nepal_road_sign_B8.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/NP-B9.svg",
+      "iso": "NP",
+      "id": "B9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nepal_road_sign_B9.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/049-Nepal_road_sign_B9.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/049-Nepal_road_sign_B9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nepal_road_sign_B9.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "g_other_information_signs/vienna/NP-C1.svg",
+      "iso": "NP",
+      "id": "C1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nepal_road_sign_C1.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/099-Nepal_road_sign_C1.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/099-Nepal_road_sign_C1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nepal_road_sign_C1.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C10.svg",
+      "iso": "NP",
+      "id": "C10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nepal_road_sign_C10.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/108-Nepal_road_sign_C10.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/108-Nepal_road_sign_C10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nepal_road_sign_C10.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/NP-C11.svg",
+      "iso": "NP",
+      "id": "C11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Nepal_road_sign_C11.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/109-Nepal_road_sign_C11.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/109-Nepal_road_sign_C11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Nepal_road_sign_C11.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C12.svg",
+      "iso": "NP",
+      "id": "C12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nepal_road_sign_C12.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/110-Nepal_road_sign_C12.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/110-Nepal_road_sign_C12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nepal_road_sign_C12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/NP-C13.svg",
+      "iso": "NP",
+      "id": "C13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Nepal_road_sign_C13.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/111-Nepal_road_sign_C13.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/111-Nepal_road_sign_C13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Nepal_road_sign_C13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/NP-C14-L.svg",
+      "iso": "NP",
+      "id": "C14-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nepal_road_sign_C14-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/112-Nepal_road_sign_C14-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/112-Nepal_road_sign_C14-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nepal_road_sign_C14-L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/NP-C15-L.svg",
+      "iso": "NP",
+      "id": "C15-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nepal_road_sign_C15-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/113-Nepal_road_sign_C15-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/113-Nepal_road_sign_C15-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nepal_road_sign_C15-L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/NP-C16-L.svg",
+      "iso": "NP",
+      "id": "C16-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nepal_road_sign_C16-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/114-Nepal_road_sign_C16-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/114-Nepal_road_sign_C16-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nepal_road_sign_C16-L.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/NP-C17.svg",
+      "iso": "NP",
+      "id": "C17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nepal_road_sign_C17.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/115-Nepal_road_sign_C17.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/115-Nepal_road_sign_C17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nepal_road_sign_C17.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/NP-C18.svg",
+      "iso": "NP",
+      "id": "C18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nepal_road_sign_C18.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/116-Nepal_road_sign_C18.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/116-Nepal_road_sign_C18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nepal_road_sign_C18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/NP-C19-L.svg",
+      "iso": "NP",
+      "id": "C19-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nepal_road_sign_C19-L.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/117-Nepal_road_sign_C19-L.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/117-Nepal_road_sign_C19-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nepal_road_sign_C19-L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/NP-C19-R.svg",
+      "iso": "NP",
+      "id": "C19-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Nepal_road_sign_C19-R.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/118-Nepal_road_sign_C19-R.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/118-Nepal_road_sign_C19-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Nepal_road_sign_C19-R.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/NP-C2.svg",
+      "iso": "NP",
+      "id": "C2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nepal_road_sign_C2.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/100-Nepal_road_sign_C2.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/100-Nepal_road_sign_C2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nepal_road_sign_C2.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C20.svg",
+      "iso": "NP",
+      "id": "C20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Nepal_road_sign_C20.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/119-Nepal_road_sign_C20.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/119-Nepal_road_sign_C20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Nepal_road_sign_C20.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C21.svg",
+      "iso": "NP",
+      "id": "C21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Nepal_road_sign_C21.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/120-Nepal_road_sign_C21.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/120-Nepal_road_sign_C21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Nepal_road_sign_C21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/NP-C22.svg",
+      "iso": "NP",
+      "id": "C22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nepal_road_sign_C22.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/121-Nepal_road_sign_C22.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/121-Nepal_road_sign_C22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nepal_road_sign_C22.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/NP-C23.svg",
+      "iso": "NP",
+      "id": "C23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nepal_road_sign_C23.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/122-Nepal_road_sign_C23.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/122-Nepal_road_sign_C23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nepal_road_sign_C23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/NP-C24.svg",
+      "iso": "NP",
+      "id": "C24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nepal_road_sign_C24.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/123-Nepal_road_sign_C24.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/123-Nepal_road_sign_C24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nepal_road_sign_C24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/NP-C25.svg",
+      "iso": "NP",
+      "id": "C25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nepal_road_sign_C25.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/124-Nepal_road_sign_C25.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/124-Nepal_road_sign_C25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nepal_road_sign_C25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C26.svg",
+      "iso": "NP",
+      "id": "C26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nepal_road_sign_C26.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/125-Nepal_road_sign_C26.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/125-Nepal_road_sign_C26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nepal_road_sign_C26.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "h_additional_panels/other/NP-C27.svg",
+      "iso": "NP",
+      "id": "C27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nepal_road_sign_C27.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/126-Nepal_road_sign_C27.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/126-Nepal_road_sign_C27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nepal_road_sign_C27.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.931
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C28.svg",
+      "iso": "NP",
+      "id": "C28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Nepal_road_sign_C28.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/127-Nepal_road_sign_C28.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/127-Nepal_road_sign_C28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Nepal_road_sign_C28.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C29.svg",
+      "iso": "NP",
+      "id": "C29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nepal_road_sign_C29.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/128-Nepal_road_sign_C29.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/128-Nepal_road_sign_C29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nepal_road_sign_C29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/NP-C3.svg",
+      "iso": "NP",
+      "id": "C3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nepal_road_sign_C3.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/101-Nepal_road_sign_C3.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/101-Nepal_road_sign_C3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nepal_road_sign_C3.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/NP-C4.svg",
+      "iso": "NP",
+      "id": "C4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nepal_road_sign_C4.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/102-Nepal_road_sign_C4.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/102-Nepal_road_sign_C4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nepal_road_sign_C4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/NP-C5.svg",
+      "iso": "NP",
+      "id": "C5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Nepal_road_sign_C5.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/103-Nepal_road_sign_C5.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/103-Nepal_road_sign_C5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Nepal_road_sign_C5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/NP-C6.svg",
+      "iso": "NP",
+      "id": "C6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nepal_road_sign_C6.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/104-Nepal_road_sign_C6.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/104-Nepal_road_sign_C6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nepal_road_sign_C6.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C7.svg",
+      "iso": "NP",
+      "id": "C7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nepal_road_sign_C7.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/105-Nepal_road_sign_C7.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/105-Nepal_road_sign_C7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nepal_road_sign_C7.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/NP-C8.svg",
+      "iso": "NP",
+      "id": "C8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nepal_road_sign_C8.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/106-Nepal_road_sign_C8.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/106-Nepal_road_sign_C8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nepal_road_sign_C8.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/NP-C9.svg",
+      "iso": "NP",
+      "id": "C9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nepal_road_sign_C9.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/107-Nepal_road_sign_C9.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/107-Nepal_road_sign_C9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nepal_road_sign_C9.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/NP-D1.svg",
+      "iso": "NP",
+      "id": "D1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nepal_road_sign_D1.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/129-Nepal_road_sign_D1.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/129-Nepal_road_sign_D1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nepal_road_sign_D1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/NP-D12.svg",
+      "iso": "NP",
+      "id": "D12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Nepal_road_sign_D12.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/130-Nepal_road_sign_D12.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/130-Nepal_road_sign_D12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Nepal_road_sign_D12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/NP-D17.svg",
+      "iso": "NP",
+      "id": "D17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nepal_road_sign_D17.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/131-Nepal_road_sign_D17.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/131-Nepal_road_sign_D17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nepal_road_sign_D17.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/NP-D18.svg",
+      "iso": "NP",
+      "id": "D18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nepal_road_sign_D18.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/132-Nepal_road_sign_D18.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/132-Nepal_road_sign_D18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nepal_road_sign_D18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/NP-D19.svg",
+      "iso": "NP",
+      "id": "D19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nepal_road_sign_D19.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/133-Nepal_road_sign_D19.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/133-Nepal_road_sign_D19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nepal_road_sign_D19.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "h_additional_panels/other/NP-D25.svg",
+      "iso": "NP",
+      "id": "D25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Nepal_road_sign_D25.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/134-Nepal_road_sign_D25.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/134-Nepal_road_sign_D25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Nepal_road_sign_D25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "h_additional_panels/other/NP-D26.svg",
+      "iso": "NP",
+      "id": "D26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Nepal_road_sign_D26.svg",
+      "kept_from": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/135-Nepal_road_sign_D26.svg",
+      "sources": [
+        {
+          "file": "NP_Nepal/wikipedia_en/01-en_Road_signs_in_Nepal/135-Nepal_road_sign_D26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Nepal_road_sign_D26.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    }
+  ]
+}

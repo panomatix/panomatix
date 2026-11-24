@@ -1,0 +1,907 @@
+{
+  "country_code": "RS",
+  "country": "Serbia",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-1.1.svg",
+      "iso": "RS",
+      "id": "I-1.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Serbia_road_sign_I-1.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/003-Serbia_road_sign_I-1.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/003-Serbia_road_sign_I-1.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Serbia_road_sign_I-1.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-1.svg",
+      "iso": "RS",
+      "id": "I-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Serbia_road_sign_I-1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/002-Serbia_road_sign_I-1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/002-Serbia_road_sign_I-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Serbia_road_sign_I-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-10.svg",
+      "iso": "RS",
+      "id": "I-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Serbia_road_sign_I-10.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/016-Serbia_road_sign_I-10.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/016-Serbia_road_sign_I-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Serbia_road_sign_I-10.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/015-Serbia_road_sign_I-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Serbia_road_sign_I-10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-11.svg",
+      "iso": "RS",
+      "id": "I-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Serbia_road_sign_I-11.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/017-Serbia_road_sign_I-11.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/017-Serbia_road_sign_I-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Serbia_road_sign_I-11.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/016-Serbia_road_sign_I-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Serbia_road_sign_I-11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-12.svg",
+      "iso": "RS",
+      "id": "I-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Serbia_road_sign_I-12.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/018-Serbia_road_sign_I-12.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/018-Serbia_road_sign_I-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Serbia_road_sign_I-12.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/017-Serbia_road_sign_I-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Serbia_road_sign_I-12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-13.1.svg",
+      "iso": "RS",
+      "id": "I-13.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Serbia_road_sign_I-13.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/019-Serbia_road_sign_I-13.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/019-Serbia_road_sign_I-13.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Serbia_road_sign_I-13.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-13.svg",
+      "iso": "RS",
+      "id": "I-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Serbia_road_sign_I-13.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/020-Serbia_road_sign_I-13.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/020-Serbia_road_sign_I-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Serbia_road_sign_I-13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-14.svg",
+      "iso": "RS",
+      "id": "I-14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Serbia_road_sign_I-14.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/021-Serbia_road_sign_I-14.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/021-Serbia_road_sign_I-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Serbia_road_sign_I-14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-15.svg",
+      "iso": "RS",
+      "id": "I-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Serbia_road_sign_I-15.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/022-Serbia_road_sign_I-15.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/022-Serbia_road_sign_I-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Serbia_road_sign_I-15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-16.svg",
+      "iso": "RS",
+      "id": "I-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Serbia_road_sign_I-16.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/023-Serbia_road_sign_I-16.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/023-Serbia_road_sign_I-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Serbia_road_sign_I-16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-17.svg",
+      "iso": "RS",
+      "id": "I-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Serbia_road_sign_I-17.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/024-Serbia_road_sign_I-17.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/024-Serbia_road_sign_I-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Serbia_road_sign_I-17.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/023-Serbia_road_sign_I-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Serbia_road_sign_I-17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-18.svg",
+      "iso": "RS",
+      "id": "I-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Serbia_road_sign_I-18.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/025-Serbia_road_sign_I-18.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/025-Serbia_road_sign_I-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Serbia_road_sign_I-18.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/024-Serbia_road_sign_I-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Serbia_road_sign_I-18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-19.svg",
+      "iso": "RS",
+      "id": "I-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Serbia_road_sign_I-19.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/026-Serbia_road_sign_I-19.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/026-Serbia_road_sign_I-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Serbia_road_sign_I-19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-2.1.svg",
+      "iso": "RS",
+      "id": "I-2.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Serbia_road_sign_I-2.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/005-Serbia_road_sign_I-2.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/005-Serbia_road_sign_I-2.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Serbia_road_sign_I-2.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-2.2.svg",
+      "iso": "RS",
+      "id": "I-2.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Serbia_road_sign_I-2.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/006-Serbia_road_sign_I-2.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/006-Serbia_road_sign_I-2.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Serbia_road_sign_I-2.2.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/005-Serbia_road_sign_I-2.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Serbia_road_sign_I-2.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-2.svg",
+      "iso": "RS",
+      "id": "I-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Serbia_road_sign_I-2.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/004-Serbia_road_sign_I-2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/004-Serbia_road_sign_I-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Serbia_road_sign_I-2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-22.1.svg",
+      "iso": "RS",
+      "id": "I-22.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Serbia_road_sign_I-22.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/031-Serbia_road_sign_I-22.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/031-Serbia_road_sign_I-22.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Serbia_road_sign_I-22.1.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/030-Serbia_road_sign_I-22.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Serbia_road_sign_I-22.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-22.svg",
+      "iso": "RS",
+      "id": "I-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Serbia_road_sign_I-22.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/030-Serbia_road_sign_I-22.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/030-Serbia_road_sign_I-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Serbia_road_sign_I-22.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/029-Serbia_road_sign_I-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Serbia_road_sign_I-22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-23.svg",
+      "iso": "RS",
+      "id": "I-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Serbia_road_sign_I-23.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/032-Serbia_road_sign_I-23.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/032-Serbia_road_sign_I-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Serbia_road_sign_I-23.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/031-Serbia_road_sign_I-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Serbia_road_sign_I-23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RS-I-24.svg",
+      "iso": "RS",
+      "id": "I-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Serbia_road_sign_I-24.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/033-Serbia_road_sign_I-24.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/033-Serbia_road_sign_I-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Serbia_road_sign_I-24.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/032-Serbia_road_sign_I-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Serbia_road_sign_I-24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-25.svg",
+      "iso": "RS",
+      "id": "I-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Serbia_road_sign_I-25.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/034-Serbia_road_sign_I-25.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/034-Serbia_road_sign_I-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Serbia_road_sign_I-25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-26.svg",
+      "iso": "RS",
+      "id": "I-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Serbia_road_sign_I-26.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/035-Serbia_road_sign_I-26.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/035-Serbia_road_sign_I-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Serbia_road_sign_I-26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-27.svg",
+      "iso": "RS",
+      "id": "I-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Serbia_road_sign_I-27.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/036-Serbia_road_sign_I-27.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/036-Serbia_road_sign_I-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Serbia_road_sign_I-27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RS-I-28.1.svg",
+      "iso": "RS",
+      "id": "I-28.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Serbia_road_sign_I-28.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/038-Serbia_road_sign_I-28.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/038-Serbia_road_sign_I-28.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Serbia_road_sign_I-28.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RS-I-28.svg",
+      "iso": "RS",
+      "id": "I-28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Serbia_road_sign_I-28.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/037-Serbia_road_sign_I-28.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/037-Serbia_road_sign_I-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Serbia_road_sign_I-28.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RS-I-29.1.svg",
+      "iso": "RS",
+      "id": "I-29.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Serbia_road_sign_I-29.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/040-Serbia_road_sign_I-29.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/040-Serbia_road_sign_I-29.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Serbia_road_sign_I-29.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RS-I-29.2.svg",
+      "iso": "RS",
+      "id": "I-29.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Serbia_road_sign_I-29.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/041-Serbia_road_sign_I-29.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/041-Serbia_road_sign_I-29.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Serbia_road_sign_I-29.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RS-I-29.3.svg",
+      "iso": "RS",
+      "id": "I-29.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Serbia_road_sign_I-29.3.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/042-Serbia_road_sign_I-29.3.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/042-Serbia_road_sign_I-29.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Serbia_road_sign_I-29.3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RS-I-29.svg",
+      "iso": "RS",
+      "id": "I-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Serbia_road_sign_I-29.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/039-Serbia_road_sign_I-29.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/039-Serbia_road_sign_I-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Serbia_road_sign_I-29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-3.svg",
+      "iso": "RS",
+      "id": "I-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Serbia_road_sign_I-3.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/007-Serbia_road_sign_I-3.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/007-Serbia_road_sign_I-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Serbia_road_sign_I-3.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/006-Serbia_road_sign_I-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Serbia_road_sign_I-3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-30.svg",
+      "iso": "RS",
+      "id": "I-30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Serbia_road_sign_I-30.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/043-Serbia_road_sign_I-30.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/043-Serbia_road_sign_I-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Serbia_road_sign_I-30.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/040-Serbia_road_sign_I-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Serbia_road_sign_I-30.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-31.svg",
+      "iso": "RS",
+      "id": "I-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Serbia_road_sign_I-31.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/044-Serbia_road_sign_I-31.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/044-Serbia_road_sign_I-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Serbia_road_sign_I-31.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/041-Serbia_road_sign_I-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Serbia_road_sign_I-31.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-32.svg",
+      "iso": "RS",
+      "id": "I-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Serbia_road_sign_I-32.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/045-Serbia_road_sign_I-32.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/045-Serbia_road_sign_I-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Serbia_road_sign_I-32.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/042-Serbia_road_sign_I-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Serbia_road_sign_I-32.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-33.svg",
+      "iso": "RS",
+      "id": "I-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Serbia_road_sign_I-33.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/046-Serbia_road_sign_I-33.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/046-Serbia_road_sign_I-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Serbia_road_sign_I-33.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/043-Serbia_road_sign_I-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Serbia_road_sign_I-33.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-34.1.svg",
+      "iso": "RS",
+      "id": "I-34.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Serbia_road_sign_I-34.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/048-Serbia_road_sign_I-34.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/048-Serbia_road_sign_I-34.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Serbia_road_sign_I-34.1.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/045-Serbia_road_sign_I-34.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Serbia_road_sign_I-34.1.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.444
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-34.svg",
+      "iso": "RS",
+      "id": "I-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Serbia_road_sign_I-34.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/047-Serbia_road_sign_I-34.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/047-Serbia_road_sign_I-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Serbia_road_sign_I-34.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/044-Serbia_road_sign_I-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Serbia_road_sign_I-34.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.444
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-35.svg",
+      "iso": "RS",
+      "id": "I-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Serbia_road_sign_I-35.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/049-Serbia_road_sign_I-35.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/049-Serbia_road_sign_I-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Serbia_road_sign_I-35.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/046-Serbia_road_sign_I-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Serbia_road_sign_I-35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.966
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-35_type_2.svg",
+      "iso": "RS",
+      "id": "I-35",
+      "description": null,
+      "variants": [
+        "type_2"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Serbia_road_sign_I-35_%28type_2%29.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/050-Serbia_road_sign_I-35_(type_2).svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/050-Serbia_road_sign_I-35_(type_2).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Serbia_road_sign_I-35_%28type_2%29.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/047-Serbia_road_sign_I-35_(type_2).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Serbia_road_sign_I-35_%28type_2%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.966
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-36c.svg",
+      "iso": "RS",
+      "id": "I-36c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Serbia_road_sign_I-36c.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/051-Serbia_road_sign_I-36c.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/051-Serbia_road_sign_I-36c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Serbia_road_sign_I-36c.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-37.svg",
+      "iso": "RS",
+      "id": "I-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Serbia_road_sign_I-37.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/052-Serbia_road_sign_I-37.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/052-Serbia_road_sign_I-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Serbia_road_sign_I-37.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/048-Serbia_road_sign_I-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Serbia_road_sign_I-37.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-38.svg",
+      "iso": "RS",
+      "id": "I-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Serbia_road_sign_I-38.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/053-Serbia_road_sign_I-38.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/053-Serbia_road_sign_I-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Serbia_road_sign_I-38.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/049-Serbia_road_sign_I-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Serbia_road_sign_I-38.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-4.svg",
+      "iso": "RS",
+      "id": "I-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Serbia_road_sign_I-4.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/008-Serbia_road_sign_I-4.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/008-Serbia_road_sign_I-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Serbia_road_sign_I-4.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/007-Serbia_road_sign_I-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Serbia_road_sign_I-4.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-5.1.svg",
+      "iso": "RS",
+      "id": "I-5.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Serbia_road_sign_I-5.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/010-Serbia_road_sign_I-5.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/010-Serbia_road_sign_I-5.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Serbia_road_sign_I-5.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-5.2.svg",
+      "iso": "RS",
+      "id": "I-5.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Serbia_road_sign_I-5.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/011-Serbia_road_sign_I-5.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/011-Serbia_road_sign_I-5.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Serbia_road_sign_I-5.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-7.svg",
+      "iso": "RS",
+      "id": "I-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Serbia_road_sign_I-7.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/013-Serbia_road_sign_I-7.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/013-Serbia_road_sign_I-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Serbia_road_sign_I-7.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/012-Serbia_road_sign_I-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Serbia_road_sign_I-7.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-8.svg",
+      "iso": "RS",
+      "id": "I-8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Serbia_road_sign_I-8.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/014-Serbia_road_sign_I-8.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/014-Serbia_road_sign_I-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Serbia_road_sign_I-8.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/013-Serbia_road_sign_I-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Serbia_road_sign_I-8.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RS-I-9.svg",
+      "iso": "RS",
+      "id": "I-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Serbia_road_sign_I-9.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/015-Serbia_road_sign_I-9.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/015-Serbia_road_sign_I-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Serbia_road_sign_I-9.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/014-Serbia_road_sign_I-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Serbia_road_sign_I-9.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    }
+  ]
+}

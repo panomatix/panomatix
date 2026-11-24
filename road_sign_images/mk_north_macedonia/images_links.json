@@ -1,0 +1,1148 @@
+{
+  "country_code": "MK",
+  "country": "North Macedonia",
+  "images": [
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-216.svg",
+      "iso": "MK",
+      "id": "216",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/MK_road_sign_216.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/070-MK_road_sign_216.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/070-MK_road_sign_216.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/MK_road_sign_216.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/vienna/MK-319.1-80.svg",
+      "iso": "MK",
+      "id": "319.1-80",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/MK_road_sign_319.1-80.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/184-MK_road_sign_319.1-80.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/184-MK_road_sign_319.1-80.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/MK_road_sign_319.1-80.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/MK-326.svg",
+      "iso": "MK",
+      "id": "326",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/MK_road_sign_326.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/226-MK_road_sign_326.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/226-MK_road_sign_326.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/MK_road_sign_326.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina",
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-334.svg",
+      "iso": "MK",
+      "id": "334",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MK_road_sign_334.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/209-MK_road_sign_334.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/209-MK_road_sign_334.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MK_road_sign_334.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-336.svg",
+      "iso": "MK",
+      "id": "336",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/MK_road_sign_336.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/229-MK_road_sign_336.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/229-MK_road_sign_336.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/MK_road_sign_336.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/MK-337.1.svg",
+      "iso": "MK",
+      "id": "337.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/MK_road_sign_337.1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/222-MK_road_sign_337.1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/222-MK_road_sign_337.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/MK_road_sign_337.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MK-338.svg",
+      "iso": "MK",
+      "id": "338",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/MK_road_sign_338.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/228-MK_road_sign_338.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/228-MK_road_sign_338.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/MK_road_sign_338.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-345.svg",
+      "iso": "MK",
+      "id": "345",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MK_road_sign_345.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/223-MK_road_sign_345.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/223-MK_road_sign_345.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MK_road_sign_345.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MK-347.svg",
+      "iso": "MK",
+      "id": "347",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/MK_road_sign_347.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/208-MK_road_sign_347.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/208-MK_road_sign_347.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/MK_road_sign_347.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-393.svg",
+      "iso": "MK",
+      "id": "393",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/MK_road_sign_393.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/204-MK_road_sign_393.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/204-MK_road_sign_393.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/MK_road_sign_393.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-501.1.svg",
+      "iso": "MK",
+      "id": "501.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Macedonia_road_sign_501.1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/300-Macedonia_road_sign_501.1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/300-Macedonia_road_sign_501.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Macedonia_road_sign_501.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-501.2.svg",
+      "iso": "MK",
+      "id": "501.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Macedonia_road_sign_501.2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/301-Macedonia_road_sign_501.2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/301-Macedonia_road_sign_501.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Macedonia_road_sign_501.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-501.3.svg",
+      "iso": "MK",
+      "id": "501.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Macedonia_road_sign_501.3.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/302-Macedonia_road_sign_501.3.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/302-Macedonia_road_sign_501.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Macedonia_road_sign_501.3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-501.4.svg",
+      "iso": "MK",
+      "id": "501.4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Macedonia_road_sign_501.4.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/303-Macedonia_road_sign_501.4.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/303-Macedonia_road_sign_501.4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Macedonia_road_sign_501.4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-501.5.svg",
+      "iso": "MK",
+      "id": "501.5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Macedonia_road_sign_501.5.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/305-Macedonia_road_sign_501.5.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/305-Macedonia_road_sign_501.5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Macedonia_road_sign_501.5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-501.6.svg",
+      "iso": "MK",
+      "id": "501.6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Macedonia_road_sign_501.6.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/304-Macedonia_road_sign_501.6.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/304-Macedonia_road_sign_501.6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Macedonia_road_sign_501.6.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "h_additional_panels/other/MK-502.svg",
+      "iso": "MK",
+      "id": "502",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Macedonia_road_sign_502.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/288-Macedonia_road_sign_502.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/288-Macedonia_road_sign_502.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Macedonia_road_sign_502.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "h_additional_panels/other/MK-503.svg",
+      "iso": "MK",
+      "id": "503",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Macedonia_road_sign_503.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/287-Macedonia_road_sign_503.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/287-Macedonia_road_sign_503.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Macedonia_road_sign_503.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "b_priority_signs/vienna/MK-505.svg",
+      "iso": "MK",
+      "id": "505",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Macedonia_road_sign_505.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/285-Macedonia_road_sign_505.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/285-Macedonia_road_sign_505.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Macedonia_road_sign_505.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-511.svg",
+      "iso": "MK",
+      "id": "511",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Macedonia_road_sign_511.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/314-Macedonia_road_sign_511.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/314-Macedonia_road_sign_511.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Macedonia_road_sign_511.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/MK-518.svg",
+      "iso": "MK",
+      "id": "518",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Macedonia_road_sign_518.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/323-Macedonia_road_sign_518.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/323-Macedonia_road_sign_518.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Macedonia_road_sign_518.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-101.svg",
+      "iso": "MK",
+      "id": "101",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/MK_road_sign_101.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/033-MK_road_sign_101.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/033-MK_road_sign_101.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/MK_road_sign_101.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-103.1.svg",
+      "iso": "MK",
+      "id": "103.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/MK_road_sign_103.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/001-MK_road_sign_103.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/001-MK_road_sign_103.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/MK_road_sign_103.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-103.2.svg",
+      "iso": "MK",
+      "id": "103.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MK_road_sign_103.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/002-MK_road_sign_103.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/002-MK_road_sign_103.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MK_road_sign_103.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-104.1.svg",
+      "iso": "MK",
+      "id": "104.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/MK_road_sign_104.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/003-MK_road_sign_104.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/003-MK_road_sign_104.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/MK_road_sign_104.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-104.2.svg",
+      "iso": "MK",
+      "id": "104.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/MK_road_sign_104.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/004-MK_road_sign_104.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/004-MK_road_sign_104.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/MK_road_sign_104.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-111.1.svg",
+      "iso": "MK",
+      "id": "111.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MK_road_sign_111.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/018-MK_road_sign_111.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/018-MK_road_sign_111.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MK_road_sign_111.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-111.2.svg",
+      "iso": "MK",
+      "id": "111.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MK_road_sign_111.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/019-MK_road_sign_111.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/019-MK_road_sign_111.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MK_road_sign_111.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-114.1.svg",
+      "iso": "MK",
+      "id": "114.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/MK_road_sign_114.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/009-MK_road_sign_114.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/009-MK_road_sign_114.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/MK_road_sign_114.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-114.2.svg",
+      "iso": "MK",
+      "id": "114.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/MK_road_sign_114.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/010-MK_road_sign_114.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/010-MK_road_sign_114.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/MK_road_sign_114.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-114.svg",
+      "iso": "MK",
+      "id": "114",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/MK_road_sign_114.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/009-MK_road_sign_114.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/009-MK_road_sign_114.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/MK_road_sign_114.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/008-MK_road_sign_114.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/MK_road_sign_114.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-115.svg",
+      "iso": "MK",
+      "id": "115",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/MK_road_sign_115.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/025-MK_road_sign_115.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/025-MK_road_sign_115.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/MK_road_sign_115.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-119.svg",
+      "iso": "MK",
+      "id": "119",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/MK_road_sign_119.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/012-MK_road_sign_119.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/012-MK_road_sign_119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/MK_road_sign_119.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/011-MK_road_sign_119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/MK_road_sign_119.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-121.1.svg",
+      "iso": "MK",
+      "id": "121.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MK_road_sign_121.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/027-MK_road_sign_121.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/027-MK_road_sign_121.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MK_road_sign_121.1.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/026-MK_road_sign_121.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MK_road_sign_121.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-121.2.svg",
+      "iso": "MK",
+      "id": "121.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/MK_road_sign_121.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/028-MK_road_sign_121.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/028-MK_road_sign_121.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/MK_road_sign_121.2.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/027-MK_road_sign_121.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/MK_road_sign_121.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-123.svg",
+      "iso": "MK",
+      "id": "123",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/MK_road_sign_123.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/020-MK_road_sign_123.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/020-MK_road_sign_123.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/MK_road_sign_123.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-124.svg",
+      "iso": "MK",
+      "id": "124",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/MK_road_sign_124.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/021-MK_road_sign_124.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/021-MK_road_sign_124.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/MK_road_sign_124.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-125.svg",
+      "iso": "MK",
+      "id": "125",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/MK_road_sign_125.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/022-MK_road_sign_125.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/022-MK_road_sign_125.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/MK_road_sign_125.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MK-128.svg",
+      "iso": "MK",
+      "id": "128",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/MK_road_sign_128.svg",
+      "kept_from": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/029-MK_road_sign_128.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/01-en_Road_signs_in_Serbia/029-MK_road_sign_128.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/MK_road_sign_128.svg"
+        },
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/028-MK_road_sign_128.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/MK_road_sign_128.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "b_priority_signs/vienna/MK-201.svg",
+      "iso": "MK",
+      "id": "201",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/MK_road_sign_201.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/050-MK_road_sign_201.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/050-MK_road_sign_201.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/MK_road_sign_201.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-204.svg",
+      "iso": "MK",
+      "id": "204",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/MK_road_sign_204.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/052-MK_road_sign_204.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/052-MK_road_sign_204.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/MK_road_sign_204.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-212.svg",
+      "iso": "MK",
+      "id": "212",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/MK_road_sign_212.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/060-MK_road_sign_212.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/060-MK_road_sign_212.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/MK_road_sign_212.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MK-213.svg",
+      "iso": "MK",
+      "id": "213",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/MK_road_sign_213.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/061-MK_road_sign_213.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/061-MK_road_sign_213.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/MK_road_sign_213.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-221.svg",
+      "iso": "MK",
+      "id": "221",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/MK_road_sign_221.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/068-MK_road_sign_221.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/068-MK_road_sign_221.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/MK_road_sign_221.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-230.svg",
+      "iso": "MK",
+      "id": "230",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/MK_road_sign_230.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/078-MK_road_sign_230.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/078-MK_road_sign_230.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/MK_road_sign_230.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-231.svg",
+      "iso": "MK",
+      "id": "231",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/MK_road_sign_231.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/079-MK_road_sign_231.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/079-MK_road_sign_231.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/MK_road_sign_231.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-232.svg",
+      "iso": "MK",
+      "id": "232",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/MK_road_sign_232.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/080-MK_road_sign_232.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/080-MK_road_sign_232.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/MK_road_sign_232.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-236.svg",
+      "iso": "MK",
+      "id": "236",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/MK_road_sign_236.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/089-MK_road_sign_236.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/089-MK_road_sign_236.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/MK_road_sign_236.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-237.svg",
+      "iso": "MK",
+      "id": "237",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/MK_road_sign_237.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/090-MK_road_sign_237.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/090-MK_road_sign_237.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/MK_road_sign_237.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-238.svg",
+      "iso": "MK",
+      "id": "238",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/MK_road_sign_238.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/091-MK_road_sign_238.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/091-MK_road_sign_238.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/MK_road_sign_238.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-239.svg",
+      "iso": "MK",
+      "id": "239",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/MK_road_sign_239.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/092-MK_road_sign_239.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/092-MK_road_sign_239.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/MK_road_sign_239.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-240.svg",
+      "iso": "MK",
+      "id": "240",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/MK_road_sign_240.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/085-MK_road_sign_240.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/085-MK_road_sign_240.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/MK_road_sign_240.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MK-243.svg",
+      "iso": "MK",
+      "id": "243",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/MK_road_sign_243.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/084-MK_road_sign_243.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/084-MK_road_sign_243.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/MK_road_sign_243.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MK-255-40.svg",
+      "iso": "MK",
+      "id": "255-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/MK_road_sign_255-40.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/093-MK_road_sign_255-40.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/093-MK_road_sign_255-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/MK_road_sign_255-40.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MK-302.1.svg",
+      "iso": "MK",
+      "id": "302.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/MK_road_sign_302.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/116-MK_road_sign_302.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/116-MK_road_sign_302.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/MK_road_sign_302.1.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/MK-304.svg",
+      "iso": "MK",
+      "id": "304",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Macedonia_road_sign_304.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/117-Macedonia_road_sign_304.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/117-Macedonia_road_sign_304.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Macedonia_road_sign_304.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MK-325.1.svg",
+      "iso": "MK",
+      "id": "325.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/MK_road_sign_325.1.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/146-MK_road_sign_325.1.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/146-MK_road_sign_325.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/MK_road_sign_325.1.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MK-325.2.svg",
+      "iso": "MK",
+      "id": "325.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/MK_road_sign_325.2.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/147-MK_road_sign_325.2.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/147-MK_road_sign_325.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/MK_road_sign_325.2.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/vienna/MK-354.svg",
+      "iso": "MK",
+      "id": "354",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/MK_road_sign_354.svg",
+      "kept_from": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/118-MK_road_sign_354.svg",
+      "sources": [
+        {
+          "file": "RS_Serbia/wikipedia/02-it_Segnaletica_stradale_in_Serbia/118-MK_road_sign_354.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/MK_road_sign_354.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "RS_Serbia"
+      ]
+    }
+  ]
+}

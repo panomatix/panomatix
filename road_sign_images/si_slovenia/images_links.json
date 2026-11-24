@@ -1,0 +1,1021 @@
+{
+  "country_code": "SI",
+  "country": "Slovenia",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/other/SI-1119-1.svg",
+      "iso": "SI",
+      "id": "1119-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Slovenia_road_sign_1119-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/20-Slovenia_road_sign_1119-1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/20-Slovenia_road_sign_1119-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Slovenia_road_sign_1119-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-1119-2.svg",
+      "iso": "SI",
+      "id": "1119-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Slovenia_road_sign_1119-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/21-Slovenia_road_sign_1119-2.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/21-Slovenia_road_sign_1119-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Slovenia_road_sign_1119-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-1119-3.svg",
+      "iso": "SI",
+      "id": "1119-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slovenia_road_sign_1119-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/22-Slovenia_road_sign_1119-3.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/22-Slovenia_road_sign_1119-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slovenia_road_sign_1119-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "sd_unclassified/other/SI-1204.svg",
+      "iso": "SI",
+      "id": "1204",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Slovenia_road_sign_1204.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/25-Slovenia_road_sign_1204.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/25-Slovenia_road_sign_1204.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Slovenia_road_sign_1204.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.443
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/SI-Hospital.png",
+      "iso": "SI",
+      "id": "Hospital",
+      "description": "Hospital",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Slovenia_road_sign_Hospital.png",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/51-Slovenia_road_sign_Hospital.png",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/51-Slovenia_road_sign_Hospital.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Slovenia_road_sign_Hospital.png"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/150-Slovenia_road_sign_Hospital.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Slovenia_road_sign_Hospital.png"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-1.1.svg",
+      "iso": "SI",
+      "id": "I-1.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Slovenia_road_sign_I-1.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/08-Slovenia_road_sign_I-1.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/08-Slovenia_road_sign_I-1.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Slovenia_road_sign_I-1.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/004-Slovenia_road_sign_I-1.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Slovenia_road_sign_I-1.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-1.svg",
+      "iso": "SI",
+      "id": "I-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Slovenia_road_sign_I-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/07-Slovenia_road_sign_I-1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/07-Slovenia_road_sign_I-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Slovenia_road_sign_I-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/003-Slovenia_road_sign_I-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Slovenia_road_sign_I-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-10.svg",
+      "iso": "SI",
+      "id": "I-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slovenia_road_sign_I-10.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/15-Slovenia_road_sign_I-10.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/15-Slovenia_road_sign_I-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slovenia_road_sign_I-10.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/016-Slovenia_road_sign_I-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slovenia_road_sign_I-10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-11.svg",
+      "iso": "SI",
+      "id": "I-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Slovenia_road_sign_I-11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/17-Slovenia_road_sign_I-11.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/17-Slovenia_road_sign_I-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Slovenia_road_sign_I-11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/017-Slovenia_road_sign_I-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Slovenia_road_sign_I-11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-12.svg",
+      "iso": "SI",
+      "id": "I-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Slovenia_road_sign_I-12.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/018-Slovenia_road_sign_I-12.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/018-Slovenia_road_sign_I-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Slovenia_road_sign_I-12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-13.1.svg",
+      "iso": "SI",
+      "id": "I-13.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Slovenia_road_sign_I-13.1.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/020-Slovenia_road_sign_I-13.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/020-Slovenia_road_sign_I-13.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Slovenia_road_sign_I-13.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-13.svg",
+      "iso": "SI",
+      "id": "I-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Slovenia_road_sign_I-13.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/019-Slovenia_road_sign_I-13.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/019-Slovenia_road_sign_I-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Slovenia_road_sign_I-13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-14.svg",
+      "iso": "SI",
+      "id": "I-14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Slovenia_road_sign_I-14.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/021-Slovenia_road_sign_I-14.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/021-Slovenia_road_sign_I-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Slovenia_road_sign_I-14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-15.svg",
+      "iso": "SI",
+      "id": "I-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Slovenia_road_sign_I-15.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/022-Slovenia_road_sign_I-15.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/022-Slovenia_road_sign_I-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Slovenia_road_sign_I-15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-16.svg",
+      "iso": "SI",
+      "id": "I-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Slovenia_road_sign_I-16.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/023-Slovenia_road_sign_I-16.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/023-Slovenia_road_sign_I-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Slovenia_road_sign_I-16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-17.svg",
+      "iso": "SI",
+      "id": "I-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Slovenia_road_sign_I-17.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/024-Slovenia_road_sign_I-17.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/024-Slovenia_road_sign_I-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Slovenia_road_sign_I-17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-18.svg",
+      "iso": "SI",
+      "id": "I-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Slovenia_road_sign_I-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/18-Slovenia_road_sign_I-18.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/18-Slovenia_road_sign_I-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Slovenia_road_sign_I-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/025-Slovenia_road_sign_I-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Slovenia_road_sign_I-18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-2.1.svg",
+      "iso": "SI",
+      "id": "I-2.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Slovenia_road_sign_I-2.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/10-Slovenia_road_sign_I-2.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/10-Slovenia_road_sign_I-2.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Slovenia_road_sign_I-2.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/006-Slovenia_road_sign_I-2.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Slovenia_road_sign_I-2.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-2.svg",
+      "iso": "SI",
+      "id": "I-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Slovenia_road_sign_I-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/09-Slovenia_road_sign_I-2.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/09-Slovenia_road_sign_I-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Slovenia_road_sign_I-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/005-Slovenia_road_sign_I-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Slovenia_road_sign_I-2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-20.svg",
+      "iso": "SI",
+      "id": "I-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Slovenia_road_sign_I-20.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/027-Slovenia_road_sign_I-20.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/027-Slovenia_road_sign_I-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Slovenia_road_sign_I-20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-21.svg",
+      "iso": "SI",
+      "id": "I-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Slovenia_road_sign_I-21.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/028-Slovenia_road_sign_I-21.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/028-Slovenia_road_sign_I-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Slovenia_road_sign_I-21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-22.1.svg",
+      "iso": "SI",
+      "id": "I-22.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Slovenia_road_sign_I-22.1.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/030-Slovenia_road_sign_I-22.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/030-Slovenia_road_sign_I-22.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Slovenia_road_sign_I-22.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-22.svg",
+      "iso": "SI",
+      "id": "I-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Slovenia_road_sign_I-22.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/029-Slovenia_road_sign_I-22.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/029-Slovenia_road_sign_I-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Slovenia_road_sign_I-22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-23.svg",
+      "iso": "SI",
+      "id": "I-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Slovenia_road_sign_I-23.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/031-Slovenia_road_sign_I-23.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/031-Slovenia_road_sign_I-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Slovenia_road_sign_I-23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-I-24.svg",
+      "iso": "SI",
+      "id": "I-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Slovenia_road_sign_I-24.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/032-Slovenia_road_sign_I-24.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/032-Slovenia_road_sign_I-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Slovenia_road_sign_I-24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-25.svg",
+      "iso": "SI",
+      "id": "I-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Slovenia_road_sign_I-25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/01-Slovenia_road_sign_I-25.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/01-Slovenia_road_sign_I-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Slovenia_road_sign_I-25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/033-Slovenia_road_sign_I-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Slovenia_road_sign_I-25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-26.svg",
+      "iso": "SI",
+      "id": "I-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Slovenia_road_sign_I-26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/02-Slovenia_road_sign_I-26.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/02-Slovenia_road_sign_I-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Slovenia_road_sign_I-26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/034-Slovenia_road_sign_I-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Slovenia_road_sign_I-26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-27.svg",
+      "iso": "SI",
+      "id": "I-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Slovenia_road_sign_I-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/03-Slovenia_road_sign_I-27.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/03-Slovenia_road_sign_I-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Slovenia_road_sign_I-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/035-Slovenia_road_sign_I-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Slovenia_road_sign_I-27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-I-28.1.svg",
+      "iso": "SI",
+      "id": "I-28.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Slovenia_road_sign_I-28.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/05-Slovenia_road_sign_I-28.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/05-Slovenia_road_sign_I-28.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Slovenia_road_sign_I-28.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/037-Slovenia_road_sign_I-28.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Slovenia_road_sign_I-28.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-I-28.svg",
+      "iso": "SI",
+      "id": "I-28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Slovenia_road_sign_I-28.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/04-Slovenia_road_sign_I-28.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/04-Slovenia_road_sign_I-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Slovenia_road_sign_I-28.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/036-Slovenia_road_sign_I-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Slovenia_road_sign_I-28.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-I-29.1.svg",
+      "iso": "SI",
+      "id": "I-29.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Slovenia_road_sign_I-29.1.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/039-Slovenia_road_sign_I-29.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/039-Slovenia_road_sign_I-29.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Slovenia_road_sign_I-29.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-I-29.svg",
+      "iso": "SI",
+      "id": "I-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Slovenia_road_sign_I-29.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/038-Slovenia_road_sign_I-29.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/038-Slovenia_road_sign_I-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Slovenia_road_sign_I-29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-3.svg",
+      "iso": "SI",
+      "id": "I-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Slovenia_road_sign_I-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/11-Slovenia_road_sign_I-3.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/11-Slovenia_road_sign_I-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Slovenia_road_sign_I-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/007-Slovenia_road_sign_I-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Slovenia_road_sign_I-3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-30.svg",
+      "iso": "SI",
+      "id": "I-30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Slovenia_road_sign_I-30.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/06-Slovenia_road_sign_I-30.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/06-Slovenia_road_sign_I-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Slovenia_road_sign_I-30.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/040-Slovenia_road_sign_I-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Slovenia_road_sign_I-30.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-31.svg",
+      "iso": "SI",
+      "id": "I-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Slovenia_road_sign_I-31.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/041-Slovenia_road_sign_I-31.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/041-Slovenia_road_sign_I-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Slovenia_road_sign_I-31.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-32.svg",
+      "iso": "SI",
+      "id": "I-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Slovenia_road_sign_I-32.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/042-Slovenia_road_sign_I-32.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/042-Slovenia_road_sign_I-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Slovenia_road_sign_I-32.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-33.svg",
+      "iso": "SI",
+      "id": "I-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Slovenia_road_sign_I-33.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/043-Slovenia_road_sign_I-33.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/043-Slovenia_road_sign_I-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Slovenia_road_sign_I-33.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-34.svg",
+      "iso": "SI",
+      "id": "I-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Slovenia_road_sign_I-34.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/044-Slovenia_road_sign_I-34.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/044-Slovenia_road_sign_I-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Slovenia_road_sign_I-34.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-I-35.svg",
+      "iso": "SI",
+      "id": "I-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Slovenia_road_sign_I-35.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/045-Slovenia_road_sign_I-35.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/045-Slovenia_road_sign_I-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Slovenia_road_sign_I-35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-36.svg",
+      "iso": "SI",
+      "id": "I-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Slovenia_road_sign_I-36.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/23-Slovenia_road_sign_I-36.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/23-Slovenia_road_sign_I-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Slovenia_road_sign_I-36.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/046-Slovenia_road_sign_I-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Slovenia_road_sign_I-36.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-37.svg",
+      "iso": "SI",
+      "id": "I-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Slovenia_road_sign_I-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/24-Slovenia_road_sign_I-37.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/24-Slovenia_road_sign_I-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Slovenia_road_sign_I-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/047-Slovenia_road_sign_I-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Slovenia_road_sign_I-37.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-38.1.svg",
+      "iso": "SI",
+      "id": "I-38.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Slovenia_road_sign_I-38.1.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/049-Slovenia_road_sign_I-38.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/049-Slovenia_road_sign_I-38.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Slovenia_road_sign_I-38.1.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/SI-I-38.2.svg",
+      "iso": "SI",
+      "id": "I-38.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Slovenia_road_sign_I-38.2.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/050-Slovenia_road_sign_I-38.2.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/050-Slovenia_road_sign_I-38.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Slovenia_road_sign_I-38.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SI-I-38.3.svg",
+      "iso": "SI",
+      "id": "I-38.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Slovenia_road_sign_I-38.3.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/051-Slovenia_road_sign_I-38.3.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/051-Slovenia_road_sign_I-38.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Slovenia_road_sign_I-38.3.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-38.svg",
+      "iso": "SI",
+      "id": "I-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Slovenia_road_sign_I-38.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/048-Slovenia_road_sign_I-38.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/048-Slovenia_road_sign_I-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Slovenia_road_sign_I-38.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-4.svg",
+      "iso": "SI",
+      "id": "I-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Slovenia_road_sign_I-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/13-Slovenia_road_sign_I-4.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/13-Slovenia_road_sign_I-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Slovenia_road_sign_I-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/008-Slovenia_road_sign_I-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Slovenia_road_sign_I-4.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SI-I-41.svg",
+      "iso": "SI",
+      "id": "I-41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Slovenia_road_sign_I-41.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/052-Slovenia_road_sign_I-41.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/052-Slovenia_road_sign_I-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Slovenia_road_sign_I-41.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-5.1.svg",
+      "iso": "SI",
+      "id": "I-5.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Slovenia_road_sign_I-5.1.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/010-Slovenia_road_sign_I-5.1.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/010-Slovenia_road_sign_I-5.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Slovenia_road_sign_I-5.1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-5.2.svg",
+      "iso": "SI",
+      "id": "I-5.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Slovenia_road_sign_I-5.2.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/011-Slovenia_road_sign_I-5.2.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/011-Slovenia_road_sign_I-5.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Slovenia_road_sign_I-5.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-5.svg",
+      "iso": "SI",
+      "id": "I-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Slovenia_road_sign_I-5.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/009-Slovenia_road_sign_I-5.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/009-Slovenia_road_sign_I-5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Slovenia_road_sign_I-5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-6.svg",
+      "iso": "SI",
+      "id": "I-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Slovenia_road_sign_I-6.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/012-Slovenia_road_sign_I-6.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/012-Slovenia_road_sign_I-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Slovenia_road_sign_I-6.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-7.svg",
+      "iso": "SI",
+      "id": "I-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Slovenia_road_sign_I-7.svg",
+      "kept_from": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/013-Slovenia_road_sign_I-7.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/013-Slovenia_road_sign_I-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Slovenia_road_sign_I-7.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-8.svg",
+      "iso": "SI",
+      "id": "I-8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Slovenia_road_sign_I-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/14-Slovenia_road_sign_I-8.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/14-Slovenia_road_sign_I-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Slovenia_road_sign_I-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/014-Slovenia_road_sign_I-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Slovenia_road_sign_I-8.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SI-I-9.svg",
+      "iso": "SI",
+      "id": "I-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Slovenia_road_sign_I-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/16-Slovenia_road_sign_I-9.svg",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/16-Slovenia_road_sign_I-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Slovenia_road_sign_I-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "SI_Slovenia/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Slowenien/015-Slovenia_road_sign_I-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Slovenia_road_sign_I-9.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.947
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/SI-recreational_vehicle.png",
+      "iso": "SI",
+      "id": "recreational_vehicle",
+      "description": "recreational_vehicle",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Slovenia_road_sign_recreational_vehicle.png",
+      "kept_from": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/65-Slovenia_road_sign_recreational_vehicle.png",
+      "sources": [
+        {
+          "file": "SI_Slovenia/osm_wiki/01-Sl_Prometni_znaki_v_Sloveniji/65-Slovenia_road_sign_recreational_vehicle.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Slovenia_road_sign_recreational_vehicle.png"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    }
+  ]
+}

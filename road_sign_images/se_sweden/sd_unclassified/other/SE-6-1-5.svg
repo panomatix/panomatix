@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="378" height="533" viewBox="-0.856 0 378 533" xml:space="preserve">
+	<defs>
+	</defs>
+	<g>
+		<polygon fill="#ED171F" points="136.44,497.592 0,402.048 0,527.904 136.44,527.904 "/>
+		<polygon fill="#FEB82F" points="136.44,497.592 0,402.048 0,292.032 136.44,387.504 "/>
+		<polygon fill="#ED171F" points="136.44,233.64 0,138.096 0,292.032 136.44,387.504 "/>
+		<polygon fill="#FEB82F" points="136.44,233.64 0,138.096 0,28.08 136.44,123.552 "/>
+		<polygon fill="#ED171F" points="0,0 136.44,0 136.44,123.552 0,28.08 "/>
+		<polygon fill="#ED171F" points="239.76,502.2 376.2,406.656 376.2,532.512 239.76,532.512 "/>
+		<polygon fill="#FEB82F" points="239.76,502.2 376.2,406.656 376.2,296.64 239.76,392.112 "/>
+		<polygon fill="#ED171F" points="239.76,238.248 376.2,142.704 376.2,296.64 239.76,392.112 "/>
+		<polygon fill="#FEB82F" points="239.76,238.248 376.2,142.704 376.2,32.688 239.76,128.16 "/>
+		<polygon fill="#ED171F" points="376.2,4.608 239.76,4.608 239.76,128.16 376.2,32.688 "/>
+	</g>
+</svg>

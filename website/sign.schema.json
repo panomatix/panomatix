@@ -1,0 +1,246 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://panomatix.local/schema/sign.schema.json",
+  "title": "Panomatix sign entry",
+  "description": "One entry of full_database.json. Every key observed in the database is described here; unknown keys are rejected.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["reference", "category", "name", "description", "legacyReferences", "wikidata", "officialSign"],
+  "properties": {
+    "reference": {
+      "type": "string",
+      "pattern": "^(VIENNA|VIENNA2006|OTHER):[A-Za-z0-9][A-Za-z0-9._,()+-]*$",
+      "maxLength": 64,
+      "description": "VIENNA:<2023 number>, VIENNA2006:<2006 number> or OTHER:<id>."
+    },
+    "category": {
+      "type": "string",
+      "pattern": "^([A-H]|OTHER-[A-Z]{1,2})$"
+    },
+    "categoryName": { "type": ["string", "null"], "maxLength": 200 },
+    "legacyReferences": { "$ref": "#/$defs/referenceList" },
+    "wikidata": { "$ref": "#/$defs/wikidata" },
+    "name": { "$ref": "#/$defs/i18nText" },
+    "description": { "$ref": "#/$defs/i18nTextNullable" },
+    "note": { "type": ["string", "null"], "maxLength": 4000 },
+    "symbolMayBeReversed": { "type": "boolean" },
+    "officialSign": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["designs", "additional"],
+      "properties": {
+        "designs": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/design" },
+          "maxItems": 200
+        },
+        "additional": { "$ref": "#/$defs/additional" }
+      }
+    },
+    "osm": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "traffic_sign_generic": { "type": ["string", "null"], "maxLength": 100 },
+        "implied_tags": {
+          "type": ["object", "null"],
+          "propertyNames": { "pattern": "^[A-Za-z0-9_:*.-]{1,100}$" },
+          "additionalProperties": { "type": "string", "maxLength": 255 }
+        }
+      }
+    },
+    "relatedSigns": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/relatedSign" },
+      "maxItems": 200
+    }
+  },
+  "$defs": {
+    "wikidata": { "type": "string", "pattern": "^Q([0-9]+|XXXXXXX)$" },
+    "langKey": { "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]{1,8})*$" },
+    "i18nText": {
+      "type": "object",
+      "propertyNames": { "$ref": "#/$defs/langKey" },
+      "additionalProperties": { "type": "string", "maxLength": 4000 }
+    },
+    "i18nTextNullable": {
+      "type": "object",
+      "propertyNames": { "$ref": "#/$defs/langKey" },
+      "additionalProperties": { "type": ["string", "null"], "maxLength": 4000 }
+    },
+    "referenceList": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1, "maxLength": 200 },
+      "uniqueItems": true,
+      "maxItems": 500
+    },
+    "nationalCode": {
+      "type": "string",
+      "pattern": "^[a-z]{2}(-[a-z0-9]{1,3})?:\\S.*$",
+      "maxLength": 300
+    },
+    "panelSlot": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["index", "reference"],
+      "properties": {
+        "index": { "type": "integer", "minimum": 1, "maximum": 20, "description": "1 = closest to the sign, 2 = next one, ..." },
+        "reference": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1, "maxLength": 300 },
+          "uniqueItems": true,
+          "maxItems": 200,
+          "description": "Admissible panels for this slot (Vienna references or national codes)."
+        }
+      }
+    },
+    "panelSlots": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/panelSlot" },
+      "maxItems": 20
+    },
+    "additional": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["top", "bottom"],
+      "description": "Additional panels (panonceaux) around the sign, per position.",
+      "properties": {
+        "top": { "$ref": "#/$defs/panelSlots" },
+        "bottom": { "$ref": "#/$defs/panelSlots" },
+        "left": { "$ref": "#/$defs/panelSlots" },
+        "right": { "$ref": "#/$defs/panelSlots" }
+      }
+    },
+    "language": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["code", "codes", "text", "description"],
+      "properties": {
+        "code": { "$ref": "#/$defs/nationalCode" },
+        "codes": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/nationalCode" },
+          "minItems": 1,
+          "uniqueItems": true,
+          "maxItems": 500
+        },
+        "text": { "type": ["string", "null"], "maxLength": 4000 },
+        "description": { "type": ["string", "null"], "maxLength": 4000 }
+      }
+    },
+    "parameter": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "values"],
+      "properties": {
+        "description": { "type": ["string", "null"], "maxLength": 1000 },
+        "type": { "enum": ["number", "string"] },
+        "unit": { "type": ["string", "null"], "maxLength": 30 },
+        "values": {
+          "type": "array",
+          "items": { "type": ["number", "string"] },
+          "maxItems": 500
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["file"],
+      "properties": {
+        "file": { "type": "string", "minLength": 1, "maxLength": 1000 },
+        "url": { "type": ["string", "null"], "pattern": "^https?://", "maxLength": 2000 }
+      }
+    },
+    "jurisdiction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["countryCode", "languages", "additional", "osm"],
+      "properties": {
+        "countryCode": { "type": "string", "pattern": "^[a-z]{2}(-[a-z0-9]{1,3})?$" },
+        "languages": {
+          "type": "object",
+          "propertyNames": { "$ref": "#/$defs/langKey" },
+          "additionalProperties": { "$ref": "#/$defs/language" },
+          "minProperties": 1
+        },
+        "parameters": {
+          "type": "object",
+          "propertyNames": { "pattern": "^[a-z][a-z0-9_]{0,40}$" },
+          "additionalProperties": { "$ref": "#/$defs/parameter" }
+        },
+        "additional": { "$ref": "#/$defs/additional" },
+        "osm": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["traffic_sign"],
+          "properties": {
+            "traffic_sign": {
+              "type": "array",
+              "items": { "type": "string", "minLength": 1, "maxLength": 300 },
+              "uniqueItems": true,
+              "maxItems": 500
+            }
+          }
+        },
+        "sources": { "type": "array", "items": { "$ref": "#/$defs/source" }, "maxItems": 500 },
+        "leftHandTrafficVariant": { "type": "boolean" }
+      }
+    },
+    "jurisdictions": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[a-z0-9_]{2,60}$" },
+      "additionalProperties": { "$ref": "#/$defs/jurisdiction" }
+    },
+    "shape": { "enum": [null, "arrow_rectangle", "circle", "cross", "diamond", "inverted_triangle", "octagon", "pentagon", "rectangle", "square", "triangle"] },
+    "color": { "enum": [null, "black", "blue", "brown", "dark", "dark blue", "green", "grey", "light grey", "dark grey", "orange", "purple", "red", "white", "yellow"] },
+    "design": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["shape", "background_color", "border_color", "symbol_color", "versions", "legacyReferences", "mirrored", "wikidata", "toBeAdded", "jurisdictions"],
+      "properties": {
+        "shape": { "$ref": "#/$defs/shape" },
+        "background_color": { "$ref": "#/$defs/color" },
+        "border_color": { "$ref": "#/$defs/color" },
+        "symbol_color": { "$ref": "#/$defs/color" },
+        "band": { "enum": ["none", "single_band", "parallel_lines"] },
+        "band_color": { "$ref": "#/$defs/color" },
+        "prohibition_bar": { "enum": [null, "with_bar", "without_bar"] },
+        "bar_continuity": { "enum": [null, "continuous", "interrupted"] },
+        "model": { "enum": [null, "one", "two"] },
+        "legacyModel": { "enum": [null, "Aa", "Ab"] },
+        "versions": {
+          "type": "array",
+          "items": { "enum": ["2006", "2023"] },
+          "uniqueItems": true
+        },
+        "legacyReferences": { "$ref": "#/$defs/referenceList" },
+        "mirrored": { "type": "boolean" },
+        "wikidata": { "$ref": "#/$defs/wikidata" },
+        "toBeAdded": { "type": "boolean" },
+        "notes": { "type": "array", "items": { "type": "string", "maxLength": 2000 }, "maxItems": 50 },
+        "jurisdictions": { "$ref": "#/$defs/jurisdictions" }
+      }
+    },
+    "relatedSign": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reference", "name", "description", "jurisdictions"],
+      "properties": {
+        "reference": { "type": "string", "minLength": 1, "maxLength": 100 },
+        "name": { "$ref": "#/$defs/i18nText" },
+        "description": { "$ref": "#/$defs/i18nTextNullable" },
+        "shape": { "$ref": "#/$defs/shape" },
+        "background_color": { "$ref": "#/$defs/color" },
+        "border_color": { "$ref": "#/$defs/color" },
+        "symbol_color": { "$ref": "#/$defs/color" },
+        "background": { "$ref": "#/$defs/color", "description": "Legacy spelling of background_color." },
+        "border": { "$ref": "#/$defs/color", "description": "Legacy spelling of border_color." },
+        "mirrored": { "type": "boolean" },
+        "toBeAdded": { "type": "boolean" },
+        "wikidata": { "$ref": "#/$defs/wikidata" },
+        "jurisdictions": { "$ref": "#/$defs/jurisdictions" }
+      }
+    }
+  }
+}

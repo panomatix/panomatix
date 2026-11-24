@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="446.6445"
+   height="446.6445"
+   id="svg7389"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   version="1.0"
+   sodipodi:docname="Finland_road_sign_317.svg">
+  <defs
+     id="defs7391">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="78.74966"
+     inkscape:cy="243.63441"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     showgrid="false"
+     inkscape:measure-start="875.357,209.643"
+     inkscape:measure-end="886.429,220.714"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7394">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.40325928,-6.2379608)">
+    <circle
+       style="opacity:1;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.43148565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path4754"
+       cx="223.72551"
+       cy="229.56021"
+       r="223.32225" />
+    <circle
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95990825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path4756"
+       cx="223.72626"
+       cy="229.55946"
+       r="165.3" />
+    <g
+       id="g4912"
+       transform="matrix(0.73467411,0,0,0.73467411,409.19804,25.930728)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M -477.45222,277.12817 -252.49389,52.169841 -27.455552,277.20817 -252.41389,502.16651 Z"
+         id="path4877" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M -252.41389,428.32705 -403.61276,277.20817 -252.41389,126.00929 -101.29501,277.20817 Z"
+         id="path4879" />
+    </g>
+    <path
+       style="fill:#d40000;stroke:none;stroke-width:1.71168315px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 86.4555,125.1852 117.05767,94.583029 356.40836,333.93372 325.80619,364.53589 Z"
+       id="path4863"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

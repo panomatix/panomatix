@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3429"
+   width="420.8559"
+   height="372.33865"
+   viewBox="0 0 420.8559 372.33866"
+   sodipodi:docname="China_road_sign_警_18a.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata3435">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3433" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview3431"
+     showgrid="false"
+     inkscape:zoom="7.5728855"
+     inkscape:cx="241.09107"
+     inkscape:cy="25.224636"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3437" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g3437"
+     transform="translate(341.89781,90.554863)">
+    <path
+       fill="#ffee33"
+       d="M -337.64846,245.83545 -151.5964,-77.748654 c 4.14184,-7.204089 11.8172,-11.645389 20.12638,-11.645389 8.30915,0 15.98453,4.4413 20.12633,11.645389 L 74.708413,245.83545 c 4.13021,7.18316 4.11859,16.02396 -0.0302,23.19785 -4.14879,7.17388 -11.8079,11.58966 -20.09616,11.58966 H -317.52213 c -8.28596,0 -15.94507,-4.41578 -20.09385,-11.58966 -4.15109,-7.17389 -4.16272,-16.01469 -0.0322,-23.19785 z"
+       id="path1124"
+       style="opacity:1;fill:#ffee33;fill-opacity:1;stroke:none;stroke-width:2.32164;stroke-opacity:1" />
+    <g
+       id="g3443"
+       transform="matrix(-1,0,0,1,76.158323,-86.712323)">
+      <path
+         d="m 225.80812,97.243662 c -1.98302,0.09534 -2.96213,2.211866 -4.86174,3.968988 -4.68262,4.33142 -9.57041,10.78134 -9.57041,10.78134 l 0.54154,13.61369 -1.77131,3.46599 4.59922,5.44138 c 0,0 5.11048,18.61387 5.15389,28.15423 0.0403,8.6298 -4.43071,25.50752 -4.43071,25.50752 v 28.9462 l -11.45751,-0.45071 h -26.14878 l 1.25263,-13.19791 -5.45343,-1.60724 v 14.80515 h -5.72166 V 255.379 l -6.08262,20.5628 -7.92062,3.96034 -3.87605,10.55713 -8.00699,1.34134 v 1.1125 c -0.0487,1.60132 -0.35396,4.74062 -1.89473,8.0343 -1.47851,3.1605 -4.7851,6.43085 -7.45021,8.52565 -6.13554,4.82236 -16.03134,2.42209 -20.21815,2.25696 H 67.888065 l -6.986369,10.33486 H 356.23536 l -5.72824,-10.33486 -95.35795,-167.35349 -23.39309,-42.11362 c 0,0 -3.35674,-5.142875 -5.94796,-5.019248 z"
+         style="opacity:1;fill:#000000;stroke-width:0.560128"
+         id="rect1897"
+         sodipodi:nodetypes="cscccccccccccccccccccsccccccccc" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:2.32164"
+         id="path1126"
+         d="M 393.68043,360.37034 H 21.576252 c -5.801785,0 -11.162457,-3.09241 -14.0668526,-8.11184 -2.9043722,-5.02173 -2.9136449,-11.21125 -0.019747,-16.2399 L 193.54168,12.434514 c 2.89974,-5.0426075 8.27203,-8.1512898 14.08776,-8.1512898 5.81573,0 11.18799,3.1086823 14.08775,8.1512898 L 407.76926,336.0186 c 2.89048,5.02865 2.88346,11.21817 -0.0238,16.2399 -2.90206,5.01943 -8.26276,8.11184 -14.06457,8.11184 z M 49.668189,327.86728 H 365.59083 L 207.62834,53.137615 Z" />
+    </g>
+  </g>
+</svg>

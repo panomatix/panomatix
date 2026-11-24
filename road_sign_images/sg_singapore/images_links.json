@@ -1,0 +1,2085 @@
+{
+  "country_code": "SG",
+  "country": "Singapore",
+  "images": [
+    {
+      "filename": "sd_unclassified/other/SG-Construction_Works_zone_speed_limit_40.svg",
+      "iso": "SG",
+      "id": "Construction_Works_zone_speed_limit_40",
+      "description": "Construction_Works_zone_speed_limit_40",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Singapore_road_sign_%E2%80%93_Construction_%E2%80%93_Works_zone_speed_limit_%E2%80%93_40.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/111-Singapore_road_sign_–_Construction_–_Works_zone_speed_limit_–_40.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/111-Singapore_road_sign_–_Construction_–_Works_zone_speed_limit_–_40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Singapore_road_sign_%E2%80%93_Construction_%E2%80%93_Works_zone_speed_limit_%E2%80%93_40.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "g_other_information_signs/other/SG-Expressway_overhang.svg",
+      "iso": "SG",
+      "id": "Expressway_overhang",
+      "description": "Expressway_overhang_sign",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Singapore_road_sign_-_Expressway_overhang_sign.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/123-Singapore_road_sign_-_Expressway_overhang_sign.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/123-Singapore_road_sign_-_Expressway_overhang_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Singapore_road_sign_-_Expressway_overhang_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Information_Coupon_Parking_Cars.svg",
+      "iso": "SG",
+      "id": "Information_Coupon_Parking_Cars",
+      "description": "Information_Signs_Coupon_Parking_Cars",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Cars.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/076-Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Cars.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/076-Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Cars.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Cars.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Information_Coupon_Parking_HDB.svg",
+      "iso": "SG",
+      "id": "Information_Coupon_Parking_HDB",
+      "description": "Information_Sign_Coupon_Parking_HDB",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Singapore_Road_Signs_-_Information_Sign_-_Coupon_Parking_HDB.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/075-Singapore_Road_Signs_-_Information_Sign_-_Coupon_Parking_HDB.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/075-Singapore_Road_Signs_-_Information_Sign_-_Coupon_Parking_HDB.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Singapore_Road_Signs_-_Information_Sign_-_Coupon_Parking_HDB.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Information_Coupon_Parking_Mcycle.svg",
+      "iso": "SG",
+      "id": "Information_Coupon_Parking_Mcycle",
+      "description": "Information_Signs_Coupon_Parking_Mcycle",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Mcycle.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/077-Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Mcycle.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/077-Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Mcycle.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Singapore_Road_Signs_-_Information_Signs_-_Coupon_Parking_Mcycle.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Information_Expressway_Distance_Marker_Post.svg",
+      "iso": "SG",
+      "id": "Information_Expressway_Distance_Marker_Post",
+      "description": "Information_Sign_Expressway_Distance_Marker_Post",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Singapore_Road_Signs_-_Information_Sign_-_Expressway_Distance_Marker_Post.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/100-Singapore_Road_Signs_-_Information_Sign_-_Expressway_Distance_Marker_Post.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/100-Singapore_Road_Signs_-_Information_Sign_-_Expressway_Distance_Marker_Post.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Singapore_Road_Signs_-_Information_Sign_-_Expressway_Distance_Marker_Post.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/SG-Information_Give_Way_to_Pedestrians.svg",
+      "iso": "SG",
+      "id": "Information_Give_Way_to_Pedestrians",
+      "description": "Information_Sign_Give_Way_to_Pedestrians",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Singapore_Road_Signs_-_Information_Sign_-_Give_Way_to_Pedestrians.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/086-Singapore_Road_Signs_-_Information_Sign_-_Give_Way_to_Pedestrians.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/086-Singapore_Road_Signs_-_Information_Sign_-_Give_Way_to_Pedestrians.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Singapore_Road_Signs_-_Information_Sign_-_Give_Way_to_Pedestrians.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_B-Signal_for_buses_on_bus_bay_only.svg",
+      "iso": "SG",
+      "id": "Informatory_B-Signal_for_buses_on_bus_bay_only",
+      "description": "Informatory_B-Signal_for_buses_on_bus_bay_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_bus_bay_only.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/088-Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_bus_bay_only.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/088-Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_bus_bay_only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_bus_bay_only.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_B-Signal_for_buses_on_left_most_lane_only.svg",
+      "iso": "SG",
+      "id": "Informatory_B-Signal_for_buses_on_left_most_lane_only",
+      "description": "Informatory_B-Signal_for_buses_on_left_most_lane_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_left_most_lane_only.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/087-Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_left_most_lane_only.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/087-Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_left_most_lane_only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Singapore_road_sign_-_Informatory_-_B-Signal_for_buses_on_left_most_lane_only.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Informatory_Beware_of_turning_vehicles_Unofficial.svg",
+      "iso": "SG",
+      "id": "Informatory_Beware_of_turning_vehicles_Unofficial",
+      "description": "Informatory_Beware_of_turning_vehicles_Unofficial",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Singapore_road_sign_-_Informatory_-_Beware_of_turning_vehicles_-_Unofficial.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/115-Singapore_road_sign_-_Informatory_-_Beware_of_turning_vehicles_-_Unofficial.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/115-Singapore_road_sign_-_Informatory_-_Beware_of_turning_vehicles_-_Unofficial.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Singapore_road_sign_-_Informatory_-_Beware_of_turning_vehicles_-_Unofficial.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Informatory_Concealed_exit_ahead.svg",
+      "iso": "SG",
+      "id": "Informatory_Concealed_exit_ahead",
+      "description": "Informatory_Concealed_exit_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Singapore_road_sign_-_Informatory_-_Concealed_exit_ahead.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/095-Singapore_road_sign_-_Informatory_-_Concealed_exit_ahead.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/095-Singapore_road_sign_-_Informatory_-_Concealed_exit_ahead.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Singapore_road_sign_-_Informatory_-_Concealed_exit_ahead.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "b_priority_signs/other/SG-Informatory_Courtesy_give_way_to_buses.svg",
+      "iso": "SG",
+      "id": "Informatory_Courtesy_give_way_to_buses",
+      "description": "Informatory_Courtesy_give_way_to_buses",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Singapore_road_sign_-_Informatory_-_Courtesy_give_way_to_buses.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/089-Singapore_road_sign_-_Informatory_-_Courtesy_give_way_to_buses.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/089-Singapore_road_sign_-_Informatory_-_Courtesy_give_way_to_buses.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Singapore_road_sign_-_Informatory_-_Courtesy_give_way_to_buses.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Do_not_drive_on_road_shoulder.svg",
+      "iso": "SG",
+      "id": "Informatory_Do_not_drive_on_road_shoulder",
+      "description": "Informatory_Do_not_drive_on_road_shoulder",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Singapore_road_sign_-_Informatory_-_Do_not_drive_on_road_shoulder.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/097-Singapore_road_sign_-_Informatory_-_Do_not_drive_on_road_shoulder.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/097-Singapore_road_sign_-_Informatory_-_Do_not_drive_on_road_shoulder.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Singapore_road_sign_-_Informatory_-_Do_not_drive_on_road_shoulder.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Dual_carriageway_ahead.svg",
+      "iso": "SG",
+      "id": "Informatory_Dual_carriageway_ahead",
+      "description": "Informatory_Dual_carriageway_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Singapore_road_sign_-_Informatory_-_Dual_carriageway_ahead.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/098-Singapore_road_sign_-_Informatory_-_Dual_carriageway_ahead.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/098-Singapore_road_sign_-_Informatory_-_Dual_carriageway_ahead.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Singapore_road_sign_-_Informatory_-_Dual_carriageway_ahead.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_End_of_restricted_zone.svg",
+      "iso": "SG",
+      "id": "Informatory_End_of_restricted_zone",
+      "description": "Informatory_End_of_restricted_zone",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Singapore_road_sign_-_Informatory_-_End_of_restricted_zone.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/081-Singapore_road_sign_-_Informatory_-_End_of_restricted_zone.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/081-Singapore_road_sign_-_Informatory_-_End_of_restricted_zone.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Singapore_road_sign_-_Informatory_-_End_of_restricted_zone.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/SG-Informatory_Expressway_begins_Type_II.svg",
+      "iso": "SG",
+      "id": "Informatory_Expressway_begins_Type_II",
+      "description": "Informatory_Expressway_begins_Type_II",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Singapore_road_sign_-_Informatory_-_Expressway_begins_-_Type_II.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/093-Singapore_road_sign_-_Informatory_-_Expressway_begins_-_Type_II.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/093-Singapore_road_sign_-_Informatory_-_Expressway_begins_-_Type_II.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Singapore_road_sign_-_Informatory_-_Expressway_begins_-_Type_II.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/SG-Informatory_Expressway_ends_Type_II.svg",
+      "iso": "SG",
+      "id": "Informatory_Expressway_ends_Type_II",
+      "description": "Informatory_Expressway_ends_Type_II",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Singapore_road_sign_-_Informatory_-_Expressway_ends_-_Type_II.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/094-Singapore_road_sign_-_Informatory_-_Expressway_ends_-_Type_II.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/094-Singapore_road_sign_-_Informatory_-_Expressway_ends_-_Type_II.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Singapore_road_sign_-_Informatory_-_Expressway_ends_-_Type_II.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Keep_a_safe_distance_from_vehicle_in_front.svg",
+      "iso": "SG",
+      "id": "Informatory_Keep_a_safe_distance_from_vehicle_in_front",
+      "description": "Informatory_Keep_a_safe_distance_from_vehicle_in_front",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Singapore_road_sign_-_Informatory_-_Keep_a_safe_distance_from_vehicle_in_front.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/082-Singapore_road_sign_-_Informatory_-_Keep_a_safe_distance_from_vehicle_in_front.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/082-Singapore_road_sign_-_Informatory_-_Keep_a_safe_distance_from_vehicle_in_front.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Singapore_road_sign_-_Informatory_-_Keep_a_safe_distance_from_vehicle_in_front.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Left_turn_on_red_permitted.svg",
+      "iso": "SG",
+      "id": "Informatory_Left_turn_on_red_permitted",
+      "description": "Informatory_Left_turn_on_red_permitted",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Singapore_road_sign_-_Informatory_-_Left_turn_on_red_permitted.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/143-Singapore_road_sign_-_Informatory_-_Left_turn_on_red_permitted.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/143-Singapore_road_sign_-_Informatory_-_Left_turn_on_red_permitted.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Singapore_road_sign_-_Informatory_-_Left_turn_on_red_permitted.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "b_priority_signs/other/SG-Informatory_Mandatory_give_way_to_buses.svg",
+      "iso": "SG",
+      "id": "Informatory_Mandatory_give_way_to_buses",
+      "description": "Informatory_Mandatory_give_way_to_buses",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Singapore_road_sign_-_Informatory_-_Mandatory_give_way_to_buses.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/090-Singapore_road_sign_-_Informatory_-_Mandatory_give_way_to_buses.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/090-Singapore_road_sign_-_Informatory_-_Mandatory_give_way_to_buses.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Singapore_road_sign_-_Informatory_-_Mandatory_give_way_to_buses.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/SG-Informatory_No_through_road.svg",
+      "iso": "SG",
+      "id": "Informatory_No_through_road",
+      "description": "Informatory_No_through_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Singapore_road_sign_-_Informatory_-_No_through_road.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/078-Singapore_road_sign_-_Informatory_-_No_through_road.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/078-Singapore_road_sign_-_Informatory_-_No_through_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Singapore_road_sign_-_Informatory_-_No_through_road.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/SG-Informatory_No_through_road_on_left.svg",
+      "iso": "SG",
+      "id": "Informatory_No_through_road_on_left",
+      "description": "Informatory_No_through_road_on_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Singapore_road_sign_-_Informatory_-_No_through_road_on_left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/079-Singapore_road_sign_-_Informatory_-_No_through_road_on_left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/079-Singapore_road_sign_-_Informatory_-_No_through_road_on_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Singapore_road_sign_-_Informatory_-_No_through_road_on_left.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/SG-Informatory_No_through_road_on_right.svg",
+      "iso": "SG",
+      "id": "Informatory_No_through_road_on_right",
+      "description": "Informatory_No_through_road_on_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Singapore_road_sign_-_Informatory_-_No_through_road_on_right.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/080-Singapore_road_sign_-_Informatory_-_No_through_road_on_right.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/080-Singapore_road_sign_-_Informatory_-_No_through_road_on_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Singapore_road_sign_-_Informatory_-_No_through_road_on_right.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/SG-Informatory_One_way_street_to_the_left.svg",
+      "iso": "SG",
+      "id": "Informatory_One_way_street_to_the_left",
+      "description": "Informatory_One_way_street_to_the_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Singapore_road_sign_-_Informatory_-_One_way_street_to_the_left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/073-Singapore_road_sign_-_Informatory_-_One_way_street_to_the_left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/073-Singapore_road_sign_-_Informatory_-_One_way_street_to_the_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Singapore_road_sign_-_Informatory_-_One_way_street_to_the_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/SG-Informatory_Pedestrian_crossing.svg",
+      "iso": "SG",
+      "id": "Informatory_Pedestrian_crossing",
+      "description": "Informatory_Pedestrian_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Singapore_road_sign_-_Informatory_-_Pedestrian_crossing.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/074-Singapore_road_sign_-_Informatory_-_Pedestrian_crossing.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/074-Singapore_road_sign_-_Informatory_-_Pedestrian_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Singapore_road_sign_-_Informatory_-_Pedestrian_crossing.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Red_light_camera.svg",
+      "iso": "SG",
+      "id": "Informatory_Red_light_camera",
+      "description": "Informatory_Red_light_camera",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Singapore_road_sign_-_Informatory_-_Red_light_camera.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/092-Singapore_road_sign_-_Informatory_-_Red_light_camera.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/092-Singapore_road_sign_-_Informatory_-_Red_light_camera.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Singapore_road_sign_-_Informatory_-_Red_light_camera.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Right_turn_lanes_ahead.svg",
+      "iso": "SG",
+      "id": "Informatory_Right_turn_lanes_ahead",
+      "description": "Informatory_Right_turn_lanes_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Singapore_road_sign_-_Informatory_-_Right_turn_lanes_ahead.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/084-Singapore_road_sign_-_Informatory_-_Right_turn_lanes_ahead.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/084-Singapore_road_sign_-_Informatory_-_Right_turn_lanes_ahead.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Singapore_road_sign_-_Informatory_-_Right_turn_lanes_ahead.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Speed_camera_ahead.svg",
+      "iso": "SG",
+      "id": "Informatory_Speed_camera_ahead",
+      "description": "Informatory_Speed_camera_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Informatory_-_Speed_camera_ahead.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/091-Singapore_road_sign_-_Informatory_-_Speed_camera_ahead.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/091-Singapore_road_sign_-_Informatory_-_Speed_camera_ahead.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Informatory_-_Speed_camera_ahead.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Speed_regulating_strips_ahead.svg",
+      "iso": "SG",
+      "id": "Informatory_Speed_regulating_strips_ahead",
+      "description": "Informatory_Speed_regulating_strips_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Singapore_road_sign_-_Informatory_-_Speed_regulating_strips_ahead.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/083-Singapore_road_sign_-_Informatory_-_Speed_regulating_strips_ahead.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/083-Singapore_road_sign_-_Informatory_-_Speed_regulating_strips_ahead.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Singapore_road_sign_-_Informatory_-_Speed_regulating_strips_ahead.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/SG-Informatory_U-Turn_permitted.svg",
+      "iso": "SG",
+      "id": "Informatory_U-Turn_permitted",
+      "description": "Informatory_U-Turn_permitted",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Singapore_road_sign_-_Informatory_-_U-Turn_permitted.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/072-Singapore_road_sign_-_Informatory_-_U-Turn_permitted.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/072-Singapore_road_sign_-_Informatory_-_U-Turn_permitted.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Singapore_road_sign_-_Informatory_-_U-Turn_permitted.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_U-Turning_vehicles_keep_right.svg",
+      "iso": "SG",
+      "id": "Informatory_U-Turning_vehicles_keep_right",
+      "description": "Informatory_U-Turning_vehicles_keep_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Singapore_road_sign_-_Informatory_-_U-Turning_vehicles_keep_right.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/096-Singapore_road_sign_-_Informatory_-_U-Turning_vehicles_keep_right.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/096-Singapore_road_sign_-_Informatory_-_U-Turning_vehicles_keep_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Singapore_road_sign_-_Informatory_-_U-Turning_vehicles_keep_right.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Informatory_Watch_out_for_traffic_from_side_road.svg",
+      "iso": "SG",
+      "id": "Informatory_Watch_out_for_traffic_from_side_road",
+      "description": "Informatory_Watch_out_for_traffic_from_side_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Singapore_road_sign_-_Informatory_-_Watch_out_for_traffic_from_side_road.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/085-Singapore_road_sign_-_Informatory_-_Watch_out_for_traffic_from_side_road.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/085-Singapore_road_sign_-_Informatory_-_Watch_out_for_traffic_from_side_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Singapore_road_sign_-_Informatory_-_Watch_out_for_traffic_from_side_road.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/SG-Mandatory_Ahead_only.svg",
+      "iso": "SG",
+      "id": "Mandatory_Ahead_only",
+      "description": "Mandatory_Ahead_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Singapore_road_sign_-_Mandatory_-_Ahead_only.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/043-Singapore_road_sign_-_Mandatory_-_Ahead_only.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/043-Singapore_road_sign_-_Mandatory_-_Ahead_only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Singapore_road_sign_-_Mandatory_-_Ahead_only.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/SG-Mandatory_Bicycle_track.svg",
+      "iso": "SG",
+      "id": "Mandatory_Bicycle_track",
+      "description": "Mandatory_Bicycle_track",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Singapore_road_sign_-_Mandatory_-_Bicycle_track.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/048-Singapore_road_sign_-_Mandatory_-_Bicycle_track.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/048-Singapore_road_sign_-_Mandatory_-_Bicycle_track.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Singapore_road_sign_-_Mandatory_-_Bicycle_track.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/SG-Mandatory_Give_way.svg",
+      "iso": "SG",
+      "id": "Mandatory_Give_way",
+      "description": "Mandatory_Give_way",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Singapore_road_sign_-_Mandatory_-_Give_way.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/052-Singapore_road_sign_-_Mandatory_-_Give_way.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/052-Singapore_road_sign_-_Mandatory_-_Give_way.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Singapore_road_sign_-_Mandatory_-_Give_way.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/SG-Mandatory_Keep_left.svg",
+      "iso": "SG",
+      "id": "Mandatory_Keep_left",
+      "description": "Mandatory_Keep_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Singapore_road_sign_-_Mandatory_-_Keep_left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/046-Singapore_road_sign_-_Mandatory_-_Keep_left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/046-Singapore_road_sign_-_Mandatory_-_Keep_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Singapore_road_sign_-_Mandatory_-_Keep_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Mandatory_Manual_traffic_control_Go.svg",
+      "iso": "SG",
+      "id": "Mandatory_Manual_traffic_control_Go",
+      "description": "Mandatory_Manual_traffic_control_Go",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Go.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/054-Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Go.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/054-Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Go.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Go.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "b_priority_signs/other/SG-Mandatory_Manual_traffic_control_School_crossing_warden.svg",
+      "iso": "SG",
+      "id": "Mandatory_Manual_traffic_control_School_crossing_warden",
+      "description": "Mandatory_Manual_traffic_control_School_crossing_warden",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_School_crossing_warden.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/051-Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_School_crossing_warden.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/051-Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_School_crossing_warden.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_School_crossing_warden.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/other/SG-Mandatory_Manual_traffic_control_Stop.svg",
+      "iso": "SG",
+      "id": "Mandatory_Manual_traffic_control_Stop",
+      "description": "Mandatory_Manual_traffic_control_Stop",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Stop.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/053-Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Stop.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/053-Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Stop.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Singapore_road_sign_-_Mandatory_-_Manual_traffic_control_-_Stop.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/SG-Mandatory_Motorcycles_only_Unofficial.svg",
+      "iso": "SG",
+      "id": "Mandatory_Motorcycles_only_Unofficial",
+      "description": "Mandatory_Motorcycles_only_Unofficial",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Singapore_road_sign_-_Mandatory_-_Motorcycles_only_-_Unofficial.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/049-Singapore_road_sign_-_Mandatory_-_Motorcycles_only_-_Unofficial.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/049-Singapore_road_sign_-_Mandatory_-_Motorcycles_only_-_Unofficial.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Singapore_road_sign_-_Mandatory_-_Motorcycles_only_-_Unofficial.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Mandatory_Pass_on_either_side.svg",
+      "iso": "SG",
+      "id": "Mandatory_Pass_on_either_side",
+      "description": "Mandatory_Pass_on_either_side",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Singapore_road_sign_-_Mandatory_-_Pass_on_either_side.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/047-Singapore_road_sign_-_Mandatory_-_Pass_on_either_side.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/047-Singapore_road_sign_-_Mandatory_-_Pass_on_either_side.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Singapore_road_sign_-_Mandatory_-_Pass_on_either_side.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/SG-Mandatory_Stop.svg",
+      "iso": "SG",
+      "id": "Mandatory_Stop",
+      "description": "Mandatory_Stop",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Singapore_road_sign_-_Mandatory_-_Stop.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/050-Singapore_road_sign_-_Mandatory_-_Stop.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/050-Singapore_road_sign_-_Mandatory_-_Stop.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Singapore_road_sign_-_Mandatory_-_Stop.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/SG-Mandatory_Turn_left.svg",
+      "iso": "SG",
+      "id": "Mandatory_Turn_left",
+      "description": "Mandatory_Turn_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Singapore_road_sign_-_Mandatory_-_Turn_left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/045-Singapore_road_sign_-_Mandatory_-_Turn_left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/045-Singapore_road_sign_-_Mandatory_-_Turn_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Singapore_road_sign_-_Mandatory_-_Turn_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/SG-Mandatory_Turn_left_ahead.svg",
+      "iso": "SG",
+      "id": "Mandatory_Turn_left_ahead",
+      "description": "Mandatory_Turn_left_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Singapore_road_sign_-_Mandatory_-_Turn_left_ahead.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/044-Singapore_road_sign_-_Mandatory_-_Turn_left_ahead.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/044-Singapore_road_sign_-_Mandatory_-_Turn_left_ahead.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Singapore_road_sign_-_Mandatory_-_Turn_left_ahead.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-P1.svg",
+      "iso": "SG",
+      "id": "P1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Singapore_road_sign_P1.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/118-Singapore_road_sign_P1.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/118-Singapore_road_sign_P1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Singapore_road_sign_P1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Park_Type_I.svg",
+      "iso": "SG",
+      "id": "Park_Type_I",
+      "description": "Park_sign_Type_I",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Singapore_road_sign_-_Park_sign_-_Type_I.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/124-Singapore_road_sign_-_Park_sign_-_Type_I.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/124-Singapore_road_sign_-_Park_sign_-_Type_I.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Singapore_road_sign_-_Park_sign_-_Type_I.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Prohibitory_Height_limit.svg",
+      "iso": "SG",
+      "id": "Prohibitory_Height_limit",
+      "description": "Prohibitory_Height_limit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Singapore_road_sign_-_Prohibitory_-_Height_limit.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/068-Singapore_road_sign_-_Prohibitory_-_Height_limit.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/068-Singapore_road_sign_-_Prohibitory_-_Height_limit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Singapore_road_sign_-_Prohibitory_-_Height_limit.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Prohibitory_Height_limit_Unofficial.svg",
+      "iso": "SG",
+      "id": "Prohibitory_Height_limit_Unofficial",
+      "description": "Prohibitory_Height_limit_Unofficial",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Singapore_road_sign_-_Prohibitory_-_Height_limit_-_Unofficial.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/117-Singapore_road_sign_-_Prohibitory_-_Height_limit_-_Unofficial.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/117-Singapore_road_sign_-_Prohibitory_-_Height_limit_-_Unofficial.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Singapore_road_sign_-_Prohibitory_-_Height_limit_-_Unofficial.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Prohibitory_No_bicycles.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_bicycles",
+      "description": "Prohibitory_No_bicycles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Singapore_road_sign_-_Prohibitory_-_No_bicycles.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/061-Singapore_road_sign_-_Prohibitory_-_No_bicycles.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/061-Singapore_road_sign_-_Prohibitory_-_No_bicycles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Singapore_road_sign_-_Prohibitory_-_No_bicycles.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Prohibitory_No_dangerous_goods.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_dangerous_goods",
+      "description": "Prohibitory_No_dangerous_goods",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Singapore_road_sign_-_Prohibitory_-_No_dangerous_goods.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/060-Singapore_road_sign_-_Prohibitory_-_No_dangerous_goods.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/060-Singapore_road_sign_-_Prohibitory_-_No_dangerous_goods.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Singapore_road_sign_-_Prohibitory_-_No_dangerous_goods.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_entry.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_entry",
+      "description": "Prohibitory_No_entry",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Singapore_road_sign_-_Prohibitory_-_No_entry.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/055-Singapore_road_sign_-_Prohibitory_-_No_entry.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/055-Singapore_road_sign_-_Prohibitory_-_No_entry.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Singapore_road_sign_-_Prohibitory_-_No_entry.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_honking.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_honking",
+      "description": "Prohibitory_No_honking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Singapore_road_sign_-_Prohibitory_-_No_honking.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/065-Singapore_road_sign_-_Prohibitory_-_No_honking.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/065-Singapore_road_sign_-_Prohibitory_-_No_honking.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Singapore_road_sign_-_Prohibitory_-_No_honking.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/SG-Prohibitory_No_jaywalking.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_jaywalking",
+      "description": "Prohibitory_No_jaywalking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Singapore_road_sign_-_Prohibitory_-_No_jaywalking.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/066-Singapore_road_sign_-_Prohibitory_-_No_jaywalking.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/066-Singapore_road_sign_-_Prohibitory_-_No_jaywalking.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Singapore_road_sign_-_Prohibitory_-_No_jaywalking.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_left_turn.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_left_turn",
+      "description": "Prohibitory_No_left_turn",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Singapore_road_sign_-_Prohibitory_-_No_left_turn.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/056-Singapore_road_sign_-_Prohibitory_-_No_left_turn.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/056-Singapore_road_sign_-_Prohibitory_-_No_left_turn.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Singapore_road_sign_-_Prohibitory_-_No_left_turn.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_lorries.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_lorries",
+      "description": "Prohibitory_No_lorries",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Singapore_road_sign_-_Prohibitory_-_No_lorries.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/058-Singapore_road_sign_-_Prohibitory_-_No_lorries.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/058-Singapore_road_sign_-_Prohibitory_-_No_lorries.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Singapore_road_sign_-_Prohibitory_-_No_lorries.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_overtaking.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_overtaking",
+      "description": "Prohibitory_No_overtaking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Prohibitory_-_No_overtaking.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/064-Singapore_road_sign_-_Prohibitory_-_No_overtaking.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/064-Singapore_road_sign_-_Prohibitory_-_No_overtaking.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Prohibitory_-_No_overtaking.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_right_turn.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_right_turn",
+      "description": "Prohibitory_No_right_turn",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Singapore_road_sign_-_Prohibitory_-_No_right_turn.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/057-Singapore_road_sign_-_Prohibitory_-_No_right_turn.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/057-Singapore_road_sign_-_Prohibitory_-_No_right_turn.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Singapore_road_sign_-_Prohibitory_-_No_right_turn.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_stopping.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_stopping",
+      "description": "Prohibitory_No_stopping",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Singapore_road_sign_-_Prohibitory_-_No_stopping.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/063-Singapore_road_sign_-_Prohibitory_-_No_stopping.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/063-Singapore_road_sign_-_Prohibitory_-_No_stopping.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Singapore_road_sign_-_Prohibitory_-_No_stopping.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Prohibitory_No_vehicles_with_3_or_more_axles.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_vehicles_with_3_or_more_axles",
+      "description": "Prohibitory_No_vehicles_with_3_or_more_axles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Singapore_road_sign_-_Prohibitory_-_No_vehicles_with_3_or_more_axles.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/059-Singapore_road_sign_-_Prohibitory_-_No_vehicles_with_3_or_more_axles.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/059-Singapore_road_sign_-_Prohibitory_-_No_vehicles_with_3_or_more_axles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Singapore_road_sign_-_Prohibitory_-_No_vehicles_with_3_or_more_axles.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_No_waiting.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_waiting",
+      "description": "Prohibitory_No_waiting",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Singapore_road_sign_-_Prohibitory_-_No_waiting.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/062-Singapore_road_sign_-_Prohibitory_-_No_waiting.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/062-Singapore_road_sign_-_Prohibitory_-_No_waiting.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Singapore_road_sign_-_Prohibitory_-_No_waiting.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Prohibitory_No_walking_within_bus_park.svg",
+      "iso": "SG",
+      "id": "Prohibitory_No_walking_within_bus_park",
+      "description": "Prohibitory_No_walking_within_bus_park",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Singapore_road_sign_-_Prohibitory_-_No_walking_within_bus_park.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/067-Singapore_road_sign_-_Prohibitory_-_No_walking_within_bus_park.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/067-Singapore_road_sign_-_Prohibitory_-_No_walking_within_bus_park.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Singapore_road_sign_-_Prohibitory_-_No_walking_within_bus_park.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Prohibitory_Speed_limit_50.svg",
+      "iso": "SG",
+      "id": "Prohibitory_Speed_limit_50",
+      "description": "Prohibitory_Speed_limit_50",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/071-Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/071-Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Prohibitory_Weight_limit.svg",
+      "iso": "SG",
+      "id": "Prohibitory_Weight_limit",
+      "description": "Prohibitory_Weight_limit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Prohibitory_-_Weight_limit.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/070-Singapore_road_sign_-_Prohibitory_-_Weight_limit.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/070-Singapore_road_sign_-_Prohibitory_-_Weight_limit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Prohibitory_-_Weight_limit.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Prohibitory_Width_limit.svg",
+      "iso": "SG",
+      "id": "Prohibitory_Width_limit",
+      "description": "Prohibitory_Width_limit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Singapore_road_sign_-_Prohibitory_-_Width_limit.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/069-Singapore_road_sign_-_Prohibitory_-_Width_limit.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/069-Singapore_road_sign_-_Prohibitory_-_Width_limit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Singapore_road_sign_-_Prohibitory_-_Width_limit.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/SG-Regulatory_National_Speed_Limit_Applies.svg",
+      "iso": "SG",
+      "id": "Regulatory_National_Speed_Limit_Applies",
+      "description": "Regulatory_Sign_National_Speed_Limit_Applies",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Singapore_Road_Signs_-_Regulatory_Sign_-_National_Speed_Limit_Applies.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/137-Singapore_Road_Signs_-_Regulatory_Sign_-_National_Speed_Limit_Applies.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/137-Singapore_Road_Signs_-_Regulatory_Sign_-_National_Speed_Limit_Applies.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Singapore_Road_Signs_-_Regulatory_Sign_-_National_Speed_Limit_Applies.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "g_other_information_signs/other/SG-Road_approach.svg",
+      "iso": "SG",
+      "id": "Road_approach",
+      "description": "Road_approach_sign",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Singapore_road_sign_-_Road_approach_sign.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/120-Singapore_road_sign_-_Road_approach_sign.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/120-Singapore_road_sign_-_Road_approach_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Singapore_road_sign_-_Road_approach_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/SG-Road_junc.svg",
+      "iso": "SG",
+      "id": "Road_junc",
+      "description": "Road_junc",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Singapore_road_sign_-_Road_junc.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/121-Singapore_road_sign_-_Road_junc.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/121-Singapore_road_sign_-_Road_junc.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Singapore_road_sign_-_Road_junc.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.93
+    },
+    {
+      "filename": "g_other_information_signs/other/SG-Road_roundabout.svg",
+      "iso": "SG",
+      "id": "Road_roundabout",
+      "description": "Road_roundabout",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Singapore_road_sign_-_Road_roundabout.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/122-Singapore_road_sign_-_Road_roundabout.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/122-Singapore_road_sign_-_Road_roundabout.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Singapore_road_sign_-_Road_roundabout.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Slow_down_Unofficial_Type_5.svg",
+      "iso": "SG",
+      "id": "Slow_down_Unofficial_Type_5",
+      "description": "Slow_down_Unofficial_Type_5",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Singapore_road_sign_-_Slow_down_-_Unofficial_-_Type_5.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/109-Singapore_road_sign_-_Slow_down_-_Unofficial_-_Type_5.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/109-Singapore_road_sign_-_Slow_down_-_Unofficial_-_Type_5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Singapore_road_sign_-_Slow_down_-_Unofficial_-_Type_5.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Temporary_Advance_warning_of_road_works.svg",
+      "iso": "SG",
+      "id": "Temporary_Advance_warning_of_road_works",
+      "description": "Temporary_Sign_Advance_warning_of_road_works",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Singapore_Road_Signs_-_Temporary_Sign_-_Advance_warning_of_road_works.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/101-Singapore_Road_Signs_-_Temporary_Sign_-_Advance_warning_of_road_works.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/101-Singapore_Road_Signs_-_Temporary_Sign_-_Advance_warning_of_road_works.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Singapore_Road_Signs_-_Temporary_Sign_-_Advance_warning_of_road_works.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SG-Temporary_Bend_to_right.svg",
+      "iso": "SG",
+      "id": "Temporary_Bend_to_right",
+      "description": "Temporary_Sign_Bend_to_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Singapore_Road_Signs_-_Temporary_Sign_-_Bend_to_right.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/113-Singapore_Road_Signs_-_Temporary_Sign_-_Bend_to_right.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/113-Singapore_Road_Signs_-_Temporary_Sign_-_Bend_to_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Singapore_Road_Signs_-_Temporary_Sign_-_Bend_to_right.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Temporary_Curve_Alignment_Marker.svg",
+      "iso": "SG",
+      "id": "Temporary_Curve_Alignment_Marker",
+      "description": "Temporary_Sign_Curve_Alignment_Marker",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Singapore_Road_Signs_-_Temporary_Sign_-_Curve_Alignment_Marker.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/116-Singapore_Road_Signs_-_Temporary_Sign_-_Curve_Alignment_Marker.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/116-Singapore_Road_Signs_-_Temporary_Sign_-_Curve_Alignment_Marker.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Singapore_Road_Signs_-_Temporary_Sign_-_Curve_Alignment_Marker.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SG-W1.svg",
+      "iso": "SG",
+      "id": "W1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Singapore_road_sign_W1.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/102-Singapore_road_sign_W1.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/102-Singapore_road_sign_W1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Singapore_road_sign_W1.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/SG-W15.svg",
+      "iso": "SG",
+      "id": "W15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Singapore_road_sign_W15.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/105-Singapore_road_sign_W15.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/105-Singapore_road_sign_W15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Singapore_road_sign_W15.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.972
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SG-W18.svg",
+      "iso": "SG",
+      "id": "W18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Singapore_road_sign_W18.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/107-Singapore_road_sign_W18.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/107-Singapore_road_sign_W18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Singapore_road_sign_W18.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/SG-W21.svg",
+      "iso": "SG",
+      "id": "W21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Singapore_road_sign_W21.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/106-Singapore_road_sign_W21.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/106-Singapore_road_sign_W21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Singapore_road_sign_W21.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SG-W26.svg",
+      "iso": "SG",
+      "id": "W26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Singapore_road_sign_W26.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/110-Singapore_road_sign_W26.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/110-Singapore_road_sign_W26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Singapore_road_sign_W26.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.972
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/SG-W27.svg",
+      "iso": "SG",
+      "id": "W27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Singapore_road_sign_W27.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/112-Singapore_road_sign_W27.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/112-Singapore_road_sign_W27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Singapore_road_sign_W27.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/SG-W29.svg",
+      "iso": "SG",
+      "id": "W29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Singapore_road_sign_W29.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/103-Singapore_road_sign_W29.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/103-Singapore_road_sign_W29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Singapore_road_sign_W29.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/SG-W30.svg",
+      "iso": "SG",
+      "id": "W30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Singapore_road_sign_W30.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/119-Singapore_road_sign_W30.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/119-Singapore_road_sign_W30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Singapore_road_sign_W30.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/SG-W36-2.svg",
+      "iso": "SG",
+      "id": "W36-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Singapore_road_sign_W36-2.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/114-Singapore_road_sign_W36-2.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/114-Singapore_road_sign_W36-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Singapore_road_sign_W36-2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/SG-W37.svg",
+      "iso": "SG",
+      "id": "W37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Singapore_road_sign_W37.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/108-Singapore_road_sign_W37.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/108-Singapore_road_sign_W37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Singapore_road_sign_W37.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Accident_area.svg",
+      "iso": "SG",
+      "id": "Warning_Accident_area",
+      "description": "Warning_Accident_area",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Singapore_road_sign_-_Warning_-_Accident_area.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/006-Singapore_road_sign_-_Warning_-_Accident_area.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/006-Singapore_road_sign_-_Warning_-_Accident_area.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Singapore_road_sign_-_Warning_-_Accident_area.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Animals.svg",
+      "iso": "SG",
+      "id": "Warning_Animals",
+      "description": "Warning_Animals",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Singapore_road_sign_-_Warning_-_Animals.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/036-Singapore_road_sign_-_Warning_-_Animals.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/036-Singapore_road_sign_-_Warning_-_Animals.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Singapore_road_sign_-_Warning_-_Animals.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Bend_to_the_right.svg",
+      "iso": "SG",
+      "id": "Warning_Bend_to_the_right",
+      "description": "Warning_Bend_to_the_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Singapore_road_sign_-_Warning_-_Bend_to_the_right.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/034-Singapore_road_sign_-_Warning_-_Bend_to_the_right.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/034-Singapore_road_sign_-_Warning_-_Bend_to_the_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Singapore_road_sign_-_Warning_-_Bend_to_the_right.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/SG-Warning_Children.svg",
+      "iso": "SG",
+      "id": "Warning_Children",
+      "description": "Warning_Children",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Singapore_road_sign_-_Warning_-_Children.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/035-Singapore_road_sign_-_Warning_-_Children.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/035-Singapore_road_sign_-_Warning_-_Children.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Singapore_road_sign_-_Warning_-_Children.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Congestion_expected.svg",
+      "iso": "SG",
+      "id": "Warning_Congestion_expected",
+      "description": "Warning_Congestion_expected",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Singapore_road_sign_-_Warning_-_Congestion_expected.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/026-Singapore_road_sign_-_Warning_-_Congestion_expected.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/026-Singapore_road_sign_-_Warning_-_Congestion_expected.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Singapore_road_sign_-_Warning_-_Congestion_expected.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Crossroads.svg",
+      "iso": "SG",
+      "id": "Warning_Crossroads",
+      "description": "Warning_Crossroads",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Singapore_road_sign_-_Warning_-_Crossroads.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/018-Singapore_road_sign_-_Warning_-_Crossroads.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/018-Singapore_road_sign_-_Warning_-_Crossroads.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Singapore_road_sign_-_Warning_-_Crossroads.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Curve_marker_Left.svg",
+      "iso": "SG",
+      "id": "Warning_Curve_marker_Left",
+      "description": "Warning_Curve_marker_Left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Singapore_road_sign_-_Warning_-_Curve_marker_-_Left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/042-Singapore_road_sign_-_Warning_-_Curve_marker_-_Left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/042-Singapore_road_sign_-_Warning_-_Curve_marker_-_Left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Singapore_road_sign_-_Warning_-_Curve_marker_-_Left.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Danger.svg",
+      "iso": "SG",
+      "id": "Warning_Danger",
+      "description": "Warning_Danger",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Singapore_road_sign_-_Warning_-_Danger.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/003-Singapore_road_sign_-_Warning_-_Danger.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/003-Singapore_road_sign_-_Warning_-_Danger.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Singapore_road_sign_-_Warning_-_Danger.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Double_bend_First_to_the_left.svg",
+      "iso": "SG",
+      "id": "Warning_Double_bend_First_to_the_left",
+      "description": "Warning_Double_bend_First_to_the_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Singapore_road_sign_-_Warning_-_Double_bend_-_First_to_the_left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/016-Singapore_road_sign_-_Warning_-_Double_bend_-_First_to_the_left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/016-Singapore_road_sign_-_Warning_-_Double_bend_-_First_to_the_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Singapore_road_sign_-_Warning_-_Double_bend_-_First_to_the_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Dual_carriageway_ends.svg",
+      "iso": "SG",
+      "id": "Warning_Dual_carriageway_ends",
+      "description": "Warning_Dual_carriageway_ends",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Singapore_road_sign_-_Warning_-_Dual_carriageway_ends.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/017-Singapore_road_sign_-_Warning_-_Dual_carriageway_ends.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/017-Singapore_road_sign_-_Warning_-_Dual_carriageway_ends.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Singapore_road_sign_-_Warning_-_Dual_carriageway_ends.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_ERP.svg",
+      "iso": "SG",
+      "id": "Warning_ERP",
+      "description": "Warning_ERP",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Singapore_road_sign_-_Warning_-_ERP.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/008-Singapore_road_sign_-_Warning_-_ERP.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/008-Singapore_road_sign_-_Warning_-_ERP.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Singapore_road_sign_-_Warning_-_ERP.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Elderly_people.svg",
+      "iso": "SG",
+      "id": "Warning_Elderly_people",
+      "description": "Warning_Elderly_people",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Singapore_road_sign_-_Warning_-_Elderly_people.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/038-Singapore_road_sign_-_Warning_-_Elderly_people.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/038-Singapore_road_sign_-_Warning_-_Elderly_people.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Singapore_road_sign_-_Warning_-_Elderly_people.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Height_limit.svg",
+      "iso": "SG",
+      "id": "Warning_Height_limit",
+      "description": "Warning_Height_limit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Singapore_road_sign_-_Warning_-_Height_limit.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/005-Singapore_road_sign_-_Warning_-_Height_limit.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/005-Singapore_road_sign_-_Warning_-_Height_limit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Singapore_road_sign_-_Warning_-_Height_limit.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Hump.svg",
+      "iso": "SG",
+      "id": "Warning_Hump",
+      "description": "Warning_Hump",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Singapore_road_sign_-_Warning_-_Hump.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/009-Singapore_road_sign_-_Warning_-_Hump.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/009-Singapore_road_sign_-_Warning_-_Hump.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Singapore_road_sign_-_Warning_-_Hump.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Low_bridge_ahead_Unofficial.svg",
+      "iso": "SG",
+      "id": "Warning_Low_bridge_ahead_Unofficial",
+      "description": "Warning_Low_bridge_ahead_Unofficial",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Singapore_road_sign_-_Warning_-_Low_bridge_ahead_-_Unofficial.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/041-Singapore_road_sign_-_Warning_-_Low_bridge_ahead_-_Unofficial.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/041-Singapore_road_sign_-_Warning_-_Low_bridge_ahead_-_Unofficial.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Singapore_road_sign_-_Warning_-_Low_bridge_ahead_-_Unofficial.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Low_flying_aircraft.svg",
+      "iso": "SG",
+      "id": "Warning_Low_flying_aircraft",
+      "description": "Warning_Low_flying_aircraft",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Singapore_road_sign_-_Warning_-_Low_flying_aircraft.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/032-Singapore_road_sign_-_Warning_-_Low_flying_aircraft.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/032-Singapore_road_sign_-_Warning_-_Low_flying_aircraft.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Singapore_road_sign_-_Warning_-_Low_flying_aircraft.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Merge.svg",
+      "iso": "SG",
+      "id": "Warning_Merge",
+      "description": "Warning_Merge",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Singapore_road_sign_-_Warning_-_Merge.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/015-Singapore_road_sign_-_Warning_-_Merge.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/015-Singapore_road_sign_-_Warning_-_Merge.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Singapore_road_sign_-_Warning_-_Merge.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Other_danger.svg",
+      "iso": "SG",
+      "id": "Warning_Other_danger",
+      "description": "Warning_Other_danger",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Singapore_road_sign_-_Warning_-_Other_danger.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/004-Singapore_road_sign_-_Warning_-_Other_danger.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/004-Singapore_road_sign_-_Warning_-_Other_danger.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Singapore_road_sign_-_Warning_-_Other_danger.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/SG-Warning_Pedestrian_crossing.svg",
+      "iso": "SG",
+      "id": "Warning_Pedestrian_crossing",
+      "description": "Warning_Pedestrian_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Singapore_road_sign_-_Warning_-_Pedestrian_crossing.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/033-Singapore_road_sign_-_Warning_-_Pedestrian_crossing.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/033-Singapore_road_sign_-_Warning_-_Pedestrian_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Singapore_road_sign_-_Warning_-_Pedestrian_crossing.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Pedestrians.svg",
+      "iso": "SG",
+      "id": "Warning_Pedestrians",
+      "description": "Warning_Pedestrians",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Singapore_road_sign_-_Warning_-_Pedestrians.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/037-Singapore_road_sign_-_Warning_-_Pedestrians.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/037-Singapore_road_sign_-_Warning_-_Pedestrians.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Singapore_road_sign_-_Warning_-_Pedestrians.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Quayside_or_river_bank.svg",
+      "iso": "SG",
+      "id": "Warning_Quayside_or_river_bank",
+      "description": "Warning_Quayside_or_river_bank",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Singapore_road_sign_-_Warning_-_Quayside_or_river_bank.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/030-Singapore_road_sign_-_Warning_-_Quayside_or_river_bank.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/030-Singapore_road_sign_-_Warning_-_Quayside_or_river_bank.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Singapore_road_sign_-_Warning_-_Quayside_or_river_bank.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Reduce_speed_now.svg",
+      "iso": "SG",
+      "id": "Warning_Reduce_speed_now",
+      "description": "Warning_Reduce_speed_now",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Singapore_road_sign_-_Warning_-_Reduce_speed_now.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/039-Singapore_road_sign_-_Warning_-_Reduce_speed_now.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/039-Singapore_road_sign_-_Warning_-_Reduce_speed_now.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Singapore_road_sign_-_Warning_-_Reduce_speed_now.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Road_narrows_on_both_sides.svg",
+      "iso": "SG",
+      "id": "Warning_Road_narrows_on_both_sides",
+      "description": "Warning_Road_narrows_on_both_sides",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Singapore_road_sign_-_Warning_-_Road_narrows_on_both_sides.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/012-Singapore_road_sign_-_Warning_-_Road_narrows_on_both_sides.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/012-Singapore_road_sign_-_Warning_-_Road_narrows_on_both_sides.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Singapore_road_sign_-_Warning_-_Road_narrows_on_both_sides.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Road_narrows_on_the_right.svg",
+      "iso": "SG",
+      "id": "Warning_Road_narrows_on_the_right",
+      "description": "Warning_Road_narrows_on_the_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Singapore_road_sign_-_Warning_-_Road_narrows_on_the_right.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/011-Singapore_road_sign_-_Warning_-_Road_narrows_on_the_right.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/011-Singapore_road_sign_-_Warning_-_Road_narrows_on_the_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Singapore_road_sign_-_Warning_-_Road_narrows_on_the_right.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Roundabout.svg",
+      "iso": "SG",
+      "id": "Warning_Roundabout",
+      "description": "Warning_Roundabout",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Singapore_road_sign_-_Warning_-_Roundabout.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/024-Singapore_road_sign_-_Warning_-_Roundabout.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/024-Singapore_road_sign_-_Warning_-_Roundabout.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Singapore_road_sign_-_Warning_-_Roundabout.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Side_road_junction_on_the_left.svg",
+      "iso": "SG",
+      "id": "Warning_Side_road_junction_on_the_left",
+      "description": "Warning_Side_road_junction_on_the_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/019-Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/019-Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Side_road_junction_on_the_right.svg",
+      "iso": "SG",
+      "id": "Warning_Side_road_junction_on_the_right",
+      "description": "Warning_Side_road_junction_on_the_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_right.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/020-Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_right.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/020-Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Singapore_road_sign_-_Warning_-_Side_road_junction_on_the_right.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Slippery_road.svg",
+      "iso": "SG",
+      "id": "Warning_Slippery_road",
+      "description": "Warning_Slippery_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Singapore_road_sign_-_Warning_-_Slippery_road.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/027-Singapore_road_sign_-_Warning_-_Slippery_road.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/027-Singapore_road_sign_-_Warning_-_Slippery_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Singapore_road_sign_-_Warning_-_Slippery_road.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Slow.svg",
+      "iso": "SG",
+      "id": "Warning_Slow",
+      "description": "Warning_Slow",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Singapore_road_sign_-_Warning_-_Slow.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/040-Singapore_road_sign_-_Warning_-_Slow.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/040-Singapore_road_sign_-_Warning_-_Slow.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Singapore_road_sign_-_Warning_-_Slow.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Staggered_junction_left_and_right.svg",
+      "iso": "SG",
+      "id": "Warning_Staggered_junction_left_and_right",
+      "description": "Warning_Staggered_junction_left_and_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Singapore_road_sign_-_Warning_-_Staggered_junction_left_and_right.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/023-Singapore_road_sign_-_Warning_-_Staggered_junction_left_and_right.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/023-Singapore_road_sign_-_Warning_-_Staggered_junction_left_and_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Singapore_road_sign_-_Warning_-_Staggered_junction_left_and_right.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Steep_ascent.svg",
+      "iso": "SG",
+      "id": "Warning_Steep_ascent",
+      "description": "Warning_Steep_ascent",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Singapore_road_sign_-_Warning_-_Steep_ascent.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/028-Singapore_road_sign_-_Warning_-_Steep_ascent.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/028-Singapore_road_sign_-_Warning_-_Steep_ascent.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Singapore_road_sign_-_Warning_-_Steep_ascent.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Steep_descent.svg",
+      "iso": "SG",
+      "id": "Warning_Steep_descent",
+      "description": "Warning_Steep_descent",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Singapore_road_sign_-_Warning_-_Steep_descent.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/029-Singapore_road_sign_-_Warning_-_Steep_descent.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/029-Singapore_road_sign_-_Warning_-_Steep_descent.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Singapore_road_sign_-_Warning_-_Steep_descent.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_T-junction.svg",
+      "iso": "SG",
+      "id": "Warning_T-junction",
+      "description": "Warning_T-junction",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Singapore_road_sign_-_Warning_-_T-junction.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/021-Singapore_road_sign_-_Warning_-_T-junction.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/021-Singapore_road_sign_-_Warning_-_T-junction.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Singapore_road_sign_-_Warning_-_T-junction.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Traffic_merging_from_the_left.svg",
+      "iso": "SG",
+      "id": "Warning_Traffic_merging_from_the_left",
+      "description": "Warning_Traffic_merging_from_the_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Singapore_road_sign_-_Warning_-_Traffic_merging_from_the_left.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/022-Singapore_road_sign_-_Warning_-_Traffic_merging_from_the_left.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/022-Singapore_road_sign_-_Warning_-_Traffic_merging_from_the_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Singapore_road_sign_-_Warning_-_Traffic_merging_from_the_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Traffic_signals.svg",
+      "iso": "SG",
+      "id": "Warning_Traffic_signals",
+      "description": "Warning_Traffic_signals",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Singapore_road_sign_-_Warning_-_Traffic_signals.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/025-Singapore_road_sign_-_Warning_-_Traffic_signals.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/025-Singapore_road_sign_-_Warning_-_Traffic_signals.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Singapore_road_sign_-_Warning_-_Traffic_signals.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Tunnel.svg",
+      "iso": "SG",
+      "id": "Warning_Tunnel",
+      "description": "Warning_Tunnel",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Singapore_road_sign_-_Warning_-_Tunnel.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/031-Singapore_road_sign_-_Warning_-_Tunnel.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/031-Singapore_road_sign_-_Warning_-_Tunnel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Singapore_road_sign_-_Warning_-_Tunnel.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Two_way_traffic.svg",
+      "iso": "SG",
+      "id": "Warning_Two_way_traffic",
+      "description": "Warning_Two_way_traffic",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Singapore_road_sign_-_Warning_-_Two_way_traffic.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/014-Singapore_road_sign_-_Warning_-_Two_way_traffic.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/014-Singapore_road_sign_-_Warning_-_Two_way_traffic.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Singapore_road_sign_-_Warning_-_Two_way_traffic.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Two_way_traffic_crossing.svg",
+      "iso": "SG",
+      "id": "Warning_Two_way_traffic_crossing",
+      "description": "Warning_Two_way_traffic_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Singapore_road_sign_-_Warning_-_Two_way_traffic_crossing.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/013-Singapore_road_sign_-_Warning_-_Two_way_traffic_crossing.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/013-Singapore_road_sign_-_Warning_-_Two_way_traffic_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Singapore_road_sign_-_Warning_-_Two_way_traffic_crossing.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/SG-Warning_Uneven_road.svg",
+      "iso": "SG",
+      "id": "Warning_Uneven_road",
+      "description": "Warning_Uneven_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Singapore_road_sign_-_Warning_-_Uneven_road.svg",
+      "kept_from": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/010-Singapore_road_sign_-_Warning_-_Uneven_road.svg",
+      "sources": [
+        {
+          "file": "SG_Singapore/wikipedia_en/01-en_Road_signs_in_Singapore/010-Singapore_road_sign_-_Warning_-_Uneven_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Singapore_road_sign_-_Warning_-_Uneven_road.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/SG-Mandatory_Keep_right.svg",
+      "iso": "SG",
+      "id": "Mandatory_Keep_right",
+      "description": "Mandatory_Keep_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Singapore_road_sign_-_Mandatory_-_Keep_right.svg",
+      "kept_from": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/110-Singapore_road_sign_-_Mandatory_-_Keep_right.svg",
+      "sources": [
+        {
+          "file": "IR_Iran/wikipedia_en/01-en_Road_signs_in_Iran/110-Singapore_road_sign_-_Mandatory_-_Keep_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Singapore_road_sign_-_Mandatory_-_Keep_right.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    }
+  ]
+}

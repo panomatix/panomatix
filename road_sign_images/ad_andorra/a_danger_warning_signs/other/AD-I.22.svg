@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="217.83"
+   height="192.418"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Andorra traffic signal I.22">
+  <defs
+     id="defs4"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 526.18109 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="744.09448 : 526.18109 : 1"
+   inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+   id="perspective10" />
+<inkscape:perspective
+   id="perspective2835"
+   inkscape:persp3d-origin="108.915 : 64.139333 : 1"
+   inkscape:vp_z="217.83 : 96.209 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_x="0 : 96.209 : 1"
+   sodipodi:type="inkscape:persp3d" />
+<inkscape:perspective
+   id="perspective3019"
+   inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+   inkscape:vp_z="1 : 0.5 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_x="0 : 0.5 : 1"
+   sodipodi:type="inkscape:persp3d" />
+
+			
+			
+			
+			
+		<inkscape:perspective
+   id="perspective3859"
+   inkscape:persp3d-origin="108.916 : 64.138 : 1"
+   inkscape:vp_z="217.832 : 96.207001 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_x="0 : 96.207001 : 1"
+   sodipodi:type="inkscape:persp3d" />
+</defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.83535156"
+     inkscape:cx="25.272145"
+     inkscape:cy="164.14384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-195.1486,-538.36501)">
+	
+		<path
+   style="fill:#e41408"
+   d="m 209.2736,730.78301 c -7.801,0 -14.125,-6.328 -14.125,-14.125 0,-2.539 0.672,-4.922 1.84,-6.98 l 94.828,-164.229 c 2.436,-4.229 7.012,-7.084 12.248,-7.084 5.242,0 9.813,2.855 12.25,7.084 l 94.828,164.229 c 1.172,2.059 1.836,4.441 1.836,6.98 0,7.797 -6.32,14.125 -14.117,14.125 h -189.588"
+   i:knockout="Off"
+   id="path2821" />
+<polyline
+   style="fill:#ffffff"
+   points="21.881,173.879 108.916,23.172 195.955,173.879 21.881,173.879"
+   i:knockout="Off"
+   id="polyline2823"
+   transform="translate(195.1486,538.36501)" />
+
+	<path
+   sodipodi:type="arc"
+   style="fill:#ffffff;fill-opacity:1;stroke:none"
+   id="path3036"
+   sodipodi:cx="-182.55786"
+   sodipodi:cy="663.30444"
+   sodipodi:rx="6.5840545"
+   sodipodi:ry="4.788403"
+   d="m -175.97381,663.30444 c 0,2.64457 -2.94778,4.78841 -6.58405,4.78841 -3.63627,0 -6.58406,-2.14384 -6.58406,-4.78841 0,-2.64456 2.94779,-4.7884 6.58406,-4.7884 3.63627,0 6.58405,2.14384 6.58405,4.7884 z"
+   transform="matrix(1.4545455,0,0,2.0909091,473.5794,-671.67968)" />
+<path
+   transform="matrix(1.4545455,0,0,2.0909091,665.5794,-671.67968)"
+   d="m -175.97381,663.30444 c 0,2.64457 -2.94778,4.78841 -6.58405,4.78841 -3.63627,0 -6.58406,-2.14384 -6.58406,-4.78841 0,-2.64456 2.94779,-4.7884 6.58406,-4.7884 3.63627,0 6.58405,2.14384 6.58405,4.7884 z"
+   sodipodi:ry="4.788403"
+   sodipodi:rx="6.5840545"
+   sodipodi:cy="663.30444"
+   sodipodi:cx="-182.55786"
+   id="path3810"
+   style="fill:#ffffff;fill-opacity:1;stroke:none"
+   sodipodi:type="arc" />
+<path
+   sodipodi:type="arc"
+   style="fill:#ffffff;fill-opacity:1;stroke:none"
+   id="path3812"
+   sodipodi:cx="-182.55786"
+   sodipodi:cy="663.30444"
+   sodipodi:rx="6.5840545"
+   sodipodi:ry="4.788403"
+   d="m -175.97381,663.30444 c 0,2.64457 -2.94778,4.78841 -6.58405,4.78841 -3.63627,0 -6.58406,-2.14384 -6.58406,-4.78841 0,-2.64456 2.94779,-4.7884 6.58406,-4.7884 3.63627,0 6.58405,2.14384 6.58405,4.7884 z"
+   transform="matrix(1.4545455,0,0,2.0909091,569.21152,-836.28223)" />
+
+	
+		
+	</g>
+</svg>

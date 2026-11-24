@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="5.12.3_Belarusian_road_sign.svg">
+  <title
+     id="title3006">5.12.3 Расписание движения</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.915"
+     inkscape:cx="300"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1148" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>5.12.3 Расписание движения</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:description>СТБ 1300-2013
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       y="752.36218"
+       x="0"
+       height="300"
+       width="600"
+       id="rect5622"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <rect
+       y="762.36212"
+       x="10"
+       height="280"
+       width="580"
+       id="rect9537"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="35"
+       ry="35" />
+    <g
+       aria-label="РАСКЛАД"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;line-height:1.25;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';letter-spacing:0px;word-spacing:0px;fill:black;fill-opacity:1;stroke:none"
+       id="text1158">
+      <path
+         d="M 58.510313,818.40217 H 81.190313 Q 88.630313,818.40217 93.790313,822.12217 99.070313,825.72217 100.99031,830.52217 103.03031,835.20217 103.03031,840.24217 103.03031,845.28217 100.99031,850.08217 99.070313,854.76217 93.790313,858.48217 88.630313,862.08217 81.190313,862.08217 H 70.270313 V 885.60217 H 58.510313 Z M 70.270313,828.48217 V 852.00217 H 77.830313 Q 83.470313,852.00217 87.310313,849.12217 91.270313,846.12217 91.270313,840.24217 91.270313,834.36217 87.310313,831.48217 83.470313,828.48217 77.830313,828.48217 Z"
+         style=""
+         id="path1164" />
+      <path
+         d="M 143.41594,862.08217 H 160.21594 L 151.81594,833.52217 Z M 145.09594,818.40217 H 158.53594 L 180.37594,885.60217 H 167.77594 L 163.57594,872.16217 H 140.05594 L 135.85594,885.60217 H 123.25594 Z"
+         style=""
+         id="path1166" />
+      <path
+         d="M 223.96406,816.72217 Q 241.24406,816.72217 248.32406,835.20217 L 237.04406,839.40217 Q 233.56406,827.64217 223.96406,827.64217 216.88406,827.64217 212.44406,834.24217 208.00406,840.84217 208.00406,852.00217 208.00406,863.16217 212.44406,869.76217 216.88406,876.36217 223.96406,876.36217 233.56406,876.36217 237.04406,864.60217 L 248.32406,868.80217 Q 241.24406,887.28217 223.96406,887.28217 210.64406,887.28217 203.56406,877.44217 196.60406,867.48217 196.60406,852.00217 196.60406,836.52217 203.56406,826.68217 210.64406,816.72217 223.96406,816.72217 Z"
+         style=""
+         id="path1168" />
+      <path
+         d="M 266.02969,885.60217 V 818.40217 H 277.78969 V 843.48217 Q 278.02969,843.72217 279.10969,843.72217 282.46969,843.72217 285.46969,841.08217 288.58969,838.44217 291.10969,834.72217 293.74969,830.88217 296.50969,827.04217 299.26969,823.08217 303.34969,820.20217 307.42969,817.20217 312.22969,816.72217 L 314.74969,828.48217 Q 313.42969,828.48217 312.22969,828.72217 311.14969,828.84217 310.18969,829.32217 309.22969,829.80217 308.50969,830.28217 307.90969,830.64217 307.06969,831.60217 306.22969,832.56217 305.74969,833.04217 305.38969,833.52217 304.42969,834.96217 303.46969,836.28217 302.98969,836.88217 302.62969,837.36217 301.42969,838.80217 300.34969,840.24217 299.74969,841.08217 299.14969,841.92217 298.06969,843.24217 296.98969,844.56217 296.14969,845.40217 295.42969,846.12217 294.46969,846.96217 293.50969,847.80217 292.66969,848.28217 291.94969,848.64217 291.22969,848.64217 293.02969,848.76217 294.46969,849.24217 295.90969,849.72217 297.22969,850.68217 298.54969,851.64217 299.26969,852.36217 300.10969,852.96217 301.30969,854.64217 302.50969,856.32217 302.86969,857.04217 303.34969,857.64217 304.66969,860.04217 305.98969,862.32217 306.34969,862.92217 307.30969,864.60217 309.82969,869.16217 312.34969,873.72217 313.66969,876.00217 314.98969,878.16217 317.14969,881.16217 319.42969,884.04217 321.46969,885.60217 H 306.82969 Q 305.74969,883.44217 300.70969,875.04217 295.66969,866.52217 293.74969,862.92217 291.34969,858.60217 288.82969,856.56217 286.42969,854.52217 282.82969,854.52217 L 277.78969,854.88217 V 885.60217 Z"
+         style=""
+         id="path1170" />
+      <path
+         d="M 332.97656,876.00217 Q 333.45656,875.88217 334.17656,875.64217 335.01656,875.40217 336.93656,874.44217 338.97656,873.36217 340.65656,872.16217 342.33656,870.84217 343.77656,868.68217 345.33656,866.40217 345.81656,863.76217 346.65656,858.72217 346.65656,818.40217 H 388.65656 V 885.60217 H 376.89656 V 828.48217 H 358.41656 Q 358.41656,853.68217 357.57656,862.08217 356.85656,868.68217 354.21656,873.72217 351.69656,878.76217 348.45656,881.16217 345.33656,883.56217 342.21656,885.12217 339.09656,886.68217 337.05656,887.04217 L 334.89656,887.28217 Z"
+         style=""
+         id="path1172" />
+      <path
+         d="M 428.18156,862.08217 H 444.98156 L 436.58156,833.52217 Z M 429.86156,818.40217 H 443.30156 L 465.14156,885.60217 H 452.54156 L 448.34156,872.16217 H 424.82156 L 420.62156,885.60217 H 408.02156 Z"
+         style=""
+         id="path1174" />
+      <path
+         d="M 479.32969,875.52217 H 486.88969 Q 489.52969,868.80217 491.92969,854.40217 494.44969,840.00217 494.44969,828.48217 V 818.40217 H 533.92969 V 875.52217 H 541.48969 V 897.36217 H 531.40969 V 885.60217 H 489.40969 V 897.36217 H 479.32969 Z M 498.28969,875.52217 H 522.16969 V 828.48217 H 506.20969 Q 506.20969,840.48217 503.92969,853.92217 501.64969,867.36217 498.28969,875.52217 Z"
+         style=""
+         id="path1176" />
+    </g>
+    <g
+       aria-label="РУХУ"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;line-height:1.25;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';letter-spacing:0px;word-spacing:0px;fill:black;fill-opacity:1;stroke:none"
+       id="text1162">
+      <path
+         d="M 174.83907,914.92219 H 197.51907 Q 204.95907,914.92219 210.11907,918.64219 215.39907,922.24219 217.31907,927.04219 219.35907,931.72219 219.35907,936.76219 219.35907,941.80219 217.31907,946.60219 215.39907,951.28219 210.11907,955.00219 204.95907,958.60219 197.51907,958.60219 H 186.59907 V 982.12219 H 174.83907 Z M 186.59907,925.00219 V 948.52219 H 194.15907 Q 199.79907,948.52219 203.63907,945.64219 207.59907,942.64219 207.59907,936.76219 207.59907,930.88219 203.63907,928.00219 199.79907,925.00219 194.15907,925.00219 Z"
+         style=""
+         id="path1179" />
+      <path
+         d="M 237.90469,914.92219 H 250.50469 L 266.46469,950.20219 279.90469,914.92219 H 292.50469 L 270.66469,971.20219 Q 268.86469,975.88219 264.06469,979.12219 259.26469,982.36219 254.70469,982.36219 250.26469,982.36219 248.82469,981.76219 L 246.30469,971.20219 Q 249.66469,972.04219 253.02469,972.04219 256.02469,972.04219 258.54469,969.76219 261.06469,967.36219 261.06469,965.32219 261.06469,964.24219 255.18469,951.64219 249.42469,939.04219 243.66469,926.92219 Z"
+         style=""
+         id="path1181" />
+      <path
+         d="M 320.17032,914.92219 331.09032,935.92219 342.01032,914.92219 H 357.01032 L 337.81032,946.84219 358.69032,982.12219 H 344.53032 L 331.09032,957.76219 317.65032,982.12219 H 303.49032 L 324.37032,946.84219 305.17032,914.92219 Z"
+         style=""
+         id="path1183" />
+      <path
+         d="M 370.56094,914.92219 H 383.16094 L 399.12094,950.20219 412.56094,914.92219 H 425.16094 L 403.32094,971.20219 Q 401.52094,975.88219 396.72094,979.12219 391.92094,982.36219 387.36094,982.36219 382.92094,982.36219 381.48094,981.76219 L 378.96094,971.20219 Q 382.32094,972.04219 385.68094,972.04219 388.68094,972.04219 391.20094,969.76219 393.72094,967.36219 393.72094,965.32219 393.72094,964.24219 387.84094,951.64219 382.08094,939.04219 376.32094,926.92219 Z"
+         style=""
+         id="path1185" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="606mm"
+   height="1006mm"
+   viewBox="0 0 606 1006"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Australia_road_signs_R4-12_(110).svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1503.1894"
+     inkscape:cy="712.6583"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,709)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:201.47523499;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18"
+       width="604"
+       height="1004"
+       x="1"
+       y="-708"
+       rx="52"
+       ry="52" />
+    <rect
+       ry="50"
+       rx="50"
+       y="-706"
+       x="3"
+       height="1000"
+       width="600"
+       id="rect20"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:200.40658569;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:148.7865448;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path22"
+       cx="302.99994"
+       cy="-89"
+       r="282" />
+    <circle
+       r="237"
+       cy="-89"
+       cx="302.99994"
+       id="circle24"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:125.04401398;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       aria-label="END"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:238.80596924px;line-height:0;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.97014904"
+       id="text836"
+       transform="translate(3,-3)">
+      <path
+         d="M 74,-463.00004 V -623 h 116.7761 v 28.6567 h -87.6418 v 29.6119 h 47.7612 v 29.3731 h -47.7612 v 43.70154 h 90.5075 v 28.65672 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';fill:#000000;stroke:none;stroke-width:5.97014904"
+         id="path838"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 330.9442,-463.00004 254.7651,-573.0896 v 110.08956 H 226.586 V -623 h 28.1791 l 73.3135,105.5522 V -623 h 27.7015 v 159.99996 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';fill:#000000;stroke:none;stroke-width:5.97014904"
+         id="path840"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 526,-543.2389 q 0,24.1195 -9.7911,42.0299 -9.791,17.91045 -28.8955,28.65672 -8.3582,4.77612 -18.1492,7.16418 -9.7911,2.38806 -19.5821,2.38806 H 398 V -623 h 51.5821 q 20.5373,0 38.2089,10.0298 18.6269,10.7463 28.4179,28.4179 9.7911,17.4329 9.7911,41.3134 z m -28.6567,0 q 0,-16.2388 -5.9702,-27.2238 -5.7313,-10.9851 -17.6716,-17.6717 -10.9851,-6.2089 -24.1194,-6.2089 h -22.4478 v 102.68654 h 22.4478 q 12.6567,0 23.1642,-6.20895 24.597,-12.89549 24.597,-45.37319 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Roadgeek 2005 Series E';-inkscape-font-specification:'Roadgeek 2005 Series E';fill:#000000;stroke:none;stroke-width:5.97014904"
+         id="path842"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       d="m 122.5,26.85015 q 0.69164,-20.4034599 5.18732,-37.3487 4.49568,-16.94525 14.17867,-33.54467 7.26225,-13.14121 17.98271,-24.20749 10.72046,-11.41211 22.82421,-20.403458 3.11239,-1.72911 5.53314,-3.45822 2.42075,-2.07492 4.8415,-3.80403 l 12.44957,-6.570602 11.4121,-6.57061 11.06628,-6.22478 q 6.91643,-4.49568 11.06628,-11.06629 4.49568,-6.91642 4.49568,-14.17867 0,-6.57061 -3.45821,-12.10375 -3.45821,-5.87896 -9.33718,-10.02881 -5.53314,-4.14986 -13.14121,-6.57061 -7.60807,-2.42075 -16.2536,-2.42075 -17.63689,0 -28.70317,8.29971 -10.72046,8.29971 -13.48703,24.2075 L 122.5,-147.09798 q 5.87896,-29.04899 26.97406,-45.30259 21.0951,-16.59942 51.8732,-16.59942 16.59942,0 30.7781,5.53314 14.52449,5.53314 24.89913,14.87032 10.72046,9.33717 16.94525,22.13256 6.22478,12.44957 6.22478,26.62824 0,13.48703 -6.22478,26.62824 -5.87896,12.79539 -17.29107,22.824212 -2.76657,2.07493 -5.18732,3.80404 -2.07493,1.729098 -4.49568,2.766568 l -11.4121,7.26224 -12.44957,6.57061 -11.4121,6.5706 q -8.29971,4.8415 -14.87032,10.37464 -6.22478,5.18732 -11.75792,11.41211 -5.18732,6.22478 -10.02882,13.83285 -4.49568,7.60807 -8.64553,17.29107 h 113.77521 v 37.3487 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:345.82131958px;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:646.21258545"
+       id="path29"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 483.49964,-58.56772 q 0,19.366 -7.60806,35.6196 -7.26226,16.2536 -20.74929,28.3573501 Q 441.65526,17.51297 422.98092,24.4294 404.65238,31 382.51981,31 q -15.21614,0 -30.08645,-3.45821 -14.5245,-3.45821 -26.62825,-9.683 l 17.98271,-32.5072 q 7.26225,3.80403 19.02018,6.22478 11.75792,2.07493 24.5533,2.07493 12.44958,0 23.17004,-3.80403 11.06628,-4.14986 19.02018,-11.06628 8.29969,-6.91643 12.79539,-16.25361 4.49566,-9.68299 4.49566,-21.0951 0,-8.64553 -3.45821,-15.90778 -3.11239,-7.26225 -8.99136,-12.795388 -5.53312,-5.53314 -13.14119,-8.64553 -7.26226,-3.11239 -15.90778,-3.11239 -6.2248,0 -11.06628,1.03746 -4.49569,1.03747 -8.64555,3.80404 -4.14985,2.76657 -8.29971,7.60807 -4.14985,4.495668 -9.33717,11.757918 l -36.65706,-10.37464 5.87896,-119.65417 h 133.1412 v 36.65705 h -97.52161 l -2.42075,38.04035 q 12.79539,-3.80403 20.05764,-5.18732 7.26226,-1.38329 15.90779,-1.38329 15.90778,0 29.74064,6.22479 14.17865,6.22478 24.55331,16.94524 10.72044,10.72046 16.5994,24.899142 6.2248,14.178668 6.2248,30.086448 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:345.82131958px;line-height:0;font-family:'Roadgeek 2005 Series D';-inkscape-font-specification:'Roadgeek 2005 Series D';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:646.21258545"
+       id="path31"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

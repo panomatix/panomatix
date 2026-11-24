@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<style>
+		.s0 { fill: #0060aa } 
+		.s1 { fill: none;stroke: #ffffff;stroke-width: 17 } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<path id="PATH" fill-rule="evenodd" class="s0" d="m400 800c-221.2 0-400-178.8-400-400 0-221.2 178.8-400 400-400 221.2 0 400 178.8 400 400 0 221.2-178.8 400-400 400z"/>
+	<path id="PATH" fill-rule="evenodd" class="s1" d="m400 778.51c-209.32 0-378.51-169.19-378.51-378.51 0-209.32 169.19-378.51 378.51-378.51 209.32 0 378.51 169.19 378.51 378.51 0 209.32-169.19 378.51-378.51 378.51z"/>
+	<path id="&lt;Path&gt;" class="s2" d="m106.63 335.73l422.77 32.5v-75.93l162.54 108.45-162.54 108.36v-75.86l-422.77 32.51z"/>
+</svg>

@@ -1,0 +1,4248 @@
+{
+  "country_code": "IN",
+  "country": "India",
+  "images": [
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-1.01_1950s.svg",
+      "iso": "IN",
+      "id": "1.01",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/1950s_India_road_sign_1.01.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/229-1950s_India_road_sign_1.01.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/229-1950s_India_road_sign_1.01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/1950s_India_road_sign_1.01.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-1.01.svg",
+      "iso": "IN",
+      "id": "1.01",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1977_India_road_sign_1.01.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/271-1977_India_road_sign_1.01.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/271-1977_India_road_sign_1.01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1977_India_road_sign_1.01.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-1.02_1950s.svg",
+      "iso": "IN",
+      "id": "1.02",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/1950s_India_road_sign_1.02.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/230-1950s_India_road_sign_1.02.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/230-1950s_India_road_sign_1.02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/1950s_India_road_sign_1.02.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.984
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-1.02.svg",
+      "iso": "IN",
+      "id": "1.02",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1977_India_road_sign_1.02.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/272-1977_India_road_sign_1.02.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/272-1977_India_road_sign_1.02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1977_India_road_sign_1.02.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.928,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-1.03_1950s.svg",
+      "iso": "IN",
+      "id": "1.03",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/1950s_India_road_sign_1.03.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/231-1950s_India_road_sign_1.03.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/231-1950s_India_road_sign_1.03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/1950s_India_road_sign_1.03.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-1.04_1950s.svg",
+      "iso": "IN",
+      "id": "1.04",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/1950s_India_road_sign_1.04.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/232-1950s_India_road_sign_1.04.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/232-1950s_India_road_sign_1.04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/1950s_India_road_sign_1.04.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-1.05_1950s.svg",
+      "iso": "IN",
+      "id": "1.05",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1950s_India_road_sign_1.05.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/233-1950s_India_road_sign_1.05.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/233-1950s_India_road_sign_1.05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/1950s_India_road_sign_1.05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-1.06_1950s.svg",
+      "iso": "IN",
+      "id": "1.06",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1950s_India_road_sign_1.06.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/234-1950s_India_road_sign_1.06.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/234-1950s_India_road_sign_1.06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1950s_India_road_sign_1.06.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-1.07_1950s.svg",
+      "iso": "IN",
+      "id": "1.07",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/1950s_India_road_sign_1.07.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/235-1950s_India_road_sign_1.07.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/235-1950s_India_road_sign_1.07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/1950s_India_road_sign_1.07.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-1.08_1950s.svg",
+      "iso": "IN",
+      "id": "1.08",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1950s_India_road_sign_1.08.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/236-1950s_India_road_sign_1.08.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/236-1950s_India_road_sign_1.08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1950s_India_road_sign_1.08.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.982
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.01_1950s.svg",
+      "iso": "IN",
+      "id": "2.01",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/1950s_India_road_sign_2.01.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/237-1950s_India_road_sign_2.01.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/237-1950s_India_road_sign_2.01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/1950s_India_road_sign_2.01.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.01_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.01",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/1950s_India_road_sign_2.01_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/254-1950s_India_road_sign_2.01_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/254-1950s_India_road_sign_2.01_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/1950s_India_road_sign_2.01_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.01.svg",
+      "iso": "IN",
+      "id": "2.01",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1977_India_road_sign_2.01.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/273-1977_India_road_sign_2.01.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/273-1977_India_road_sign_2.01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1977_India_road_sign_2.01.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "sd_unclassified/other/IN-2.02_1950s.svg",
+      "iso": "IN",
+      "id": "2.02",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/1950s_India_road_sign_2.02.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/238-1950s_India_road_sign_2.02.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/238-1950s_India_road_sign_2.02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/1950s_India_road_sign_2.02.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-2.02_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.02",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/1950s_India_road_sign_2.02_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/255-1950s_India_road_sign_2.02_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/255-1950s_India_road_sign_2.02_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/1950s_India_road_sign_2.02_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.02a.svg",
+      "iso": "IN",
+      "id": "2.02a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1977_India_road_sign_2.02a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/274-1977_India_road_sign_2.02a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/274-1977_India_road_sign_2.02a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1977_India_road_sign_2.02a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.02b.svg",
+      "iso": "IN",
+      "id": "2.02b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/1977_India_road_sign_2.02b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/275-1977_India_road_sign_2.02b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/275-1977_India_road_sign_2.02b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/1977_India_road_sign_2.02b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.02c.svg",
+      "iso": "IN",
+      "id": "2.02c",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/1977_India_road_sign_2.02c.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/276-1977_India_road_sign_2.02c.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/276-1977_India_road_sign_2.02c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/1977_India_road_sign_2.02c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.03_1950s.svg",
+      "iso": "IN",
+      "id": "2.03",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1950s_India_road_sign_2.03.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/239-1950s_India_road_sign_2.03.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/239-1950s_India_road_sign_2.03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1950s_India_road_sign_2.03.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.03_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.03",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/1950s_India_road_sign_2.03_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/256-1950s_India_road_sign_2.03_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/256-1950s_India_road_sign_2.03_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/1950s_India_road_sign_2.03_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.03.svg",
+      "iso": "IN",
+      "id": "2.03",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/1977_India_road_sign_2.03.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/277-1977_India_road_sign_2.03.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/277-1977_India_road_sign_2.03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/1977_India_road_sign_2.03.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.04_1950s.svg",
+      "iso": "IN",
+      "id": "2.04",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1950s_India_road_sign_2.04.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/240-1950s_India_road_sign_2.04.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/240-1950s_India_road_sign_2.04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1950s_India_road_sign_2.04.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.04_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.04",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1950s_India_road_sign_2.04_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/257-1950s_India_road_sign_2.04_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/257-1950s_India_road_sign_2.04_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1950s_India_road_sign_2.04_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.04.svg",
+      "iso": "IN",
+      "id": "2.04",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/1977_India_road_sign_2.04.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/278-1977_India_road_sign_2.04.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/278-1977_India_road_sign_2.04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/1977_India_road_sign_2.04.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.05_1950s.svg",
+      "iso": "IN",
+      "id": "2.05",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/1950s_India_road_sign_2.05.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/241-1950s_India_road_sign_2.05.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/241-1950s_India_road_sign_2.05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/1950s_India_road_sign_2.05.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.05_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.05",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1950s_India_road_sign_2.05_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/258-1950s_India_road_sign_2.05_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/258-1950s_India_road_sign_2.05_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1950s_India_road_sign_2.05_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.05.svg",
+      "iso": "IN",
+      "id": "2.05",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/1977_India_road_sign_2.05.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/279-1977_India_road_sign_2.05.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/279-1977_India_road_sign_2.05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/1977_India_road_sign_2.05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.06_1950s.svg",
+      "iso": "IN",
+      "id": "2.06",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/1950s_India_road_sign_2.06.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/242-1950s_India_road_sign_2.06.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/242-1950s_India_road_sign_2.06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/1950s_India_road_sign_2.06.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.06_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.06",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1950s_India_road_sign_2.06_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/259-1950s_India_road_sign_2.06_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/259-1950s_India_road_sign_2.06_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1950s_India_road_sign_2.06_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.06.svg",
+      "iso": "IN",
+      "id": "2.06",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1977_India_road_sign_2.06.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/280-1977_India_road_sign_2.06.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/280-1977_India_road_sign_2.06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1977_India_road_sign_2.06.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.07_1950s.svg",
+      "iso": "IN",
+      "id": "2.07",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1950s_India_road_sign_2.07.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/243-1950s_India_road_sign_2.07.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/243-1950s_India_road_sign_2.07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/1950s_India_road_sign_2.07.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.07_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.07",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/1950s_India_road_sign_2.07_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/260-1950s_India_road_sign_2.07_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/260-1950s_India_road_sign_2.07_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/1950s_India_road_sign_2.07_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-2.07.svg",
+      "iso": "IN",
+      "id": "2.07",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/1977_India_road_sign_2.07.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/281-1977_India_road_sign_2.07.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/281-1977_India_road_sign_2.07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/1977_India_road_sign_2.07.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.08_1950s.svg",
+      "iso": "IN",
+      "id": "2.08",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/1950s_India_road_sign_2.08.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/244-1950s_India_road_sign_2.08.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/244-1950s_India_road_sign_2.08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/1950s_India_road_sign_2.08.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.08_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.08",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1950s_India_road_sign_2.08_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/261-1950s_India_road_sign_2.08_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/261-1950s_India_road_sign_2.08_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1950s_India_road_sign_2.08_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.08.svg",
+      "iso": "IN",
+      "id": "2.08",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/1977_India_road_sign_2.08.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/282-1977_India_road_sign_2.08.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/282-1977_India_road_sign_2.08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/1977_India_road_sign_2.08.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.09_1950s.svg",
+      "iso": "IN",
+      "id": "2.09",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1950s_India_road_sign_2.09.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/245-1950s_India_road_sign_2.09.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/245-1950s_India_road_sign_2.09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1950s_India_road_sign_2.09.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.09_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.09",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1950s_India_road_sign_2.09_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/262-1950s_India_road_sign_2.09_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/262-1950s_India_road_sign_2.09_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1950s_India_road_sign_2.09_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.09.svg",
+      "iso": "IN",
+      "id": "2.09",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/1977_India_road_sign_2.09.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/283-1977_India_road_sign_2.09.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/283-1977_India_road_sign_2.09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/1977_India_road_sign_2.09.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.10_1950s.svg",
+      "iso": "IN",
+      "id": "2.10",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/1950s_India_road_sign_2.10.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/246-1950s_India_road_sign_2.10.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/246-1950s_India_road_sign_2.10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/1950s_India_road_sign_2.10.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.10_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.10",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1950s_India_road_sign_2.10_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/263-1950s_India_road_sign_2.10_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/263-1950s_India_road_sign_2.10_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1950s_India_road_sign_2.10_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.10.svg",
+      "iso": "IN",
+      "id": "2.10",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1977_India_road_sign_2.10.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/284-1977_India_road_sign_2.10.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/284-1977_India_road_sign_2.10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1977_India_road_sign_2.10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "sd_unclassified/other/IN-2.11_1950s.svg",
+      "iso": "IN",
+      "id": "2.11",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1950s_India_road_sign_2.11.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/247-1950s_India_road_sign_2.11.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/247-1950s_India_road_sign_2.11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1950s_India_road_sign_2.11.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-2.11_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.11",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/1950s_India_road_sign_2.11_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/264-1950s_India_road_sign_2.11_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/264-1950s_India_road_sign_2.11_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/1950s_India_road_sign_2.11_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.11a.svg",
+      "iso": "IN",
+      "id": "2.11a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1977_India_road_sign_2.11a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/285-1977_India_road_sign_2.11a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/285-1977_India_road_sign_2.11a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1977_India_road_sign_2.11a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.11b.svg",
+      "iso": "IN",
+      "id": "2.11b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1977_India_road_sign_2.11b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/286-1977_India_road_sign_2.11b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/286-1977_India_road_sign_2.11b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1977_India_road_sign_2.11b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.12_1950s.svg",
+      "iso": "IN",
+      "id": "2.12",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1950s_India_road_sign_2.12.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/248-1950s_India_road_sign_2.12.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/248-1950s_India_road_sign_2.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1950s_India_road_sign_2.12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.12_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.12",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/1950s_India_road_sign_2.12_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/265-1950s_India_road_sign_2.12_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/265-1950s_India_road_sign_2.12_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/1950s_India_road_sign_2.12_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.12.svg",
+      "iso": "IN",
+      "id": "2.12",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1977_India_road_sign_2.12.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/287-1977_India_road_sign_2.12.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/287-1977_India_road_sign_2.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1977_India_road_sign_2.12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.13_1950s.svg",
+      "iso": "IN",
+      "id": "2.13",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/1950s_India_road_sign_2.13.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/249-1950s_India_road_sign_2.13.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/249-1950s_India_road_sign_2.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/1950s_India_road_sign_2.13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.13_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.13",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/1950s_India_road_sign_2.13_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/266-1950s_India_road_sign_2.13_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/266-1950s_India_road_sign_2.13_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/1950s_India_road_sign_2.13_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.13.svg",
+      "iso": "IN",
+      "id": "2.13",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/1977_India_road_sign_2.13.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/288-1977_India_road_sign_2.13.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/288-1977_India_road_sign_2.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/1977_India_road_sign_2.13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.14_1950s.svg",
+      "iso": "IN",
+      "id": "2.14",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1950s_India_road_sign_2.14.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/250-1950s_India_road_sign_2.14.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/250-1950s_India_road_sign_2.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/1950s_India_road_sign_2.14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.14_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.14",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/1950s_India_road_sign_2.14_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/267-1950s_India_road_sign_2.14_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/267-1950s_India_road_sign_2.14_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/1950s_India_road_sign_2.14_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.14.svg",
+      "iso": "IN",
+      "id": "2.14",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/1977_India_road_sign_2.14.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/289-1977_India_road_sign_2.14.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/289-1977_India_road_sign_2.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/1977_India_road_sign_2.14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.15_1950s.svg",
+      "iso": "IN",
+      "id": "2.15",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/1950s_India_road_sign_2.15.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/251-1950s_India_road_sign_2.15.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/251-1950s_India_road_sign_2.15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/1950s_India_road_sign_2.15.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.15_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.15",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/1950s_India_road_sign_2.15_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/268-1950s_India_road_sign_2.15_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/268-1950s_India_road_sign_2.15_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/1950s_India_road_sign_2.15_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.15.svg",
+      "iso": "IN",
+      "id": "2.15",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/1977_India_road_sign_2.15.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/290-1977_India_road_sign_2.15.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/290-1977_India_road_sign_2.15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/1977_India_road_sign_2.15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.16_1950s.svg",
+      "iso": "IN",
+      "id": "2.16",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/1950s_India_road_sign_2.16.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/252-1950s_India_road_sign_2.16.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/252-1950s_India_road_sign_2.16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/1950s_India_road_sign_2.16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.16_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.16",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/1950s_India_road_sign_2.16_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/269-1950s_India_road_sign_2.16_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/269-1950s_India_road_sign_2.16_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/1950s_India_road_sign_2.16_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.16.svg",
+      "iso": "IN",
+      "id": "2.16",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/1977_India_road_sign_2.16.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/291-1977_India_road_sign_2.16.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/291-1977_India_road_sign_2.16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/1977_India_road_sign_2.16.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.17_1950s.svg",
+      "iso": "IN",
+      "id": "2.17",
+      "description": null,
+      "variants": [
+        "1950s"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/1950s_India_road_sign_2.17.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/253-1950s_India_road_sign_2.17.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/253-1950s_India_road_sign_2.17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/1950s_India_road_sign_2.17.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.17_1950s_Complete_assembly.svg",
+      "iso": "IN",
+      "id": "2.17",
+      "description": null,
+      "variants": [
+        "1950s",
+        "Complete_assembly"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1950s_India_road_sign_2.17_%28Complete_assembly%29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/270-1950s_India_road_sign_2.17_(Complete_assembly).svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/270-1950s_India_road_sign_2.17_(Complete_assembly).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1950s_India_road_sign_2.17_%28Complete_assembly%29.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.17.svg",
+      "iso": "IN",
+      "id": "2.17",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1977_India_road_sign_2.17.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/292-1977_India_road_sign_2.17.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/292-1977_India_road_sign_2.17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1977_India_road_sign_2.17.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.18.svg",
+      "iso": "IN",
+      "id": "2.18",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1977_India_road_sign_2.18.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/293-1977_India_road_sign_2.18.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/293-1977_India_road_sign_2.18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1977_India_road_sign_2.18.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.19.svg",
+      "iso": "IN",
+      "id": "2.19",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1977_India_road_sign_2.19.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/294-1977_India_road_sign_2.19.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/294-1977_India_road_sign_2.19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1977_India_road_sign_2.19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.20.svg",
+      "iso": "IN",
+      "id": "2.20",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/1977_India_road_sign_2.20.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/295-1977_India_road_sign_2.20.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/295-1977_India_road_sign_2.20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/1977_India_road_sign_2.20.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.21.svg",
+      "iso": "IN",
+      "id": "2.21",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1977_India_road_sign_2.21.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/296-1977_India_road_sign_2.21.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/296-1977_India_road_sign_2.21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1977_India_road_sign_2.21.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-2.22.svg",
+      "iso": "IN",
+      "id": "2.22",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1977_India_road_sign_2.22.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/297-1977_India_road_sign_2.22.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/297-1977_India_road_sign_2.22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1977_India_road_sign_2.22.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-3.01.svg",
+      "iso": "IN",
+      "id": "3.01",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/1977_India_road_sign_3.01.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/298-1977_India_road_sign_3.01.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/298-1977_India_road_sign_3.01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/1977_India_road_sign_3.01.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.01a.svg",
+      "iso": "IN",
+      "id": "4.01a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1977_India_road_sign_4.01a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/299-1977_India_road_sign_4.01a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/299-1977_India_road_sign_4.01a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1977_India_road_sign_4.01a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.01b.svg",
+      "iso": "IN",
+      "id": "4.01b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1977_India_road_sign_4.01b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/300-1977_India_road_sign_4.01b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/300-1977_India_road_sign_4.01b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1977_India_road_sign_4.01b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.02.svg",
+      "iso": "IN",
+      "id": "4.02",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/1977_India_road_sign_4.02.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/301-1977_India_road_sign_4.02.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/301-1977_India_road_sign_4.02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/1977_India_road_sign_4.02.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.03a.svg",
+      "iso": "IN",
+      "id": "4.03a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/1977_India_road_sign_4.03a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/302-1977_India_road_sign_4.03a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/302-1977_India_road_sign_4.03a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/1977_India_road_sign_4.03a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.03b.svg",
+      "iso": "IN",
+      "id": "4.03b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/1977_India_road_sign_4.03b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/303-1977_India_road_sign_4.03b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/303-1977_India_road_sign_4.03b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/1977_India_road_sign_4.03b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.04a.svg",
+      "iso": "IN",
+      "id": "4.04a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/1977_India_road_sign_4.04a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/304-1977_India_road_sign_4.04a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/304-1977_India_road_sign_4.04a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/1977_India_road_sign_4.04a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.04b.svg",
+      "iso": "IN",
+      "id": "4.04b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/1977_India_road_sign_4.04b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/305-1977_India_road_sign_4.04b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/305-1977_India_road_sign_4.04b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/1977_India_road_sign_4.04b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.05.svg",
+      "iso": "IN",
+      "id": "4.05",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1977_India_road_sign_4.05.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/306-1977_India_road_sign_4.05.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/306-1977_India_road_sign_4.05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1977_India_road_sign_4.05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-4.06.svg",
+      "iso": "IN",
+      "id": "4.06",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/1977_India_road_sign_4.06.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/307-1977_India_road_sign_4.06.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/307-1977_India_road_sign_4.06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/1977_India_road_sign_4.06.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "d_mandatory_signs/other/IN-4.07.svg",
+      "iso": "IN",
+      "id": "4.07",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/1977_India_road_sign_4.07.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/308-1977_India_road_sign_4.07.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/308-1977_India_road_sign_4.07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/1977_India_road_sign_4.07.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.01a.svg",
+      "iso": "IN",
+      "id": "5.01a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1977_India_road_sign_5.01a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/309-1977_India_road_sign_5.01a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/309-1977_India_road_sign_5.01a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1977_India_road_sign_5.01a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.01b.svg",
+      "iso": "IN",
+      "id": "5.01b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/1977_India_road_sign_5.01b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/310-1977_India_road_sign_5.01b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/310-1977_India_road_sign_5.01b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/1977_India_road_sign_5.01b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.02a.svg",
+      "iso": "IN",
+      "id": "5.02a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/1977_India_road_sign_5.02a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/311-1977_India_road_sign_5.02a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/311-1977_India_road_sign_5.02a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/1977_India_road_sign_5.02a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.02b.svg",
+      "iso": "IN",
+      "id": "5.02b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/1977_India_road_sign_5.02b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/312-1977_India_road_sign_5.02b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/312-1977_India_road_sign_5.02b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/1977_India_road_sign_5.02b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.03.svg",
+      "iso": "IN",
+      "id": "5.03",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1977_India_road_sign_5.03.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/313-1977_India_road_sign_5.03.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/313-1977_India_road_sign_5.03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1977_India_road_sign_5.03.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.04.svg",
+      "iso": "IN",
+      "id": "5.04",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1977_India_road_sign_5.04.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/314-1977_India_road_sign_5.04.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/314-1977_India_road_sign_5.04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1977_India_road_sign_5.04.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.05.svg",
+      "iso": "IN",
+      "id": "5.05",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/1977_India_road_sign_5.05.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/315-1977_India_road_sign_5.05.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/315-1977_India_road_sign_5.05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/1977_India_road_sign_5.05.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.06.svg",
+      "iso": "IN",
+      "id": "5.06",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1977_India_road_sign_5.06.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/316-1977_India_road_sign_5.06.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/316-1977_India_road_sign_5.06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1977_India_road_sign_5.06.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.07.svg",
+      "iso": "IN",
+      "id": "5.07",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/1977_India_road_sign_5.07.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/317-1977_India_road_sign_5.07.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/317-1977_India_road_sign_5.07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/1977_India_road_sign_5.07.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.08a.svg",
+      "iso": "IN",
+      "id": "5.08a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1977_India_road_sign_5.08a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/318-1977_India_road_sign_5.08a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/318-1977_India_road_sign_5.08a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1977_India_road_sign_5.08a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.08b.svg",
+      "iso": "IN",
+      "id": "5.08b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/1977_India_road_sign_5.08b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/319-1977_India_road_sign_5.08b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/319-1977_India_road_sign_5.08b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/1977_India_road_sign_5.08b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.09.svg",
+      "iso": "IN",
+      "id": "5.09",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/1977_India_road_sign_5.09.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/320-1977_India_road_sign_5.09.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/320-1977_India_road_sign_5.09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/1977_India_road_sign_5.09.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.10.svg",
+      "iso": "IN",
+      "id": "5.10",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1977_India_road_sign_5.10.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/321-1977_India_road_sign_5.10.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/321-1977_India_road_sign_5.10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1977_India_road_sign_5.10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.11.svg",
+      "iso": "IN",
+      "id": "5.11",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1977_India_road_sign_5.11.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/322-1977_India_road_sign_5.11.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/322-1977_India_road_sign_5.11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1977_India_road_sign_5.11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.12.svg",
+      "iso": "IN",
+      "id": "5.12",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/1977_India_road_sign_5.12.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/323-1977_India_road_sign_5.12.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/323-1977_India_road_sign_5.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/1977_India_road_sign_5.12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.13.svg",
+      "iso": "IN",
+      "id": "5.13",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1977_India_road_sign_5.13.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/324-1977_India_road_sign_5.13.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/324-1977_India_road_sign_5.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/1977_India_road_sign_5.13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.14.svg",
+      "iso": "IN",
+      "id": "5.14",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1977_India_road_sign_5.14.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/325-1977_India_road_sign_5.14.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/325-1977_India_road_sign_5.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1977_India_road_sign_5.14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.15.svg",
+      "iso": "IN",
+      "id": "5.15",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/1977_India_road_sign_5.15.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/326-1977_India_road_sign_5.15.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/326-1977_India_road_sign_5.15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/1977_India_road_sign_5.15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.16.svg",
+      "iso": "IN",
+      "id": "5.16",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1977_India_road_sign_5.16.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/327-1977_India_road_sign_5.16.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/327-1977_India_road_sign_5.16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1977_India_road_sign_5.16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.17.svg",
+      "iso": "IN",
+      "id": "5.17",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/1977_India_road_sign_5.17.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/328-1977_India_road_sign_5.17.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/328-1977_India_road_sign_5.17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/1977_India_road_sign_5.17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.18.svg",
+      "iso": "IN",
+      "id": "5.18",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1977_India_road_sign_5.18.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/329-1977_India_road_sign_5.18.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/329-1977_India_road_sign_5.18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1977_India_road_sign_5.18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.19.svg",
+      "iso": "IN",
+      "id": "5.19",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1977_India_road_sign_5.19.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/330-1977_India_road_sign_5.19.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/330-1977_India_road_sign_5.19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1977_India_road_sign_5.19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.20.svg",
+      "iso": "IN",
+      "id": "5.20",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/1977_India_road_sign_5.20.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/331-1977_India_road_sign_5.20.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/331-1977_India_road_sign_5.20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/1977_India_road_sign_5.20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.21.svg",
+      "iso": "IN",
+      "id": "5.21",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/1977_India_road_sign_5.21.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/332-1977_India_road_sign_5.21.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/332-1977_India_road_sign_5.21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/1977_India_road_sign_5.21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.22.svg",
+      "iso": "IN",
+      "id": "5.22",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1977_India_road_sign_5.22.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/333-1977_India_road_sign_5.22.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/333-1977_India_road_sign_5.22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1977_India_road_sign_5.22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.23.svg",
+      "iso": "IN",
+      "id": "5.23",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1977_India_road_sign_5.23.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/334-1977_India_road_sign_5.23.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/334-1977_India_road_sign_5.23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1977_India_road_sign_5.23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.24.svg",
+      "iso": "IN",
+      "id": "5.24",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/1977_India_road_sign_5.24.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/335-1977_India_road_sign_5.24.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/335-1977_India_road_sign_5.24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/1977_India_road_sign_5.24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.25.svg",
+      "iso": "IN",
+      "id": "5.25",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/1977_India_road_sign_5.25.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/336-1977_India_road_sign_5.25.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/336-1977_India_road_sign_5.25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/1977_India_road_sign_5.25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.26.svg",
+      "iso": "IN",
+      "id": "5.26",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/1977_India_road_sign_5.26.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/337-1977_India_road_sign_5.26.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/337-1977_India_road_sign_5.26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/1977_India_road_sign_5.26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.27a.svg",
+      "iso": "IN",
+      "id": "5.27a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/1977_India_road_sign_5.27a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/338-1977_India_road_sign_5.27a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/338-1977_India_road_sign_5.27a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/1977_India_road_sign_5.27a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.27b.svg",
+      "iso": "IN",
+      "id": "5.27b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/1977_India_road_sign_5.27b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/339-1977_India_road_sign_5.27b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/339-1977_India_road_sign_5.27b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/1977_India_road_sign_5.27b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.28a.svg",
+      "iso": "IN",
+      "id": "5.28a",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/1977_India_road_sign_5.28a.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/340-1977_India_road_sign_5.28a.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/340-1977_India_road_sign_5.28a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/1977_India_road_sign_5.28a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/IN-5.28b.svg",
+      "iso": "IN",
+      "id": "5.28b",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/1977_India_road_sign_5.28b.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/341-1977_India_road_sign_5.28b.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/341-1977_India_road_sign_5.28b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/1977_India_road_sign_5.28b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-5.29.svg",
+      "iso": "IN",
+      "id": "5.29",
+      "description": null,
+      "variants": [
+        "1977"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1977_India_road_sign_5.29.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/342-1977_India_road_sign_5.29.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/342-1977_India_road_sign_5.29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1977_India_road_sign_5.29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.93,
+      "valid_years": "1977"
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Airport.svg",
+      "iso": "IN",
+      "id": "Airport",
+      "description": "Airport",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Airport_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/182-Airport_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/182-Airport_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Airport_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Asian_Highway_Marker.svg",
+      "iso": "IN",
+      "id": "Asian_Highway_Marker",
+      "description": "Asian_Highway_Marker",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Asian_Highway_Marker_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/227-Asian_Highway_Marker_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/227-Asian_Highway_Marker_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Asian_Highway_Marker_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Auto-rickshaw_stand.svg",
+      "iso": "IN",
+      "id": "Auto-rickshaw_stand",
+      "description": "Auto-rickshaw_stand",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Auto-rickshaw_stand_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/178-Auto-rickshaw_stand_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/178-Auto-rickshaw_stand_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Auto-rickshaw_stand_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Auto_rickshaw_parking.svg",
+      "iso": "IN",
+      "id": "Auto_rickshaw_parking",
+      "description": "Auto_rickshaw_parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Auto_rickshaw_parking_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/212-Auto_rickshaw_parking_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/212-Auto_rickshaw_parking_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Auto_rickshaw_parking_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Bus_lane.svg",
+      "iso": "IN",
+      "id": "Bus_lane",
+      "description": "Bus_lane",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bus_lane_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/195-Bus_lane_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/195-Bus_lane_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bus_lane_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Bus_stop.svg",
+      "iso": "IN",
+      "id": "Bus_stop",
+      "description": "Bus_stop",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bus_stop_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/194-Bus_stop_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/194-Bus_stop_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bus_stop_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/IN-Bus_way.svg",
+      "iso": "IN",
+      "id": "Bus_way",
+      "description": "Bus_way",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bus_way_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/060-Bus_way_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/060-Bus_way_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bus_way_sign_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Camp_site.svg",
+      "iso": "IN",
+      "id": "Camp_site",
+      "description": "Camp_site",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Camp_site_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/181-Camp_site_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/181-Camp_site_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Camp_site_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Car_parking.svg",
+      "iso": "IN",
+      "id": "Car_parking",
+      "description": "Car_parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Car_parking_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/217-Car_parking_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/217-Car_parking_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Car_parking_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Chair_lift.svg",
+      "iso": "IN",
+      "id": "Chair_lift",
+      "description": "Chair_lift",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Chair_lift_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/172-Chair_lift_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/172-Chair_lift_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Chair_lift_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Charging_station.svg",
+      "iso": "IN",
+      "id": "Charging_station",
+      "description": "Charging_station",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Charging_station_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/210-Charging_station_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/210-Charging_station_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Charging_station_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_Keep_Left.svg",
+      "iso": "IN",
+      "id": "Compulsory_Keep_Left",
+      "description": "Compulsory_Keep_Left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Compulsory_Keep_Left_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/053-Compulsory_Keep_Left_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/053-Compulsory_Keep_Left_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Compulsory_Keep_Left_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_Keep_Right.svg",
+      "iso": "IN",
+      "id": "Compulsory_Keep_Right",
+      "description": "Compulsory_Keep_Right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Compulsory_Keep_Right_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/054-Compulsory_Keep_Right_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/054-Compulsory_Keep_Right_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Compulsory_Keep_Right_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_Left.svg",
+      "iso": "IN",
+      "id": "Compulsory_Left",
+      "description": "Compulsory_Left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Compulsory_Left_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/047-Compulsory_Left_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/047-Compulsory_Left_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Compulsory_Left_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_Right.svg",
+      "iso": "IN",
+      "id": "Compulsory_Right",
+      "description": "Compulsory_Right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Compulsory_Right_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/048-Compulsory_Right_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/048-Compulsory_Right_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Compulsory_Right_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_Right_ahead.svg",
+      "iso": "IN",
+      "id": "Compulsory_Right_ahead",
+      "description": "Compulsory_Right_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Compulsory_Right_ahead_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/050-Compulsory_Right_ahead_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/050-Compulsory_Right_ahead_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Compulsory_Right_ahead_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_ahead_or_left.svg",
+      "iso": "IN",
+      "id": "Compulsory_ahead_or_left",
+      "description": "Compulsory_ahead_or_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Compulsory_ahead_or_left_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/052-Compulsory_ahead_or_left_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/052-Compulsory_ahead_or_left_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Compulsory_ahead_or_left_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_ahead_or_right.svg",
+      "iso": "IN",
+      "id": "Compulsory_ahead_or_right",
+      "description": "Compulsory_ahead_or_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Compulsory_ahead_or_right_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/051-Compulsory_ahead_or_right_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/051-Compulsory_ahead_or_right_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Compulsory_ahead_or_right_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_cycle_track.svg",
+      "iso": "IN",
+      "id": "Compulsory_cycle_track",
+      "description": "Compulsory_cycle_track",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Compulsory_cycle_track_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/057-Compulsory_cycle_track_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/057-Compulsory_cycle_track_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Compulsory_cycle_track_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_cyclist_and_pedestrian_route.svg",
+      "iso": "IN",
+      "id": "Compulsory_cyclist_and_pedestrian_route",
+      "description": "Compulsory_cyclist_and_pedestrian_route",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Compulsory_cyclist_and_pedestrian_route_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/058-Compulsory_cyclist_and_pedestrian_route_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/058-Compulsory_cyclist_and_pedestrian_route_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Compulsory_cyclist_and_pedestrian_route_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Compulsory_left_ahead.svg",
+      "iso": "IN",
+      "id": "Compulsory_left_ahead",
+      "description": "Compulsory_left_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Compulsory_left_ahead_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/049-Compulsory_left_ahead_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/049-Compulsory_left_ahead_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Compulsory_left_ahead_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IN-Compulsory_snow_chain.svg",
+      "iso": "IN",
+      "id": "Compulsory_snow_chain",
+      "description": "Compulsory_snow_chain",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Compulsory_snow_chain_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/061-Compulsory_snow_chain_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/061-Compulsory_snow_chain_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Compulsory_snow_chain_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/IN-Compulsory_sound_horn.svg",
+      "iso": "IN",
+      "id": "Compulsory_sound_horn",
+      "description": "Compulsory_sound_horn",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Compulsory_sound_horn_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/062-Compulsory_sound_horn_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/062-Compulsory_sound_horn_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Compulsory_sound_horn_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Contra_flow_bus_lane.svg",
+      "iso": "IN",
+      "id": "Contra_flow_bus_lane",
+      "description": "Contra_flow_bus_lane",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Contra_flow_bus_lane_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/196-Contra_flow_bus_lane_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/196-Contra_flow_bus_lane_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Contra_flow_bus_lane_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Contra_flow_cycle_lane.svg",
+      "iso": "IN",
+      "id": "Contra_flow_cycle_lane",
+      "description": "Contra_flow_cycle_lane",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Contra_flow_cycle_lane_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/198-Contra_flow_cycle_lane_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/198-Contra_flow_cycle_lane_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Contra_flow_cycle_lane_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Country_border.svg",
+      "iso": "IN",
+      "id": "Country_border",
+      "description": "Country_border_Sign",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Country_border_Sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/189-Country_border_Sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/189-Country_border_Sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Country_border_Sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Cycle_lane.svg",
+      "iso": "IN",
+      "id": "Cycle_lane",
+      "description": "Cycle_lane",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cycle_lane_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/197-Cycle_lane_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/197-Cycle_lane_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cycle_lane_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Cycle_parking.svg",
+      "iso": "IN",
+      "id": "Cycle_parking",
+      "description": "Cycle_parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cycle_parking_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/213-Cycle_parking_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/213-Cycle_parking_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cycle_parking_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Cycle_rickshaw_parking.svg",
+      "iso": "IN",
+      "id": "Cycle_rickshaw_parking",
+      "description": "Cycle_rickshaw_parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cycle_rickshaw_parking_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/214-Cycle_rickshaw_parking_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/214-Cycle_rickshaw_parking_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cycle_rickshaw_parking_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Cycle_rickshaw_stand.svg",
+      "iso": "IN",
+      "id": "Cycle_rickshaw_stand",
+      "description": "Cycle_rickshaw_stand",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cycle_rickshaw_stand_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/176-Cycle_rickshaw_stand_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/176-Cycle_rickshaw_stand_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cycle_rickshaw_stand_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Eating_place_facility.svg",
+      "iso": "IN",
+      "id": "Eating_place_facility",
+      "description": "Eating_place_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Eating_place_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/161-Eating_place_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/161-Eating_place_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Eating_place_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Emergency_SOS_facility.svg",
+      "iso": "IN",
+      "id": "Emergency_SOS_facility",
+      "description": "Emergency_SOS_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Emergency_SOS_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/168-Emergency_SOS_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/168-Emergency_SOS_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Emergency_SOS_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Emergency_lay-by.svg",
+      "iso": "IN",
+      "id": "Emergency_lay-by",
+      "description": "Emergency_lay-by",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Emergency_lay-by_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/204-Emergency_lay-by_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/204-Emergency_lay-by_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Emergency_lay-by_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-End_of_expressway.svg",
+      "iso": "IN",
+      "id": "End_of_expressway",
+      "description": "End_of_expressway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/End_of_expressway_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/193-End_of_expressway_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/193-End_of_expressway_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/End_of_expressway_sign_India.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Entry_ramp_for_expressway.svg",
+      "iso": "IN",
+      "id": "Entry_ramp_for_expressway",
+      "description": "Entry_ramp_for_expressway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Entry_ramp_for_expressway_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/190-Entry_ramp_for_expressway_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/190-Entry_ramp_for_expressway_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Entry_ramp_for_expressway_sign_India.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Exit_ramp_for_expressway.svg",
+      "iso": "IN",
+      "id": "Exit_ramp_for_expressway",
+      "description": "Exit_ramp_for_expressway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Exit_ramp_for_expressway_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/191-Exit_ramp_for_expressway_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/191-Exit_ramp_for_expressway_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Exit_ramp_for_expressway_sign_India.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/IN-Expressway_ahead.svg",
+      "iso": "IN",
+      "id": "Expressway_ahead",
+      "description": "Expressway_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Expressway_ahead_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/156-Expressway_ahead_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/156-Expressway_ahead_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Expressway_ahead_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Expressway_symbol.svg",
+      "iso": "IN",
+      "id": "Expressway_symbol",
+      "description": "Expressway_symbol",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Expressway_symbol_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/192-Expressway_symbol_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/192-Expressway_symbol_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Expressway_symbol_sign_India.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/IN-Filling_station_facility.svg",
+      "iso": "IN",
+      "id": "Filling_station_facility",
+      "description": "Filling_station_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Filling_station_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/166-Filling_station_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/166-Filling_station_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Filling_station_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/IN-Fire_extinguisher.svg",
+      "iso": "IN",
+      "id": "Fire_extinguisher",
+      "description": "Fire_extinguisher",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fire_extinguisher_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/205-Fire_extinguisher_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/205-Fire_extinguisher_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fire_extinguisher_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/IN-First_aid_post_facility.svg",
+      "iso": "IN",
+      "id": "First_aid_post_facility",
+      "description": "First_aid_post_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/First_aid_post_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/164-First_aid_post_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/164-First_aid_post_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/First_aid_post_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Flag_of.svg",
+      "iso": "IN",
+      "id": "Flag_of",
+      "description": "Flag_of",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/344-Flag_of_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/344-Flag_of_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.728
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Flood_Gauge.svg",
+      "iso": "IN",
+      "id": "Flood_Gauge",
+      "description": "Flood_Gauge",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Flood_Gauge_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/224-Flood_Gauge_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/224-Flood_Gauge_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Flood_Gauge_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Foot_over_bridge.svg",
+      "iso": "IN",
+      "id": "Foot_over_bridge",
+      "description": "Foot_over_bridge",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Foot_over_bridge_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/171-Foot_over_bridge_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/171-Foot_over_bridge_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Foot_over_bridge_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Golf_course.svg",
+      "iso": "IN",
+      "id": "Golf_course",
+      "description": "Golf_course",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Golf_course_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/183-Golf_course_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/183-Golf_course_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Golf_course_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Guarded_railway_crossing_100m.svg",
+      "iso": "IN",
+      "id": "Guarded_railway_crossing_100m",
+      "description": "Guarded_railway_crossing_100m",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Guarded_railway_crossing_100m_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/135-Guarded_railway_crossing_100m_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/135-Guarded_railway_crossing_100m_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Guarded_railway_crossing_100m_sign_India.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.684
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Guarded_railway_crossing_200m.svg",
+      "iso": "IN",
+      "id": "Guarded_railway_crossing_200m",
+      "description": "Guarded_railway_crossing_200m",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Guarded_railway_crossing_200m_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/136-Guarded_railway_crossing_200m_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/136-Guarded_railway_crossing_200m_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Guarded_railway_crossing_200m_sign_India.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.685
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Guide_on_ETC_lane.svg",
+      "iso": "IN",
+      "id": "Guide_on_ETC_lane",
+      "description": "Guide_sign_on_ETC_lane",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Guide_sign_on_ETC_lane_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/188-Guide_sign_on_ETC_lane_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/188-Guide_sign_on_ETC_lane_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Guide_sign_on_ETC_lane_sign_India.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.895
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Holiday_chalets.svg",
+      "iso": "IN",
+      "id": "Holiday_chalets",
+      "description": "Holiday_chalets",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Holiday_chalets_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/199-Holiday_chalets_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/199-Holiday_chalets_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Holiday_chalets_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Home_zone.svg",
+      "iso": "IN",
+      "id": "Home_zone",
+      "description": "Home_zone",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Home_zone_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/180-Home_zone_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/180-Home_zone_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Home_zone_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Hospital.svg",
+      "iso": "IN",
+      "id": "Hospital",
+      "description": "Hospital",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hospital_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/167-Hospital_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/167-Hospital_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hospital_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-I-I-1_EN.svg",
+      "iso": "IN",
+      "id": "I-I-1",
+      "description": null,
+      "variants": [
+        "EN"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Indian_Road_Sign_I-I-1_%28EN%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/01-Indian_Road_Sign_I-I-1_(EN).svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/01-Indian_Road_Sign_I-I-1_(EN).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Indian_Road_Sign_I-I-1_%28EN%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/009-Indian_Road_Sign_I-I-1_(EN).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Indian_Road_Sign_I-I-1_%28EN%29.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/IN-I-I-2.svg",
+      "iso": "IN",
+      "id": "I-I-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Indian_Road_Sign_I-I-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/02-Indian_Road_Sign_I-I-2.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/02-Indian_Road_Sign_I-I-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Indian_Road_Sign_I-I-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/011-Indian_Road_Sign_I-I-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Indian_Road_Sign_I-I-2.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-II-1.svg",
+      "iso": "IN",
+      "id": "I-II-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Indian_Road_Sign_I-II-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/03-Indian_Road_Sign_I-II-1.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/03-Indian_Road_Sign_I-II-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Indian_Road_Sign_I-II-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/013-Indian_Road_Sign_I-II-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Indian_Road_Sign_I-II-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-II-14.svg",
+      "iso": "IN",
+      "id": "I-II-14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indian_Road_Sign_I-II-14.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/08-Indian_Road_Sign_I-II-14.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/08-Indian_Road_Sign_I-II-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indian_Road_Sign_I-II-14.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/019-Indian_Road_Sign_I-II-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indian_Road_Sign_I-II-14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-II-15.svg",
+      "iso": "IN",
+      "id": "I-II-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Indian_Road_Sign_I-II-15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/09-Indian_Road_Sign_I-II-15.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/09-Indian_Road_Sign_I-II-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Indian_Road_Sign_I-II-15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/039-Indian_Road_Sign_I-II-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Indian_Road_Sign_I-II-15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-II-16.svg",
+      "iso": "IN",
+      "id": "I-II-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Indian_Road_Sign_I-II-16.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/10-Indian_Road_Sign_I-II-16.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/10-Indian_Road_Sign_I-II-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Indian_Road_Sign_I-II-16.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-II-18.svg",
+      "iso": "IN",
+      "id": "I-II-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Indian_Road_Sign_I-II-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/11-Indian_Road_Sign_I-II-18.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/11-Indian_Road_Sign_I-II-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Indian_Road_Sign_I-II-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/032-Indian_Road_Sign_I-II-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Indian_Road_Sign_I-II-18.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-II-19.svg",
+      "iso": "IN",
+      "id": "I-II-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Indian_Road_Sign_I-II-19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/12-Indian_Road_Sign_I-II-19.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/12-Indian_Road_Sign_I-II-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Indian_Road_Sign_I-II-19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/033-Indian_Road_Sign_I-II-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Indian_Road_Sign_I-II-19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-II-2.svg",
+      "iso": "IN",
+      "id": "I-II-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Indian_Road_Sign_I-II-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/04-Indian_Road_Sign_I-II-2.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/04-Indian_Road_Sign_I-II-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Indian_Road_Sign_I-II-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/014-Indian_Road_Sign_I-II-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Indian_Road_Sign_I-II-2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-II-20.svg",
+      "iso": "IN",
+      "id": "I-II-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Indian_Road_Sign_I-II-20.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/13-Indian_Road_Sign_I-II-20.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/13-Indian_Road_Sign_I-II-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Indian_Road_Sign_I-II-20.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-II-21.svg",
+      "iso": "IN",
+      "id": "I-II-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Indian_Road_Sign_I-II-21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/14-Indian_Road_Sign_I-II-21.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/14-Indian_Road_Sign_I-II-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Indian_Road_Sign_I-II-21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-II-3.svg",
+      "iso": "IN",
+      "id": "I-II-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Indian_Road_Sign_I-II-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/05-Indian_Road_Sign_I-II-3.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/05-Indian_Road_Sign_I-II-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Indian_Road_Sign_I-II-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/015-Indian_Road_Sign_I-II-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Indian_Road_Sign_I-II-3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-II-4.svg",
+      "iso": "IN",
+      "id": "I-II-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Indian_Road_Sign_I-II-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/06-Indian_Road_Sign_I-II-4.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/06-Indian_Road_Sign_I-II-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Indian_Road_Sign_I-II-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/016-Indian_Road_Sign_I-II-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Indian_Road_Sign_I-II-4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-II-9.svg",
+      "iso": "IN",
+      "id": "I-II-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Indian_Road_Sign_I-II-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/07-Indian_Road_Sign_I-II-9.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/07-Indian_Road_Sign_I-II-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Indian_Road_Sign_I-II-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/018-Indian_Road_Sign_I-II-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Indian_Road_Sign_I-II-9.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-III-2.svg",
+      "iso": "IN",
+      "id": "I-III-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Indian_Road_Sign_I-III-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/15-Indian_Road_Sign_I-III-2.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/15-Indian_Road_Sign_I-III-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Indian_Road_Sign_I-III-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-I-III-4.svg",
+      "iso": "IN",
+      "id": "I-III-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Indian_Road_Sign_I-III-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/16-Indian_Road_Sign_I-III-4.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/16-Indian_Road_Sign_I-III-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Indian_Road_Sign_I-III-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-IV-1.svg",
+      "iso": "IN",
+      "id": "I-IV-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Indian_Road_Sign_I-IV-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/17-Indian_Road_Sign_I-IV-1.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/17-Indian_Road_Sign_I-IV-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Indian_Road_Sign_I-IV-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/030-Indian_Road_Sign_I-IV-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Indian_Road_Sign_I-IV-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-IV-2.svg",
+      "iso": "IN",
+      "id": "I-IV-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Indian_Road_Sign_I-IV-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/18-Indian_Road_Sign_I-IV-2.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/18-Indian_Road_Sign_I-IV-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Indian_Road_Sign_I-IV-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/027-Indian_Road_Sign_I-IV-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Indian_Road_Sign_I-IV-2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-IV-3.svg",
+      "iso": "IN",
+      "id": "I-IV-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Indian_Road_Sign_I-IV-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/19-Indian_Road_Sign_I-IV-3.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/19-Indian_Road_Sign_I-IV-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Indian_Road_Sign_I-IV-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/031-Indian_Road_Sign_I-IV-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Indian_Road_Sign_I-IV-3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-IV-4.svg",
+      "iso": "IN",
+      "id": "I-IV-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Indian_Road_Sign_I-IV-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/20-Indian_Road_Sign_I-IV-4.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/20-Indian_Road_Sign_I-IV-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Indian_Road_Sign_I-IV-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/029-Indian_Road_Sign_I-IV-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Indian_Road_Sign_I-IV-4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-I-IV-6.svg",
+      "iso": "IN",
+      "id": "I-IV-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Indian_Road_Sign_I-IV-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "IN_India/osm_wiki/01-Road_signs/21-Indian_Road_Sign_I-IV-6.svg",
+      "sources": [
+        {
+          "file": "IN_India/osm_wiki/01-Road_signs/21-Indian_Road_Sign_I-IV-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Indian_Road_Sign_I-IV-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/037-Indian_Road_Sign_I-IV-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Indian_Road_Sign_I-IV-6.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Kannur_South_6_Kerala.jpg",
+      "iso": "IN",
+      "id": "Kannur_South_6_Kerala",
+      "description": "Kannur_South_6_Kerala",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kannur_South_6%2C_Kerala%2C_India.jpg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/006-Kannur_South_6,_Kerala,_India.jpg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/006-Kannur_South_6,_Kerala,_India.jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kannur_South_6%2C_Kerala%2C_India.jpg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Light_Refreshment_facility.svg",
+      "iso": "IN",
+      "id": "Light_Refreshment_facility",
+      "description": "Light_Refreshment_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Light_Refreshment_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/162-Light_Refreshment_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/162-Light_Refreshment_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Light_Refreshment_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Minimum_speed_limit.svg",
+      "iso": "IN",
+      "id": "Minimum_speed_limit",
+      "description": "Minimum_speed_limit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Minimum_speed_limit_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/063-Minimum_speed_limit_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/063-Minimum_speed_limit_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Minimum_speed_limit_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-National_heritage.svg",
+      "iso": "IN",
+      "id": "National_heritage",
+      "description": "National_heritage",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/National_heritage_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/184-National_heritage_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/184-National_heritage_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/National_heritage_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-No_Entry.svg",
+      "iso": "IN",
+      "id": "No_Entry",
+      "description": "No_Entry",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/No_Entry_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/023-No_Entry_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/023-No_Entry_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/No_Entry_sign_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/IN-No_through_road.svg",
+      "iso": "IN",
+      "id": "No_through_road",
+      "description": "No_through_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/No_through_road_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/185-No_through_road_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/185-No_through_road_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/No_through_road_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-No_through_side_road.svg",
+      "iso": "IN",
+      "id": "No_through_side_road",
+      "description": "No_through_side_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/No_through_side_road_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/186-No_through_side_road_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/186-No_through_side_road_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/No_through_side_road_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Park_and_ride_bus.svg",
+      "iso": "IN",
+      "id": "Park_and_ride_bus",
+      "description": "Park_and_ride_bus",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Park_and_ride_bus_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/219-Park_and_ride_bus_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/219-Park_and_ride_bus_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Park_and_ride_bus_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Park_and_ride_metro.svg",
+      "iso": "IN",
+      "id": "Park_and_ride_metro",
+      "description": "Park_and_ride_metro",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Park_and_ride_metro_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/218-Park_and_ride_metro_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/218-Park_and_ride_metro_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Park_and_ride_metro_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.908
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Parking.svg",
+      "iso": "IN",
+      "id": "Parking",
+      "description": "Parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Parking_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/211-Parking_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/211-Parking_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Parking_sign_India.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Pass_either_side.svg",
+      "iso": "IN",
+      "id": "Pass_either_side",
+      "description": "Pass_either_side",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pass_either_side_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/055-Pass_either_side_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/055-Pass_either_side_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pass_either_side_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/IN-Pedestrian_crossing_facility.svg",
+      "iso": "IN",
+      "id": "Pedestrian_crossing_facility",
+      "description": "Pedestrian_crossing_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pedestrian_crossing_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/208-Pedestrian_crossing_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/208-Pedestrian_crossing_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pedestrian_crossing_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/IN-Pedestrian_only.svg",
+      "iso": "IN",
+      "id": "Pedestrian_only",
+      "description": "Pedestrian_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Pedestrian_only_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/059-Pedestrian_only_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/059-Pedestrian_only_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Pedestrian_only_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Pedestrian_subway.svg",
+      "iso": "IN",
+      "id": "Pedestrian_subway",
+      "description": "Pedestrian_subway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pedestrian_subway_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/170-Pedestrian_subway_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/170-Pedestrian_subway_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pedestrian_subway_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Pick_up_and_drop_point.svg",
+      "iso": "IN",
+      "id": "Pick_up_and_drop_point",
+      "description": "Pick_up_and_drop_point",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pick_up_and_drop_point_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/220-Pick_up_and_drop_point_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/220-Pick_up_and_drop_point_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pick_up_and_drop_point_sign_India.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Police_Station.svg",
+      "iso": "IN",
+      "id": "Police_Station",
+      "description": "Police_Station",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Police_Station_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/173-Police_Station_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/173-Police_Station_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Police_Station_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/IN-Priority_to_vehicles_from_the_right.svg",
+      "iso": "IN",
+      "id": "Priority_to_vehicles_from_the_right",
+      "description": "Priority_to_vehicles_from_the_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Priority_to_vehicles_from_the_right_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/056-Priority_to_vehicles_from_the_right_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/056-Priority_to_vehicles_from_the_right_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Priority_to_vehicles_from_the_right_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Railway_Station_metro_station_monorail_station.svg",
+      "iso": "IN",
+      "id": "Railway_Station_metro_station_monorail_station",
+      "description": "Railway_Station_metro_station_monorail_station",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Railway_Station_metro_station_monorail_station_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/175-Railway_Station_metro_station_monorail_station_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/175-Railway_Station_metro_station_monorail_station_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Railway_Station_metro_station_monorail_station_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Repair_facility.svg",
+      "iso": "IN",
+      "id": "Repair_facility",
+      "description": "Repair_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Repair_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/174-Repair_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/174-Repair_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Repair_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Resting_place_facility.svg",
+      "iso": "IN",
+      "id": "Resting_place_facility",
+      "description": "Resting_place_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Resting_place_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/163-Resting_place_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/163-Resting_place_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Resting_place_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-Restriction_ends.svg",
+      "iso": "IN",
+      "id": "Restriction_ends",
+      "description": "Restriction_ends",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Restriction_ends_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/040-Restriction_ends_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/040-Restriction_ends_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Restriction_ends_sign_India.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/IN-Road_of_villages_in.jpg",
+      "iso": "IN",
+      "id": "Road_of_villages_in",
+      "description": "Road_signs_of_villages_in",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Road_signs_of_villages_in_India.jpg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/007-Road_signs_of_villages_in_India.jpg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/007-Road_signs_of_villages_in_India.jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Road_signs_of_villages_in_India.jpg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.893
+    },
+    {
+      "filename": "b_priority_signs/vienna/IN-STOP_multilingual.gif",
+      "iso": "IN",
+      "id": "STOP_multilingual",
+      "description": "STOP_multilingual",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Indian_road_sign_STOP_multilingual.gif",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/010-Indian_road_sign_STOP_multilingual.gif",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/010-Indian_road_sign_STOP_multilingual.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Indian_road_sign_STOP_multilingual.gif"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Scooter_and_motorcycle_parking.svg",
+      "iso": "IN",
+      "id": "Scooter_and_motorcycle_parking",
+      "description": "Scooter_and_motorcycle_parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scooter_and_motorcycle_parking_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/215-Scooter_and_motorcycle_parking_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/215-Scooter_and_motorcycle_parking_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scooter_and_motorcycle_parking_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Shared_taxi_and_share_auto_stand.svg",
+      "iso": "IN",
+      "id": "Shared_taxi_and_share_auto_stand",
+      "description": "Shared_taxi_and_share_auto_stand",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Shared_taxi_and_share_auto_stand_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/179-Shared_taxi_and_share_auto_stand_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/179-Shared_taxi_and_share_auto_stand_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Shared_taxi_and_share_auto_stand_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Single_chevron_normal.svg",
+      "iso": "IN",
+      "id": "Single_chevron_normal",
+      "description": "Single_chevron_normal",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Single_chevron_normal_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/138-Single_chevron_normal_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/138-Single_chevron_normal_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Single_chevron_normal_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Speed_breaker_facility.svg",
+      "iso": "IN",
+      "id": "Speed_breaker_facility",
+      "description": "Speed_breaker_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Speed_breaker_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/209-Speed_breaker_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/209-Speed_breaker_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Speed_breaker_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Taxi_parking.svg",
+      "iso": "IN",
+      "id": "Taxi_parking",
+      "description": "Taxi_parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Taxi_parking_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/216-Taxi_parking_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/216-Taxi_parking_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Taxi_parking_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-Taxi_stand.svg",
+      "iso": "IN",
+      "id": "Taxi_stand",
+      "description": "Taxi_stand",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Taxi_stand_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/177-Taxi_stand_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/177-Taxi_stand_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Taxi_stand_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/IN-Toilet_facility.svg",
+      "iso": "IN",
+      "id": "Toilet_facility",
+      "description": "Toilet_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Toilet_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/165-Toilet_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/165-Toilet_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Toilet_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/IN-Toll_road_ahead.svg",
+      "iso": "IN",
+      "id": "Toll_road_ahead",
+      "description": "Toll_road_ahead",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Toll_road_ahead_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/187-Toll_road_ahead_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/187-Toll_road_ahead_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Toll_road_ahead_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/IN-U-turn_ahead_facility.svg",
+      "iso": "IN",
+      "id": "U-turn_ahead_facility",
+      "description": "U-turn_ahead_facility",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/U-turn_ahead_facility_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/169-U-turn_ahead_facility_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/169-U-turn_ahead_facility_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/U-turn_ahead_facility_sign_India.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Unguarded_railway_crossing_100m.svg",
+      "iso": "IN",
+      "id": "Unguarded_railway_crossing_100m",
+      "description": "Unguarded_railway_crossing_100m",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Unguarded_railway_crossing_100m_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/132-Unguarded_railway_crossing_100m_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/132-Unguarded_railway_crossing_100m_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Unguarded_railway_crossing_100m_sign_India.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.684
+    },
+    {
+      "filename": "sd_unclassified/other/IN-Unguarded_railway_crossing_200m.svg",
+      "iso": "IN",
+      "id": "Unguarded_railway_crossing_200m",
+      "description": "Unguarded_railway_crossing_200m",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Unguarded_railway_crossing_200m_sign_India.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/133-Unguarded_railway_crossing_200m_sign_India.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/133-Unguarded_railway_crossing_200m_sign_India.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Unguarded_railway_crossing_200m_sign_India.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.685
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-all_motor_vehicles_prohibited.svg",
+      "iso": "IN",
+      "id": "all_motor_vehicles_prohibited",
+      "description": "all_motor_vehicles_prohibited",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Indian_Road_Sign_all_motor_vehicles_prohibited.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/025-Indian_Road_Sign_all_motor_vehicles_prohibited.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/025-Indian_Road_Sign_all_motor_vehicles_prohibited.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Indian_Road_Sign_all_motor_vehicles_prohibited.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-no_vehicles.svg",
+      "iso": "IN",
+      "id": "no_vehicles",
+      "description": "no_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Indian_Road_Sign_no_vehicles.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/026-Indian_Road_Sign_no_vehicles.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/026-Indian_Road_Sign_no_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Indian_Road_Sign_no_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/IN-oncoming_priority.svg",
+      "iso": "IN",
+      "id": "oncoming_priority",
+      "description": "oncoming_priority",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Indian_Road_Sign_oncoming_priority.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/024-Indian_Road_Sign_oncoming_priority.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/024-Indian_Road_Sign_oncoming_priority.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Indian_Road_Sign_oncoming_priority.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-one_way_traffic_left.svg",
+      "iso": "IN",
+      "id": "one_way_traffic_left",
+      "description": "one_way_traffic_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Indian_Road_Sign_one_way_traffic_left.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/022-Indian_Road_Sign_one_way_traffic_left.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/022-Indian_Road_Sign_one_way_traffic_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Indian_Road_Sign_one_way_traffic_left.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/IN-one_way_traffic_right.svg",
+      "iso": "IN",
+      "id": "one_way_traffic_right",
+      "description": "one_way_traffic_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Indian_Road_Sign_one_way_traffic_right.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/021-Indian_Road_Sign_one_way_traffic_right.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/021-Indian_Road_Sign_one_way_traffic_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Indian_Road_Sign_one_way_traffic_right.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-pedestrians_prohibited.svg",
+      "iso": "IN",
+      "id": "pedestrians_prohibited",
+      "description": "pedestrians_prohibited",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Indian_Road_Sign_pedestrians_prohibited.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/020-Indian_Road_Sign_pedestrians_prohibited.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/020-Indian_Road_Sign_pedestrians_prohibited.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Indian_Road_Sign_pedestrians_prohibited.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/IN-width_limit.svg",
+      "iso": "IN",
+      "id": "width_limit",
+      "description": "width_limit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Indian_Road_Sign_width_limit.svg",
+      "kept_from": "IN_India/wikipedia_en/01-en_Road_signs_in_India/028-Indian_Road_Sign_width_limit.svg",
+      "sources": [
+        {
+          "file": "IN_India/wikipedia_en/01-en_Road_signs_in_India/028-Indian_Road_Sign_width_limit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Indian_Road_Sign_width_limit.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    }
+  ]
+}

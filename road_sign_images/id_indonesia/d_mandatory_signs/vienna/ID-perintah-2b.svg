@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1001.0001"
+   height="1001.0001"
+   viewBox="0 0 264.84793 264.84793"
+   version="1.1"
+   id="svg93830"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="ID_Rambu_perintah_7c.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview93832"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.50646226"
+     inkscape:cx="895.42703"
+     inkscape:cy="782.88163"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs93827" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.729479,75.057836)">
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458331;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle93383"
+       cx="57.366127"
+       cy="-195.15344"
+       r="132.29167"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.60218;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path92839"
+       cx="57.366127"
+       cy="-195.15344"
+       r="131.70631"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#084597;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.83758;stroke-linecap:round;paint-order:stroke fill markers"
+       id="circle93381"
+       cx="57.366127"
+       cy="-195.15344"
+       r="119.99908"
+       transform="rotate(90)" />
+    <g
+       id="g9408"
+       transform="matrix(6.471439,0,0,6.471439,-2851.1816,-215.79591)">
+      <path
+         fill-rule="evenodd"
+         fill="#fefefe"
+         fill-opacity="1"
+         d="M 484.96771,42.508063 476.8745,37.79793 c -0.66146,-0.38723 -1.56821,0.275607 -1.16031,1.000456 l 0.87643,1.576476 h -6.66557 v -4.703247 h 0.007 l 1.59853,0.873679 c 0.7276,0.395495 1.3987,-0.500229 1.01423,-1.147907 l -4.7749,-7.984352 -4.78041,7.984352 c -0.38585,0.647678 0.28525,1.543402 1.01975,1.147907 l 1.59163,-0.873679 v 19.539202 h 4.17408 v -9.372035 c 0,-0.753787 0.17225,-1.196139 1.06384,-1.196139 h 5.75194 l -0.87643,1.576476 c -0.4079,0.724849 0.49885,1.386307 1.16031,1.000456 z m 0,0"
+         id="path9115"
+         style="stroke-width:0.352778" />
+    </g>
+  </g>
+</svg>

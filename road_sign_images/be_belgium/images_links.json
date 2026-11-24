@@ -1,0 +1,3782 @@
+{
+  "country_code": "BE",
+  "country": "Belgium",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A11.svg",
+      "iso": "BE",
+      "id": "A11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Belgian_road_sign_A11.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/011-Belgian_road_sign_A11.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/011-Belgian_road_sign_A11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Belgian_road_sign_A11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A13.svg",
+      "iso": "BE",
+      "id": "A13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_A13.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/012-Belgian_road_sign_A13.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/012-Belgian_road_sign_A13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_A13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A14.svg",
+      "iso": "BE",
+      "id": "A14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Belgian_road_sign_A14.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/013-Belgian_road_sign_A14.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/013-Belgian_road_sign_A14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Belgian_road_sign_A14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.966
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A15.svg",
+      "iso": "BE",
+      "id": "A15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_A15.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/014-Belgian_road_sign_A15.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/014-Belgian_road_sign_A15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_A15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A17.svg",
+      "iso": "BE",
+      "id": "A17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Belgian_road_sign_A17.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/015-Belgian_road_sign_A17.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/015-Belgian_road_sign_A17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Belgian_road_sign_A17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A19.svg",
+      "iso": "BE",
+      "id": "A19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Belgian_road_sign_A19.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/016-Belgian_road_sign_A19.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/016-Belgian_road_sign_A19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Belgian_road_sign_A19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A1a.svg",
+      "iso": "BE",
+      "id": "A1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Belgian_road_sign_A1a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/001-Belgian_road_sign_A1a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/001-Belgian_road_sign_A1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Belgian_road_sign_A1a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A1b.svg",
+      "iso": "BE",
+      "id": "A1b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Belgian_road_sign_A1b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/002-Belgian_road_sign_A1b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/002-Belgian_road_sign_A1b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Belgian_road_sign_A1b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A1c.svg",
+      "iso": "BE",
+      "id": "A1c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_A1c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/003-Belgian_road_sign_A1c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/003-Belgian_road_sign_A1c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_A1c.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A1d.svg",
+      "iso": "BE",
+      "id": "A1d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Belgian_road_sign_A1d.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/004-Belgian_road_sign_A1d.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/004-Belgian_road_sign_A1d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Belgian_road_sign_A1d.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A21.svg",
+      "iso": "BE",
+      "id": "A21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Belgian_road_sign_A21.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/017-Belgian_road_sign_A21.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/017-Belgian_road_sign_A21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Belgian_road_sign_A21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A23.svg",
+      "iso": "BE",
+      "id": "A23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Belgian_road_sign_A23.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/018-Belgian_road_sign_A23.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/018-Belgian_road_sign_A23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Belgian_road_sign_A23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A25.svg",
+      "iso": "BE",
+      "id": "A25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Belgian_road_sign_A25.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/019-Belgian_road_sign_A25.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/019-Belgian_road_sign_A25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Belgian_road_sign_A25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A27.svg",
+      "iso": "BE",
+      "id": "A27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_A27.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/020-Belgian_road_sign_A27.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/020-Belgian_road_sign_A27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_A27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A29.svg",
+      "iso": "BE",
+      "id": "A29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Belgian_road_sign_A29.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/021-Belgian_road_sign_A29.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/021-Belgian_road_sign_A29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Belgian_road_sign_A29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A3.svg",
+      "iso": "BE",
+      "id": "A3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Belgian_road_sign_A3.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/005-Belgian_road_sign_A3.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/005-Belgian_road_sign_A3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Belgian_road_sign_A3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A31.svg",
+      "iso": "BE",
+      "id": "A31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_A31.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/022-Belgian_road_sign_A31.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/022-Belgian_road_sign_A31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_A31.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BE-A33.svg",
+      "iso": "BE",
+      "id": "A33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Belgian_road_sign_A33.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/023-Belgian_road_sign_A33.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/023-Belgian_road_sign_A33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Belgian_road_sign_A33.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A35.svg",
+      "iso": "BE",
+      "id": "A35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Belgian_road_sign_A35.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/024-Belgian_road_sign_A35.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/024-Belgian_road_sign_A35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Belgian_road_sign_A35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A37.svg",
+      "iso": "BE",
+      "id": "A37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Belgian_road_sign_A37.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/025-Belgian_road_sign_A37.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/025-Belgian_road_sign_A37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Belgian_road_sign_A37.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A39.svg",
+      "iso": "BE",
+      "id": "A39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Belgian_road_sign_A39.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/026-Belgian_road_sign_A39.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/026-Belgian_road_sign_A39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Belgian_road_sign_A39.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A41.svg",
+      "iso": "BE",
+      "id": "A41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Belgian_road_sign_A41.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/027-Belgian_road_sign_A41.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/027-Belgian_road_sign_A41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Belgian_road_sign_A41.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.931
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A43.svg",
+      "iso": "BE",
+      "id": "A43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_A43.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/028-Belgian_road_sign_A43.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/028-Belgian_road_sign_A43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_A43.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.931
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A45.svg",
+      "iso": "BE",
+      "id": "A45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Belgian_road_sign_A45.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/029-Belgian_road_sign_A45.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/029-Belgian_road_sign_A45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Belgian_road_sign_A45.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.432
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A47.svg",
+      "iso": "BE",
+      "id": "A47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Belgian_road_sign_A47.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/030-Belgian_road_sign_A47.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/030-Belgian_road_sign_A47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Belgian_road_sign_A47.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.468
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A49.svg",
+      "iso": "BE",
+      "id": "A49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Belgian_road_sign_A49.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/031-Belgian_road_sign_A49.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/031-Belgian_road_sign_A49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Belgian_road_sign_A49.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.966
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A5.svg",
+      "iso": "BE",
+      "id": "A5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Belgian_road_sign_A5.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/006-Belgian_road_sign_A5.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/006-Belgian_road_sign_A5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Belgian_road_sign_A5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A51.svg",
+      "iso": "BE",
+      "id": "A51",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Belgian_road_sign_A51.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/032-Belgian_road_sign_A51.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/032-Belgian_road_sign_A51.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Belgian_road_sign_A51.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A7a.svg",
+      "iso": "BE",
+      "id": "A7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belgian_road_sign_A7a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/007-Belgian_road_sign_A7a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/007-Belgian_road_sign_A7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belgian_road_sign_A7a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.938
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A7b_2.svg",
+      "iso": "BE",
+      "id": "A7b",
+      "description": null,
+      "variants": [
+        "2"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Belgian_road_sign_A7b_%282%29.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/008-Belgian_road_sign_A7b_(2).svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/008-Belgian_road_sign_A7b_(2).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Belgian_road_sign_A7b_%282%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.938
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A7c.svg",
+      "iso": "BE",
+      "id": "A7c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Belgian_road_sign_A7c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/009-Belgian_road_sign_A7c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/009-Belgian_road_sign_A7c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Belgian_road_sign_A7c.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.938
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-A9.svg",
+      "iso": "BE",
+      "id": "A9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Belgian_road_sign_A9.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/010-Belgian_road_sign_A9.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/010-Belgian_road_sign_A9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Belgian_road_sign_A9.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "b_priority_signs/vienna/BE-B1.svg",
+      "iso": "BE",
+      "id": "B1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Belgian_road_sign_B1.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/033-Belgian_road_sign_B1.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/033-Belgian_road_sign_B1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Belgian_road_sign_B1.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.931
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BE-B15.svg",
+      "iso": "BE",
+      "id": "B15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Belgian_road_sign_B15.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/040-Belgian_road_sign_B15.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/040-Belgian_road_sign_B15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Belgian_road_sign_B15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BE-B17.svg",
+      "iso": "BE",
+      "id": "B17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Belgian_road_sign_B17.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/041-Belgian_road_sign_B17.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/041-Belgian_road_sign_B17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Belgian_road_sign_B17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.933
+    },
+    {
+      "filename": "b_priority_signs/vienna/BE-B19.svg",
+      "iso": "BE",
+      "id": "B19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Belgian_road_sign_B19.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/042-Belgian_road_sign_B19.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/042-Belgian_road_sign_B19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Belgian_road_sign_B19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "b_priority_signs/vienna/BE-B21.svg",
+      "iso": "BE",
+      "id": "B21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Belgian_road_sign_B21.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/043-Belgian_road_sign_B21.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/043-Belgian_road_sign_B21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Belgian_road_sign_B21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/other/BE-B22.svg",
+      "iso": "BE",
+      "id": "B22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Belgian_road_sign_B22.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/044-Belgian_road_sign_B22.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/044-Belgian_road_sign_B22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Belgian_road_sign_B22.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.931
+    },
+    {
+      "filename": "b_priority_signs/other/BE-B23.svg",
+      "iso": "BE",
+      "id": "B23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Belgian_road_sign_B23.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/045-Belgian_road_sign_B23.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/045-Belgian_road_sign_B23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Belgian_road_sign_B23.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.931
+    },
+    {
+      "filename": "b_priority_signs/other/BE-B3.svg",
+      "iso": "BE",
+      "id": "B3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Belgian_road_sign_B3.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/034-Belgian_road_sign_B3.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/034-Belgian_road_sign_B3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Belgian_road_sign_B3.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.934
+    },
+    {
+      "filename": "b_priority_signs/vienna/BE-B7.svg",
+      "iso": "BE",
+      "id": "B7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Belgian_road_sign_B7.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/036-Belgian_road_sign_B7.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/036-Belgian_road_sign_B7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Belgian_road_sign_B7.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.934
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C1.svg",
+      "iso": "BE",
+      "id": "C1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Belgian_road_sign_C1.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/046-Belgian_road_sign_C1.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/046-Belgian_road_sign_C1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Belgian_road_sign_C1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C11.svg",
+      "iso": "BE",
+      "id": "C11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Belgian_road_sign_C11.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/052-Belgian_road_sign_C11.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/052-Belgian_road_sign_C11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Belgian_road_sign_C11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C13.svg",
+      "iso": "BE",
+      "id": "C13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Belgian_road_sign_C13.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/053-Belgian_road_sign_C13.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/053-Belgian_road_sign_C13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Belgian_road_sign_C13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-C15.svg",
+      "iso": "BE",
+      "id": "C15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Belgian_road_sign_C15.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/054-Belgian_road_sign_C15.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/054-Belgian_road_sign_C15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Belgian_road_sign_C15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C17.svg",
+      "iso": "BE",
+      "id": "C17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_C17.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/055-Belgian_road_sign_C17.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/055-Belgian_road_sign_C17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Belgian_road_sign_C17.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C19.svg",
+      "iso": "BE",
+      "id": "C19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Belgian_road_sign_C19.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/056-Belgian_road_sign_C19.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/056-Belgian_road_sign_C19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Belgian_road_sign_C19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-C21.svg",
+      "iso": "BE",
+      "id": "C21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Belgian_road_sign_C21.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/057-Belgian_road_sign_C21.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/057-Belgian_road_sign_C21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Belgian_road_sign_C21.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-C22.svg",
+      "iso": "BE",
+      "id": "C22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Belgian_road_sign_C22.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/058-Belgian_road_sign_C22.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/058-Belgian_road_sign_C22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Belgian_road_sign_C22.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C23.svg",
+      "iso": "BE",
+      "id": "C23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Belgian_road_sign_C23.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/059-Belgian_road_sign_C23.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/059-Belgian_road_sign_C23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Belgian_road_sign_C23.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C24a.svg",
+      "iso": "BE",
+      "id": "C24a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Belgian_road_sign_C24a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/060-Belgian_road_sign_C24a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/060-Belgian_road_sign_C24a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Belgian_road_sign_C24a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C24b.svg",
+      "iso": "BE",
+      "id": "C24b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Belgian_road_sign_C24b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/061-Belgian_road_sign_C24b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/061-Belgian_road_sign_C24b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Belgian_road_sign_C24b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C24c.svg",
+      "iso": "BE",
+      "id": "C24c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Belgian_road_sign_C24c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/062-Belgian_road_sign_C24c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/062-Belgian_road_sign_C24c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Belgian_road_sign_C24c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C25.svg",
+      "iso": "BE",
+      "id": "C25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Belgian_road_sign_C25.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/063-Belgian_road_sign_C25.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/063-Belgian_road_sign_C25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Belgian_road_sign_C25.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C27.svg",
+      "iso": "BE",
+      "id": "C27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Belgian_road_sign_C27.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/064-Belgian_road_sign_C27.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/064-Belgian_road_sign_C27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Belgian_road_sign_C27.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C29.svg",
+      "iso": "BE",
+      "id": "C29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Belgian_road_sign_C29.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/065-Belgian_road_sign_C29.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/065-Belgian_road_sign_C29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Belgian_road_sign_C29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C3.svg",
+      "iso": "BE",
+      "id": "C3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Belgian_road_sign_C3.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/047-Belgian_road_sign_C3.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/047-Belgian_road_sign_C3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Belgian_road_sign_C3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-C31d.svg",
+      "iso": "BE",
+      "id": "C31d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Belgian_road_sign_C31d.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/066-Belgian_road_sign_C31d.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/066-Belgian_road_sign_C31d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Belgian_road_sign_C31d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-C31g.svg",
+      "iso": "BE",
+      "id": "C31g",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Belgian_road_sign_C31g.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/067-Belgian_road_sign_C31g.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/067-Belgian_road_sign_C31g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Belgian_road_sign_C31g.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C33.svg",
+      "iso": "BE",
+      "id": "C33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Belgian_road_sign_C33.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/068-Belgian_road_sign_C33.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/068-Belgian_road_sign_C33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Belgian_road_sign_C33.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C35.svg",
+      "iso": "BE",
+      "id": "C35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Belgian_road_sign_C35.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/069-Belgian_road_sign_C35.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/069-Belgian_road_sign_C35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Belgian_road_sign_C35.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C37.svg",
+      "iso": "BE",
+      "id": "C37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_C37.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/070-Belgian_road_sign_C37.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/070-Belgian_road_sign_C37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_C37.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C39.svg",
+      "iso": "BE",
+      "id": "C39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Belgian_road_sign_C39.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/071-Belgian_road_sign_C39.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/071-Belgian_road_sign_C39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Belgian_road_sign_C39.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C41.svg",
+      "iso": "BE",
+      "id": "C41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Belgian_road_sign_C41.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/072-Belgian_road_sign_C41.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/072-Belgian_road_sign_C41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Belgian_road_sign_C41.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C43.svg",
+      "iso": "BE",
+      "id": "C43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Belgian_road_sign_C43.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/073-Belgian_road_sign_C43.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/073-Belgian_road_sign_C43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Belgian_road_sign_C43.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-C45.svg",
+      "iso": "BE",
+      "id": "C45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Belgian_road_sign_C45.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/074-Belgian_road_sign_C45.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/074-Belgian_road_sign_C45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Belgian_road_sign_C45.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C46.svg",
+      "iso": "BE",
+      "id": "C46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Belgian_road_sign_C46.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/075-Belgian_road_sign_C46.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/075-Belgian_road_sign_C46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Belgian_road_sign_C46.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-C47.svg",
+      "iso": "BE",
+      "id": "C47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Belgian_road_sign_C47.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/076-Belgian_road_sign_C47.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/076-Belgian_road_sign_C47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Belgian_road_sign_C47.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C5.svg",
+      "iso": "BE",
+      "id": "C5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Belgian_road_sign_C5.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/048-Belgian_road_sign_C5.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/048-Belgian_road_sign_C5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Belgian_road_sign_C5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-C6.svg",
+      "iso": "BE",
+      "id": "C6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Belgian_road_sign_C6.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/049-Belgian_road_sign_C6.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/049-Belgian_road_sign_C6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Belgian_road_sign_C6.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C7.svg",
+      "iso": "BE",
+      "id": "C7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Belgian_road_sign_C7.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/050-Belgian_road_sign_C7.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/050-Belgian_road_sign_C7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Belgian_road_sign_C7.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-C9.svg",
+      "iso": "BE",
+      "id": "C9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Belgian_road_sign_C9.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/051-Belgian_road_sign_C9.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/051-Belgian_road_sign_C9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Belgian_road_sign_C9.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/other/BE-D01a.svg",
+      "iso": "BE",
+      "id": "D01a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Belgian_road_sign_D01a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/077-Belgian_road_sign_D01a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/077-Belgian_road_sign_D01a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Belgian_road_sign_D01a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-D01b.svg",
+      "iso": "BE",
+      "id": "D01b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Belgian_road_sign_D01b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/078-Belgian_road_sign_D01b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/078-Belgian_road_sign_D01b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Belgian_road_sign_D01b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/BE-D01c.svg",
+      "iso": "BE",
+      "id": "D01c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Belgian_road_sign_D01c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/079-Belgian_road_sign_D01c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/079-Belgian_road_sign_D01c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Belgian_road_sign_D01c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/other/BE-D03.svg",
+      "iso": "BE",
+      "id": "D03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Belgian_road_sign_D03.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/080-Belgian_road_sign_D03.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/080-Belgian_road_sign_D03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Belgian_road_sign_D03.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-D04.svg",
+      "iso": "BE",
+      "id": "D04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_D04.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/081-Belgian_road_sign_D04.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/081-Belgian_road_sign_D04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_D04.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/BE-D05.svg",
+      "iso": "BE",
+      "id": "D05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Belgian_road_sign_D05.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/082-Belgian_road_sign_D05.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/082-Belgian_road_sign_D05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Belgian_road_sign_D05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/other/BE-D07.svg",
+      "iso": "BE",
+      "id": "D07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgian_road_sign_D07.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/083-Belgian_road_sign_D07.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/083-Belgian_road_sign_D07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgian_road_sign_D07.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/other/BE-D09.svg",
+      "iso": "BE",
+      "id": "D09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Belgian_road_sign_D09.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/084-Belgian_road_sign_D09.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/084-Belgian_road_sign_D09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Belgian_road_sign_D09.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BE-D10.svg",
+      "iso": "BE",
+      "id": "D10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Belgian_road_sign_D10.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/085-Belgian_road_sign_D10.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/085-Belgian_road_sign_D10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Belgian_road_sign_D10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BE-D11.svg",
+      "iso": "BE",
+      "id": "D11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Belgian_road_sign_D11.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/086-Belgian_road_sign_D11.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/086-Belgian_road_sign_D11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Belgian_road_sign_D11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BE-D13.svg",
+      "iso": "BE",
+      "id": "D13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_D13.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/087-Belgian_road_sign_D13.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/087-Belgian_road_sign_D13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Belgian_road_sign_D13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-E0a.svg",
+      "iso": "BE",
+      "id": "E0a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Belgian_road_sign_E0a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/091-Belgian_road_sign_E0a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/091-Belgian_road_sign_E0a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Belgian_road_sign_E0a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.989
+    },
+    {
+      "filename": "sd_unclassified/other/BE-E0b.svg",
+      "iso": "BE",
+      "id": "E0b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Belgian_road_sign_E0b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/092-Belgian_road_sign_E0b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/092-Belgian_road_sign_E0b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Belgian_road_sign_E0b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.989
+    },
+    {
+      "filename": "sd_unclassified/other/BE-E0c.svg",
+      "iso": "BE",
+      "id": "E0c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Belgian_road_sign_E0c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/093-Belgian_road_sign_E0c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/093-Belgian_road_sign_E0c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Belgian_road_sign_E0c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.989
+    },
+    {
+      "filename": "sd_unclassified/other/BE-E0d.svg",
+      "iso": "BE",
+      "id": "E0d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Belgian_road_sign_E0d.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/094-Belgian_road_sign_E0d.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/094-Belgian_road_sign_E0d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Belgian_road_sign_E0d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.989
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-E1.svg",
+      "iso": "BE",
+      "id": "E1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Belgian_road_sign_E1.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/088-Belgian_road_sign_E1.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/088-Belgian_road_sign_E1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Belgian_road_sign_E1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BE-E3.svg",
+      "iso": "BE",
+      "id": "E3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Belgian_road_sign_E3.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/089-Belgian_road_sign_E3.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/089-Belgian_road_sign_E3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Belgian_road_sign_E3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BE-E9a.svg",
+      "iso": "BE",
+      "id": "E9a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Belgian_traffic_sign_E9a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/090-Belgian_traffic_sign_E9a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/090-Belgian_traffic_sign_E9a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Belgian_traffic_sign_E9a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-E9i.svg",
+      "iso": "BE",
+      "id": "E9i",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Belgian_road_sign_E9i.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/095-Belgian_road_sign_E9i.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/095-Belgian_road_sign_E9i.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Belgian_road_sign_E9i.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F101a.svg",
+      "iso": "BE",
+      "id": "F101a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Belgian_road_sign_F101a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/179-Belgian_road_sign_F101a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/179-Belgian_road_sign_F101a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Belgian_road_sign_F101a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F101b.svg",
+      "iso": "BE",
+      "id": "F101b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Belgian_road_sign_F101b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/180-Belgian_road_sign_F101b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/180-Belgian_road_sign_F101b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Belgian_road_sign_F101b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F101c.svg",
+      "iso": "BE",
+      "id": "F101c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Belgian_road_sign_F101c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/181-Belgian_road_sign_F101c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/181-Belgian_road_sign_F101c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Belgian_road_sign_F101c.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F103.svg",
+      "iso": "BE",
+      "id": "F103",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Belgian_road_sign_F103.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/182-Belgian_road_sign_F103.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/182-Belgian_road_sign_F103.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Belgian_road_sign_F103.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F105.svg",
+      "iso": "BE",
+      "id": "F105",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Belgian_road_sign_F105.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/183-Belgian_road_sign_F105.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/183-Belgian_road_sign_F105.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Belgian_road_sign_F105.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BE-F11.svg",
+      "iso": "BE",
+      "id": "F11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Belgian_road_sign_F11.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/110-Belgian_road_sign_F11.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/110-Belgian_road_sign_F11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Belgian_road_sign_F11.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F111.svg",
+      "iso": "BE",
+      "id": "F111",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Belgian_road_sign_F111.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/184-Belgian_road_sign_F111.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/184-Belgian_road_sign_F111.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Belgian_road_sign_F111.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F117.svg",
+      "iso": "BE",
+      "id": "F117",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Belgian_traffic_sign_F117.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/185-Belgian_traffic_sign_F117.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/185-Belgian_traffic_sign_F117.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Belgian_traffic_sign_F117.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F118.svg",
+      "iso": "BE",
+      "id": "F118",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Belgian_traffic_sign_F118.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/186-Belgian_traffic_sign_F118.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/186-Belgian_traffic_sign_F118.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Belgian_traffic_sign_F118.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F119.svg",
+      "iso": "BE",
+      "id": "F119",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Belgian_traffic_sign_F119.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/187-Belgian_traffic_sign_F119.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/187-Belgian_traffic_sign_F119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Belgian_traffic_sign_F119.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F120.svg",
+      "iso": "BE",
+      "id": "F120",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Belgian_traffic_sign_F120.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/188-Belgian_traffic_sign_F120.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/188-Belgian_traffic_sign_F120.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Belgian_traffic_sign_F120.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F12a.svg",
+      "iso": "BE",
+      "id": "F12a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Belgian_road_sign_F12a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/111-Belgian_road_sign_F12a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/111-Belgian_road_sign_F12a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Belgian_road_sign_F12a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F12b.svg",
+      "iso": "BE",
+      "id": "F12b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Belgian_road_sign_F12b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/112-Belgian_road_sign_F12b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/112-Belgian_road_sign_F12b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Belgian_road_sign_F12b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F13.svg",
+      "iso": "BE",
+      "id": "F13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Belgian_road_sign_F13.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/113-Belgian_road_sign_F13.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/113-Belgian_road_sign_F13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Belgian_road_sign_F13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F14.svg",
+      "iso": "BE",
+      "id": "F14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Belgian_road_sign_F14.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/114-Belgian_road_sign_F14.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/114-Belgian_road_sign_F14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Belgian_road_sign_F14.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F15.svg",
+      "iso": "BE",
+      "id": "F15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Belgian_road_sign_F15.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/115-Belgian_road_sign_F15.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/115-Belgian_road_sign_F15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Belgian_road_sign_F15.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.987
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F17.svg",
+      "iso": "BE",
+      "id": "F17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Belgian_road_sign_F17.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/116-Belgian_road_sign_F17.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/116-Belgian_road_sign_F17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Belgian_road_sign_F17.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F18.svg",
+      "iso": "BE",
+      "id": "F18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Belgian_road_sign_F18.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/117-Belgian_road_sign_F18.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/117-Belgian_road_sign_F18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Belgian_road_sign_F18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BE-F19.svg",
+      "iso": "BE",
+      "id": "F19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_F19.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/118-Belgian_road_sign_F19.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/118-Belgian_road_sign_F19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_F19.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F1ah.png",
+      "iso": "BE",
+      "id": "F1ah",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Belgian_road_sign_F1ah.png",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/096-Belgian_road_sign_F1ah.png",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/096-Belgian_road_sign_F1ah.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Belgian_road_sign_F1ah.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F1av.png",
+      "iso": "BE",
+      "id": "F1av",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Belgian_road_sign_F1av.png",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/097-Belgian_road_sign_F1av.png",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/097-Belgian_road_sign_F1av.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Belgian_road_sign_F1av.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.983
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F1bh.svg",
+      "iso": "BE",
+      "id": "F1bh",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Belgian_road_sign_F1bh.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/098-Belgian_road_sign_F1bh.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/098-Belgian_road_sign_F1bh.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Belgian_road_sign_F1bh.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F1bv.svg",
+      "iso": "BE",
+      "id": "F1bv",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belgian_road_sign_F1bv.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/099-Belgian_road_sign_F1bv.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/099-Belgian_road_sign_F1bv.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belgian_road_sign_F1bv.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F21.svg",
+      "iso": "BE",
+      "id": "F21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Belgian_road_sign_F21.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/119-Belgian_road_sign_F21.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/119-Belgian_road_sign_F21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Belgian_road_sign_F21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "s_road_numbers/other/BE-F23a.svg",
+      "iso": "BE",
+      "id": "F23a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Belgian_road_sign_F23a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/120-Belgian_road_sign_F23a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/120-Belgian_road_sign_F23a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Belgian_road_sign_F23a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "s_road_numbers/other/BE-F23b.svg",
+      "iso": "BE",
+      "id": "F23b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Belgian_road_sign_F23b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/121-Belgian_road_sign_F23b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/121-Belgian_road_sign_F23b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Belgian_road_sign_F23b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "s_road_numbers/other/BE-F23c.svg",
+      "iso": "BE",
+      "id": "F23c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Belgian_road_sign_F23c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/122-Belgian_road_sign_F23c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/122-Belgian_road_sign_F23c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Belgian_road_sign_F23c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "s_road_numbers/other/BE-F23d.svg",
+      "iso": "BE",
+      "id": "F23d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Belgian_road_sign_F23d.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/123-Belgian_road_sign_F23d.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/123-Belgian_road_sign_F23d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Belgian_road_sign_F23d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F25.svg",
+      "iso": "BE",
+      "id": "F25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Belgian_road_sign_F25.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/124-Belgian_road_sign_F25.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/124-Belgian_road_sign_F25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Belgian_road_sign_F25.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F27.svg",
+      "iso": "BE",
+      "id": "F27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Belgian_road_sign_F27.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/125-Belgian_road_sign_F27.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/125-Belgian_road_sign_F27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Belgian_road_sign_F27.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F29.svg",
+      "iso": "BE",
+      "id": "F29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Belgian_road_sign_F29.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/126-Belgian_road_sign_F29.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/126-Belgian_road_sign_F29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Belgian_road_sign_F29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.932
+    },
+    {
+      "filename": "g_other_information_signs/other/BE-F31.svg",
+      "iso": "BE",
+      "id": "F31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Belgian_road_sign_F31.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/127-Belgian_road_sign_F31.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/127-Belgian_road_sign_F31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Belgian_road_sign_F31.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.942
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F33a.svg",
+      "iso": "BE",
+      "id": "F33a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Belgian_road_sign_F33a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/128-Belgian_road_sign_F33a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/128-Belgian_road_sign_F33a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Belgian_road_sign_F33a.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.872
+    },
+    {
+      "filename": "h_additional_panels/other/BE-F33b.svg",
+      "iso": "BE",
+      "id": "F33b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Belgian_road_sign_F33b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/129-Belgian_road_sign_F33b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/129-Belgian_road_sign_F33b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Belgian_road_sign_F33b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.946
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F33c.svg",
+      "iso": "BE",
+      "id": "F33c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Belgian_road_sign_F33c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/130-Belgian_road_sign_F33c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/130-Belgian_road_sign_F33c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Belgian_road_sign_F33c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.937
+    },
+    {
+      "filename": "h_additional_panels/other/BE-F34a.svg",
+      "iso": "BE",
+      "id": "F34a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_F34a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/131-Belgian_road_sign_F34a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/131-Belgian_road_sign_F34a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_F34a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F34b1.svg",
+      "iso": "BE",
+      "id": "F34b1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Belgian_road_sign_F34b1.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/132-Belgian_road_sign_F34b1.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/132-Belgian_road_sign_F34b1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Belgian_road_sign_F34b1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F34b2.svg",
+      "iso": "BE",
+      "id": "F34b2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_F34b2.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/133-Belgian_road_sign_F34b2.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/133-Belgian_road_sign_F34b2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Belgian_road_sign_F34b2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F34c1.svg",
+      "iso": "BE",
+      "id": "F34c1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgian_road_sign_F34c1.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/134-Belgian_road_sign_F34c1.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/134-Belgian_road_sign_F34c1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belgian_road_sign_F34c1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F34c2.svg",
+      "iso": "BE",
+      "id": "F34c2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Belgian_road_sign_F34c2.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/135-Belgian_road_sign_F34c2.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/135-Belgian_road_sign_F34c2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Belgian_road_sign_F34c2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F35.svg",
+      "iso": "BE",
+      "id": "F35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Belgian_road_sign_F35.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/136-Belgian_road_sign_F35.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/136-Belgian_road_sign_F35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Belgian_road_sign_F35.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F37.svg",
+      "iso": "BE",
+      "id": "F37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Belgian_road_sign_F37.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/137-Belgian_road_sign_F37.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/137-Belgian_road_sign_F37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Belgian_road_sign_F37.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F39.svg",
+      "iso": "BE",
+      "id": "F39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Belgian_road_sign_F39.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/138-Belgian_road_sign_F39.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/138-Belgian_road_sign_F39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Belgian_road_sign_F39.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F3ah.png",
+      "iso": "BE",
+      "id": "F3ah",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Belgian_road_sign_F3ah.png",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/100-Belgian_road_sign_F3ah.png",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/100-Belgian_road_sign_F3ah.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Belgian_road_sign_F3ah.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F3av.png",
+      "iso": "BE",
+      "id": "F3av",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_F3av.png",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/101-Belgian_road_sign_F3av.png",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/101-Belgian_road_sign_F3av.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_F3av.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.978
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-F3bh.svg",
+      "iso": "BE",
+      "id": "F3bh",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Belgian_road_sign_F3bh.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/102-Belgian_road_sign_F3bh.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/102-Belgian_road_sign_F3bh.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Belgian_road_sign_F3bh.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F3bv.svg",
+      "iso": "BE",
+      "id": "F3bv",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Belgian_road_sign_F3bv.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/103-Belgian_road_sign_F3bv.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/103-Belgian_road_sign_F3bv.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Belgian_road_sign_F3bv.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F41.svg",
+      "iso": "BE",
+      "id": "F41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Belgian_road_sign_F41.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/139-Belgian_road_sign_F41.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/139-Belgian_road_sign_F41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Belgian_road_sign_F41.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F43.svg",
+      "iso": "BE",
+      "id": "F43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Belgian_road_sign_F43.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/140-Belgian_road_sign_F43.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/140-Belgian_road_sign_F43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Belgian_road_sign_F43.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BE-F45.svg",
+      "iso": "BE",
+      "id": "F45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Belgian_road_sign_F45.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/141-Belgian_road_sign_F45.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/141-Belgian_road_sign_F45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Belgian_road_sign_F45.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F45b.svg",
+      "iso": "BE",
+      "id": "F45b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Belgian_road_sign_F45b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/142-Belgian_road_sign_F45b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/142-Belgian_road_sign_F45b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Belgian_road_sign_F45b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F47.svg",
+      "iso": "BE",
+      "id": "F47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Belgian_road_sign_F47.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/143-Belgian_road_sign_F47.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/143-Belgian_road_sign_F47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Belgian_road_sign_F47.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F49.svg",
+      "iso": "BE",
+      "id": "F49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Belgian_road_sign_F49.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/144-Belgian_road_sign_F49.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/144-Belgian_road_sign_F49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Belgian_road_sign_F49.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-F4a.svg",
+      "iso": "BE",
+      "id": "F4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Belgian_traffic_sign_F4a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/104-Belgian_traffic_sign_F4a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/104-Belgian_traffic_sign_F4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Belgian_traffic_sign_F4a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.984
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BE-F4b.svg",
+      "iso": "BE",
+      "id": "F4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Belgian_traffic_sign_F4b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/105-Belgian_traffic_sign_F4b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/105-Belgian_traffic_sign_F4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Belgian_traffic_sign_F4b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BE-F5.svg",
+      "iso": "BE",
+      "id": "F5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Belgian_road_sign_F5.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/106-Belgian_road_sign_F5.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/106-Belgian_road_sign_F5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Belgian_road_sign_F5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F50.svg",
+      "iso": "BE",
+      "id": "F50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Belgian_road_sign_F50.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/145-Belgian_road_sign_F50.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/145-Belgian_road_sign_F50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Belgian_road_sign_F50.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F50bis.svg",
+      "iso": "BE",
+      "id": "F50bis",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Belgian_road_sign_F50bis.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/146-Belgian_road_sign_F50bis.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/146-Belgian_road_sign_F50bis.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Belgian_road_sign_F50bis.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F51.svg",
+      "iso": "BE",
+      "id": "F51",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Belgian_road_sign_F51.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/147-Belgian_road_sign_F51.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/147-Belgian_road_sign_F51.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Belgian_road_sign_F51.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/BE-F52.svg",
+      "iso": "BE",
+      "id": "F52",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Belgian_road_sign_F52.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/148-Belgian_road_sign_F52.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/148-Belgian_road_sign_F52.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Belgian_road_sign_F52.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/other/BE-F52bis.svg",
+      "iso": "BE",
+      "id": "F52bis",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Belgian_road_sign_F52bis.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/149-Belgian_road_sign_F52bis.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/149-Belgian_road_sign_F52bis.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Belgian_road_sign_F52bis.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F55.svg",
+      "iso": "BE",
+      "id": "F55",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Belgian_road_sign_F55.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/150-Belgian_road_sign_F55.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/150-Belgian_road_sign_F55.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Belgian_road_sign_F55.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F56.svg",
+      "iso": "BE",
+      "id": "F56",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Belgian_road_sign_F56.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/151-Belgian_road_sign_F56.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/151-Belgian_road_sign_F56.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Belgian_road_sign_F56.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/BE-F57.svg",
+      "iso": "BE",
+      "id": "F57",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Belgian_road_sign_F57.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/152-Belgian_road_sign_F57.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/152-Belgian_road_sign_F57.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Belgian_road_sign_F57.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F59.svg",
+      "iso": "BE",
+      "id": "F59",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Belgian_road_sign_F59.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/153-Belgian_road_sign_F59.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/153-Belgian_road_sign_F59.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Belgian_road_sign_F59.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F60.svg",
+      "iso": "BE",
+      "id": "F60",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Belgian_road_sign_F60.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/154-Belgian_road_sign_F60.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/154-Belgian_road_sign_F60.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Belgian_road_sign_F60.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F61.svg",
+      "iso": "BE",
+      "id": "F61",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Belgian_road_sign_F61.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/155-Belgian_road_sign_F61.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/155-Belgian_road_sign_F61.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Belgian_road_sign_F61.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F62.svg",
+      "iso": "BE",
+      "id": "F62",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Belgian_road_sign_F62.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/156-Belgian_road_sign_F62.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/156-Belgian_road_sign_F62.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Belgian_road_sign_F62.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F63.svg",
+      "iso": "BE",
+      "id": "F63",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belgian_road_sign_F63.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/157-Belgian_road_sign_F63.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/157-Belgian_road_sign_F63.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belgian_road_sign_F63.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F65.svg",
+      "iso": "BE",
+      "id": "F65",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Belgian_road_sign_F65.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/158-Belgian_road_sign_F65.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/158-Belgian_road_sign_F65.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Belgian_road_sign_F65.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F67.svg",
+      "iso": "BE",
+      "id": "F67",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Belgian_road_sign_F67.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/159-Belgian_road_sign_F67.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/159-Belgian_road_sign_F67.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Belgian_road_sign_F67.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F69.svg",
+      "iso": "BE",
+      "id": "F69",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Belgian_road_sign_F69.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/160-Belgian_road_sign_F69.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/160-Belgian_road_sign_F69.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Belgian_road_sign_F69.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BE-F7.svg",
+      "iso": "BE",
+      "id": "F7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Belgian_road_sign_F7.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/107-Belgian_road_sign_F7.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/107-Belgian_road_sign_F7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Belgian_road_sign_F7.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F71.svg",
+      "iso": "BE",
+      "id": "F71",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Belgian_road_sign_F71.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/161-Belgian_road_sign_F71.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/161-Belgian_road_sign_F71.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Belgian_road_sign_F71.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F73.svg",
+      "iso": "BE",
+      "id": "F73",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Belgian_road_sign_F73.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/162-Belgian_road_sign_F73.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/162-Belgian_road_sign_F73.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Belgian_road_sign_F73.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BE-F75.svg",
+      "iso": "BE",
+      "id": "F75",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Belgian_road_sign_F75.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/163-Belgian_road_sign_F75.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/163-Belgian_road_sign_F75.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Belgian_road_sign_F75.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F77.svg",
+      "iso": "BE",
+      "id": "F77",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Belgian_road_sign_F77.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/164-Belgian_road_sign_F77.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/164-Belgian_road_sign_F77.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Belgian_road_sign_F77.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F79.svg",
+      "iso": "BE",
+      "id": "F79",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Belgian_road_sign_F79.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/165-Belgian_road_sign_F79.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/165-Belgian_road_sign_F79.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Belgian_road_sign_F79.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BE-F8.svg",
+      "iso": "BE",
+      "id": "F8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Belgian_road_sign_F8.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/108-Belgian_road_sign_F8.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/108-Belgian_road_sign_F8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Belgian_road_sign_F8.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F81.svg",
+      "iso": "BE",
+      "id": "F81",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Belgian_road_sign_F81.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/166-Belgian_road_sign_F81.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/166-Belgian_road_sign_F81.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Belgian_road_sign_F81.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F83.svg",
+      "iso": "BE",
+      "id": "F83",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Belgian_road_sign_F83.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/167-Belgian_road_sign_F83.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/167-Belgian_road_sign_F83.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Belgian_road_sign_F83.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BE-F85.svg",
+      "iso": "BE",
+      "id": "F85",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Belgian_road_sign_F85.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/168-Belgian_road_sign_F85.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/168-Belgian_road_sign_F85.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Belgian_road_sign_F85.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F87.svg",
+      "iso": "BE",
+      "id": "F87",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_F87.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/169-Belgian_road_sign_F87.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/169-Belgian_road_sign_F87.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belgian_road_sign_F87.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F89.svg",
+      "iso": "BE",
+      "id": "F89",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Belgian_road_sign_F89.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/170-Belgian_road_sign_F89.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/170-Belgian_road_sign_F89.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Belgian_road_sign_F89.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BE-F9.svg",
+      "iso": "BE",
+      "id": "F9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Belgian_road_sign_F9.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/109-Belgian_road_sign_F9.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/109-Belgian_road_sign_F9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Belgian_road_sign_F9.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F91.svg",
+      "iso": "BE",
+      "id": "F91",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Belgian_road_sign_F91.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/171-Belgian_road_sign_F91.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/171-Belgian_road_sign_F91.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Belgian_road_sign_F91.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F93.svg",
+      "iso": "BE",
+      "id": "F93",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Belgian_road_sign_F93.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/172-Belgian_road_sign_F93.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/172-Belgian_road_sign_F93.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Belgian_road_sign_F93.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BE-F95.svg",
+      "iso": "BE",
+      "id": "F95",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Belgian_road_sign_F95.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/173-Belgian_road_sign_F95.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/173-Belgian_road_sign_F95.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Belgian_road_sign_F95.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F97.svg",
+      "iso": "BE",
+      "id": "F97",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Belgian_road_sign_F97.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/174-Belgian_road_sign_F97.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/174-Belgian_road_sign_F97.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Belgian_road_sign_F97.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F98.svg",
+      "iso": "BE",
+      "id": "F98",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Belgian_road_sign_F98.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/175-Belgian_road_sign_F98.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/175-Belgian_road_sign_F98.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Belgian_road_sign_F98.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BE-F99a.svg",
+      "iso": "BE",
+      "id": "F99a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Belgian_road_sign_F99a.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/176-Belgian_road_sign_F99a.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/176-Belgian_road_sign_F99a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Belgian_road_sign_F99a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F99b.svg",
+      "iso": "BE",
+      "id": "F99b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Belgian_road_sign_F99b.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/177-Belgian_road_sign_F99b.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/177-Belgian_road_sign_F99b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Belgian_road_sign_F99b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BE-F99c.svg",
+      "iso": "BE",
+      "id": "F99c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Belgian_road_sign_F99c.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/178-Belgian_road_sign_F99c.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/178-Belgian_road_sign_F99c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Belgian_road_sign_F99c.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "b_priority_signs/other/BE-GXI.svg",
+      "iso": "BE",
+      "id": "GXI",
+      "description": "GXI",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Belgian_road_sign_GXI.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/203-Belgian_road_sign_GXI.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/203-Belgian_road_sign_GXI.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Belgian_road_sign_GXI.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.248
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M1.svg",
+      "iso": "BE",
+      "id": "M1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Belgian_road_sign_M1.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/190-Belgian_road_sign_M1.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/190-Belgian_road_sign_M1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Belgian_road_sign_M1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M10.svg",
+      "iso": "BE",
+      "id": "M10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Belgian_road_sign_M10.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/201-Belgian_road_sign_M10.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/201-Belgian_road_sign_M10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Belgian_road_sign_M10.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M16.png",
+      "iso": "BE",
+      "id": "M16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Belgian_traffic_sign_M16.png",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/202-Belgian_traffic_sign_M16.png",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/202-Belgian_traffic_sign_M16.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Belgian_traffic_sign_M16.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "h_additional_panels/other/BE-M2.svg",
+      "iso": "BE",
+      "id": "M2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Belgian_road_sign_M2.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/191-Belgian_road_sign_M2.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/191-Belgian_road_sign_M2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Belgian_road_sign_M2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "h_additional_panels/other/BE-M3.svg",
+      "iso": "BE",
+      "id": "M3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belgian_road_sign_M3.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/192-Belgian_road_sign_M3.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/192-Belgian_road_sign_M3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belgian_road_sign_M3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "h_additional_panels/other/BE-M3bis.png",
+      "iso": "BE",
+      "id": "M3bis",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Belgian_traffic_sign_M3bis.png",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/193-Belgian_traffic_sign_M3bis.png",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/193-Belgian_traffic_sign_M3bis.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Belgian_traffic_sign_M3bis.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M4.svg",
+      "iso": "BE",
+      "id": "M4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Belgian_road_sign_M4.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/194-Belgian_road_sign_M4.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/194-Belgian_road_sign_M4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Belgian_road_sign_M4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.986
+    },
+    {
+      "filename": "h_additional_panels/other/BE-M5.svg",
+      "iso": "BE",
+      "id": "M5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Belgian_road_sign_M5.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/195-Belgian_road_sign_M5.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/195-Belgian_road_sign_M5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Belgian_road_sign_M5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "h_additional_panels/other/BE-M5bis.png",
+      "iso": "BE",
+      "id": "M5bis",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Belgian_traffic_sign_M5bis.png",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/196-Belgian_traffic_sign_M5bis.png",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/196-Belgian_traffic_sign_M5bis.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Belgian_traffic_sign_M5bis.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M6.svg",
+      "iso": "BE",
+      "id": "M6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Belgian_road_sign_M6.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/197-Belgian_road_sign_M6.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/197-Belgian_road_sign_M6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Belgian_road_sign_M6.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.76
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M7.svg",
+      "iso": "BE",
+      "id": "M7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Belgian_road_sign_M7.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/198-Belgian_road_sign_M7.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/198-Belgian_road_sign_M7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Belgian_road_sign_M7.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.76
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M8.svg",
+      "iso": "BE",
+      "id": "M8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Belgian_road_sign_M8.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/199-Belgian_road_sign_M8.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/199-Belgian_road_sign_M8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Belgian_road_sign_M8.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.608
+    },
+    {
+      "filename": "sd_unclassified/other/BE-M9.svg",
+      "iso": "BE",
+      "id": "M9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Belgian_road_sign_M9.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/200-Belgian_road_sign_M9.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/200-Belgian_road_sign_M9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Belgian_road_sign_M9.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.605
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S1.svg",
+      "iso": "BE",
+      "id": "S1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Belgian_road_sign_S1.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/204-Belgian_road_sign_S1.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/204-Belgian_road_sign_S1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Belgian_road_sign_S1.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.341
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S10.svg",
+      "iso": "BE",
+      "id": "S10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Belgian_road_sign_S10.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/209-Belgian_road_sign_S10.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/209-Belgian_road_sign_S10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Belgian_road_sign_S10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S11.svg",
+      "iso": "BE",
+      "id": "S11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Belgian_road_sign_S11.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/210-Belgian_road_sign_S11.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/210-Belgian_road_sign_S11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Belgian_road_sign_S11.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.815
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S12.svg",
+      "iso": "BE",
+      "id": "S12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Belgian_road_sign_S12.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/211-Belgian_road_sign_S12.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/211-Belgian_road_sign_S12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Belgian_road_sign_S12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S13.svg",
+      "iso": "BE",
+      "id": "S13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Belgian_road_sign_S13.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/212-Belgian_road_sign_S13.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/212-Belgian_road_sign_S13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Belgian_road_sign_S13.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.608
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S14.svg",
+      "iso": "BE",
+      "id": "S14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Belgian_road_sign_S14.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/213-Belgian_road_sign_S14.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/213-Belgian_road_sign_S14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Belgian_road_sign_S14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.893
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S15.svg",
+      "iso": "BE",
+      "id": "S15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Belgian_road_sign_S15.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/214-Belgian_road_sign_S15.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/214-Belgian_road_sign_S15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Belgian_road_sign_S15.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S16.svg",
+      "iso": "BE",
+      "id": "S16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Belgian_road_sign_S16.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/215-Belgian_road_sign_S16.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/215-Belgian_road_sign_S16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Belgian_road_sign_S16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S17.svg",
+      "iso": "BE",
+      "id": "S17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Belgian_road_sign_S17.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/216-Belgian_road_sign_S17.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/216-Belgian_road_sign_S17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Belgian_road_sign_S17.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.813
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S18.svg",
+      "iso": "BE",
+      "id": "S18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_S18.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/217-Belgian_road_sign_S18.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/217-Belgian_road_sign_S18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Belgian_road_sign_S18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S19.svg",
+      "iso": "BE",
+      "id": "S19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Belgian_road_sign_S19.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/218-Belgian_road_sign_S19.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/218-Belgian_road_sign_S19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Belgian_road_sign_S19.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.897
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S2.svg",
+      "iso": "BE",
+      "id": "S2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Belgian_road_sign_S2.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/205-Belgian_road_sign_S2.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/205-Belgian_road_sign_S2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Belgian_road_sign_S2.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.849
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S20.svg",
+      "iso": "BE",
+      "id": "S20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Belgian_road_sign_S20.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/219-Belgian_road_sign_S20.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/219-Belgian_road_sign_S20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Belgian_road_sign_S20.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S21.svg",
+      "iso": "BE",
+      "id": "S21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Belgian_road_sign_S21.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/220-Belgian_road_sign_S21.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/220-Belgian_road_sign_S21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Belgian_road_sign_S21.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.352
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S3.svg",
+      "iso": "BE",
+      "id": "S3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belgian_road_sign_S3.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/206-Belgian_road_sign_S3.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/206-Belgian_road_sign_S3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belgian_road_sign_S3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/other/BE-S30.svg",
+      "iso": "BE",
+      "id": "S30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Belgian_road_sign_S30.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/221-Belgian_road_sign_S30.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/221-Belgian_road_sign_S30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Belgian_road_sign_S30.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.893
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S31.svg",
+      "iso": "BE",
+      "id": "S31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Belgian_road_sign_S31.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/222-Belgian_road_sign_S31.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/222-Belgian_road_sign_S31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Belgian_road_sign_S31.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.788
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S32.svg",
+      "iso": "BE",
+      "id": "S32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Belgian_road_sign_S32.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/223-Belgian_road_sign_S32.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/223-Belgian_road_sign_S32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Belgian_road_sign_S32.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.754
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S33.svg",
+      "iso": "BE",
+      "id": "S33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Belgian_road_sign_S33.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/224-Belgian_road_sign_S33.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/224-Belgian_road_sign_S33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Belgian_road_sign_S33.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.796
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S34.svg",
+      "iso": "BE",
+      "id": "S34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Belgian_road_sign_S34.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/225-Belgian_road_sign_S34.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/225-Belgian_road_sign_S34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Belgian_road_sign_S34.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.645
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S35.svg",
+      "iso": "BE",
+      "id": "S35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Belgian_road_sign_S35.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/226-Belgian_road_sign_S35.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/226-Belgian_road_sign_S35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Belgian_road_sign_S35.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.765
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S36.svg",
+      "iso": "BE",
+      "id": "S36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Belgian_road_sign_S36.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/227-Belgian_road_sign_S36.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/227-Belgian_road_sign_S36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Belgian_road_sign_S36.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.736
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S4.svg",
+      "iso": "BE",
+      "id": "S4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Belgian_road_sign_S4.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/207-Belgian_road_sign_S4.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/207-Belgian_road_sign_S4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Belgian_road_sign_S4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BE-S5.svg",
+      "iso": "BE",
+      "id": "S5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Belgian_road_sign_S5.svg",
+      "kept_from": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/208-Belgian_road_sign_S5.svg",
+      "sources": [
+        {
+          "file": "BE_Belgium/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Belgien/208-Belgian_road_sign_S5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Belgian_road_sign_S5.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.556
+    }
+  ]
+}

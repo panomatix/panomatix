@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg3182"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Nederlandse Wegenverkeersregeling 1966 figuur 46a.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3184"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.46324355"
+     inkscape:cx="396.11993"
+     inkscape:cy="560.1805"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3179" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="vector-effect:none;fill:#c1121c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.72643;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.433;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 150,0 C 66.9,0 0,66.9 0,150 0,233.1 66.9,300 150,300 233.1,300 300,233.1 300,150 300,66.9 233.1,0 150,0 Z"
+       id="rect5090"
+       inkscape:connector-curvature="0" />
+    <path
+       style="vector-effect:none;fill:#f7fbf5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.29481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.433;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 150,40.000006 C 89.060013,40.000006 40.000006,89.05999 40.000006,150 40.000006,210.94001 89.060013,259.99999 150,259.99999 210.94,259.99999 259.99999,210.94001 259.99999,150 259.99999,89.05999 210.94,40.000006 150,40.000006 Z"
+       id="rect5092"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccsccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5094"
+       d="M 126.8485,67.803307 V 93.51351 l 27.64201,-0.312 c 0,0 11.73749,-1.3869 28.12348,7.56593 14.18552,7.5486 28.85052,23.94996 28.85052,51.0791 v 78.4567 H 181.288 V 153.2506 c -0.44995,-16.27321 -9.4025,-27.75044 -26.572,-29.7856 h -0.0605 -27.80899 v 25.7004 L 61.464038,108.47945 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#2a2d2f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30.0637;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="vector-effect:none;fill:#c1121c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.50001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 67.227326,53.084939 246.91483,232.77243 232.77269,246.91457 53.085184,67.227061 Z"
+       id="rect5096"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

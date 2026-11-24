@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg26869"
+   version="1.1"
+   viewBox="0 0 1000 500"
+   height="500"
+   width="1000">
+  <defs
+     id="defs26863">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26887">
+      <path
+         d="M 224.625,493.905 H 410.4 V 679.68 H 224.625 Z"
+         id="path26885" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26933">
+      <path
+         d="M 167.565,173.696 H 473.82 V 326.88 H 167.565 Z"
+         id="path26931" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26967">
+      <path
+         d="M 0,792 H 612 V 0 H 0 Z"
+         id="path26965" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27001">
+      <path
+         d="M 0,792 H 612 V 0 H 0 Z"
+         id="path26999" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29103">
+      <path
+         d="m 208.558,492.318 h 198.216 v 198.25 H 208.558 Z"
+         id="path29101" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29217">
+      <path
+         d="M 183.786,162.65 H 431.545 V 360.9 H 183.786 Z"
+         id="path29215" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29355">
+      <path
+         d="M 0,792 H 612 V 0 H 0 Z"
+         id="path29353" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29395">
+      <path
+         d="M 0,792 H 612 V 0 H 0 Z"
+         id="path29393" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath31848">
+      <path
+         d="m 181.423,555.079 h 283.68 v 66.6 h -283.68 z"
+         id="path31846" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath31864">
+      <path
+         d="M 0,792 H 612 V 0 H 0 Z"
+         id="path31862" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath31896">
+      <path
+         d="M 0,792 H 612 V 0 H 0 Z"
+         id="path31894" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata26866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(2251.8967,614.28168)"
+     id="layer1">
+    <rect
+       width="1000"
+       height="500"
+       rx="63.33334"
+       ry="63.33334"
+       x="-2251.8967"
+       y="-614.28168"
+       id="rect4337"
+       style="display:inline;overflow:visible;visibility:visible;fill:#f78a38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.40740776;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+    <path
+       d="m -2235.3853,-177.78714 v -372.98901 c 0,-26.24895 21.1685,-46.99408 46.9941,-46.99408 h 872.989 c 25.8256,0 46.9941,20.74513 46.9941,46.99408 v 372.98901 c 0,25.82558 -21.1685,46.57072 -46.9941,46.57072 h -872.989 c -25.8256,0 -46.9941,-20.74514 -46.9941,-46.57072 z m 16.9348,0 c 0,16.51143 13.5478,30.05928 30.0593,30.05928 h 872.989 c 16.9348,0 30.4827,-13.54785 30.4827,-30.05928 v -372.98901 c 0,-16.93481 -13.5479,-30.48265 -30.4827,-30.48265 h -872.989 c -16.5115,0 -30.0593,13.54784 -30.0593,30.48265 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08466668;stroke-linecap:butt;stroke-linejoin:bevel"
+       id="path33789" />
+    <path
+       id="path1963"
+       d="m -1703.2227,-354.5023 v 161.85305 h -97.3445 V -354.5023 l -63.4994,18.77572 c -14.8225,4.36236 -26.8462,-12.51833 -17.7878,-25.03786 l 129.9577,-180.1083 129.9572,180.1083 c 9.0584,12.51953 -2.9613,29.40022 -17.7903,25.03786 l -63.4929,-18.77572"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:1.21585691" />
+  </g>
+</svg>

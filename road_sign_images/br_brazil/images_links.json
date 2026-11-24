@@ -1,0 +1,3260 @@
+{
+  "country_code": "BR",
+  "country": "Brazil",
+  "images": [
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-01.svg",
+      "iso": "BR",
+      "id": "01",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1941_Brazil_road_sign_01.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/130-1941_Brazil_road_sign_01.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/130-1941_Brazil_road_sign_01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1941_Brazil_road_sign_01.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-02.svg",
+      "iso": "BR",
+      "id": "02",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/1941_Brazil_road_sign_02.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/131-1941_Brazil_road_sign_02.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/131-1941_Brazil_road_sign_02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/1941_Brazil_road_sign_02.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-03.svg",
+      "iso": "BR",
+      "id": "03",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/1941_Brazil_road_sign_03.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/132-1941_Brazil_road_sign_03.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/132-1941_Brazil_road_sign_03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/1941_Brazil_road_sign_03.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-04.svg",
+      "iso": "BR",
+      "id": "04",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/1941_Brazil_road_sign_04.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/133-1941_Brazil_road_sign_04.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/133-1941_Brazil_road_sign_04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/1941_Brazil_road_sign_04.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-05.svg",
+      "iso": "BR",
+      "id": "05",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/1941_Brazil_road_sign_05.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/134-1941_Brazil_road_sign_05.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/134-1941_Brazil_road_sign_05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/1941_Brazil_road_sign_05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-06.svg",
+      "iso": "BR",
+      "id": "06",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/1941_Brazil_road_sign_06.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/135-1941_Brazil_road_sign_06.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/135-1941_Brazil_road_sign_06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/1941_Brazil_road_sign_06.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-07.svg",
+      "iso": "BR",
+      "id": "07",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/1941_Brazil_road_sign_07.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/136-1941_Brazil_road_sign_07.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/136-1941_Brazil_road_sign_07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/1941_Brazil_road_sign_07.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-08.svg",
+      "iso": "BR",
+      "id": "08",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/1941_Brazil_road_sign_08.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/137-1941_Brazil_road_sign_08.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/137-1941_Brazil_road_sign_08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/1941_Brazil_road_sign_08.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-09.svg",
+      "iso": "BR",
+      "id": "09",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/1941_Brazil_road_sign_09.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/138-1941_Brazil_road_sign_09.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/138-1941_Brazil_road_sign_09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/1941_Brazil_road_sign_09.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-10.svg",
+      "iso": "BR",
+      "id": "10",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1941_Brazil_road_sign_10.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/139-1941_Brazil_road_sign_10.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/139-1941_Brazil_road_sign_10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1941_Brazil_road_sign_10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-10a.svg",
+      "iso": "BR",
+      "id": "10a",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1941_Brazil_road_sign_10a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/140-1941_Brazil_road_sign_10a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/140-1941_Brazil_road_sign_10a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/1941_Brazil_road_sign_10a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-10b.svg",
+      "iso": "BR",
+      "id": "10b",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/1941_Brazil_road_sign_10b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/141-1941_Brazil_road_sign_10b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/141-1941_Brazil_road_sign_10b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/1941_Brazil_road_sign_10b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-11.svg",
+      "iso": "BR",
+      "id": "11",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/1941_Brazil_road_sign_11.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/142-1941_Brazil_road_sign_11.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/142-1941_Brazil_road_sign_11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/1941_Brazil_road_sign_11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-12.svg",
+      "iso": "BR",
+      "id": "12",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/1941_Brazil_road_sign_12.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/143-1941_Brazil_road_sign_12.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/143-1941_Brazil_road_sign_12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/1941_Brazil_road_sign_12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "b_priority_signs/other/BR-13.svg",
+      "iso": "BR",
+      "id": "13",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1941_Brazil_road_sign_13.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/144-1941_Brazil_road_sign_13.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/144-1941_Brazil_road_sign_13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1941_Brazil_road_sign_13.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.953,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "b_priority_signs/vienna/BR-14.svg",
+      "iso": "BR",
+      "id": "14",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/1941_Brazil_road_sign_14.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/145-1941_Brazil_road_sign_14.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/145-1941_Brazil_road_sign_14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/1941_Brazil_road_sign_14.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.953,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BR-15.svg",
+      "iso": "BR",
+      "id": "15",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/1941_Brazil_road_sign_15.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/146-1941_Brazil_road_sign_15.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/146-1941_Brazil_road_sign_15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/1941_Brazil_road_sign_15.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BR-16.svg",
+      "iso": "BR",
+      "id": "16",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1941_Brazil_road_sign_16.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/147-1941_Brazil_road_sign_16.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/147-1941_Brazil_road_sign_16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1941_Brazil_road_sign_16.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BR-16a.svg",
+      "iso": "BR",
+      "id": "16a",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1941_Brazil_road_sign_16a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/148-1941_Brazil_road_sign_16a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/148-1941_Brazil_road_sign_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1941_Brazil_road_sign_16a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BR-17.svg",
+      "iso": "BR",
+      "id": "17",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/1941_Brazil_road_sign_17.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/149-1941_Brazil_road_sign_17.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/149-1941_Brazil_road_sign_17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/1941_Brazil_road_sign_17.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-18.svg",
+      "iso": "BR",
+      "id": "18",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1941_Brazil_road_sign_18.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/150-1941_Brazil_road_sign_18.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/150-1941_Brazil_road_sign_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1941_Brazil_road_sign_18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-19.svg",
+      "iso": "BR",
+      "id": "19",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1941_Brazil_road_sign_19.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/151-1941_Brazil_road_sign_19.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/151-1941_Brazil_road_sign_19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1941_Brazil_road_sign_19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-20.svg",
+      "iso": "BR",
+      "id": "20",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1941_Brazil_road_sign_20.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/152-1941_Brazil_road_sign_20.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/152-1941_Brazil_road_sign_20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1941_Brazil_road_sign_20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-21.svg",
+      "iso": "BR",
+      "id": "21",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/1941_Brazil_road_sign_21.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/153-1941_Brazil_road_sign_21.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/153-1941_Brazil_road_sign_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/1941_Brazil_road_sign_21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "sd_unclassified/other/BR-22.svg",
+      "iso": "BR",
+      "id": "22",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/1941_Brazil_road_sign_22.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/154-1941_Brazil_road_sign_22.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/154-1941_Brazil_road_sign_22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/1941_Brazil_road_sign_22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-22a.svg",
+      "iso": "BR",
+      "id": "22a",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1941_Brazil_road_sign_22a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/155-1941_Brazil_road_sign_22a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/155-1941_Brazil_road_sign_22a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1941_Brazil_road_sign_22a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.952,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-23.svg",
+      "iso": "BR",
+      "id": "23",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/1941_Brazil_road_sign_23.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/156-1941_Brazil_road_sign_23.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/156-1941_Brazil_road_sign_23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/1941_Brazil_road_sign_23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-24.svg",
+      "iso": "BR",
+      "id": "24",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/1941_Brazil_road_sign_24.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/157-1941_Brazil_road_sign_24.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/157-1941_Brazil_road_sign_24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/1941_Brazil_road_sign_24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-25.svg",
+      "iso": "BR",
+      "id": "25",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/1941_Brazil_road_sign_25.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/158-1941_Brazil_road_sign_25.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/158-1941_Brazil_road_sign_25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/1941_Brazil_road_sign_25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-26.svg",
+      "iso": "BR",
+      "id": "26",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/1941_Brazil_road_sign_26.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/159-1941_Brazil_road_sign_26.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/159-1941_Brazil_road_sign_26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/1941_Brazil_road_sign_26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-27.svg",
+      "iso": "BR",
+      "id": "27",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1941_Brazil_road_sign_27.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/160-1941_Brazil_road_sign_27.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/160-1941_Brazil_road_sign_27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1941_Brazil_road_sign_27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-28.svg",
+      "iso": "BR",
+      "id": "28",
+      "description": null,
+      "variants": [
+        "1941"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/1941_Brazil_road_sign_28.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/161-1941_Brazil_road_sign_28.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/161-1941_Brazil_road_sign_28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/1941_Brazil_road_sign_28.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.95,
+      "valid_years": "1941"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-01.svg",
+      "iso": "BR",
+      "id": "A-01",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1968_BR_Road_sign_A-01.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/162-1968_BR_Road_sign_A-01.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/162-1968_BR_Road_sign_A-01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1968_BR_Road_sign_A-01.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-01a.svg",
+      "iso": "BR",
+      "id": "A-01a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/1999_Brazil_road_sign_A-01a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/243-1999_Brazil_road_sign_A-01a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/243-1999_Brazil_road_sign_A-01a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/1999_Brazil_road_sign_A-01a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-01b.svg",
+      "iso": "BR",
+      "id": "A-01b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1999_Brazil_road_sign_A-01b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/244-1999_Brazil_road_sign_A-01b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/244-1999_Brazil_road_sign_A-01b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1999_Brazil_road_sign_A-01b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-02.svg",
+      "iso": "BR",
+      "id": "A-02",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/1968_BR_Road_sign_A-02.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/163-1968_BR_Road_sign_A-02.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/163-1968_BR_Road_sign_A-02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/1968_BR_Road_sign_A-02.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-02a.svg",
+      "iso": "BR",
+      "id": "A-02a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/1999_Brazil_road_sign_A-02a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/245-1999_Brazil_road_sign_A-02a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/245-1999_Brazil_road_sign_A-02a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/1999_Brazil_road_sign_A-02a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-02b.svg",
+      "iso": "BR",
+      "id": "A-02b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/1999_Brazil_road_sign_A-02b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/246-1999_Brazil_road_sign_A-02b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/246-1999_Brazil_road_sign_A-02b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/1999_Brazil_road_sign_A-02b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-03.svg",
+      "iso": "BR",
+      "id": "A-03",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/1968_BR_Road_sign_A-03.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/164-1968_BR_Road_sign_A-03.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/164-1968_BR_Road_sign_A-03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/1968_BR_Road_sign_A-03.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-03a.svg",
+      "iso": "BR",
+      "id": "A-03a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1999_Brazil_road_sign_A-03a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/247-1999_Brazil_road_sign_A-03a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/247-1999_Brazil_road_sign_A-03a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1999_Brazil_road_sign_A-03a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-03b.svg",
+      "iso": "BR",
+      "id": "A-03b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/1999_Brazil_road_sign_A-03b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/248-1999_Brazil_road_sign_A-03b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/248-1999_Brazil_road_sign_A-03b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/1999_Brazil_road_sign_A-03b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-04.svg",
+      "iso": "BR",
+      "id": "A-04",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1968_BR_Road_sign_A-04.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/165-1968_BR_Road_sign_A-04.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/165-1968_BR_Road_sign_A-04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/1968_BR_Road_sign_A-04.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-04a.svg",
+      "iso": "BR",
+      "id": "A-04a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/1999_Brazil_road_sign_A-04a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/249-1999_Brazil_road_sign_A-04a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/249-1999_Brazil_road_sign_A-04a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/1999_Brazil_road_sign_A-04a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-04b.svg",
+      "iso": "BR",
+      "id": "A-04b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/1999_Brazil_road_sign_A-04b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/250-1999_Brazil_road_sign_A-04b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/250-1999_Brazil_road_sign_A-04b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/1999_Brazil_road_sign_A-04b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-05.svg",
+      "iso": "BR",
+      "id": "A-05",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/1968_BR_Road_sign_A-05.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/166-1968_BR_Road_sign_A-05.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/166-1968_BR_Road_sign_A-05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/1968_BR_Road_sign_A-05.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-05a.svg",
+      "iso": "BR",
+      "id": "A-05a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/1999_Brazil_road_sign_A-05a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/251-1999_Brazil_road_sign_A-05a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/251-1999_Brazil_road_sign_A-05a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/1999_Brazil_road_sign_A-05a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-05b.svg",
+      "iso": "BR",
+      "id": "A-05b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/1999_Brazil_road_sign_A-05b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/252-1999_Brazil_road_sign_A-05b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/252-1999_Brazil_road_sign_A-05b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/1999_Brazil_road_sign_A-05b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-06.svg",
+      "iso": "BR",
+      "id": "A-06",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1999_Brazil_road_sign_A-06.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/253-1999_Brazil_road_sign_A-06.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/253-1999_Brazil_road_sign_A-06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1999_Brazil_road_sign_A-06.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-A-06_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/1968_BR_Road_sign_A-06.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-07.svg",
+      "iso": "BR",
+      "id": "A-07",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1968_BR_Road_sign_A-07.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/168-1968_BR_Road_sign_A-07.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/168-1968_BR_Road_sign_A-07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1968_BR_Road_sign_A-07.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-07a.svg",
+      "iso": "BR",
+      "id": "A-07a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/1999_Brazil_road_sign_A-07a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/254-1999_Brazil_road_sign_A-07a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/254-1999_Brazil_road_sign_A-07a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/1999_Brazil_road_sign_A-07a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-07b.svg",
+      "iso": "BR",
+      "id": "A-07b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/1999_Brazil_road_sign_A-07b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/255-1999_Brazil_road_sign_A-07b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/255-1999_Brazil_road_sign_A-07b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/1999_Brazil_road_sign_A-07b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-08.svg",
+      "iso": "BR",
+      "id": "A-08",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/1999_Brazil_road_sign_A-08.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/256-1999_Brazil_road_sign_A-08.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/256-1999_Brazil_road_sign_A-08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/1999_Brazil_road_sign_A-08.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-A-08_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/1968_BR_Road_sign_A-08.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-09.svg",
+      "iso": "BR",
+      "id": "A-09",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/1999_Brazil_road_sign_A-09.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/257-1999_Brazil_road_sign_A-09.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/257-1999_Brazil_road_sign_A-09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/1999_Brazil_road_sign_A-09.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-A-09_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/1968_BR_Road_sign_A-09.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-10.svg",
+      "iso": "BR",
+      "id": "A-10",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1968_BR_Road_sign_A-10.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/171-1968_BR_Road_sign_A-10.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/171-1968_BR_Road_sign_A-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1968_BR_Road_sign_A-10.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-11.svg",
+      "iso": "BR",
+      "id": "A-11",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/1968_BR_Road_sign_A-11.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/172-1968_BR_Road_sign_A-11.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/172-1968_BR_Road_sign_A-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/1968_BR_Road_sign_A-11.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-13.svg",
+      "iso": "BR",
+      "id": "A-13",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/1968_BR_Road_sign_A-13.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/174-1968_BR_Road_sign_A-13.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/174-1968_BR_Road_sign_A-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/1968_BR_Road_sign_A-13.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-1a.svg",
+      "iso": "BR",
+      "id": "A-1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brasil_A-1a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/053-Brasil_A-1a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/053-Brasil_A-1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brasil_A-1a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/053-Brasil_A-1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brasil_A-1a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/002-Brasil_A-1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Brasil_A-1a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.974
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-1b.svg",
+      "iso": "BR",
+      "id": "A-1b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brasil_A-1b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/054-Brasil_A-1b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/054-Brasil_A-1b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brasil_A-1b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/054-Brasil_A-1b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brasil_A-1b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/003-Brasil_A-1b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brasil_A-1b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.974
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-20.svg",
+      "iso": "BR",
+      "id": "A-20",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/1999_Brazil_road_sign_A-20.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/269-1999_Brazil_road_sign_A-20.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/269-1999_Brazil_road_sign_A-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/1999_Brazil_road_sign_A-20.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-A-20_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/1968_BR_Road_sign_A-20.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-20a.svg",
+      "iso": "BR",
+      "id": "A-20a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brasil_A-20a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/081-Brasil_A-20a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/081-Brasil_A-20a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brasil_A-20a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/081-Brasil_A-20a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brasil_A-20a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/030-Brasil_A-20a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brasil_A-20a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-20b.svg",
+      "iso": "BR",
+      "id": "A-20b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brasil_A-20b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/082-Brasil_A-20b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/082-Brasil_A-20b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brasil_A-20b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/082-Brasil_A-20b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brasil_A-20b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/031-Brasil_A-20b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brasil_A-20b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.968
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-21.svg",
+      "iso": "BR",
+      "id": "A-21",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1968_BR_Road_sign_A-21.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/182-1968_BR_Road_sign_A-21.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/182-1968_BR_Road_sign_A-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1968_BR_Road_sign_A-21.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-21d.svg",
+      "iso": "BR",
+      "id": "A-21d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Brasil_A-21d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/086-Brasil_A-21d.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/086-Brasil_A-21d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Brasil_A-21d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/086-Brasil_A-21d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Brasil_A-21d.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/035-Brasil_A-21d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Brasil_A-21d.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-21e.svg",
+      "iso": "BR",
+      "id": "A-21e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brasil_A-21e.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/087-Brasil_A-21e.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/087-Brasil_A-21e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brasil_A-21e.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/087-Brasil_A-21e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brasil_A-21e.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/036-Brasil_A-21e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Brasil_A-21e.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-26.svg",
+      "iso": "BR",
+      "id": "A-26",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/1968_BR_Road_sign_A-26.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/187-1968_BR_Road_sign_A-26.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/187-1968_BR_Road_sign_A-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/1968_BR_Road_sign_A-26.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "sd_unclassified/other/BR-A-26a.svg",
+      "iso": "BR",
+      "id": "A-26a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-26a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/092-Brasil_A-26a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/092-Brasil_A-26a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-26a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/092-Brasil_A-26a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-26a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/041-Brasil_A-26a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-26a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BR-A-26b.svg",
+      "iso": "BR",
+      "id": "A-26b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Brasil_A-26b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/093-Brasil_A-26b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/093-Brasil_A-26b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Brasil_A-26b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/093-Brasil_A-26b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Brasil_A-26b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/042-Brasil_A-26b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Brasil_A-26b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-2a.svg",
+      "iso": "BR",
+      "id": "A-2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasil_A-2a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/055-Brasil_A-2a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/055-Brasil_A-2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasil_A-2a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/055-Brasil_A-2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasil_A-2a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/004-Brasil_A-2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brasil_A-2a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.974
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-2b.svg",
+      "iso": "BR",
+      "id": "A-2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Brasil_A-2b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/056-Brasil_A-2b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/056-Brasil_A-2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Brasil_A-2b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/056-Brasil_A-2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Brasil_A-2b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/005-Brasil_A-2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Brasil_A-2b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.974
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-30.svg",
+      "iso": "BR",
+      "id": "A-30",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1999_Brazil_road_sign_A-30.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/279-1999_Brazil_road_sign_A-30.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/279-1999_Brazil_road_sign_A-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1999_Brazil_road_sign_A-30.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-A-30_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1968_BR_Road_sign_A-30.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-30a.svg",
+      "iso": "BR",
+      "id": "A-30a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brasil_A-30a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/097-Brasil_A-30a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/097-Brasil_A-30a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brasil_A-30a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/097-Brasil_A-30a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brasil_A-30a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/046-Brasil_A-30a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brasil_A-30a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-30b.svg",
+      "iso": "BR",
+      "id": "A-30b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Brasil_A-30b.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/098-Brasil_A-30b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/098-Brasil_A-30b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Brasil_A-30b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/047-Brasil_A-30b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Brasil_A-30b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-30c.svg",
+      "iso": "BR",
+      "id": "A-30c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brasil_A-30c.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/099-Brasil_A-30c.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/099-Brasil_A-30c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brasil_A-30c.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/048-Brasil_A-30c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Brasil_A-30c.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-32.svg",
+      "iso": "BR",
+      "id": "A-32",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1999_Brazil_road_sign_A-32.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/281-1999_Brazil_road_sign_A-32.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/281-1999_Brazil_road_sign_A-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1999_Brazil_road_sign_A-32.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-A-32_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/1968_BR_Road_sign_A-32.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-32a.svg",
+      "iso": "BR",
+      "id": "A-32a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Brasil_A-32a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/099-Brasil_A-32a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/099-Brasil_A-32a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Brasil_A-32a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/101-Brasil_A-32a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Brasil_A-32a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/050-Brasil_A-32a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Brasil_A-32a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.975
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-32b.svg",
+      "iso": "BR",
+      "id": "A-32b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Brasil_A-32b.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/102-Brasil_A-32b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/102-Brasil_A-32b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Brasil_A-32b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/051-Brasil_A-32b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Brasil_A-32b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-33.svg",
+      "iso": "BR",
+      "id": "A-33",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/1999_Brazil_road_sign_A-33.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/282-1999_Brazil_road_sign_A-33.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/282-1999_Brazil_road_sign_A-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/1999_Brazil_road_sign_A-33.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-A-33_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/1968_BR_Road_sign_A-33.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-33a.svg",
+      "iso": "BR",
+      "id": "A-33a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Brasil_A-33a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/100-Brasil_A-33a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/100-Brasil_A-33a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Brasil_A-33a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/103-Brasil_A-33a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Brasil_A-33a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/052-Brasil_A-33a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Brasil_A-33a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-33b.svg",
+      "iso": "BR",
+      "id": "A-33b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Brasil_A-33b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/101-Brasil_A-33b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/101-Brasil_A-33b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Brasil_A-33b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/104-Brasil_A-33b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Brasil_A-33b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/053-Brasil_A-33b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Brasil_A-33b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-3a.svg",
+      "iso": "BR",
+      "id": "A-3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasil_A-3a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/057-Brasil_A-3a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/057-Brasil_A-3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasil_A-3a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/057-Brasil_A-3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasil_A-3a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/006-Brasil_A-3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brasil_A-3a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.974
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-3b.svg",
+      "iso": "BR",
+      "id": "A-3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Brasil_A-3b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/058-Brasil_A-3b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/058-Brasil_A-3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Brasil_A-3b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/058-Brasil_A-3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Brasil_A-3b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/007-Brasil_A-3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Brasil_A-3b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.974
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-41.svg",
+      "iso": "BR",
+      "id": "A-41",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1999_Brazil_road_sign_A-41.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/290-1999_Brazil_road_sign_A-41.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/290-1999_Brazil_road_sign_A-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/1999_Brazil_road_sign_A-41.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.509,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "other/BR-A-41_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/1968_BR_Road_sign_A-41.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-41a.svg",
+      "iso": "BR",
+      "id": "A-41a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brasil_A-41a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/061-Brasil_A-41a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/061-Brasil_A-41a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brasil_A-41a.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.617
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-41b.svg",
+      "iso": "BR",
+      "id": "A-41b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brasil_A-41b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/109-Brasil_A-41b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/109-Brasil_A-41b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brasil_A-41b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/112-Brasil_A-41b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brasil_A-41b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/062-Brasil_A-41b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brasil_A-41b.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.617
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-42.svg",
+      "iso": "BR",
+      "id": "A-42",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/1968_BR_Road_sign_A-42.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/203-1968_BR_Road_sign_A-42.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/203-1968_BR_Road_sign_A-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/1968_BR_Road_sign_A-42.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-42c.svg",
+      "iso": "BR",
+      "id": "A-42c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Brasil_A-42c.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/115-Brasil_A-42c.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/115-Brasil_A-42c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Brasil_A-42c.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/065-Brasil_A-42c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Brasil_A-42c.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-45a.svg",
+      "iso": "BR",
+      "id": "A-45a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/1999_Brazil_road_sign_A-45a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/295-1999_Brazil_road_sign_A-45a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/295-1999_Brazil_road_sign_A-45a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/1999_Brazil_road_sign_A-45a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-45b.svg",
+      "iso": "BR",
+      "id": "A-45b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1999_Brazil_road_sign_A-45b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/296-1999_Brazil_road_sign_A-45b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/296-1999_Brazil_road_sign_A-45b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/1999_Brazil_road_sign_A-45b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-4a.svg",
+      "iso": "BR",
+      "id": "A-4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_A-4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/059-Brasil_A-4a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/059-Brasil_A-4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_A-4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/059-Brasil_A-4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_A-4a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/008-Brasil_A-4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Brasil_A-4a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-4b.svg",
+      "iso": "BR",
+      "id": "A-4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasil_A-4b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/060-Brasil_A-4b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/060-Brasil_A-4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasil_A-4b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/060-Brasil_A-4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasil_A-4b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/009-Brasil_A-4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Brasil_A-4b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-5a.svg",
+      "iso": "BR",
+      "id": "A-5a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brasil_A-5a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/061-Brasil_A-5a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/061-Brasil_A-5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brasil_A-5a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/061-Brasil_A-5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brasil_A-5a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/010-Brasil_A-5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brasil_A-5a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-5b.svg",
+      "iso": "BR",
+      "id": "A-5b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Brasil_A-5b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/062-Brasil_A-5b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/062-Brasil_A-5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Brasil_A-5b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/062-Brasil_A-5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Brasil_A-5b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/011-Brasil_A-5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Brasil_A-5b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BR-A-6.svg",
+      "iso": "BR",
+      "id": "A-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Brasil_A-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/063-Brasil_A-6.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/063-Brasil_A-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Brasil_A-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/063-Brasil_A-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Brasil_A-6.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/012-Brasil_A-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Brasil_A-6.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-7a.svg",
+      "iso": "BR",
+      "id": "A-7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brasil_A-7a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/064-Brasil_A-7a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/064-Brasil_A-7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brasil_A-7a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/064-Brasil_A-7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brasil_A-7a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/013-Brasil_A-7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Brasil_A-7a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-7b.svg",
+      "iso": "BR",
+      "id": "A-7b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Brasil_A-7b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/065-Brasil_A-7b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/065-Brasil_A-7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Brasil_A-7b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/065-Brasil_A-7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Brasil_A-7b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/014-Brasil_A-7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Brasil_A-7b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-8.svg",
+      "iso": "BR",
+      "id": "A-8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/066-Brasil_A-8.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/066-Brasil_A-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/066-Brasil_A-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-8.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/015-Brasil_A-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Brasil_A-8.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BR-A-9.svg",
+      "iso": "BR",
+      "id": "A-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_A-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/067-Brasil_A-9.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/067-Brasil_A-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_A-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/067-Brasil_A-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_A-9.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/016-Brasil_A-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_A-9.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "g_other_information_signs/other/BR-Dutra-Pinto.svg",
+      "iso": "BR",
+      "id": "Dutra-Pinto",
+      "description": "Dutra-Pinto",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Brasil_road_sign_Dutra-Pinto.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/129-Brasil_road_sign_Dutra-Pinto.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/129-Brasil_road_sign_Dutra-Pinto.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Brasil_road_sign_Dutra-Pinto.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "b_priority_signs/vienna/BR-R-01.svg",
+      "iso": "BR",
+      "id": "R-01",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/1999_Brazil_road_sign_R-01.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/300-1999_Brazil_road_sign_R-01.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/300-1999_Brazil_road_sign_R-01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/1999_Brazil_road_sign_R-01.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "octagon/BR-R-01_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/1968_BR_Road_sign_R-01.svg"
+        }
+      ]
+    },
+    {
+      "filename": "b_priority_signs/vienna/BR-R-02.svg",
+      "iso": "BR",
+      "id": "R-02",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/1999_Brazil_road_sign_R-02.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/301-1999_Brazil_road_sign_R-02.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/301-1999_Brazil_road_sign_R-02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/1999_Brazil_road_sign_R-02.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.953,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-R-02_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/1968_BR_Road_sign_R-02.svg"
+        }
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-03.svg",
+      "iso": "BR",
+      "id": "R-03",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/1999_Brazil_road_sign_R-03.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/302-1999_Brazil_road_sign_R-03.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/302-1999_Brazil_road_sign_R-03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/1999_Brazil_road_sign_R-03.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "diamond/BR-R-03_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/1968_BR_Road_sign_R-03.svg"
+        }
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-04.svg",
+      "iso": "BR",
+      "id": "R-04",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/1968_BR_Road_sign_R-04.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/212-1968_BR_Road_sign_R-04.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/212-1968_BR_Road_sign_R-04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/1968_BR_Road_sign_R-04.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-04a.svg",
+      "iso": "BR",
+      "id": "R-04a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/1999_Brazil_road_sign_R-04a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/303-1999_Brazil_road_sign_R-04a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/303-1999_Brazil_road_sign_R-04a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/1999_Brazil_road_sign_R-04a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-04b.svg",
+      "iso": "BR",
+      "id": "R-04b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1999_Brazil_road_sign_R-04b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/304-1999_Brazil_road_sign_R-04b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/304-1999_Brazil_road_sign_R-04b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/1999_Brazil_road_sign_R-04b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-05.svg",
+      "iso": "BR",
+      "id": "R-05",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/1999_Brazil_road_sign_R-05.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/305-1999_Brazil_road_sign_R-05.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/305-1999_Brazil_road_sign_R-05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/1999_Brazil_road_sign_R-05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "circle/BR-R-05_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/1968_BR_Road_sign_R-05.svg"
+        }
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-06.svg",
+      "iso": "BR",
+      "id": "R-06",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/1968_BR_Road_sign_R-06.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/214-1968_BR_Road_sign_R-06.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/214-1968_BR_Road_sign_R-06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/1968_BR_Road_sign_R-06.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-06a.svg",
+      "iso": "BR",
+      "id": "R-06a",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1999_Brazil_road_sign_R-06a.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/306-1999_Brazil_road_sign_R-06a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/306-1999_Brazil_road_sign_R-06a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1999_Brazil_road_sign_R-06a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-06b.svg",
+      "iso": "BR",
+      "id": "R-06b",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/1999_Brazil_road_sign_R-06b.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/307-1999_Brazil_road_sign_R-06b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/307-1999_Brazil_road_sign_R-06b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/1999_Brazil_road_sign_R-06b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-06c.svg",
+      "iso": "BR",
+      "id": "R-06c",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/1999_Brazil_road_sign_R-06c.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/308-1999_Brazil_road_sign_R-06c.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/308-1999_Brazil_road_sign_R-06c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/1999_Brazil_road_sign_R-06c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-07.svg",
+      "iso": "BR",
+      "id": "R-07",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/1999_Brazil_road_sign_R-07.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/309-1999_Brazil_road_sign_R-07.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/309-1999_Brazil_road_sign_R-07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/1999_Brazil_road_sign_R-07.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "circle/BR-R-07_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/1968_BR_Road_sign_R-07.svg"
+        }
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-08.svg",
+      "iso": "BR",
+      "id": "R-08",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/1999_Brazil_road_sign_R-08.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/310-1999_Brazil_road_sign_R-08.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/310-1999_Brazil_road_sign_R-08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/1999_Brazil_road_sign_R-08.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "circle/BR-R-08_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1968_BR_Road_sign_R-08.svg"
+        }
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-09.svg",
+      "iso": "BR",
+      "id": "R-09",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/1999_Brazil_road_sign_R-09.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/311-1999_Brazil_road_sign_R-09.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/311-1999_Brazil_road_sign_R-09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/1999_Brazil_road_sign_R-09.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "circle/BR-R-09_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1968_BR_Road_sign_R-09.svg"
+        }
+      ]
+    },
+    {
+      "filename": "b_priority_signs/vienna/BR-R-1.svg",
+      "iso": "BR",
+      "id": "R-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Brasil_R-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/001-Brasil_R-1.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/001-Brasil_R-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Brasil_R-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/002-Brasil_R-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Brasil_R-1.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/072-Brasil_R-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Brasil_R-1.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-19.svg",
+      "iso": "BR",
+      "id": "R-19",
+      "description": null,
+      "variants": [
+        "1999"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1999_Brazil_road_sign_R-19.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/321-1999_Brazil_road_sign_R-19.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/321-1999_Brazil_road_sign_R-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1999_Brazil_road_sign_R-19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1999",
+      "replaced_versions": [
+        {
+          "filename": "circle/BR-R-19_1968.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/1968_BR_Road_sign_R-19.svg"
+        }
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-19_80.svg",
+      "iso": "BR",
+      "id": "R-19",
+      "description": null,
+      "variants": [
+        "80"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasil_R-19_%2880%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/024-Brasil_R-19_(80).svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/024-Brasil_R-19_(80).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasil_R-19_%2880%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/025-Brasil_R-19_(80).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasil_R-19_%2880%29.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/095-Brasil_R-19_(80).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasil_R-19_%2880%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "b_priority_signs/vienna/BR-R-2.svg",
+      "iso": "BR",
+      "id": "R-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasil_R-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/002-Brasil_R-2.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/002-Brasil_R-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasil_R-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/003-BR_road_sign_R-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/BR_road_sign_R-2.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/073-BR_road_sign_R-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/BR_road_sign_R-2.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-24.svg",
+      "iso": "BR",
+      "id": "R-24",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/1968_BR_Road_sign_R-24.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/232-1968_BR_Road_sign_R-24.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/232-1968_BR_Road_sign_R-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/1968_BR_Road_sign_R-24.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-25.svg",
+      "iso": "BR",
+      "id": "R-25",
+      "description": null,
+      "variants": [
+        "1968"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/1968_BR_Road_sign_R-25.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/233-1968_BR_Road_sign_R-25.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/233-1968_BR_Road_sign_R-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/1968_BR_Road_sign_R-25.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "1968"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-3.svg",
+      "iso": "BR",
+      "id": "R-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Brasil_R-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/003-Brasil_R-3.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/003-Brasil_R-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Brasil_R-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/004-Brasil_R-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Brasil_R-3.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/074-Brasil_R-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Brasil_R-3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-35a.svg",
+      "iso": "BR",
+      "id": "R-35a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-35a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/045-Brasil_R-35a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/045-Brasil_R-35a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-35a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/045-Brasil_R-35a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-35a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/115-Brasil_R-35a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-35a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-35b.svg",
+      "iso": "BR",
+      "id": "R-35b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Brasil_R-35b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/046-Brasil_R-35b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/046-Brasil_R-35b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Brasil_R-35b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/046-Brasil_R-35b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Brasil_R-35b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/116-Brasil_R-35b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Brasil_R-35b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-36a.svg",
+      "iso": "BR",
+      "id": "R-36a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Brasil_R-36a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/047-Brasil_R-36a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/047-Brasil_R-36a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Brasil_R-36a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/047-Brasil_R-36a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Brasil_R-36a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/117-Brasil_R-36a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Brasil_R-36a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-36b.svg",
+      "iso": "BR",
+      "id": "R-36b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brasil_R-36b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/048-Brasil_R-36b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/048-Brasil_R-36b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brasil_R-36b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/048-Brasil_R-36b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brasil_R-36b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/118-Brasil_R-36b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brasil_R-36b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-37.svg",
+      "iso": "BR",
+      "id": "R-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Brasil_R-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/049-Brasil_R-37.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/049-Brasil_R-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Brasil_R-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/049-Brasil_R-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Brasil_R-37.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/119-Brasil_R-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Brasil_R-37.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-38.svg",
+      "iso": "BR",
+      "id": "R-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brasil_R-38.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/050-Brasil_R-38.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/050-Brasil_R-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brasil_R-38.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/050-Brasil_R-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brasil_R-38.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/120-Brasil_R-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brasil_R-38.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-39.svg",
+      "iso": "BR",
+      "id": "R-39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-39.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/051-Brasil_R-39.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/051-Brasil_R-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-39.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/051-Brasil_R-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-39.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/121-Brasil_R-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-39.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-40.svg",
+      "iso": "BR",
+      "id": "R-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Brasil_R-40.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/052-Brasil_R-40.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/052-Brasil_R-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Brasil_R-40.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/052-Brasil_R-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Brasil_R-40.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/122-Brasil_R-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Brasil_R-40.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-4a.svg",
+      "iso": "BR",
+      "id": "R-4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Brasil_R-4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/004-Brasil_R-4a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/004-Brasil_R-4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Brasil_R-4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/005-Brasil_R-4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Brasil_R-4a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/075-Brasil_R-4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Brasil_R-4a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-4b.svg",
+      "iso": "BR",
+      "id": "R-4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-4b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/005-Brasil_R-4b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/005-Brasil_R-4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-4b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/006-Brasil_R-4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-4b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/076-Brasil_R-4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Brasil_R-4b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-5a.svg",
+      "iso": "BR",
+      "id": "R-5a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasil_R-5a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/006-Brasil_R-5a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/006-Brasil_R-5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasil_R-5a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/007-Brasil_R-5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasil_R-5a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/077-Brasil_R-5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Brasil_R-5a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-5b.svg",
+      "iso": "BR",
+      "id": "R-5b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Brasil_R-5b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/007-Brasil_R-5b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/007-Brasil_R-5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Brasil_R-5b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/008-Brasil_R-5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Brasil_R-5b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/078-Brasil_R-5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Brasil_R-5b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-6a.svg",
+      "iso": "BR",
+      "id": "R-6a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_R-6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/008-Brasil_R-6a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/008-Brasil_R-6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_R-6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/009-Brasil_R-6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_R-6a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/079-Brasil_R-6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brasil_R-6a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-6b.svg",
+      "iso": "BR",
+      "id": "R-6b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Brasil_R-6b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/009-Brasil_R-6b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/009-Brasil_R-6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Brasil_R-6b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/010-Brasil_R-6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Brasil_R-6b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/080-Brasil_R-6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Brasil_R-6b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-6c.svg",
+      "iso": "BR",
+      "id": "R-6c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-6c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/010-Brasil_R-6c.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/010-Brasil_R-6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-6c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/011-Brasil_R-6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-6c.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/081-Brasil_R-6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-6c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-7.svg",
+      "iso": "BR",
+      "id": "R-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/011-Brasil_R-7.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/011-Brasil_R-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/012-Brasil_R-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-7.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/082-Brasil_R-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brasil_R-7.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-8a.svg",
+      "iso": "BR",
+      "id": "R-8a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Brasil_R-8a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/012-Brasil_R-8a.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/012-Brasil_R-8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Brasil_R-8a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/013-Brasil_R-8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Brasil_R-8a.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/083-Brasil_R-8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Brasil_R-8a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/BR-R-8b.svg",
+      "iso": "BR",
+      "id": "R-8b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brasil_R-8b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/013-Brasil_R-8b.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/013-Brasil_R-8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brasil_R-8b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/014-Brasil_R-8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brasil_R-8b.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/084-Brasil_R-8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brasil_R-8b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BR-R-9.svg",
+      "iso": "BR",
+      "id": "R-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/014-Brasil_R-9.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/osm_wiki/01-Pt_Placas_de_sinalização_no_Brasil/014-Brasil_R-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/015-Brasil_R-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-9.svg"
+        },
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/085-Brasil_R-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brasil_R-9.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BR-pedestrian_crossing.svg",
+      "iso": "BR",
+      "id": "pedestrian_crossing",
+      "description": "pedestrian_crossing_sign",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Brazil_pedestrian_crossing_sign.svg",
+      "kept_from": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/128-Brazil_pedestrian_crossing_sign.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia_en/01-en_Road_signs_in_Brazil/128-Brazil_pedestrian_crossing_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Brazil_pedestrian_crossing_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_ciclista.svg",
+      "iso": "BR",
+      "id": "semaforo_ciclista",
+      "description": "semaforo_ciclista",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Brasil_-_semaforo_ciclista.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/131-Brasil_-_semaforo_ciclista.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/131-Brasil_-_semaforo_ciclista.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Brasil_-_semaforo_ciclista.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.974
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_para_controle_de_faixa.svg",
+      "iso": "BR",
+      "id": "semaforo_para_controle_de_faixa",
+      "description": "semaforo_para_controle_de_faixa",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Brasil_-_semaforo_para_controle_de_faixa.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/134-Brasil_-_semaforo_para_controle_de_faixa.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/134-Brasil_-_semaforo_para_controle_de_faixa.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Brasil_-_semaforo_para_controle_de_faixa.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_pedestre_1.svg",
+      "iso": "BR",
+      "id": "semaforo_pedestre_1",
+      "description": "semaforo_pedestre_1",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Brasil_-_semaforo_pedestre_1.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/132-Brasil_-_semaforo_pedestre_1.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/132-Brasil_-_semaforo_pedestre_1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Brasil_-_semaforo_pedestre_1.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_pedestre_2.svg",
+      "iso": "BR",
+      "id": "semaforo_pedestre_2",
+      "description": "semaforo_pedestre_2",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Brasil_-_semaforo_pedestre_2.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/133-Brasil_-_semaforo_pedestre_2.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/133-Brasil_-_semaforo_pedestre_2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Brasil_-_semaforo_pedestre_2.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_seguir_reto.svg",
+      "iso": "BR",
+      "id": "semaforo_seguir_reto",
+      "description": "semaforo_seguir_reto",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Brasil_-_semaforo_seguir_reto.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/130-Brasil_-_semaforo_seguir_reto.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/130-Brasil_-_semaforo_seguir_reto.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Brasil_-_semaforo_seguir_reto.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_veicular.svg",
+      "iso": "BR",
+      "id": "semaforo_veicular",
+      "description": "semaforo_veicular",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brasil_-_semaforo_veicular.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/127-Brasil_-_semaforo_veicular.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/127-Brasil_-_semaforo_veicular.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Brasil_-_semaforo_veicular.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.971
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_virar_a_direita.svg",
+      "iso": "BR",
+      "id": "semaforo_virar_a_direita",
+      "description": "semaforo_virar_a_direita",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Brasil_-_semaforo_virar_%C3%A0_direita.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/128-Brasil_-_semaforo_virar_à_direita.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/128-Brasil_-_semaforo_virar_à_direita.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Brasil_-_semaforo_virar_%C3%A0_direita.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.972
+    },
+    {
+      "filename": "sd_unclassified/other/BR-semaforo_virar_a_esquerda.svg",
+      "iso": "BR",
+      "id": "semaforo_virar_a_esquerda",
+      "description": "semaforo_virar_a_esquerda",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Brasil_-_semaforo_virar_%C3%A0_esquerda.svg",
+      "kept_from": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/129-Brasil_-_semaforo_virar_à_esquerda.svg",
+      "sources": [
+        {
+          "file": "BR_Brazil/wikipedia/01-pt_Sinalização_de_trânsito_no_Brasil/129-Brasil_-_semaforo_virar_à_esquerda.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Brasil_-_semaforo_virar_%C3%A0_esquerda.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.975
+    }
+  ]
+}

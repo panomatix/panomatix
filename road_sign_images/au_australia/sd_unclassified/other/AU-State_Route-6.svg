@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1440"
+   height="1350"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Susan and Tristan\My Documents"
+   sodipodi:docname="Australian State Route 6.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4037037"
+     inkscape:cx="719.99999"
+     inkscape:cy="761.6233"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccscc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7.14798641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.073786,170.56971 C 18.073786,132.0504 34.583256,41.192757 36.597331,3.5739868 L 1395.5796,5.6924668 C 1397.5937,43.311257 1409.8907,102.08885 1415.563,140.18175 C 1509.5818,771.57667 1286.3586,1285.5997 735.17949,1346.426 C 244.27135,1292.3475 -68.984278,761.47692 18.073786,170.56971 z "
+       id="path1690" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       style="fill:#007bcf;fill-opacity:0.94117647"
+       d="M 71.781499,210.94623 C 71.781499,175.50651 86.971049,91.912917 88.824099,57.301767 L 1333.0353,59.250867 C 1334.8884,93.862027 1352.3231,147.94038 1357.542,182.98776 C 1444.044,763.90289 1238.6674,1236.8299 731.55487,1292.7933 C 279.89466,1243.0385 -8.3162958,754.6106 71.781499,210.94623 z "
+       id="path1479" />
+    <path
+       id="path5964"
+       d="M 681.46238,1007.8063 C 598.43253,993.8704 526.02105,940.04214 492.85636,867.60271 C 474.16779,826.7825 472.60878,818.15789 472.81347,756.72275 C 473.06203,682.11998 480.31976,639.82629 506.12583,562.59859 C 520.44086,519.7591 557.98848,443.5073 584.14402,404.15902 C 629.30929,336.21261 688.94498,273.67894 749.80167,230.45129 L 764.35645,220.11275 L 794.76426,270.13415 C 811.48853,297.64588 825.10612,321.07128 825.02553,322.19052 C 824.94491,323.30978 815.89755,331.29108 804.92029,339.92676 C 780.53535,359.11005 722.56785,417.90846 705.00821,441.27099 C 686.45368,465.95722 664.98694,500.51606 651.40588,527.56432 C 644.91936,540.48297 639.6122,551.48581 639.6122,552.01508 C 639.6122,552.54435 652.13749,551.19026 667.44619,549.00596 C 705.28817,543.60651 767.70018,545.81967 797.1252,553.60439 C 902.55016,581.49578 974.95647,656.52445 987.93669,751.32658 C 1004.4713,872.08832 914.88697,983.51504 782.69031,1006.6161 C 757.31345,1011.0507 704.49235,1011.6716 681.46238,1007.8063 z M 768.86375,883.55594 C 795.09283,876.75932 818.79737,863.47883 836.57897,845.61843 C 858.32513,823.77593 866.19678,806.81324 867.53455,778.91186 C 868.4794,759.2056 867.69091,754.92597 860.14381,738.79821 C 839.641,694.98467 787.32927,665.37021 730.43876,665.37021 C 676.98196,665.37021 623.43455,695.28031 603.22762,736.42685 C 596.49024,750.14594 595.37339,755.91771 595.43359,776.70612 C 595.49058,796.37493 596.78781,803.58484 602.28149,814.76636 C 617.57428,845.89246 652.95658,873.21158 691.35129,883.53827 C 711.88463,889.06097 747.58783,889.0691 768.86375,883.55594 z "
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>

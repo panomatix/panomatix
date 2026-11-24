@@ -1,0 +1,110 @@
+{
+  "country_code": "CA",
+  "country": "Canada",
+  "images": [
+    {
+      "filename": "b_priority_signs/vienna/CA-Cree_Stop.svg",
+      "iso": "CA",
+      "id": "Cree",
+      "description": "Cree",
+      "variants": [
+        "Stop"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Canada_Stop_sign_Cree.svg",
+      "kept_from": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/011-Canada_Stop_sign_Cree.svg",
+      "sources": [
+        {
+          "file": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/011-Canada_Stop_sign_Cree.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Canada_Stop_sign_Cree.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/CA-ON-Ra-002.svg",
+      "iso": "CA-ON",
+      "id": "Ra-002",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/CA-ON_road_sign_Ra-002.svg",
+      "kept_from": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/242-CA-ON_road_sign_Ra-002.svg",
+      "sources": [
+        {
+          "file": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/242-CA-ON_road_sign_Ra-002.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/CA-ON_road_sign_Ra-002.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.966
+    },
+    {
+      "filename": "sd_unclassified/other/CA-ON-Ra-005-R.svg",
+      "iso": "CA-ON",
+      "id": "Ra-005-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/CA-ON_road_sign_Ra-005-R.svg",
+      "kept_from": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/243-CA-ON_road_sign_Ra-005-R.svg",
+      "sources": [
+        {
+          "file": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/243-CA-ON_road_sign_Ra-005-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/CA-ON_road_sign_Ra-005-R.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/CA-ON-Rb-015.svg",
+      "iso": "CA-ON",
+      "id": "Rb-015",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/CA-ON_road_sign_Rb-015.svg",
+      "kept_from": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/248-CA-ON_road_sign_Rb-015.svg",
+      "sources": [
+        {
+          "file": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/248-CA-ON_road_sign_Rb-015.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/CA-ON_road_sign_Rb-015.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/other/CA-ON-Wb-001.svg",
+      "iso": "CA-ON",
+      "id": "Wb-001",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/CA-ON_road_sign_Wb-001.svg",
+      "kept_from": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/270-CA-ON_road_sign_Wb-001.svg",
+      "sources": [
+        {
+          "file": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/270-CA-ON_road_sign_Wb-001.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/CA-ON_road_sign_Wb-001.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.971
+    },
+    {
+      "filename": "g_other_information_signs/other/CA-ON-Wc-001.svg",
+      "iso": "CA-ON",
+      "id": "Wc-001",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/CA-ON_road_sign_Wc-001.svg",
+      "kept_from": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/272-CA-ON_road_sign_Wc-001.svg",
+      "sources": [
+        {
+          "file": "CA_Canada/wikipedia_en/01-en_Road_signs_in_Canada/272-CA-ON_road_sign_Wc-001.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/CA-ON_road_sign_Wc-001.svg"
+        }
+      ],
+      "shape": "pentagon",
+      "shape_score": 0.961
+    }
+  ]
+}

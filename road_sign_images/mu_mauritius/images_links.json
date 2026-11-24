@@ -1,0 +1,1678 @@
+{
+  "country_code": "MU",
+  "country": "Mauritius",
+  "images": [
+    {
+      "filename": "e_special_regulation_signs/vienna/MU-Bus_Stop.svg",
+      "iso": "MU",
+      "id": "Bus_Stop",
+      "description": "Bus_Stop",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mauritius_Road_Signs_-_Bus_Stop.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/106-Mauritius_Road_Signs_-_Bus_Stop.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/106-Mauritius_Road_Signs_-_Bus_Stop.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mauritius_Road_Signs_-_Bus_Stop.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MU-Information_Dual_carriageway.svg",
+      "iso": "MU",
+      "id": "Information_Dual_carriageway",
+      "description": "Information_Sign_Dual_carriageway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Information_Sign_-_Dual_carriageway.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/104-Mauritius_Road_Signs_-_Information_Sign_-_Dual_carriageway.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/104-Mauritius_Road_Signs_-_Information_Sign_-_Dual_carriageway.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Information_Sign_-_Dual_carriageway.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Information_End_of_Motorway.svg",
+      "iso": "MU",
+      "id": "Information_End_of_Motorway",
+      "description": "Information_Sign_End_of_Motorway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mauritius_Road_Signs_-_Information_Sign_-_End_of_Motorway.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/103-Mauritius_Road_Signs_-_Information_Sign_-_End_of_Motorway.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/103-Mauritius_Road_Signs_-_Information_Sign_-_End_of_Motorway.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mauritius_Road_Signs_-_Information_Sign_-_End_of_Motorway.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MU-Information_Hospital.svg",
+      "iso": "MU",
+      "id": "Information_Hospital",
+      "description": "Information_Sign_Hospital",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mauritius_Road_Signs_-_Information_Sign_-_Hospital.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/101-Mauritius_Road_Signs_-_Information_Sign_-_Hospital.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/101-Mauritius_Road_Signs_-_Information_Sign_-_Hospital.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mauritius_Road_Signs_-_Information_Sign_-_Hospital.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/MU-Information_Hump.svg",
+      "iso": "MU",
+      "id": "Information_Hump",
+      "description": "Information_Sign_Hump",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mauritius_Road_Signs_-_Information_Sign_-_Hump.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/090-Mauritius_Road_Signs_-_Information_Sign_-_Hump.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/090-Mauritius_Road_Signs_-_Information_Sign_-_Hump.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mauritius_Road_Signs_-_Information_Sign_-_Hump.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MU-Information_In.svg",
+      "iso": "MU",
+      "id": "Information_In",
+      "description": "Information_Sign_In",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mauritius_Road_Signs_-_Information_Sign_-_In.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/096-Mauritius_Road_Signs_-_Information_Sign_-_In.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/096-Mauritius_Road_Signs_-_Information_Sign_-_In.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mauritius_Road_Signs_-_Information_Sign_-_In.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MU-Information_Motorway.svg",
+      "iso": "MU",
+      "id": "Information_Motorway",
+      "description": "Information_Sign_Motorway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mauritius_Road_Signs_-_Information_Sign_-_Motorway.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/102-Mauritius_Road_Signs_-_Information_Sign_-_Motorway.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/102-Mauritius_Road_Signs_-_Information_Sign_-_Motorway.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mauritius_Road_Signs_-_Information_Sign_-_Motorway.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Information_No_Entry.svg",
+      "iso": "MU",
+      "id": "Information_No_Entry",
+      "description": "Information_Sign_No_Entry",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mauritius_Road_Signs_-_Information_Sign_-_No_Entry.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/098-Mauritius_Road_Signs_-_Information_Sign_-_No_Entry.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/098-Mauritius_Road_Signs_-_Information_Sign_-_No_Entry.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mauritius_Road_Signs_-_Information_Sign_-_No_Entry.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MU-Information_No_Exit.svg",
+      "iso": "MU",
+      "id": "Information_No_Exit",
+      "description": "Information_Sign_No_Exit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mauritius_Road_Signs_-_Information_Sign_-_No_Exit.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/099-Mauritius_Road_Signs_-_Information_Sign_-_No_Exit.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/099-Mauritius_Road_Signs_-_Information_Sign_-_No_Exit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mauritius_Road_Signs_-_Information_Sign_-_No_Exit.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/MU-Information_No_through_road.svg",
+      "iso": "MU",
+      "id": "Information_No_through_road",
+      "description": "Information_Sign_No_through_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mauritius_Road_Signs_-_Information_Sign_-_No_through_road.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/093-Mauritius_Road_Signs_-_Information_Sign_-_No_through_road.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/093-Mauritius_Road_Signs_-_Information_Sign_-_No_through_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mauritius_Road_Signs_-_Information_Sign_-_No_through_road.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/MU-Information_No_through_road_2.svg",
+      "iso": "MU",
+      "id": "Information_No_through_road_2",
+      "description": "Information_Sign_No_through_road_2",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_2.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/094-Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_2.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/094-Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_2.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/MU-Information_No_through_road_3.svg",
+      "iso": "MU",
+      "id": "Information_No_through_road_3",
+      "description": "Information_Sign_No_through_road_3",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_3.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/095-Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_3.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/095-Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mauritius_Road_Signs_-_Information_Sign_-_No_through_road_3.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MU-Information_One-way_traffic.svg",
+      "iso": "MU",
+      "id": "Information_One-way_traffic",
+      "description": "Information_Sign_One-way_traffic",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mauritius_Road_Signs_-_Information_Sign_-_One-way_traffic.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/092-Mauritius_Road_Signs_-_Information_Sign_-_One-way_traffic.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/092-Mauritius_Road_Signs_-_Information_Sign_-_One-way_traffic.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mauritius_Road_Signs_-_Information_Sign_-_One-way_traffic.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MU-Information_Out.svg",
+      "iso": "MU",
+      "id": "Information_Out",
+      "description": "Information_Sign_Out",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mauritius_Road_Signs_-_Information_Sign_-_Out.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/097-Mauritius_Road_Signs_-_Information_Sign_-_Out.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/097-Mauritius_Road_Signs_-_Information_Sign_-_Out.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mauritius_Road_Signs_-_Information_Sign_-_Out.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MU-Information_Parking_Zone.svg",
+      "iso": "MU",
+      "id": "Information_Parking_Zone",
+      "description": "Information_Sign_Parking_Zone",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mauritius_Road_Signs_-_Information_Sign_-_Parking_Zone.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/100-Mauritius_Road_Signs_-_Information_Sign_-_Parking_Zone.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/100-Mauritius_Road_Signs_-_Information_Sign_-_Parking_Zone.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mauritius_Road_Signs_-_Information_Sign_-_Parking_Zone.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MU-Information_Pedestrian_Crossing.svg",
+      "iso": "MU",
+      "id": "Information_Pedestrian_Crossing",
+      "description": "Information_Sign_Pedestrian_Crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mauritius_Road_Signs_-_Information_Sign_-_Pedestrian_Crossing.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/091-Mauritius_Road_Signs_-_Information_Sign_-_Pedestrian_Crossing.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/091-Mauritius_Road_Signs_-_Information_Sign_-_Pedestrian_Crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mauritius_Road_Signs_-_Information_Sign_-_Pedestrian_Crossing.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/MU-Information_Speed_Camera.svg",
+      "iso": "MU",
+      "id": "Information_Speed_Camera",
+      "description": "Information_Sign_Speed_Camera",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mauritius_Road_Signs_-_Information_Sign_-_Speed_Camera.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/105-Mauritius_Road_Signs_-_Information_Sign_-_Speed_Camera.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/105-Mauritius_Road_Signs_-_Information_Sign_-_Speed_Camera.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mauritius_Road_Signs_-_Information_Sign_-_Speed_Camera.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Ahead_Only.svg",
+      "iso": "MU",
+      "id": "Mandatory_Ahead_Only",
+      "description": "Mandatory_Sign_Ahead_Only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mauritius_Road_Signs_-_Mandatory_Sign_-_Ahead_Only.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/080-Mauritius_Road_Signs_-_Mandatory_Sign_-_Ahead_Only.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/080-Mauritius_Road_Signs_-_Mandatory_Sign_-_Ahead_Only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mauritius_Road_Signs_-_Mandatory_Sign_-_Ahead_Only.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Compulsory_Round-about.svg",
+      "iso": "MU",
+      "id": "Mandatory_Compulsory_Round-about",
+      "description": "Mandatory_Sign_Compulsory_Round-about",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_Round-about.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/084-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_Round-about.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/084-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_Round-about.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_Round-about.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Compulsory_footpath.svg",
+      "iso": "MU",
+      "id": "Mandatory_Compulsory_footpath",
+      "description": "Mandatory_Sign_Compulsory_footpath",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_footpath.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/085-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_footpath.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/085-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_footpath.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_footpath.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Compulsory_minimum_speed_30.svg",
+      "iso": "MU",
+      "id": "Mandatory_Compulsory_minimum_speed_30",
+      "description": "Mandatory_Sign_Compulsory_minimum_speed_30",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_minimum_speed_30.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/088-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_minimum_speed_30.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/088-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_minimum_speed_30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_minimum_speed_30.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/MU-Mandatory_Compulsory_route_for_bicycle.svg",
+      "iso": "MU",
+      "id": "Mandatory_Compulsory_route_for_bicycle",
+      "description": "Mandatory_Sign_Compulsory_route_for_bicycle",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_bicycle.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/086-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_bicycle.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/086-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_bicycle.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_bicycle.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "d_mandatory_signs/other/MU-Mandatory_Compulsory_route_for_buses.svg",
+      "iso": "MU",
+      "id": "Mandatory_Compulsory_route_for_buses",
+      "description": "Mandatory_Sign_Compulsory_route_for_buses",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_buses.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/087-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_buses.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/087-Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_buses.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mauritius_Road_Signs_-_Mandatory_Sign_-_Compulsory_route_for_buses.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_End_of_compulsory_minimum_speed_30.svg",
+      "iso": "MU",
+      "id": "Mandatory_End_of_compulsory_minimum_speed_30",
+      "description": "Mandatory_Sign_End_of_compulsory_minimum_speed_30",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mauritius_Road_Signs_-_Mandatory_Sign_-_End_of_compulsory_minimum_speed_30.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/089-Mauritius_Road_Signs_-_Mandatory_Sign_-_End_of_compulsory_minimum_speed_30.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/089-Mauritius_Road_Signs_-_Mandatory_Sign_-_End_of_compulsory_minimum_speed_30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mauritius_Road_Signs_-_Mandatory_Sign_-_End_of_compulsory_minimum_speed_30.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Keep_left.svg",
+      "iso": "MU",
+      "id": "Mandatory_Keep_left",
+      "description": "Mandatory_Sign_Keep_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_left.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/081-Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_left.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/081-Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_left.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Keep_right.svg",
+      "iso": "MU",
+      "id": "Mandatory_Keep_right",
+      "description": "Mandatory_Sign_Keep_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_right.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/082-Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_right.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/082-Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mauritius_Road_Signs_-_Mandatory_Sign_-_Keep_right.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/other/MU-Mandatory_Left_turn_ahead_only.svg",
+      "iso": "MU",
+      "id": "Mandatory_Left_turn_ahead_only",
+      "description": "Mandatory_Sign_Left_turn_ahead_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_ahead_only.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/078-Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_ahead_only.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/078-Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_ahead_only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_ahead_only.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Left_turn_only.svg",
+      "iso": "MU",
+      "id": "Mandatory_Left_turn_only",
+      "description": "Mandatory_Sign_Left_turn_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_only.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/076-Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_only.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/076-Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mauritius_Road_Signs_-_Mandatory_Sign_-_Left_turn_only.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Pass_either_side.svg",
+      "iso": "MU",
+      "id": "Mandatory_Pass_either_side",
+      "description": "Mandatory_Sign_Pass_either_side",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mauritius_Road_Signs_-_Mandatory_Sign_-_Pass_either_side.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/083-Mauritius_Road_Signs_-_Mandatory_Sign_-_Pass_either_side.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/083-Mauritius_Road_Signs_-_Mandatory_Sign_-_Pass_either_side.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mauritius_Road_Signs_-_Mandatory_Sign_-_Pass_either_side.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/other/MU-Mandatory_Right_turn_ahead_only.svg",
+      "iso": "MU",
+      "id": "Mandatory_Right_turn_ahead_only",
+      "description": "Mandatory_Sign_Right_turn_ahead_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_ahead_only.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/079-Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_ahead_only.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/079-Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_ahead_only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_ahead_only.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MU-Mandatory_Right_turn_only.svg",
+      "iso": "MU",
+      "id": "Mandatory_Right_turn_only",
+      "description": "Mandatory_Sign_Right_turn_only",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_only.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/077-Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_only.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/077-Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_only.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mauritius_Road_Signs_-_Mandatory_Sign_-_Right_turn_only.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_End_of_prohibitions.svg",
+      "iso": "MU",
+      "id": "Prohibitory_End_of_prohibitions",
+      "description": "Prohibitory_Sign_End_of_prohibitions",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mauritius_Road_Signs_-_Prohibitory_Sign_-_End_of_prohibitions.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/068-Mauritius_Road_Signs_-_Prohibitory_Sign_-_End_of_prohibitions.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/068-Mauritius_Road_Signs_-_Prohibitory_Sign_-_End_of_prohibitions.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mauritius_Road_Signs_-_Prohibitory_Sign_-_End_of_prohibitions.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Prohibitory_No_Cycles.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_Cycles",
+      "description": "Prohibitory_Sign_No_Cycles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Cycles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/053-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Cycles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/053-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Cycles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Cycles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_Left_Turn.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_Left_Turn",
+      "description": "Prohibitory_Sign_No_Left_Turn",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Left_Turn.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/061-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Left_Turn.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/061-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Left_Turn.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Left_Turn.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_Overtaking.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_Overtaking",
+      "description": "Prohibitory_Sign_No_Overtaking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Overtaking.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/064-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Overtaking.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/064-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Overtaking.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Overtaking.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_Right_Turn.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_Right_Turn",
+      "description": "Prohibitory_Sign_No_Right_Turn",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Right_Turn.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/062-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Right_Turn.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/062-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Right_Turn.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_Right_Turn.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_U-Turn.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_U-Turn",
+      "description": "Prohibitory_Sign_No_U-Turn",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_U-Turn.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/063-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_U-Turn.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/063-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_U-Turn.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_U-Turn.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry",
+      "description": "Prohibitory_Sign_No_entry",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/047-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/047-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Prohibitory_No_entry_for_buses_and_coaches.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_buses_and_coaches",
+      "description": "Prohibitory_Sign_No_entry_for_buses_and_coaches",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_buses_and_coaches.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/051-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_buses_and_coaches.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/051-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_buses_and_coaches.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_buses_and_coaches.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_goods_vehicles.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_goods_vehicles",
+      "description": "Prohibitory_Sign_No_entry_for_goods_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_goods_vehicles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/050-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_goods_vehicles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/050-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_goods_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_goods_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Prohibitory_No_entry_for_handcarts.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_handcarts",
+      "description": "Prohibitory_Sign_No_entry_for_handcarts",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_handcarts.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/054-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_handcarts.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/054-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_handcarts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_handcarts.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_more_than_2_tons_vehicles.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_more_than_2_tons_vehicles",
+      "description": "Prohibitory_Sign_No_entry_for_more_than_2_tons_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_more_than_2_tons_vehicles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/057-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_more_than_2_tons_vehicles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/057-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_more_than_2_tons_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_more_than_2_tons_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_motorcycles.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_motorcycles",
+      "description": "Prohibitory_Sign_No_entry_for_motorcycles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_motorcycles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/049-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_motorcycles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/049-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_motorcycles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_motorcycles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Prohibitory_No_entry_for_pedestrians.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_pedestrians",
+      "description": "Prohibitory_Sign_No_entry_for_pedestrians",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_pedestrians.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/055-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_pedestrians.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/055-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_pedestrians.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_pedestrians.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_power-driven.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_power-driven",
+      "description": "Prohibitory_Sign_No_entry_for_power-driven",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power-driven.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/052-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power-driven.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/052-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power-driven.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power-driven.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_power_driven_vehicle_except_two-wheeled_motorcycles_without_side-car.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_power_driven_vehicle_except_two-wheeled_motorcycles_without_side-car",
+      "description": "Prohibitory_Sign_No_entry_for_power_driven_vehicle_except_two-wheeled_motorcycles_without_side-car",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power_driven_vehicle_except_two-wheeled_motorcycles_without_side-car.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/048-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power_driven_vehicle_except_two-wheeled_motorcycles_without_side-car.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/048-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power_driven_vehicle_except_two-wheeled_motorcycles_without_side-car.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_power_driven_vehicle_except_two-wheeled_motorcycles_without_side-car.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_vehicles_exceeding_10_meters_in_length.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_vehicles_exceeding_10_meters_in_length",
+      "description": "Prohibitory_Sign_No_entry_for_vehicles_exceeding_10_meters_in_length",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_exceeding_10_meters_in_length.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/060-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_exceeding_10_meters_in_length.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/060-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_exceeding_10_meters_in_length.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_exceeding_10_meters_in_length.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_vehicles_having_an_overall_height_exceeding_3.5_metres.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_vehicles_having_an_overall_height_exceeding_3.5_metres",
+      "description": "Prohibitory_Sign_No_entry_for_vehicles_having_an_overall_height_exceeding_3.5_metres",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_having_an_overall_height_exceeding_3.5_metres.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/058-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_having_an_overall_height_exceeding_3.5_metres.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/058-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_having_an_overall_height_exceeding_3.5_metres.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_having_an_overall_height_exceeding_3.5_metres.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_No_entry_for_vehicles_more_than_2_meters_wide.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_entry_for_vehicles_more_than_2_meters_wide",
+      "description": "Prohibitory_Sign_No_entry_for_vehicles_more_than_2_meters_wide",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_more_than_2_meters_wide.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/059-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_more_than_2_meters_wide.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/059-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_more_than_2_meters_wide.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_entry_for_vehicles_more_than_2_meters_wide.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Prohibitory_No_horning.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_horning",
+      "description": "Prohibitory_Sign_No_horning",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_horning.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/066-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_horning.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/066-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_horning.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_horning.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MU-Prohibitory_No_vehicles.svg",
+      "iso": "MU",
+      "id": "Prohibitory_No_vehicles",
+      "description": "Prohibitory_Sign_No_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_vehicles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/046-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_vehicles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/046-Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mauritius_Road_Signs_-_Prohibitory_Sign_-_No_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_Overtaking_is_prohibited_only_for_Goods_vehicles.svg",
+      "iso": "MU",
+      "id": "Prohibitory_Overtaking_is_prohibited_only_for_Goods_vehicles",
+      "description": "Prohibitory_Sign_Overtaking_is_prohibited_only_for_Goods_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Overtaking_is_prohibited_only_for_Goods_vehicles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/065-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Overtaking_is_prohibited_only_for_Goods_vehicles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/065-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Overtaking_is_prohibited_only_for_Goods_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Overtaking_is_prohibited_only_for_Goods_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_Parking_and_standing_prohibited.svg",
+      "iso": "MU",
+      "id": "Prohibitory_Parking_and_standing_prohibited",
+      "description": "Prohibitory_Sign_Parking_and_standing_prohibited",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_and_standing_prohibited.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/071-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_and_standing_prohibited.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/071-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_and_standing_prohibited.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_and_standing_prohibited.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_Parking_prohibited.svg",
+      "iso": "MU",
+      "id": "Prohibitory_Parking_prohibited",
+      "description": "Prohibitory_Sign_Parking_prohibited",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_prohibited.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/070-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_prohibited.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/070-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_prohibited.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Parking_prohibited.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_Prohibition_of_passing_without_stopping.svg",
+      "iso": "MU",
+      "id": "Prohibitory_Prohibition_of_passing_without_stopping",
+      "description": "Prohibitory_Sign_Prohibition_of_passing_without_stopping",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Prohibition_of_passing_without_stopping.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/072-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Prohibition_of_passing_without_stopping.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/072-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Prohibition_of_passing_without_stopping.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Prohibition_of_passing_without_stopping.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_Speed_limit_50.svg",
+      "iso": "MU",
+      "id": "Prohibitory_Speed_limit_50",
+      "description": "Prohibitory_Sign_Speed_limit_50",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_50.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/067-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_50.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/067-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_50.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/MU-Prohibitory_Speed_limit_zone.svg",
+      "iso": "MU",
+      "id": "Prohibitory_Speed_limit_zone",
+      "description": "Prohibitory_Sign_Speed_limit_zone",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_zone.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/069-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_zone.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/069-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_zone.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_zone.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MU-Prohibitory_Weight_Limit.svg",
+      "iso": "MU",
+      "id": "Prohibitory_Weight_Limit",
+      "description": "Prohibitory_Sign_Weight_Limit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Weight_Limit.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/056-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Weight_Limit.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/056-Mauritius_Road_Signs_-_Prohibitory_Sign_-_Weight_Limit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Weight_Limit.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/MU-Regulatory_Give_Way.svg",
+      "iso": "MU",
+      "id": "Regulatory_Give_Way",
+      "description": "Regulatory_Sign_Give_Way_Sign",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mauritius_Road_Signs_-_Regulatory_Sign_-_Give_Way_Sign.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/038-Mauritius_Road_Signs_-_Regulatory_Sign_-_Give_Way_Sign.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/038-Mauritius_Road_Signs_-_Regulatory_Sign_-_Give_Way_Sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mauritius_Road_Signs_-_Regulatory_Sign_-_Give_Way_Sign.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "b_priority_signs/vienna/MU-Regulatory_Priority_Road.svg",
+      "iso": "MU",
+      "id": "Regulatory_Priority_Road",
+      "description": "Regulatory_Sign_Priority_Road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/040-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/040-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Regulatory_Priority_Road_Ends.svg",
+      "iso": "MU",
+      "id": "Regulatory_Priority_Road_Ends",
+      "description": "Regulatory_Sign_Priority_Road_Ends",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road_Ends.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/041-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road_Ends.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/041-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road_Ends.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_Road_Ends.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "b_priority_signs/vienna/MU-Regulatory_Priority_for_oncoming_vehicles.svg",
+      "iso": "MU",
+      "id": "Regulatory_Priority_for_oncoming_vehicles",
+      "description": "Regulatory_Sign_Priority_for_oncoming_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_for_oncoming_vehicles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/042-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_for_oncoming_vehicles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/042-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_for_oncoming_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_for_oncoming_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/MU-Regulatory_Priority_over_oncoming_vehicles.svg",
+      "iso": "MU",
+      "id": "Regulatory_Priority_over_oncoming_vehicles",
+      "description": "Regulatory_Sign_Priority_over_oncoming_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_over_oncoming_vehicles.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/043-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_over_oncoming_vehicles.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/043-Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_over_oncoming_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mauritius_Road_Signs_-_Regulatory_Sign_-_Priority_over_oncoming_vehicles.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "b_priority_signs/vienna/MU-Regulatory_Stop.svg",
+      "iso": "MU",
+      "id": "Regulatory_Stop",
+      "description": "Regulatory_Sign_Stop",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mauritius_Road_Signs_-_Regulatory_Sign_-_Stop.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/039-Mauritius_Road_Signs_-_Regulatory_Sign_-_Stop.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/039-Mauritius_Road_Signs_-_Regulatory_Sign_-_Stop.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mauritius_Road_Signs_-_Regulatory_Sign_-_Stop.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Airfield.svg",
+      "iso": "MU",
+      "id": "Warning_Airfield",
+      "description": "Warning_Sign_Airfield",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mauritius_Road_Signs_-_Warning_Sign_-_Airfield.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/028-Mauritius_Road_Signs_-_Warning_Sign_-_Airfield.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/028-Mauritius_Road_Signs_-_Warning_Sign_-_Airfield.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mauritius_Road_Signs_-_Warning_Sign_-_Airfield.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Bend_to_right.svg",
+      "iso": "MU",
+      "id": "Warning_Bend_to_right",
+      "description": "Warning_Sign_Bend_to_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Mauritius_Road_Signs_-_Warning_Sign_-_Bend_to_right.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/002-Mauritius_Road_Signs_-_Warning_Sign_-_Bend_to_right.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/002-Mauritius_Road_Signs_-_Warning_Sign_-_Bend_to_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Mauritius_Road_Signs_-_Warning_Sign_-_Bend_to_right.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Children.svg",
+      "iso": "MU",
+      "id": "Warning_Children",
+      "description": "Warning_Sign_Children",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mauritius_Road_Signs_-_Warning_Sign_-_Children.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/014-Mauritius_Road_Signs_-_Warning_Sign_-_Children.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/014-Mauritius_Road_Signs_-_Warning_Sign_-_Children.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mauritius_Road_Signs_-_Warning_Sign_-_Children.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Cross-wind.svg",
+      "iso": "MU",
+      "id": "Warning_Cross-wind",
+      "description": "Warning_Sign_Cross-wind",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mauritius_Road_Signs_-_Warning_Sign_-_Cross-wind.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/029-Mauritius_Road_Signs_-_Warning_Sign_-_Cross-wind.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/029-Mauritius_Road_Signs_-_Warning_Sign_-_Cross-wind.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mauritius_Road_Signs_-_Warning_Sign_-_Cross-wind.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Crossroads.svg",
+      "iso": "MU",
+      "id": "Warning_Crossroads",
+      "description": "Warning_Sign_Crossroads",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mauritius_Road_Signs_-_Warning_Sign_-_Crossroads.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/005-Mauritius_Road_Signs_-_Warning_Sign_-_Crossroads.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/005-Mauritius_Road_Signs_-_Warning_Sign_-_Crossroads.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mauritius_Road_Signs_-_Warning_Sign_-_Crossroads.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Cyclist_entering_or_crossing.svg",
+      "iso": "MU",
+      "id": "Warning_Cyclist_entering_or_crossing",
+      "description": "Warning_Sign_Cyclist_entering_or_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mauritius_Road_Signs_-_Warning_Sign_-_Cyclist_entering_or_crossing.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/016-Mauritius_Road_Signs_-_Warning_Sign_-_Cyclist_entering_or_crossing.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/016-Mauritius_Road_Signs_-_Warning_Sign_-_Cyclist_entering_or_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mauritius_Road_Signs_-_Warning_Sign_-_Cyclist_entering_or_crossing.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Dangerous_Descent.svg",
+      "iso": "MU",
+      "id": "Warning_Dangerous_Descent",
+      "description": "Warning_Sign_Dangerous_Descent",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mauritius_Road_Signs_-_Warning_Sign_-_Dangerous_Descent.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/027-Mauritius_Road_Signs_-_Warning_Sign_-_Dangerous_Descent.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/027-Mauritius_Road_Signs_-_Warning_Sign_-_Dangerous_Descent.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mauritius_Road_Signs_-_Warning_Sign_-_Dangerous_Descent.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Double_bend_first_to_right.svg",
+      "iso": "MU",
+      "id": "Warning_Double_bend_first_to_right",
+      "description": "Warning_Sign_Double_bend_first_to_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mauritius_Road_Signs_-_Warning_Sign_-_Double_bend_first_to_right.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/003-Mauritius_Road_Signs_-_Warning_Sign_-_Double_bend_first_to_right.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/003-Mauritius_Road_Signs_-_Warning_Sign_-_Double_bend_first_to_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mauritius_Road_Signs_-_Warning_Sign_-_Double_bend_first_to_right.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Falling_rocks.svg",
+      "iso": "MU",
+      "id": "Warning_Falling_rocks",
+      "description": "Warning_Sign_Falling_rocks",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mauritius_Road_Signs_-_Warning_Sign_-_Falling_rocks.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/021-Mauritius_Road_Signs_-_Warning_Sign_-_Falling_rocks.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/021-Mauritius_Road_Signs_-_Warning_Sign_-_Falling_rocks.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mauritius_Road_Signs_-_Warning_Sign_-_Falling_rocks.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Gated_Crossing.svg",
+      "iso": "MU",
+      "id": "Warning_Gated_Crossing",
+      "description": "Warning_Sign_Gated_Crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mauritius_Road_Signs_-_Warning_Sign_-_Gated_Crossing.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/031-Mauritius_Road_Signs_-_Warning_Sign_-_Gated_Crossing.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/031-Mauritius_Road_Signs_-_Warning_Sign_-_Gated_Crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mauritius_Road_Signs_-_Warning_Sign_-_Gated_Crossing.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Hump.svg",
+      "iso": "MU",
+      "id": "Warning_Hump",
+      "description": "Warning_Sign_Hump",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mauritius_Road_Signs_-_Warning_Sign_-_Hump.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/023-Mauritius_Road_Signs_-_Warning_Sign_-_Hump.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/023-Mauritius_Road_Signs_-_Warning_Sign_-_Hump.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mauritius_Road_Signs_-_Warning_Sign_-_Hump.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Hump_Bridge.svg",
+      "iso": "MU",
+      "id": "Warning_Hump_Bridge",
+      "description": "Warning_Sign_Hump_Bridge",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mauritius_Road_Signs_-_Warning_Sign_-_Hump_Bridge.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/022-Mauritius_Road_Signs_-_Warning_Sign_-_Hump_Bridge.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/022-Mauritius_Road_Signs_-_Warning_Sign_-_Hump_Bridge.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mauritius_Road_Signs_-_Warning_Sign_-_Hump_Bridge.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Loose_Gravels.svg",
+      "iso": "MU",
+      "id": "Warning_Loose_Gravels",
+      "description": "Warning_Sign_Loose_Gravels",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mauritius_Road_Signs_-_Warning_Sign_-_Loose_Gravels.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/020-Mauritius_Road_Signs_-_Warning_Sign_-_Loose_Gravels.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/020-Mauritius_Road_Signs_-_Warning_Sign_-_Loose_Gravels.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mauritius_Road_Signs_-_Warning_Sign_-_Loose_Gravels.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Other_dangers.svg",
+      "iso": "MU",
+      "id": "Warning_Other_dangers",
+      "description": "Warning_Sign_Other_dangers",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Warning_Sign_-_Other_dangers.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/037-Mauritius_Road_Signs_-_Warning_Sign_-_Other_dangers.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/037-Mauritius_Road_Signs_-_Warning_Sign_-_Other_dangers.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mauritius_Road_Signs_-_Warning_Sign_-_Other_dangers.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Pedestrian_Crossing.svg",
+      "iso": "MU",
+      "id": "Warning_Pedestrian_Crossing",
+      "description": "Warning_Sign_Pedestrian_Crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrian_Crossing.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/012-Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrian_Crossing.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/012-Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrian_Crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrian_Crossing.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Pedestrians.svg",
+      "iso": "MU",
+      "id": "Warning_Pedestrians",
+      "description": "Warning_Sign_Pedestrians",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrians.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/013-Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrians.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/013-Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrians.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mauritius_Road_Signs_-_Warning_Sign_-_Pedestrians.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Quay_or_river_bank.svg",
+      "iso": "MU",
+      "id": "Warning_Quay_or_river_bank",
+      "description": "Warning_Sign_Quay_or_river_bank",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mauritius_Road_Signs_-_Warning_Sign_-_Quay_or_river_bank.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/025-Mauritius_Road_Signs_-_Warning_Sign_-_Quay_or_river_bank.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/025-Mauritius_Road_Signs_-_Warning_Sign_-_Quay_or_river_bank.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mauritius_Road_Signs_-_Warning_Sign_-_Quay_or_river_bank.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Right-hand_lane_of_a_2-lane_1-way_road_closed.svg",
+      "iso": "MU",
+      "id": "Warning_Right-hand_lane_of_a_2-lane_1-way_road_closed",
+      "description": "Warning_Sign_Right-hand_lane_of_a_2-lane_1-way_road_closed",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mauritius_Road_Signs_-_Warning_Sign_-_Right-hand_lane_of_a_2-lane_1-way_road_closed.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/036-Mauritius_Road_Signs_-_Warning_Sign_-_Right-hand_lane_of_a_2-lane_1-way_road_closed.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/036-Mauritius_Road_Signs_-_Warning_Sign_-_Right-hand_lane_of_a_2-lane_1-way_road_closed.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mauritius_Road_Signs_-_Warning_Sign_-_Right-hand_lane_of_a_2-lane_1-way_road_closed.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963,
+      "also_used_in": [
+        "GB_United Kingdom"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Road_Narrows_On_Right.svg",
+      "iso": "MU",
+      "id": "Warning_Road_Narrows_On_Right",
+      "description": "Warning_Sign_Road_Narrows_On_Right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mauritius_Road_Signs_-_Warning_Sign_-_Road_Narrows_On_Right.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/034-Mauritius_Road_Signs_-_Warning_Sign_-_Road_Narrows_On_Right.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/034-Mauritius_Road_Signs_-_Warning_Sign_-_Road_Narrows_On_Right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mauritius_Road_Signs_-_Warning_Sign_-_Road_Narrows_On_Right.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Road_narrows_on_both_sides.svg",
+      "iso": "MU",
+      "id": "Warning_Road_narrows_on_both_sides",
+      "description": "Warning_Sign_Road_narrows_on_both_sides",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Mauritius_Road_Signs_-_Warning_Sign_-_Road_narrows_on_both_sides.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/035-Mauritius_Road_Signs_-_Warning_Sign_-_Road_narrows_on_both_sides.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/035-Mauritius_Road_Signs_-_Warning_Sign_-_Road_narrows_on_both_sides.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Mauritius_Road_Signs_-_Warning_Sign_-_Road_narrows_on_both_sides.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Road_works.svg",
+      "iso": "MU",
+      "id": "Warning_Road_works",
+      "description": "Warning_Sign_Road_works",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mauritius_Road_Signs_-_Warning_Sign_-_Road_works.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/015-Mauritius_Road_Signs_-_Warning_Sign_-_Road_works.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/015-Mauritius_Road_Signs_-_Warning_Sign_-_Road_works.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mauritius_Road_Signs_-_Warning_Sign_-_Road_works.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Roundabout.svg",
+      "iso": "MU",
+      "id": "Warning_Roundabout",
+      "description": "Warning_Sign_Roundabout",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mauritius_Road_Signs_-_Warning_Sign_-_Roundabout.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/011-Mauritius_Road_Signs_-_Warning_Sign_-_Roundabout.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/011-Mauritius_Road_Signs_-_Warning_Sign_-_Roundabout.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mauritius_Road_Signs_-_Warning_Sign_-_Roundabout.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "sd_unclassified/other/MU-Warning_Sharp_Deviation.svg",
+      "iso": "MU",
+      "id": "Warning_Sharp_Deviation",
+      "description": "Warning_Sign_Sharp_Deviation",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mauritius_Road_Signs_-_Warning_Sign_-_Sharp_Deviation.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/004-Mauritius_Road_Signs_-_Warning_Sign_-_Sharp_Deviation.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/004-Mauritius_Road_Signs_-_Warning_Sign_-_Sharp_Deviation.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mauritius_Road_Signs_-_Warning_Sign_-_Sharp_Deviation.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Slippery_Road.svg",
+      "iso": "MU",
+      "id": "Warning_Slippery_Road",
+      "description": "Warning_Sign_Slippery_Road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mauritius_Road_Signs_-_Warning_Sign_-_Slippery_Road.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/019-Mauritius_Road_Signs_-_Warning_Sign_-_Slippery_Road.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/019-Mauritius_Road_Signs_-_Warning_Sign_-_Slippery_Road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mauritius_Road_Signs_-_Warning_Sign_-_Slippery_Road.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Staggered_Junction.svg",
+      "iso": "MU",
+      "id": "Warning_Staggered_Junction",
+      "description": "Warning_Sign_Staggered_Junction",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mauritius_Road_Signs_-_Warning_Sign_-_Staggered_Junction.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/008-Mauritius_Road_Signs_-_Warning_Sign_-_Staggered_Junction.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/008-Mauritius_Road_Signs_-_Warning_Sign_-_Staggered_Junction.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mauritius_Road_Signs_-_Warning_Sign_-_Staggered_Junction.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Steep_Ascent.svg",
+      "iso": "MU",
+      "id": "Warning_Steep_Ascent",
+      "description": "Warning_Sign_Steep_Ascent",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mauritius_Road_Signs_-_Warning_Sign_-_Steep_Ascent.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/026-Mauritius_Road_Signs_-_Warning_Sign_-_Steep_Ascent.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/026-Mauritius_Road_Signs_-_Warning_Sign_-_Steep_Ascent.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mauritius_Road_Signs_-_Warning_Sign_-_Steep_Ascent.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_T-Junction.svg",
+      "iso": "MU",
+      "id": "Warning_T-Junction",
+      "description": "Warning_Sign_T-Junction",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mauritius_Road_Signs_-_Warning_Sign_-_T-Junction.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/007-Mauritius_Road_Signs_-_Warning_Sign_-_T-Junction.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/007-Mauritius_Road_Signs_-_Warning_Sign_-_T-Junction.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mauritius_Road_Signs_-_Warning_Sign_-_T-Junction.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Traffic_Merging_From_Left_Behind.svg",
+      "iso": "MU",
+      "id": "Warning_Traffic_Merging_From_Left_Behind",
+      "description": "Warning_Sign_Traffic_Merging_From_Left_Behind",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Merging_From_Left_Behind.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/009-Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Merging_From_Left_Behind.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/009-Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Merging_From_Left_Behind.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Merging_From_Left_Behind.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Traffic_Signals.svg",
+      "iso": "MU",
+      "id": "Warning_Traffic_Signals",
+      "description": "Warning_Sign_Traffic_Signals",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Signals.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/010-Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Signals.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/010-Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Signals.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mauritius_Road_Signs_-_Warning_Sign_-_Traffic_Signals.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Two-way_traffic_across_one-way_road.svg",
+      "iso": "MU",
+      "id": "Warning_Two-way_traffic_across_one-way_road",
+      "description": "Warning_Sign_Two-way_traffic_across_one-way_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_across_one-way_road.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/032-Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_across_one-way_road.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/032-Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_across_one-way_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_across_one-way_road.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Two-way_traffic_straight.svg",
+      "iso": "MU",
+      "id": "Warning_Two-way_traffic_straight",
+      "description": "Warning_Sign_Two-way_traffic_straight",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_straight.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/033-Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_straight.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/033-Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_straight.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mauritius_Road_Signs_-_Warning_Sign_-_Two-way_traffic_straight.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Uneven_road.svg",
+      "iso": "MU",
+      "id": "Warning_Uneven_road",
+      "description": "Warning_Sign_Uneven_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mauritius_Road_Signs_-_Warning_Sign_-_Uneven_road.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/024-Mauritius_Road_Signs_-_Warning_Sign_-_Uneven_road.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/024-Mauritius_Road_Signs_-_Warning_Sign_-_Uneven_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mauritius_Road_Signs_-_Warning_Sign_-_Uneven_road.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MU-Warning_Ungated_Crossing.svg",
+      "iso": "MU",
+      "id": "Warning_Ungated_Crossing",
+      "description": "Warning_Sign_Ungated_Crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mauritius_Road_Signs_-_Warning_Sign_-_Ungated_Crossing.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/030-Mauritius_Road_Signs_-_Warning_Sign_-_Ungated_Crossing.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/030-Mauritius_Road_Signs_-_Warning_Sign_-_Ungated_Crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mauritius_Road_Signs_-_Warning_Sign_-_Ungated_Crossing.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MU-Warning_Wild_animals_crossing.svg",
+      "iso": "MU",
+      "id": "Warning_Wild_animals_crossing",
+      "description": "Warning_Sign_Wild_animals_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mauritius_Road_Signs_-_Warning_Sign_-_Wild_animals_crossing.svg",
+      "kept_from": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/018-Mauritius_Road_Signs_-_Warning_Sign_-_Wild_animals_crossing.svg",
+      "sources": [
+        {
+          "file": "MU_Mauritius/wikipedia_en/01-en_Road_signs_in_Mauritius/018-Mauritius_Road_Signs_-_Warning_Sign_-_Wild_animals_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mauritius_Road_Signs_-_Warning_Sign_-_Wild_animals_crossing.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.964
+    }
+  ]
+}

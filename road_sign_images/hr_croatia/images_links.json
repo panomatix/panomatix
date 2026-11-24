@@ -1,0 +1,3257 @@
+{
+  "country_code": "HR",
+  "country": "Croatia",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A07.svg",
+      "iso": "HR",
+      "id": "A07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/HR_road_sign_A07.svg",
+      "kept_from": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/10-HR_road_sign_A07.svg",
+      "sources": [
+        {
+          "file": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/10-HR_road_sign_A07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/HR_road_sign_A07.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.914
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B30_50.svg",
+      "iso": "HR",
+      "id": "B30",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HR_road_sign_B30_%2850%29.svg",
+      "kept_from": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/12-HR_road_sign_B30_(50).svg",
+      "sources": [
+        {
+          "file": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/12-HR_road_sign_B30_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HR_road_sign_B30_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C45-1.svg",
+      "iso": "HR",
+      "id": "C45-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/HR_road_sign_C45-1.svg",
+      "kept_from": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/14-HR_road_sign_C45-1.svg",
+      "sources": [
+        {
+          "file": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/14-HR_road_sign_C45-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/HR_road_sign_C45-1.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C83-1.svg",
+      "iso": "HR",
+      "id": "C83-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/HR_road_sign_C83-1.svg",
+      "kept_from": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/16-HR_road_sign_C83-1.svg",
+      "sources": [
+        {
+          "file": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/16-HR_road_sign_C83-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/HR_road_sign_C83-1.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/HR-D09.svg",
+      "iso": "HR",
+      "id": "D09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Croatia_road_sign_D09.svg",
+      "kept_from": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/15-Croatia_road_sign_D09.svg",
+      "sources": [
+        {
+          "file": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/15-Croatia_road_sign_D09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Croatia_road_sign_D09.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E15.svg",
+      "iso": "HR",
+      "id": "E15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Croatia_road_sign_E15.svg",
+      "kept_from": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/17-Croatia_road_sign_E15.svg",
+      "sources": [
+        {
+          "file": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/17-Croatia_road_sign_E15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Croatia_road_sign_E15.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E43.svg",
+      "iso": "HR",
+      "id": "E43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Croatia_road_sign_E43.svg",
+      "kept_from": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/18-Croatia_road_sign_E43.svg",
+      "sources": [
+        {
+          "file": "HR_Croatia/wikipedia/01-hr_Prometni_znakovi/18-Croatia_road_sign_E43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Croatia_road_sign_E43.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.948,
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A01.svg",
+      "iso": "HR",
+      "id": "A01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/HR_road_sign_A01.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/035-HR_road_sign_A01.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/035-HR_road_sign_A01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/HR_road_sign_A01.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A02.svg",
+      "iso": "HR",
+      "id": "A02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/HR_road_sign_A02.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/036-HR_road_sign_A02.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/036-HR_road_sign_A02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/HR_road_sign_A02.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina",
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A03.svg",
+      "iso": "HR",
+      "id": "A03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HR_road_sign_A03.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/042-HR_road_sign_A03.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/042-HR_road_sign_A03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HR_road_sign_A03.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A04-1.svg",
+      "iso": "HR",
+      "id": "A04-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/HR_road_sign_A04-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/038-HR_road_sign_A04-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/038-HR_road_sign_A04-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/HR_road_sign_A04-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina",
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A04-2.svg",
+      "iso": "HR",
+      "id": "A04-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/HR_road_sign_A04-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/039-HR_road_sign_A04-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/039-HR_road_sign_A04-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/HR_road_sign_A04-2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina",
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A04-3.svg",
+      "iso": "HR",
+      "id": "A04-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/HR_road_sign_A04-3.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/040-HR_road_sign_A04-3.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/040-HR_road_sign_A04-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/HR_road_sign_A04-3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina",
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A04-4.svg",
+      "iso": "HR",
+      "id": "A04-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HR_road_sign_A04-4.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/041-HR_road_sign_A04-4.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/041-HR_road_sign_A04-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HR_road_sign_A04-4.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina",
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A04.svg",
+      "iso": "HR",
+      "id": "A04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/HR_road_sign_A04.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/037-HR_road_sign_A04.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/037-HR_road_sign_A04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/HR_road_sign_A04.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina",
+        "RS_Serbia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A05-1.svg",
+      "iso": "HR",
+      "id": "A05-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/HR_road_sign_A05-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/004-HR_road_sign_A05-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/004-HR_road_sign_A05-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/HR_road_sign_A05-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A05-2.svg",
+      "iso": "HR",
+      "id": "A05-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HR_road_sign_A05-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/005-HR_road_sign_A05-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/005-HR_road_sign_A05-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HR_road_sign_A05-2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A05-3.svg",
+      "iso": "HR",
+      "id": "A05-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HR_road_sign_A05-3.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/006-HR_road_sign_A05-3.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/006-HR_road_sign_A05-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HR_road_sign_A05-3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A05.svg",
+      "iso": "HR",
+      "id": "A05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HR_road_sign_A05.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/003-HR_road_sign_A05.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/003-HR_road_sign_A05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HR_road_sign_A05.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A08-1.svg",
+      "iso": "HR",
+      "id": "A08-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HR_road_sign_A08-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/010-HR_road_sign_A08-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/010-HR_road_sign_A08-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HR_road_sign_A08-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A08-2.svg",
+      "iso": "HR",
+      "id": "A08-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HR_road_sign_A08-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/011-HR_road_sign_A08-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/011-HR_road_sign_A08-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HR_road_sign_A08-2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A08.svg",
+      "iso": "HR",
+      "id": "A08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/HR_road_sign_A08.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/009-HR_road_sign_A08.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/009-HR_road_sign_A08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/HR_road_sign_A08.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A09-1.svg",
+      "iso": "HR",
+      "id": "A09-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/HR_road_sign_A09-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/015-HR_road_sign_A09-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/015-HR_road_sign_A09-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/HR_road_sign_A09-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A09-2.svg",
+      "iso": "HR",
+      "id": "A09-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/HR_road_sign_A09-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/016-HR_road_sign_A09-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/016-HR_road_sign_A09-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/HR_road_sign_A09-2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A09.svg",
+      "iso": "HR",
+      "id": "A09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/HR_road_sign_A09.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/014-HR_road_sign_A09.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/014-HR_road_sign_A09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/HR_road_sign_A09.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A10.svg",
+      "iso": "HR",
+      "id": "A10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HR_road_sign_A10.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/017-HR_road_sign_A10.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/017-HR_road_sign_A10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HR_road_sign_A10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A11.svg",
+      "iso": "HR",
+      "id": "A11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/HR_road_sign_A11.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/043-HR_road_sign_A11.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/043-HR_road_sign_A11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/HR_road_sign_A11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A12.svg",
+      "iso": "HR",
+      "id": "A12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_A12.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/018-HR_road_sign_A12.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/018-HR_road_sign_A12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_A12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A13-1.svg",
+      "iso": "HR",
+      "id": "A13-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/HR_road_sign_A13-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/020-HR_road_sign_A13-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/020-HR_road_sign_A13-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/HR_road_sign_A13-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A13.svg",
+      "iso": "HR",
+      "id": "A13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/HR_road_sign_A13.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/019-HR_road_sign_A13.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/019-HR_road_sign_A13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/HR_road_sign_A13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A14-1.svg",
+      "iso": "HR",
+      "id": "A14-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HR_road_sign_A14-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/029-HR_road_sign_A14-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/029-HR_road_sign_A14-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HR_road_sign_A14-1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A14.svg",
+      "iso": "HR",
+      "id": "A14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/HR_road_sign_A14.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/028-HR_road_sign_A14.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/028-HR_road_sign_A14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/HR_road_sign_A14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A16.svg",
+      "iso": "HR",
+      "id": "A16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HR_road_sign_A16.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/033-HR_road_sign_A16.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/033-HR_road_sign_A16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HR_road_sign_A16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A18.svg",
+      "iso": "HR",
+      "id": "A18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/HR_road_sign_A18.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/046-HR_road_sign_A18.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/046-HR_road_sign_A18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/HR_road_sign_A18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A19.svg",
+      "iso": "HR",
+      "id": "A19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/HR_road_sign_A19.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/047-HR_road_sign_A19.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/047-HR_road_sign_A19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/HR_road_sign_A19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A20.svg",
+      "iso": "HR",
+      "id": "A20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HR_road_sign_A20.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/023-HR_road_sign_A20.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/023-HR_road_sign_A20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HR_road_sign_A20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A21.svg",
+      "iso": "HR",
+      "id": "A21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HR_road_sign_A21.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/021-HR_road_sign_A21.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/021-HR_road_sign_A21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HR_road_sign_A21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A22.svg",
+      "iso": "HR",
+      "id": "A22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/HR_road_sign_A22.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/022-HR_road_sign_A22.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/022-HR_road_sign_A22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/HR_road_sign_A22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A23.svg",
+      "iso": "HR",
+      "id": "A23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_A23.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/030-HR_road_sign_A23.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/030-HR_road_sign_A23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_A23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A24.svg",
+      "iso": "HR",
+      "id": "A24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/HR_road_sign_A24.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/034-HR_road_sign_A24.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/034-HR_road_sign_A24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/HR_road_sign_A24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A26.svg",
+      "iso": "HR",
+      "id": "A26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HR_road_sign_A26.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/048-HR_road_sign_A26.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/048-HR_road_sign_A26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HR_road_sign_A26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A27.svg",
+      "iso": "HR",
+      "id": "A27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/HR_road_sign_A27.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/024-HR_road_sign_A27.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/024-HR_road_sign_A27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/HR_road_sign_A27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HR-A29.svg",
+      "iso": "HR",
+      "id": "A29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Croatia_road_sign_A29.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/044-Croatia_road_sign_A29.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/044-Croatia_road_sign_A29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Croatia_road_sign_A29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A31.svg",
+      "iso": "HR",
+      "id": "A31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/HR_road_sign_A31.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/049-HR_road_sign_A31.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/049-HR_road_sign_A31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/HR_road_sign_A31.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A32.svg",
+      "iso": "HR",
+      "id": "A32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HR_road_sign_A32.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/025-HR_road_sign_A32.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/025-HR_road_sign_A32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HR_road_sign_A32.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A33.svg",
+      "iso": "HR",
+      "id": "A33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/HR_road_sign_A33.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/026-HR_road_sign_A33.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/026-HR_road_sign_A33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/HR_road_sign_A33.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A34.svg",
+      "iso": "HR",
+      "id": "A34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/HR_road_sign_A34.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/050-HR_road_sign_A34.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/050-HR_road_sign_A34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/HR_road_sign_A34.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A35.svg",
+      "iso": "HR",
+      "id": "A35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/HR_road_sign_A35.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/051-HR_road_sign_A35.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/051-HR_road_sign_A35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/HR_road_sign_A35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-A36-1.svg",
+      "iso": "HR",
+      "id": "A36-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/HR_road_sign_A36-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/055-HR_road_sign_A36-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/055-HR_road_sign_A36-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/HR_road_sign_A36-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-A36.svg",
+      "iso": "HR",
+      "id": "A36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/HR_road_sign_A36.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/054-HR_road_sign_A36.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/054-HR_road_sign_A36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/HR_road_sign_A36.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A37-1.svg",
+      "iso": "HR",
+      "id": "A37-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/HR_road_sign_A37-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/053-HR_road_sign_A37-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/053-HR_road_sign_A37-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/HR_road_sign_A37-1.svg"
+        }
+      ],
+      "shape": "other",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HR-A37.svg",
+      "iso": "HR",
+      "id": "A37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/HR_road_sign_A37.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/052-HR_road_sign_A37.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/052-HR_road_sign_A37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/HR_road_sign_A37.svg"
+        }
+      ],
+      "shape": "other",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "b_priority_signs/vienna/HR-B01.svg",
+      "iso": "HR",
+      "id": "B01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/HR_road_sign_B01.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/056-HR_road_sign_B01.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/056-HR_road_sign_B01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/HR_road_sign_B01.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B03.svg",
+      "iso": "HR",
+      "id": "B03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/HR_road_sign_B03.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/058-HR_road_sign_B03.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/058-HR_road_sign_B03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/HR_road_sign_B03.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B04.svg",
+      "iso": "HR",
+      "id": "B04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/HR_road_sign_B04.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/059-HR_road_sign_B04.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/059-HR_road_sign_B04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/HR_road_sign_B04.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "b_priority_signs/vienna/HR-B05.svg",
+      "iso": "HR",
+      "id": "B05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HR_road_sign_B05.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/094-HR_road_sign_B05.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/094-HR_road_sign_B05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HR_road_sign_B05.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B06.svg",
+      "iso": "HR",
+      "id": "B06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HR_road_sign_B06.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/060-HR_road_sign_B06.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/060-HR_road_sign_B06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HR_road_sign_B06.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B08.svg",
+      "iso": "HR",
+      "id": "B08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/HR_road_sign_B08.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/062-HR_road_sign_B08.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/062-HR_road_sign_B08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/HR_road_sign_B08.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B09.svg",
+      "iso": "HR",
+      "id": "B09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/HR_road_sign_B09.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/063-HR_road_sign_B09.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/063-HR_road_sign_B09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/HR_road_sign_B09.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HR-B10.svg",
+      "iso": "HR",
+      "id": "B10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HR_road_sign_B10.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/064-HR_road_sign_B10.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/064-HR_road_sign_B10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HR_road_sign_B10.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B11.svg",
+      "iso": "HR",
+      "id": "B11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HR_road_sign_B11.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/065-HR_road_sign_B11.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/065-HR_road_sign_B11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HR_road_sign_B11.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B12.svg",
+      "iso": "HR",
+      "id": "B12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HR_road_sign_B12.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/066-HR_road_sign_B12.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/066-HR_road_sign_B12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HR_road_sign_B12.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B13.svg",
+      "iso": "HR",
+      "id": "B13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HR_road_sign_B13.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/067-HR_road_sign_B13.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/067-HR_road_sign_B13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HR_road_sign_B13.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B14.svg",
+      "iso": "HR",
+      "id": "B14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/HR_road_sign_B14.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/068-HR_road_sign_B14.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/068-HR_road_sign_B14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/HR_road_sign_B14.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B15.svg",
+      "iso": "HR",
+      "id": "B15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/HR_road_sign_B15.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/069-HR_road_sign_B15.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/069-HR_road_sign_B15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/HR_road_sign_B15.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B17.svg",
+      "iso": "HR",
+      "id": "B17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/HR_road_sign_B17.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/071-HR_road_sign_B17.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/071-HR_road_sign_B17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/HR_road_sign_B17.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B18.svg",
+      "iso": "HR",
+      "id": "B18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HR_road_sign_B18.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/073-HR_road_sign_B18.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/073-HR_road_sign_B18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HR_road_sign_B18.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B19.svg",
+      "iso": "HR",
+      "id": "B19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Croatia_road_sign_B19.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/074-Croatia_road_sign_B19.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/074-Croatia_road_sign_B19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Croatia_road_sign_B19.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B21.svg",
+      "iso": "HR",
+      "id": "B21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/HR_road_sign_B21.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/075-HR_road_sign_B21.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/075-HR_road_sign_B21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/HR_road_sign_B21.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B26.svg",
+      "iso": "HR",
+      "id": "B26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HR_road_sign_B26.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/082-HR_road_sign_B26.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/082-HR_road_sign_B26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HR_road_sign_B26.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B27.svg",
+      "iso": "HR",
+      "id": "B27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HR_road_sign_B27.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/083-HR_road_sign_B27.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/083-HR_road_sign_B27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HR_road_sign_B27.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B28-1.svg",
+      "iso": "HR",
+      "id": "B28-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HR_road_sign_B28-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/085-HR_road_sign_B28-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/085-HR_road_sign_B28-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HR_road_sign_B28-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B28.svg",
+      "iso": "HR",
+      "id": "B28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/HR_road_sign_B28.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/084-HR_road_sign_B28.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/084-HR_road_sign_B28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/HR_road_sign_B28.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B29.svg",
+      "iso": "HR",
+      "id": "B29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HR_road_sign_B29.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/086-HR_road_sign_B29.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/086-HR_road_sign_B29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HR_road_sign_B29.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B34.svg",
+      "iso": "HR",
+      "id": "B34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/HR_road_sign_B34.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/090-HR_road_sign_B34.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/090-HR_road_sign_B34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/HR_road_sign_B34.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HR-B35.svg",
+      "iso": "HR",
+      "id": "B35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/HR_road_sign_B35.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/095-HR_road_sign_B35.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/095-HR_road_sign_B35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/HR_road_sign_B35.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B36.svg",
+      "iso": "HR",
+      "id": "B36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HR_road_sign_B36.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/096-HR_road_sign_B36.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/096-HR_road_sign_B36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HR_road_sign_B36.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-B37.svg",
+      "iso": "HR",
+      "id": "B37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HR_road_sign_B37.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/097-HR_road_sign_B37.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/097-HR_road_sign_B37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HR_road_sign_B37.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-B39.svg",
+      "iso": "HR",
+      "id": "B39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HR_road_sign_B39.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/101-HR_road_sign_B39.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/101-HR_road_sign_B39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HR_road_sign_B39.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B40.svg",
+      "iso": "HR",
+      "id": "B40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HR_road_sign_B40.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/102-HR_road_sign_B40.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/102-HR_road_sign_B40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/HR_road_sign_B40.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B41.svg",
+      "iso": "HR",
+      "id": "B41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/HR_road_sign_B41.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/103-HR_road_sign_B41.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/103-HR_road_sign_B41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/HR_road_sign_B41.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B42.svg",
+      "iso": "HR",
+      "id": "B42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/HR_road_sign_B42.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/105-HR_road_sign_B42.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/105-HR_road_sign_B42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/HR_road_sign_B42.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B43.svg",
+      "iso": "HR",
+      "id": "B43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HR_road_sign_B43.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/104-HR_road_sign_B43.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/104-HR_road_sign_B43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HR_road_sign_B43.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B44.svg",
+      "iso": "HR",
+      "id": "B44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HR_road_sign_B44.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/106-HR_road_sign_B44.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/106-HR_road_sign_B44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HR_road_sign_B44.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B45-1.svg",
+      "iso": "HR",
+      "id": "B45-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/HR_road_sign_B45-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/108-HR_road_sign_B45-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/108-HR_road_sign_B45-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/HR_road_sign_B45-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B45-2.svg",
+      "iso": "HR",
+      "id": "B45-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HR_road_sign_B45-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/109-HR_road_sign_B45-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/109-HR_road_sign_B45-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HR_road_sign_B45-2.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B45-3.svg",
+      "iso": "HR",
+      "id": "B45-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/HR_road_sign_B45-3.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/110-HR_road_sign_B45-3.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/110-HR_road_sign_B45-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/HR_road_sign_B45-3.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B45-4.svg",
+      "iso": "HR",
+      "id": "B45-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HR_road_sign_B45-4.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/111-HR_road_sign_B45-4.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/111-HR_road_sign_B45-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HR_road_sign_B45-4.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/HR-B45-5.svg",
+      "iso": "HR",
+      "id": "B45-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/HR_road_sign_B45-5.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/112-HR_road_sign_B45-5.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/112-HR_road_sign_B45-5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/HR_road_sign_B45-5.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B45-6.svg",
+      "iso": "HR",
+      "id": "B45-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HR_road_sign_B45-6.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/119-HR_road_sign_B45-6.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/119-HR_road_sign_B45-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HR_road_sign_B45-6.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B45.svg",
+      "iso": "HR",
+      "id": "B45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/HR_road_sign_B45.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/107-HR_road_sign_B45.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/107-HR_road_sign_B45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/HR_road_sign_B45.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B46-1.svg",
+      "iso": "HR",
+      "id": "B46-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_B46-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/114-HR_road_sign_B46-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/114-HR_road_sign_B46-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_B46-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B46-2.svg",
+      "iso": "HR",
+      "id": "B46-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/HR_road_sign_B46-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/115-HR_road_sign_B46-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/115-HR_road_sign_B46-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/HR_road_sign_B46-2.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B46.svg",
+      "iso": "HR",
+      "id": "B46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/HR_road_sign_B46.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/113-HR_road_sign_B46.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/113-HR_road_sign_B46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/HR_road_sign_B46.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B47-1.svg",
+      "iso": "HR",
+      "id": "B47-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/HR_road_sign_B47-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/117-HR_road_sign_B47-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/117-HR_road_sign_B47-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/HR_road_sign_B47-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-B47.svg",
+      "iso": "HR",
+      "id": "B47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HR_road_sign_B47.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/116-HR_road_sign_B47.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/116-HR_road_sign_B47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HR_road_sign_B47.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C02-1.svg",
+      "iso": "HR",
+      "id": "C02-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/HR_road_sign_C02-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/124-HR_road_sign_C02-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/124-HR_road_sign_C02-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/HR_road_sign_C02-1.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/HR-C02.svg",
+      "iso": "HR",
+      "id": "C02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HR_road_sign_C02.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/123-HR_road_sign_C02.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/123-HR_road_sign_C02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HR_road_sign_C02.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C03.svg",
+      "iso": "HR",
+      "id": "C03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/HR_road_sign_C03.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/125-HR_road_sign_C03.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/125-HR_road_sign_C03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/HR_road_sign_C03.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HR-C04.svg",
+      "iso": "HR",
+      "id": "C04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/HR_road_sign_C04.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/126-HR_road_sign_C04.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/126-HR_road_sign_C04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/HR_road_sign_C04.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HR-C05-1.svg",
+      "iso": "HR",
+      "id": "C05-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/HR_road_sign_C05-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/121-HR_road_sign_C05-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/121-HR_road_sign_C05-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/HR_road_sign_C05-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HR-C05-2.svg",
+      "iso": "HR",
+      "id": "C05-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/HR_road_sign_C05-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/122-HR_road_sign_C05-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/122-HR_road_sign_C05-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/HR_road_sign_C05-2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/HR-C05.svg",
+      "iso": "HR",
+      "id": "C05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HR_road_sign_C05.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/120-HR_road_sign_C05.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/120-HR_road_sign_C05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HR_road_sign_C05.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HR-C08.svg",
+      "iso": "HR",
+      "id": "C08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/HR_road_sign_C08.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/127-HR_road_sign_C08.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/127-HR_road_sign_C08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/HR_road_sign_C08.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C09.svg",
+      "iso": "HR",
+      "id": "C09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HR_road_sign_C09.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/159-HR_road_sign_C09.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/159-HR_road_sign_C09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/HR_road_sign_C09.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C10.svg",
+      "iso": "HR",
+      "id": "C10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HR_road_sign_C10.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/161-HR_road_sign_C10.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/161-HR_road_sign_C10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HR_road_sign_C10.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C105.svg",
+      "iso": "HR",
+      "id": "C105",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/HR_road_sign_C105.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/231-HR_road_sign_C105.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/231-HR_road_sign_C105.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/HR_road_sign_C105.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C113.svg",
+      "iso": "HR",
+      "id": "C113",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Croatia_road_sign_C113.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/138-Croatia_road_sign_C113.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/138-Croatia_road_sign_C113.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Croatia_road_sign_C113.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C114.svg",
+      "iso": "HR",
+      "id": "C114",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Croatia_road_sign_C114.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/137-Croatia_road_sign_C114.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/137-Croatia_road_sign_C114.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Croatia_road_sign_C114.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "b_priority_signs/other/HR-C119.svg",
+      "iso": "HR",
+      "id": "C119",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HR_road_sign_C119.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/266-HR_road_sign_C119.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/266-HR_road_sign_C119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HR_road_sign_C119.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/other/HR-C120.svg",
+      "iso": "HR",
+      "id": "C120",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HR_road_sign_C120.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/258-HR_road_sign_C120.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/258-HR_road_sign_C120.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HR_road_sign_C120.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C122.svg",
+      "iso": "HR",
+      "id": "C122",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HR_road_sign_C122.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/157-HR_road_sign_C122.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/157-HR_road_sign_C122.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HR_road_sign_C122.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C123.svg",
+      "iso": "HR",
+      "id": "C123",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/HR_road_sign_C123.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/158-HR_road_sign_C123.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/158-HR_road_sign_C123.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/HR_road_sign_C123.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/other/HR-C125.svg",
+      "iso": "HR",
+      "id": "C125",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Croatian_road_sign_C125.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/259-Croatian_road_sign_C125.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/259-Croatian_road_sign_C125.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Croatian_road_sign_C125.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-C12_40.svg",
+      "iso": "HR",
+      "id": "C12",
+      "description": null,
+      "variants": [
+        "40"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/HR_road_sign_C12_%2840%29.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/166-HR_road_sign_C12_(40).svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/166-HR_road_sign_C12_(40).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/HR_road_sign_C12_%2840%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C13.svg",
+      "iso": "HR",
+      "id": "C13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_C13.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/163-HR_road_sign_C13.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/163-HR_road_sign_C13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HR_road_sign_C13.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HR-C14.svg",
+      "iso": "HR",
+      "id": "C14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HR_road_sign_C14.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/165-HR_road_sign_C14.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/165-HR_road_sign_C14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HR_road_sign_C14.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C15.svg",
+      "iso": "HR",
+      "id": "C15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/HR_road_sign_C15.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/169-HR_road_sign_C15.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/169-HR_road_sign_C15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/HR_road_sign_C15.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-C16.svg",
+      "iso": "HR",
+      "id": "C16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HR_road_sign_C16.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/172-HR_road_sign_C16.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/172-HR_road_sign_C16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HR_road_sign_C16.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-C17.svg",
+      "iso": "HR",
+      "id": "C17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HR_road_sign_C17.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/173-HR_road_sign_C17.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/173-HR_road_sign_C17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HR_road_sign_C17.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-C18.svg",
+      "iso": "HR",
+      "id": "C18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/HR_road_sign_C18.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/174-HR_road_sign_C18.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/174-HR_road_sign_C18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/HR_road_sign_C18.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HR-C19.svg",
+      "iso": "HR",
+      "id": "C19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/HR_road_sign_C19.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/175-HR_road_sign_C19.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/175-HR_road_sign_C19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/HR_road_sign_C19.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/HR-C20.svg",
+      "iso": "HR",
+      "id": "C20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/HR_road_sign_C20.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/171-HR_road_sign_C20.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/171-HR_road_sign_C20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/HR_road_sign_C20.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/HR-C21.svg",
+      "iso": "HR",
+      "id": "C21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/HR_road_sign_C21.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/170-HR_road_sign_C21.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/170-HR_road_sign_C21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/HR_road_sign_C21.svg"
+        }
+      ],
+      "shape": "circle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/vienna/HR-C33.svg",
+      "iso": "HR",
+      "id": "C33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/HR_road_sign_C33.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/183-HR_road_sign_C33.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/183-HR_road_sign_C33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/HR_road_sign_C33.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/vienna/HR-C34.svg",
+      "iso": "HR",
+      "id": "C34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/HR_road_sign_C34.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/185-HR_road_sign_C34.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/185-HR_road_sign_C34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/HR_road_sign_C34.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C35.svg",
+      "iso": "HR",
+      "id": "C35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/HR_road_sign_C35.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/132-HR_road_sign_C35.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/132-HR_road_sign_C35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/HR_road_sign_C35.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/HR-C36.svg",
+      "iso": "HR",
+      "id": "C36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HR_road_sign_C36.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/139-HR_road_sign_C36.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/139-HR_road_sign_C36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HR_road_sign_C36.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/HR-C37.svg",
+      "iso": "HR",
+      "id": "C37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/HR_road_sign_C37.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/145-HR_road_sign_C37.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/145-HR_road_sign_C37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/HR_road_sign_C37.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C38.svg",
+      "iso": "HR",
+      "id": "C38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HR_road_sign_C38.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/142-HR_road_sign_C38.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/142-HR_road_sign_C38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HR_road_sign_C38.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HR-C39-1.svg",
+      "iso": "HR",
+      "id": "C39-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HR_road_sign_C39-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/189-HR_road_sign_C39-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/189-HR_road_sign_C39-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HR_road_sign_C39-1.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HR-C39-2.svg",
+      "iso": "HR",
+      "id": "C39-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HR_road_sign_C39-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/190-HR_road_sign_C39-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/190-HR_road_sign_C39-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HR_road_sign_C39-2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/HR-C39.svg",
+      "iso": "HR",
+      "id": "C39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/HR_road_sign_C39.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/187-HR_road_sign_C39.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/187-HR_road_sign_C39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/HR_road_sign_C39.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C42-3.svg",
+      "iso": "HR",
+      "id": "C42-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/HR_road_sign_C42-3.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/203-HR_road_sign_C42-3.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/203-HR_road_sign_C42-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/HR_road_sign_C42-3.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C63.svg",
+      "iso": "HR",
+      "id": "C63",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/HR_road_sign_C63.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/130-HR_road_sign_C63.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/130-HR_road_sign_C63.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/HR_road_sign_C63.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/vienna/HR-C68.svg",
+      "iso": "HR",
+      "id": "C68",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HR_road_sign_C68.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/135-HR_road_sign_C68.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/135-HR_road_sign_C68.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HR_road_sign_C68.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-C69.svg",
+      "iso": "HR",
+      "id": "C69",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/HR_road_sign_C69.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/134-HR_road_sign_C69.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/134-HR_road_sign_C69.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/HR_road_sign_C69.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/HR-C70-1.svg",
+      "iso": "HR",
+      "id": "C70-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HR_road_sign_C70-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/264-HR_road_sign_C70-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/264-HR_road_sign_C70-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HR_road_sign_C70-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HR-C70.svg",
+      "iso": "HR",
+      "id": "C70",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/HR_road_sign_C70.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/265-HR_road_sign_C70.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/265-HR_road_sign_C70.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/HR_road_sign_C70.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/other/HR-C75.svg",
+      "iso": "HR",
+      "id": "C75",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HR_road_sign_C75.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/195-HR_road_sign_C75.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/195-HR_road_sign_C75.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HR_road_sign_C75.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HR-C83-2.svg",
+      "iso": "HR",
+      "id": "C83-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HR_road_sign_C83-2.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/148-HR_road_sign_C83-2.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/148-HR_road_sign_C83-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HR_road_sign_C83-2.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HR-C83.svg",
+      "iso": "HR",
+      "id": "C83",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/HR_road_sign_C83.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/146-HR_road_sign_C83.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/146-HR_road_sign_C83.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/HR_road_sign_C83.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HR-C84.svg",
+      "iso": "HR",
+      "id": "C84",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HR_road_sign_C84.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/149-HR_road_sign_C84.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/149-HR_road_sign_C84.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HR_road_sign_C84.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HR-C85.svg",
+      "iso": "HR",
+      "id": "C85",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/HR_road_sign_C85.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/151-HR_road_sign_C85.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/151-HR_road_sign_C85.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/HR_road_sign_C85.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HR-C87.svg",
+      "iso": "HR",
+      "id": "C87",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/HR_road_sign_C87.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/153-HR_road_sign_C87.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/153-HR_road_sign_C87.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/HR_road_sign_C87.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HR-C88.svg",
+      "iso": "HR",
+      "id": "C88",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/HR_road_sign_C88.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/155-HR_road_sign_C88.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/155-HR_road_sign_C88.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/HR_road_sign_C88.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/other/HR-C89.svg",
+      "iso": "HR",
+      "id": "C89",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/HR_road_sign_C89.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/246-HR_road_sign_C89.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/246-HR_road_sign_C89.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/HR_road_sign_C89.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "g_other_information_signs/other/HR-C90.svg",
+      "iso": "HR",
+      "id": "C90",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HR_road_sign_C90.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/247-HR_road_sign_C90.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/247-HR_road_sign_C90.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HR_road_sign_C90.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "b_priority_signs/other/HR-E02-1.svg",
+      "iso": "HR",
+      "id": "E02-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/HR_road_sign_E02-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/286-HR_road_sign_E02-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/286-HR_road_sign_E02-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/HR_road_sign_E02-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E04-1.svg",
+      "iso": "HR",
+      "id": "E04-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/HR_road_sign_E04-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/290-HR_road_sign_E04-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/290-HR_road_sign_E04-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/HR_road_sign_E04-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E04.svg",
+      "iso": "HR",
+      "id": "E04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HR_road_sign_E04.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/289-HR_road_sign_E04.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/289-HR_road_sign_E04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HR_road_sign_E04.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E05.svg",
+      "iso": "HR",
+      "id": "E05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HR_road_sign_E05.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/291-HR_road_sign_E05.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/291-HR_road_sign_E05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HR_road_sign_E05.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E06-1.svg",
+      "iso": "HR",
+      "id": "E06-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HR_road_sign_E06-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/293-HR_road_sign_E06-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/293-HR_road_sign_E06-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HR_road_sign_E06-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E06-4.svg",
+      "iso": "HR",
+      "id": "E06-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HR_road_sign_E06-4.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/295-HR_road_sign_E06-4.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/295-HR_road_sign_E06-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HR_road_sign_E06-4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E06-5.svg",
+      "iso": "HR",
+      "id": "E06-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HR_road_sign_E06-5.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/296-HR_road_sign_E06-5.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/296-HR_road_sign_E06-5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HR_road_sign_E06-5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E06.svg",
+      "iso": "HR",
+      "id": "E06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HR_road_sign_E06.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/292-HR_road_sign_E06.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/292-HR_road_sign_E06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HR_road_sign_E06.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E08.svg",
+      "iso": "HR",
+      "id": "E08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/HR_road_sign_E08.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/299-HR_road_sign_E08.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/299-HR_road_sign_E08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/HR_road_sign_E08.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E13-1.svg",
+      "iso": "HR",
+      "id": "E13-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/HR_road_sign_E13-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/316-HR_road_sign_E13-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/316-HR_road_sign_E13-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/HR_road_sign_E13-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E13.svg",
+      "iso": "HR",
+      "id": "E13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HR_road_sign_E13.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/315-HR_road_sign_E13.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/315-HR_road_sign_E13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HR_road_sign_E13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E14.svg",
+      "iso": "HR",
+      "id": "E14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Croatia_road_sign_E14.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/297-Croatia_road_sign_E14.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/297-Croatia_road_sign_E14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Croatia_road_sign_E14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E15-1.svg",
+      "iso": "HR",
+      "id": "E15-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/HR_road_sign_E15-1.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/324-HR_road_sign_E15-1.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/324-HR_road_sign_E15-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/HR_road_sign_E15-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E23.svg",
+      "iso": "HR",
+      "id": "E23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Croatia_road_sign_E23.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/306-Croatia_road_sign_E23.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/306-Croatia_road_sign_E23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Croatia_road_sign_E23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E24.svg",
+      "iso": "HR",
+      "id": "E24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Croatia_road_sign_E24.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/307-Croatia_road_sign_E24.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/307-Croatia_road_sign_E24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Croatia_road_sign_E24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E25.svg",
+      "iso": "HR",
+      "id": "E25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Croatia_road_sign_E25.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/308-Croatia_road_sign_E25.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/308-Croatia_road_sign_E25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Croatia_road_sign_E25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E26.svg",
+      "iso": "HR",
+      "id": "E26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Croatia_road_sign_E26.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/309-Croatia_road_sign_E26.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/309-Croatia_road_sign_E26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Croatia_road_sign_E26.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E27.svg",
+      "iso": "HR",
+      "id": "E27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Croatia_road_sign_E27.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/310-Croatia_road_sign_E27.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/310-Croatia_road_sign_E27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Croatia_road_sign_E27.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E28.svg",
+      "iso": "HR",
+      "id": "E28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Croatia_road_sign_E28.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/311-Croatia_road_sign_E28.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/311-Croatia_road_sign_E28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Croatia_road_sign_E28.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E29.svg",
+      "iso": "HR",
+      "id": "E29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Croatia_road_sign_E29.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/312-Croatia_road_sign_E29.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/312-Croatia_road_sign_E29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Croatia_road_sign_E29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E30.svg",
+      "iso": "HR",
+      "id": "E30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Croatia_road_sign_E30.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/313-Croatia_road_sign_E30.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/313-Croatia_road_sign_E30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Croatia_road_sign_E30.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E35.svg",
+      "iso": "HR",
+      "id": "E35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Croatia_road_sign_E35.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/317-Croatia_road_sign_E35.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/317-Croatia_road_sign_E35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Croatia_road_sign_E35.svg"
+        }
+      ],
+      "shape": "diamond",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HR-E36.svg",
+      "iso": "HR",
+      "id": "E36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Croatia_road_sign_E36.svg",
+      "kept_from": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/318-Croatia_road_sign_E36.svg",
+      "sources": [
+        {
+          "file": "BA_Bosnia and Herzegovina/wikipedia_en/01-en_Road_signs_in_Bosnia_and_Herzegovina/318-Croatia_road_sign_E36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Croatia_road_sign_E36.svg"
+        }
+      ],
+      "shape": "square",
+      "also_used_in": [
+        "BA_Bosnia and Herzegovina"
+      ]
+    }
+  ]
+}

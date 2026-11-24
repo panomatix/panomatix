@@ -1,0 +1,125 @@
+{
+  "country_code": "KZ",
+  "country": "Kazakhstan",
+  "images": [
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/KZ-3.12.svg",
+      "iso": "KZ",
+      "id": "3.12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/KZ_road_sign_3.12.svg",
+      "kept_from": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/063-KZ_road_sign_3.12.svg",
+      "sources": [
+        {
+          "file": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/063-KZ_road_sign_3.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/KZ_road_sign_3.12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/KZ-3.17.1.svg",
+      "iso": "KZ",
+      "id": "3.17.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/KZ_road_sign_3.17.1.svg",
+      "kept_from": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/068-KZ_road_sign_3.17.1.svg",
+      "sources": [
+        {
+          "file": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/068-KZ_road_sign_3.17.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/KZ_road_sign_3.17.1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/KZ-3.17.2.svg",
+      "iso": "KZ",
+      "id": "3.17.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/KZ_road_sign_3.17.2.svg",
+      "kept_from": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/069-KZ_road_sign_3.17.2.svg",
+      "sources": [
+        {
+          "file": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/069-KZ_road_sign_3.17.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/KZ_road_sign_3.17.2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/KZ-3.17.3.svg",
+      "iso": "KZ",
+      "id": "3.17.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/KZ_road_sign_3.17.3.svg",
+      "kept_from": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/070-KZ_road_sign_3.17.3.svg",
+      "sources": [
+        {
+          "file": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/070-KZ_road_sign_3.17.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/KZ_road_sign_3.17.3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/KZ-5.33.svg",
+      "iso": "KZ",
+      "id": "5.33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/KZ_road_sign_5.33.svg",
+      "kept_from": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/160-KZ_road_sign_5.33.svg",
+      "sources": [
+        {
+          "file": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/160-KZ_road_sign_5.33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/KZ_road_sign_5.33.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/KZ-5.40.svg",
+      "iso": "KZ",
+      "id": "5.40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/KZ_road_sign_5.40.svg",
+      "kept_from": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/167-KZ_road_sign_5.40.svg",
+      "sources": [
+        {
+          "file": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/167-KZ_road_sign_5.40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/KZ_road_sign_5.40.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/KZ-6.22.svg",
+      "iso": "KZ",
+      "id": "6.22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/6.22_Russian_road_sign.svg",
+      "kept_from": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/169-6.22_Russian_road_sign.svg",
+      "sources": [
+        {
+          "file": "KZ_Kazakhstan/wikipedia/01-it_Segnaletica_stradale_in_Kazakistan/169-6.22_Russian_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/6.22_Russian_road_sign.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    }
+  ]
+}

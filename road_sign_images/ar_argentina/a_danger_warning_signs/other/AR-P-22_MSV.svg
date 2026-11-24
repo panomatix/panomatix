@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="216.01218mm"
+   height="216.01218mm"
+   viewBox="0 0 216.01218 216.01218"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Confluenza da destra.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="180.71888"
+     inkscape:cy="502.53035"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.8986742,-89.96415)">
+    <g
+       transform="translate(9.6992977,44.72927)"
+       id="layer1-5"
+       inkscape:label="Livello 1">
+      <g
+         transform="rotate(-45,86.416008,236.92836)"
+         id="g4949">
+        <g
+           id="g4944">
+          <rect
+             ry="10.583333"
+             rx="10.583333"
+             y="111.66359"
+             x="79.503082"
+             height="158.75"
+             width="158.75"
+             id="rect4929"
+             style="opacity:1;fill:#faed2d;fill-opacity:1;fill-rule:nonzero;stroke:#faed2d;stroke-width:0.25616124;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.39999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             ry="5.2916665"
+             rx="5.2916665"
+             y="117.09219"
+             x="84.657806"
+             height="148.16667"
+             width="148.16667"
+             id="rect4940"
+             style="opacity:1;fill:#faed2d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5276897;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.39999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26992658px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.508348,165.45526 -7.97551,1.97684 c -1.973673,0.78191 -5.66885,-1.35791 -3.919587,-4.9421 l 23.687947,-38.41197 c 1.427162,-2.05823 4.390442,-2.12388 5.623762,-0.0341 l 22.39278,36.36696 c 3.03593,4.10477 1.43854,8.15277 -2.65851,7.08935 l -8.04367,-1.97684 c -1.30654,-0.37492 -1.49967,-0.22721 -1.49967,0.54534 v 20.45002 l 48.6029,48.3984 -18.67769,19.15487 -28.63004,-28.49371 c -0.77269,-0.88156 -1.46433,-1.48397 -1.43151,0.409 v 39.12772 H 87.700714 v -98.97957 c 0,-0.62 0.212074,-1.00326 -1.192366,-0.68023 z"
+       id="path4760"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+  </g>
+</svg>

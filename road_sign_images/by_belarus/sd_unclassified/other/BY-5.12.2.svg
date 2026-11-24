@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="380"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="5.12.2_Belarusian_road_sign.svg">
+  <title
+     id="title3004">5.12.2 Место остановки автобуса и (или) троллейбуса</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5210526"
+     inkscape:cx="300"
+     inkscape:cy="190"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid901"
+       originx="3.5527136e-15"
+       originy="5.234375e-06" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>5.12.2 Место остановки автобуса и (или) троллейбуса</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>СТБ 1300-2013
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-672.36218)">
+    <rect
+       y="672.36218"
+       x="0"
+       height="380"
+       width="600"
+       id="rect8073"
+       style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <path
+       id="rect9536"
+       style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:blue;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54300022;marker:none;enable-background:accumulate"
+       d="M 81.25,732.36218 H 518.75 C 537,732.36218 543.75,743.06618 543.75,756.36218 V 968.36217 C 543.75,981.65817 532,992.36218 518.75,992.36218 H 81.25 C 68,992.36218 56.25,981.65817 56.25,968.36217 V 757.36218 C 56.25,744.06618 68,732.36218 81.25,732.36218 Z M 45,692.36218 C 31.15,692.36218 20,703.36217 20,717.36218 V 1007.3622 C 20,1021.3622 31.15,1032.3622 45,1032.3622 H 555 C 568.85,1032.3622 580,1021.3622 580,1007.3622 V 717.36218 C 580,703.36217 568.85,692.36218 555,692.36218 Z" />
+    <rect
+       ry="44"
+       rx="44"
+       y="673.36218"
+       x="1"
+       height="378"
+       width="598"
+       id="rect3041"
+       style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;stroke:black;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <g
+       id="g906"
+       transform="translate(0,327.49994)">
+      <path
+         id="path10982"
+         transform="translate(0,152.36218)"
+         d="M 145.3125,286.875 C 138.6138,286.875 132.4119,290.44865 129.0625,296.25 L 96.25,353.09375 C 94.6043,355.94413 93.75,359.17738 93.75,362.46875 V 394.125 431.25 C 93.75,441.6375 102.1125,450 112.5,450 H 121.875 C 121.875,424.11159 142.8617,403.125 168.75,403.125 194.6384,403.125 215.625,424.11159 215.625,450 H 365.625 C 365.625,424.11159 386.6117,403.125 412.5,403.125 438.3884,403.125 459.375,424.11159 459.375,450 H 487.5 C 497.8875,450 506.25,441.6375 506.25,431.25 V 394.125 362.46875 C 506.25,360.45341 505.91865,358.4431 505.28125,356.53125 L 486.34375,299.6875 C 483.79155,292.03113 476.633,286.875 468.5625,286.875 Z M 147.46875,300 H 159.375 168.75 C 173.9437,300 178.125,304.18125 178.125,309.375 V 346.875 C 178.125,352.06875 173.9437,356.25 168.75,356.25 H 159.375 125.8125 C 120.6349,356.25 116.4375,352.05272 116.4375,346.875 116.4375,345.22941 116.89595,343.61269 117.71875,342.1875 L 139.34375,304.6875 C 141.01845,301.78688 144.11925,300 147.46875,300 Z M 206.25,300 H 262.5 C 267.69375,300 271.875,304.18125 271.875,309.375 V 346.875 C 271.875,352.06875 267.69375,356.25 262.5,356.25 H 206.25 C 201.05625,356.25 196.875,352.06875 196.875,346.875 V 309.375 C 196.875,304.18125 201.05625,300 206.25,300 Z M 300,300 H 356.25 C 361.44375,300 365.625,304.18125 365.625,309.375 V 346.875 C 365.625,352.06875 361.44375,356.25 356.25,356.25 H 300 C 294.80625,356.25 290.625,352.06875 290.625,346.875 V 309.375 C 290.625,304.18125 294.80625,300 300,300 Z M 393.75,300 H 421.875 447.1875 C 451.3463,300 455.0139,302.72894 456.1875,306.71875 L 467.21875,344.21875 C 468.67975,349.186 465.8423,354.414 460.875,355.875 460.016,356.12765 459.11415,356.25 458.21875,356.25 H 421.875 393.75 C 388.5562,356.25 384.375,352.06875 384.375,346.875 V 309.375 C 384.375,304.18125 388.5562,300 393.75,300 Z"
+         style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.27611935;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path10984"
+         d="M 168.75006,564.86224 C 148.03936,564.86224 131.25006,581.65155 131.25006,602.36224 131.25006,623.07292 148.03936,639.86224 168.75006,639.86224 189.46076,639.86224 206.25006,623.07292 206.25006,602.36224 206.25006,581.65155 189.46076,564.86224 168.75006,564.86224 Z M 168.75006,583.61224 C 179.10536,583.61224 187.50006,592.00689 187.50006,602.36224 187.50006,612.71758 179.10536,621.11224 168.75006,621.11224 158.39476,621.11224 150.00006,612.71758 150.00006,602.36224 150.00006,592.00689 158.39476,583.61224 168.75006,583.61224 Z"
+         style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path10994"
+         d="M 412.50006,564.86224 C 391.78936,564.86224 375.00006,581.65155 375.00006,602.36224 375.00006,623.07292 391.78936,639.86224 412.50006,639.86224 433.21076,639.86224 450.00006,623.07292 450.00006,602.36224 450.00006,581.65155 433.21076,564.86224 412.50006,564.86224 Z M 412.50006,583.61224 C 422.85536,583.61224 431.25006,592.00689 431.25006,602.36224 431.25006,612.71758 422.85536,621.11224 412.50006,621.11224 402.14476,621.11224 393.75006,612.71758 393.75006,602.36224 393.75006,592.00689 402.14476,583.61224 412.50006,583.61224 Z"
+         style="color:black;display:inline;overflow:visible;visibility:visible;opacity:1;fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

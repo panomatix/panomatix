@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1021.33mm"
+   height="1021.33mm"
+   viewBox="0 0 1021.33 1021.33"
+   version="1.1"
+   id="svg16"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Yellow Diamond.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="3485.1986"
+     inkscape:cy="1284.1102"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,724.32999)">
+    <rect
+       style="fill:#fddc04;fill-opacity:1;stroke:none;stroke-width:0.639399"
+       id="rect18"
+       width="750"
+       height="750"
+       x="137.17851"
+       y="-164.98929"
+       rx="50"
+       ry="50"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.622348"
+       id="rect20"
+       width="730"
+       height="730"
+       x="147.17851"
+       y="-154.98929"
+       rx="40"
+       ry="40"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#fddc04;fill-opacity:1;stroke:none;stroke-width:0.588247"
+       id="rect22"
+       width="690"
+       height="690"
+       x="167.17851"
+       y="-134.98929"
+       rx="20"
+       ry="20"
+       transform="rotate(-45)" />
+    <path
+       id="path66"
+       style="fill:#000000;stroke:none;stroke-width:0.28602"
+       d="m 385.66493,-526.66618 -131.40903,188.56628 23.68176,30.06535 47.72733,-18.63142 v 78.00092 h -178 v 69.99986 h 178 V 72.334993 H 445.66488 V -178.66519 h 171.99983 v 63.00028 h -46.99972 v 31.000203 h 46.99972 v 62.99975 H 570.66499 V 9.3352434 h 46.99972 V 72.334993 h 31.00028 V 9.3352434 h 46.9996 V -21.664957 h -46.99968 v -62.99975 h 47.00021 v -31.000203 h -47.00021 v -63.00028 h 161.99993 v -69.99986 H 648.66491 v -62.99977 h 47.00021 v -31.00017 h -47.00021 v -62.99977 h 47.00021 v -31.00019 h -47.00021 v -62.99976 h -30.99967 v 62.99976 H 570.665 v 31.00019 h 47.00024 v 62.99977 H 570.665 v 31.00017 h 47.00024 v 62.99977 H 445.66541 v -78.00092 l 47.72679,18.63091 23.68179,-30.06484 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.1545"
+       id="path100"
+       cx="270.66492"
+       cy="-326.66498"
+       r="20" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.1545"
+       id="circle120"
+       cx="500.66486"
+       cy="-326.66498"
+       r="20" />
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="42.8666"
+   height="127.91605"
+   id="svg1889">
+  <defs
+     id="defs1891" />
+  <g
+     transform="translate(-292.8524,-348.4041)"
+     id="layer1">
+    <g
+       transform="matrix(1.249992,0,0,-1.249992,-56.35566,943.39)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:black;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="g10"
+       xml:space="preserve">
+<polygon
+   points="279.51,373.8 313.52,373.8 313.52,475.85 279.51,475.85 279.51,373.8 "
+   style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:0"
+   id="polygon12" />
+<polygon
+   points="279.51,373.8 313.52,373.8 313.52,475.85 279.51,475.85 279.51,373.8 "
+   style="stroke-width:0.28349999"
+   id="polygon14" />
+<polygon
+   points="279.51,475.85 313.52,475.85 313.52,373.8 279.51,373.8 279.51,475.85 "
+   style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:0;stroke-linejoin:round"
+   id="polygon16" />
+<polygon
+   points="279.51,475.85 313.52,475.85 313.52,373.8 279.51,373.8 279.51,475.85 "
+   style="stroke-width:0.28349999;stroke-linejoin:round"
+   id="polygon18" />
+<path
+   d="M 292.26,406.41 L 283.54,407.73 L 283.54,407.73 C 283.17,407.82 282.81,407.69 282.59,407.39 C 282.31,407.05 282.29,406.57 282.53,406.19 L 282.53,406.19 L 295.41,385.77 L 295.41,385.77 C 295.68,385.39 296.1,385.13 296.54,385.13 C 297.02,385.12 297.46,385.38 297.73,385.77 L 297.73,385.77 L 310.55,406.25 L 310.55,406.25 C 310.77,406.59 310.75,407.05 310.54,407.39 C 310.31,407.73 309.91,407.88 309.55,407.79 L 309.55,407.79 L 300.77,406.41 L 303.6,456 L 289.43,456 L 292.26,406.41 z "
+   style="fill:black;fill-rule:nonzero;stroke-width:0"
+   id="path20" />
+</g>  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="602"
+   height="602"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="Peru_road_sign_R-11.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4525">
+      <path
+         d="M 0,0 H 479.12 V 489.78 H 0 Z"
+         transform="translate(-4.2301408e-6)"
+         id="path4525" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.8762486"
+     inkscape:cx="197.43255"
+     inkscape:cy="430.2432"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <rect
+     x="1"
+     y="1"
+     width="600"
+     height="600"
+     rx="36"
+     style="fill:#fff"
+     id="rect1" />
+  <path
+     d="M565 1a36 36 0 0 1 36 36v528a36 36 0 0 1-36 36H37a36 36 0 0 1-36-36V37A36 36 0 0 1 37 1h528m0-1H37A37.042 37.042 0 0 0 0 37v528a37.042 37.042 0 0 0 37 37h528a37.042 37.042 0 0 0 37-37V37a37.042 37.042 0 0 0-37-37Z"
+     id="path1" />
+  <path
+     d="M565 28a9.01 9.01 0 0 1 9 9v528a9.01 9.01 0 0 1-9 9H37a9.01 9.01 0 0 1-9-9V37a9.01 9.01 0 0 1 9-9h528m0-18H37a27 27 0 0 0-27 27v528a27 27 0 0 0 27 27h528a27 27 0 0 0 27-27V37a27 27 0 0 0-27-27Z"
+     id="path2" />
+  <path
+     d="M300 45C159.17 45 45 159.17 45 300s114.17 255 255 255 255-114.17 255-255S440.83 45 300 45Zm0 459c-112.67 0-204-91.33-204-204S187.33 96 300 96s204 91.33 204 204-91.33 204-204 204Z"
+     transform="translate(1 1)"
+     style="fill:#be141e"
+     id="path3" />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#000000;fill-rule:evenodd;stroke-width:1;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     d="m 253.18138,135.38447 a 7.0654626,7.0654626 0 0 0 -3.66038,1.12303 l -126.61521,81.55209 0.0157,0.008 -0.004,0.004 13.03562,8.39401 113.56809,73.15426 a 7.0654626,7.0654626 0 0 0 7.37062,0.16857 7.0654626,7.0654626 0 0 0 3.50708,-6.48523 l -2.11191,-39.49395 c 63.16185,2.89708 113.14264,54.69805 113.14264,118.60068 v 70.63989 h 71.02702 v -72.63683 c 0,-102.25067 -81.65796,-184.9224 -184.18498,-187.81474 l 2.12723,-39.77375 a 7.0654626,7.0654626 0 0 0 -3.50708,-6.48521 7.0654626,7.0654626 0 0 0 -3.71023,-0.95439 z"
+     id="path8044" />
+</svg>

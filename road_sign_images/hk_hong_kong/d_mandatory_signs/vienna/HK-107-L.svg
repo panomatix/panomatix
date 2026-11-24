@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="606"
+   height="606"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="Hong_Kong_road_sign_106.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="538.10826"
+     inkscape:cy="277.89297"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <circle
+     cx="303"
+     cy="303"
+     r="302"
+     fill="#000"
+     stroke="none"
+     id="circle2" />
+  <circle
+     cx="303"
+     cy="303"
+     r="300"
+     fill="#fff"
+     stroke="none"
+     id="circle4" />
+  <circle
+     cx="303"
+     cy="303"
+     r="288"
+     fill="#006eb8"
+     stroke="none"
+     id="circle6" />
+  <path
+     id="rect30"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.405638"
+     d="m 45,297 133.80078,90 c -5.56337,-17.69 -9.41746,-35.76986 -11.62109,-54 H 561 V 261 H 167.17969 c 2.20363,-18.23014 6.05772,-36.31 11.62109,-54 z" />
+</svg>

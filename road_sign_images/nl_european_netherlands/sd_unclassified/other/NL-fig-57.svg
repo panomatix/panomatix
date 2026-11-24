@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="602" height="602" fill-rule="evenodd">
+<clipPath id="c"><circle cx="301" cy="301" r="300"/></clipPath>
+<g clip-path="url(#c)" fill="none" stroke="none">
+<path fill="#8f9695" stroke="none" d="M0,0 0,602 602,602 602,0"/>
+<path clip-path="url(#c)" fill="none" stroke="#2a2d2f" stroke-width="150" d="M0,602 602,0"/>
+</g></svg>

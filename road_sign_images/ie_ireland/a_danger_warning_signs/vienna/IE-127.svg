@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="826.13" height="826.13" fill-rule="evenodd">
+<g transform="rotate(45)">
+<rect width="600" height="600" rx="30" ry="30" x="284.162" y="-300" fill="#000" stroke="none"/>
+<rect width="570" height="570" rx="15" ry="15" x="299.162" y="-285" fill="#fff000" stroke="none"/>
+</g>
+<path fill="none" stroke="#000" stroke-width="60" d="M236.288,236.288 589.842,589.842 M236.288,589.842 589.842,236.288"/>
+<rect width="300" height="84.852" x="263.065" y="370.639" fill="#fff000" stroke="none"/>
+<rect width="350" height="22" x="238.065" y="402.065" fill="#000" stroke="none"/>
+<rect width="20" height="53" x="258.065" y="386.565" fill="#000" stroke="none"/>
+<rect width="20" height="53" x="316.065" y="386.565" fill="#000" stroke="none"/>
+<rect width="20" height="53" x="374.065" y="386.565" fill="#000" stroke="none"/>
+<rect width="20" height="53" x="432.065" y="386.565" fill="#000" stroke="none"/>
+<rect width="20" height="53" x="490.065" y="386.565" fill="#000" stroke="none"/>
+<rect width="20" height="53" x="548.065" y="386.565" fill="#000" stroke="none"/>
+</svg>

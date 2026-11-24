@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="503"
+   height="503"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg2994"
+   sodipodi:docname="CZ_traffic_sign_IP1a.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2998" />
+  <sodipodi:namedview
+     id="namedview2996"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4003984"
+     inkscape:cx="432.06966"
+     inkscape:cy="129.87065"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2994"
+     showguides="false">
+    <sodipodi:guide
+       position="71.803484,471.5"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="41.5,31.5"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="rect2984"
+     style="opacity:1"
+     transform="translate(0.5,0.5)">
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill-rule:nonzero;stroke:none;stroke-opacity:1;paint-order:stroke fill markers;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="M 41,0 C 18.303297,0 0,18.303297 0,41 v 420 c 0,22.6967 18.303297,41 41,41 h 420 c 22.6967,0 41,-18.3033 41,-41 V 41 C 502,18.303297 483.6967,0 461,0 Z m 0,2 h 420 c 21.6233,0 39,17.376703 39,39 v 420 c 0,21.6233 -17.3767,39 -39,39 H 41 C 19.376703,500 2,482.6233 2,461 V 41 C 2,19.376703 19.376703,2 41,2 Z"
+       id="path3" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;fill-rule:nonzero;paint-order:stroke fill markers;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 41,1 h 420 c 22.16,0 40,17.84 40,40 v 420 c 0,22.16 -17.84,40 -40,40 H 41 C 18.84,501 1,483.16 1,461 V 41 C 1,18.84 18.84,1 41,1 Z"
+       id="path4" />
+  </g>
+  <path
+     id="rect2986"
+     d="m 41.5,16.5 c -13.85,0 -25,11.15 -25,25 v 420 c 0,13.85 11.15,25 25,25 h 420 c 13.85,0 25,-11.15 25,-25 v -420 c 0,-13.85 -11.15,-25 -25,-25 z m 0,15 h 420 c 5.54,0 10,4.46 10,10 v 420 c 0,5.54 -4.46,10 -10,10 h -420 c -5.54,0 -10,-4.46 -10,-10 v -420 c 0,-5.54 4.46,-10 10,-10 z" />
+  <path
+     id="rect6"
+     style="opacity:1;fill:#018651;fill-opacity:1;stroke-width:0.999997"
+     d="m 130.83859,161.99414 -90.0002,89.50452 90.0002,89.50329 H 462.16161 L 374.36891,251.5 l 87.7927,-89.50586 z"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     id="rect7"
+     style="opacity:1;stroke-width:0.999997"
+     d="M 131.49219 355.37695 C 131.13028 355.37695 130.83789 355.66739 130.83789 356.0293 L 130.83789 458.29492 C 130.83789 458.65683 131.13028 458.94922 131.49219 458.94922 L 145.41992 458.94922 C 145.78183 458.94922 146.07227 458.65683 146.07227 458.29492 L 146.07227 356.0293 C 146.07227 355.66739 145.78183 355.37695 145.41992 355.37695 L 131.49219 355.37695 z M 328.03125 355.37695 C 327.66934 355.37695 327.37695 355.66739 327.37695 356.0293 L 327.37695 458.29492 C 327.37695 458.65683 327.66934 458.94922 328.03125 458.94922 L 341.95898 458.94922 C 342.32089 458.94922 342.61133 458.65683 342.61133 458.29492 L 342.61133 356.0293 C 342.61133 355.66739 342.32089 355.37695 341.95898 355.37695 L 328.03125 355.37695 z M 358.83203 355.37695 C 358.47012 355.37695 358.17773 355.66739 358.17773 356.0293 L 358.17773 458.29492 C 358.17773 458.65683 358.47012 458.94922 358.83203 458.94922 L 372.75977 458.94922 C 373.12167 458.94922 373.41211 458.65683 373.41211 458.29492 L 373.41211 356.0293 C 373.41211 355.66739 373.12167 355.37695 372.75977 355.37695 L 358.83203 355.37695 z " />
+</svg>

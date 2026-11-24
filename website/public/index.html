@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Panomatix — road signs of the world</title>
+  <meta name="description" content="Collaborative cross-reference database of road signs: Vienna Convention, national codes, designs and OpenStreetMap tags.">
+  <link rel="icon" href="/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/style.css">
+  <script type="module" src="/js/app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="#/"><img src="/logo.svg" alt="" width="32" height="32"><span>Panomatix</span></a>
+    <nav class="mainnav" aria-label="Main">
+      <a href="#/" data-nav="signs" data-i18n="Signs">Signs</a>
+      <a href="#/compare" data-nav="compare" data-i18n="Compare countries">Compare countries</a>
+      <a href="#/changes" data-nav="changes" data-i18n="Recent changes">Recent changes</a>
+      <a href="#/api" data-nav="api">API</a>
+    </nav>
+    <div id="account" class="account"></div>
+  </header>
+  <main id="main" tabindex="-1"><p class="muted pad" data-i18n="Loading…">Loading…</p></main>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <noscript><p class="pad">This site needs JavaScript.</p></noscript>
+</body>
+</html>

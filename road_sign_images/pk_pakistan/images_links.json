@@ -1,0 +1,1812 @@
+{
+  "country_code": "PK",
+  "country": "Pakistan",
+  "images": [
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-01.svg",
+      "iso": "PK",
+      "id": "R-01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Pakistan_road_sign_R-01.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/03-Pakistan_road_sign_R-01.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/03-Pakistan_road_sign_R-01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Pakistan_road_sign_R-01.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/04-Pakistan_road_sign_R-01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Pakistan_road_sign_R-01.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/PK-R-02.svg",
+      "iso": "PK",
+      "id": "R-02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pakistan_road_sign_R-02.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/04-Pakistan_road_sign_R-02.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/04-Pakistan_road_sign_R-02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pakistan_road_sign_R-02.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/05-Pakistan_road_sign_R-02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pakistan_road_sign_R-02.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.927
+    },
+    {
+      "filename": "b_priority_signs/vienna/PK-R-03.svg",
+      "iso": "PK",
+      "id": "R-03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Pakistan_road_sign_R-03.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/05-Pakistan_road_sign_R-03.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/05-Pakistan_road_sign_R-03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Pakistan_road_sign_R-03.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/06-Pakistan_road_sign_R-03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Pakistan_road_sign_R-03.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-04.svg",
+      "iso": "PK",
+      "id": "R-04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pakistan_road_sign_R-04.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/06-Pakistan_road_sign_R-04.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/06-Pakistan_road_sign_R-04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pakistan_road_sign_R-04.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/07-Pakistan_road_sign_R-04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pakistan_road_sign_R-04.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-05.svg",
+      "iso": "PK",
+      "id": "R-05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pakistan_road_sign_R-05.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/07-Pakistan_road_sign_R-05.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/07-Pakistan_road_sign_R-05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pakistan_road_sign_R-05.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/08-Pakistan_road_sign_R-05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pakistan_road_sign_R-05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-06.svg",
+      "iso": "PK",
+      "id": "R-06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pakistan_road_sign_R-06.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/08-Pakistan_road_sign_R-06.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/08-Pakistan_road_sign_R-06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pakistan_road_sign_R-06.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/09-Pakistan_road_sign_R-06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pakistan_road_sign_R-06.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-08.svg",
+      "iso": "PK",
+      "id": "R-08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pakistan_road_sign_R-08.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/09-Pakistan_road_sign_R-08.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/09-Pakistan_road_sign_R-08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pakistan_road_sign_R-08.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/10-Pakistan_road_sign_R-08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pakistan_road_sign_R-08.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-09.svg",
+      "iso": "PK",
+      "id": "R-09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pakistan_road_sign_R-09.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/10-Pakistan_road_sign_R-09.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/10-Pakistan_road_sign_R-09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pakistan_road_sign_R-09.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/11-Pakistan_road_sign_R-09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pakistan_road_sign_R-09.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-10.svg",
+      "iso": "PK",
+      "id": "R-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pakistan_road_sign_R-10.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/11-Pakistan_road_sign_R-10.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/11-Pakistan_road_sign_R-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pakistan_road_sign_R-10.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/12-Pakistan_road_sign_R-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pakistan_road_sign_R-10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-11.svg",
+      "iso": "PK",
+      "id": "R-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pakistan_road_sign_R-11.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/12-Pakistan_road_sign_R-11.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/12-Pakistan_road_sign_R-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pakistan_road_sign_R-11.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/13-Pakistan_road_sign_R-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pakistan_road_sign_R-11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-13.svg",
+      "iso": "PK",
+      "id": "R-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pakistan_road_sign_R-13.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/13-Pakistan_road_sign_R-13.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/13-Pakistan_road_sign_R-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pakistan_road_sign_R-13.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/14-Pakistan_road_sign_R-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pakistan_road_sign_R-13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-20.svg",
+      "iso": "PK",
+      "id": "R-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_road_sign_R-20.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/14-Pakistan_road_sign_R-20.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/14-Pakistan_road_sign_R-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_road_sign_R-20.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/15-Pakistan_road_sign_R-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_road_sign_R-20.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-21.svg",
+      "iso": "PK",
+      "id": "R-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pakistan_road_sign_R-21.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/15-Pakistan_road_sign_R-21.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/15-Pakistan_road_sign_R-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pakistan_road_sign_R-21.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/16-Pakistan_road_sign_R-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pakistan_road_sign_R-21.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-22.svg",
+      "iso": "PK",
+      "id": "R-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pakistan_road_sign_R-22.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/16-Pakistan_road_sign_R-22.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/16-Pakistan_road_sign_R-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pakistan_road_sign_R-22.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/17-Pakistan_road_sign_R-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pakistan_road_sign_R-22.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-23.svg",
+      "iso": "PK",
+      "id": "R-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pakistan_road_sign_R-23.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/17-Pakistan_road_sign_R-23.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/17-Pakistan_road_sign_R-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pakistan_road_sign_R-23.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/18-Pakistan_road_sign_R-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pakistan_road_sign_R-23.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-24.svg",
+      "iso": "PK",
+      "id": "R-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pakistan_road_sign_R-24.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/18-Pakistan_road_sign_R-24.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/18-Pakistan_road_sign_R-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pakistan_road_sign_R-24.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/19-Pakistan_road_sign_R-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pakistan_road_sign_R-24.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-25.svg",
+      "iso": "PK",
+      "id": "R-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pakistan_road_sign_R-25.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/19-Pakistan_road_sign_R-25.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/19-Pakistan_road_sign_R-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pakistan_road_sign_R-25.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/20-Pakistan_road_sign_R-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pakistan_road_sign_R-25.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-27.svg",
+      "iso": "PK",
+      "id": "R-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pakistan_road_sign_R-27.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/20-Pakistan_road_sign_R-27.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/20-Pakistan_road_sign_R-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pakistan_road_sign_R-27.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/21-Pakistan_road_sign_R-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pakistan_road_sign_R-27.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-28.svg",
+      "iso": "PK",
+      "id": "R-28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Pakistan_road_sign_R-28.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/21-Pakistan_road_sign_R-28.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/21-Pakistan_road_sign_R-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Pakistan_road_sign_R-28.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/22-Pakistan_road_sign_R-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Pakistan_road_sign_R-28.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-29.svg",
+      "iso": "PK",
+      "id": "R-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pakistan_road_sign_R-29.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/22-Pakistan_road_sign_R-29.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/22-Pakistan_road_sign_R-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pakistan_road_sign_R-29.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/23-Pakistan_road_sign_R-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pakistan_road_sign_R-29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-30.svg",
+      "iso": "PK",
+      "id": "R-30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pakistan_road_sign_R-30.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/23-Pakistan_road_sign_R-30.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/23-Pakistan_road_sign_R-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pakistan_road_sign_R-30.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/24-Pakistan_road_sign_R-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pakistan_road_sign_R-30.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/PK-R-31.svg",
+      "iso": "PK",
+      "id": "R-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pakistan_road_sign_R-31.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/24-Pakistan_road_sign_R-31.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/24-Pakistan_road_sign_R-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pakistan_road_sign_R-31.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/25-Pakistan_road_sign_R-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pakistan_road_sign_R-31.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/PK-R-32.svg",
+      "iso": "PK",
+      "id": "R-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pakistan_road_sign_R-32.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/25-Pakistan_road_sign_R-32.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/25-Pakistan_road_sign_R-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pakistan_road_sign_R-32.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/26-Pakistan_road_sign_R-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pakistan_road_sign_R-32.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/PK-R-33.svg",
+      "iso": "PK",
+      "id": "R-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_road_sign_R-33.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/26-Pakistan_road_sign_R-33.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/26-Pakistan_road_sign_R-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_road_sign_R-33.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/27-Pakistan_road_sign_R-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_road_sign_R-33.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-34.svg",
+      "iso": "PK",
+      "id": "R-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pakistan_road_sign_R-34.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/27-Pakistan_road_sign_R-34.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/27-Pakistan_road_sign_R-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pakistan_road_sign_R-34.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/28-Pakistan_road_sign_R-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pakistan_road_sign_R-34.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-35.svg",
+      "iso": "PK",
+      "id": "R-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pakistan_road_sign_R-35.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/28-Pakistan_road_sign_R-35.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/28-Pakistan_road_sign_R-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pakistan_road_sign_R-35.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/29-Pakistan_road_sign_R-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pakistan_road_sign_R-35.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-36.svg",
+      "iso": "PK",
+      "id": "R-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pakistan_road_sign_R-36.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/29-Pakistan_road_sign_R-36.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/29-Pakistan_road_sign_R-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pakistan_road_sign_R-36.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/30-Pakistan_road_sign_R-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pakistan_road_sign_R-36.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-37.svg",
+      "iso": "PK",
+      "id": "R-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pakistan_road_sign_R-37.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/30-Pakistan_road_sign_R-37.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/30-Pakistan_road_sign_R-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pakistan_road_sign_R-37.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/31-Pakistan_road_sign_R-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pakistan_road_sign_R-37.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-38.svg",
+      "iso": "PK",
+      "id": "R-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pakistan_road_sign_R-38.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/31-Pakistan_road_sign_R-38.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/31-Pakistan_road_sign_R-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pakistan_road_sign_R-38.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/32-Pakistan_road_sign_R-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pakistan_road_sign_R-38.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-39.svg",
+      "iso": "PK",
+      "id": "R-39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Pakistan_road_sign_R-39.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/32-Pakistan_road_sign_R-39.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/32-Pakistan_road_sign_R-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Pakistan_road_sign_R-39.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/33-Pakistan_road_sign_R-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Pakistan_road_sign_R-39.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-40.svg",
+      "iso": "PK",
+      "id": "R-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pakistan_road_sign_R-40.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/33-Pakistan_road_sign_R-40.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/33-Pakistan_road_sign_R-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pakistan_road_sign_R-40.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/34-Pakistan_road_sign_R-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pakistan_road_sign_R-40.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-41.svg",
+      "iso": "PK",
+      "id": "R-41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pakistan_road_sign_R-41.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/34-Pakistan_road_sign_R-41.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/34-Pakistan_road_sign_R-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pakistan_road_sign_R-41.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/35-Pakistan_road_sign_R-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pakistan_road_sign_R-41.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-42.svg",
+      "iso": "PK",
+      "id": "R-42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pakistan_road_sign_R-42.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/35-Pakistan_road_sign_R-42.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/35-Pakistan_road_sign_R-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pakistan_road_sign_R-42.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/36-Pakistan_road_sign_R-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pakistan_road_sign_R-42.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-43.svg",
+      "iso": "PK",
+      "id": "R-43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pakistan_road_sign_R-43.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/36-Pakistan_road_sign_R-43.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/36-Pakistan_road_sign_R-43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pakistan_road_sign_R-43.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/37-Pakistan_road_sign_R-43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pakistan_road_sign_R-43.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-44.svg",
+      "iso": "PK",
+      "id": "R-44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Pakistan_road_sign_R-44.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/37-Pakistan_road_sign_R-44.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/37-Pakistan_road_sign_R-44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Pakistan_road_sign_R-44.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/38-Pakistan_road_sign_R-44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Pakistan_road_sign_R-44.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-45.svg",
+      "iso": "PK",
+      "id": "R-45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pakistan_road_sign_R-45.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/38-Pakistan_road_sign_R-45.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/38-Pakistan_road_sign_R-45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pakistan_road_sign_R-45.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/39-Pakistan_road_sign_R-45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pakistan_road_sign_R-45.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-46.svg",
+      "iso": "PK",
+      "id": "R-46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pakistan_road_sign_R-46.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/39-Pakistan_road_sign_R-46.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/39-Pakistan_road_sign_R-46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pakistan_road_sign_R-46.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/40-Pakistan_road_sign_R-46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pakistan_road_sign_R-46.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-47.svg",
+      "iso": "PK",
+      "id": "R-47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pakistan_road_sign_R-47.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/40-Pakistan_road_sign_R-47.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/40-Pakistan_road_sign_R-47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pakistan_road_sign_R-47.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/41-Pakistan_road_sign_R-47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pakistan_road_sign_R-47.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-48.svg",
+      "iso": "PK",
+      "id": "R-48",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pakistan_road_sign_R-48.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/41-Pakistan_road_sign_R-48.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/41-Pakistan_road_sign_R-48.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pakistan_road_sign_R-48.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/42-Pakistan_road_sign_R-48.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pakistan_road_sign_R-48.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-49.svg",
+      "iso": "PK",
+      "id": "R-49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pakistan_road_sign_R-49.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/42-Pakistan_road_sign_R-49.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/42-Pakistan_road_sign_R-49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pakistan_road_sign_R-49.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/43-Pakistan_road_sign_R-49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pakistan_road_sign_R-49.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PK-R-50.svg",
+      "iso": "PK",
+      "id": "R-50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pakistan_road_sign_R-50.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/43-Pakistan_road_sign_R-50.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/43-Pakistan_road_sign_R-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pakistan_road_sign_R-50.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/44-Pakistan_road_sign_R-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pakistan_road_sign_R-50.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-01.svg",
+      "iso": "PK",
+      "id": "W-01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pakistan_road_sign_W-01.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/44-Pakistan_road_sign_W-01.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/44-Pakistan_road_sign_W-01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pakistan_road_sign_W-01.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/45-Pakistan_road_sign_W-01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pakistan_road_sign_W-01.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-02.svg",
+      "iso": "PK",
+      "id": "W-02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pakistan_road_sign_W-02.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/45-Pakistan_road_sign_W-02.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/45-Pakistan_road_sign_W-02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pakistan_road_sign_W-02.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/46-Pakistan_road_sign_W-02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pakistan_road_sign_W-02.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-03.svg",
+      "iso": "PK",
+      "id": "W-03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Pakistan_road_sign_W-03.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/46-Pakistan_road_sign_W-03.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/46-Pakistan_road_sign_W-03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Pakistan_road_sign_W-03.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/47-Pakistan_road_sign_W-03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Pakistan_road_sign_W-03.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-04.svg",
+      "iso": "PK",
+      "id": "W-04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pakistan_road_sign_W-04.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/47-Pakistan_road_sign_W-04.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/47-Pakistan_road_sign_W-04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pakistan_road_sign_W-04.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/48-Pakistan_road_sign_W-04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pakistan_road_sign_W-04.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-05.svg",
+      "iso": "PK",
+      "id": "W-05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pakistan_road_sign_W-05.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/48-Pakistan_road_sign_W-05.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/48-Pakistan_road_sign_W-05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pakistan_road_sign_W-05.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/49-Pakistan_road_sign_W-05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pakistan_road_sign_W-05.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-06.svg",
+      "iso": "PK",
+      "id": "W-06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pakistan_road_sign_W-06.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/49-Pakistan_road_sign_W-06.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/49-Pakistan_road_sign_W-06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pakistan_road_sign_W-06.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/50-Pakistan_road_sign_W-06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pakistan_road_sign_W-06.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-07.svg",
+      "iso": "PK",
+      "id": "W-07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Pakistan_road_sign_W-07.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/50-Pakistan_road_sign_W-07.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/50-Pakistan_road_sign_W-07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Pakistan_road_sign_W-07.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/51-Pakistan_road_sign_W-07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Pakistan_road_sign_W-07.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-08.svg",
+      "iso": "PK",
+      "id": "W-08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pakistan_road_sign_W-08.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/51-Pakistan_road_sign_W-08.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/51-Pakistan_road_sign_W-08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pakistan_road_sign_W-08.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/52-Pakistan_road_sign_W-08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pakistan_road_sign_W-08.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-09.svg",
+      "iso": "PK",
+      "id": "W-09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pakistan_road_sign_W-09.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/52-Pakistan_road_sign_W-09.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/52-Pakistan_road_sign_W-09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pakistan_road_sign_W-09.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/53-Pakistan_road_sign_W-09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pakistan_road_sign_W-09.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-10.svg",
+      "iso": "PK",
+      "id": "W-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pakistan_road_sign_W-10.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/53-Pakistan_road_sign_W-10.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/53-Pakistan_road_sign_W-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pakistan_road_sign_W-10.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/54-Pakistan_road_sign_W-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pakistan_road_sign_W-10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-11.svg",
+      "iso": "PK",
+      "id": "W-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pakistan_road_sign_W-11.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/54-Pakistan_road_sign_W-11.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/54-Pakistan_road_sign_W-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pakistan_road_sign_W-11.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/55-Pakistan_road_sign_W-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pakistan_road_sign_W-11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-12.svg",
+      "iso": "PK",
+      "id": "W-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pakistan_road_sign_W-12.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/55-Pakistan_road_sign_W-12.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/55-Pakistan_road_sign_W-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pakistan_road_sign_W-12.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/56-Pakistan_road_sign_W-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pakistan_road_sign_W-12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-13.svg",
+      "iso": "PK",
+      "id": "W-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pakistan_road_sign_W-13.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/56-Pakistan_road_sign_W-13.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/56-Pakistan_road_sign_W-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pakistan_road_sign_W-13.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/57-Pakistan_road_sign_W-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pakistan_road_sign_W-13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-14.svg",
+      "iso": "PK",
+      "id": "W-14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pakistan_road_sign_W-14.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/57-Pakistan_road_sign_W-14.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/57-Pakistan_road_sign_W-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pakistan_road_sign_W-14.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/58-Pakistan_road_sign_W-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pakistan_road_sign_W-14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-15.svg",
+      "iso": "PK",
+      "id": "W-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pakistan_road_sign_W-15.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/58-Pakistan_road_sign_W-15.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/58-Pakistan_road_sign_W-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pakistan_road_sign_W-15.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/59-Pakistan_road_sign_W-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pakistan_road_sign_W-15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-16.svg",
+      "iso": "PK",
+      "id": "W-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pakistan_road_sign_W-16.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/59-Pakistan_road_sign_W-16.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/59-Pakistan_road_sign_W-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pakistan_road_sign_W-16.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/60-Pakistan_road_sign_W-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pakistan_road_sign_W-16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-17.svg",
+      "iso": "PK",
+      "id": "W-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pakistan_road_sign_W-17.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/60-Pakistan_road_sign_W-17.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/60-Pakistan_road_sign_W-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pakistan_road_sign_W-17.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/61-Pakistan_road_sign_W-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pakistan_road_sign_W-17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-18.svg",
+      "iso": "PK",
+      "id": "W-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pakistan_road_sign_W-18.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/61-Pakistan_road_sign_W-18.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/61-Pakistan_road_sign_W-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pakistan_road_sign_W-18.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/62-Pakistan_road_sign_W-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pakistan_road_sign_W-18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-19.svg",
+      "iso": "PK",
+      "id": "W-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pakistan_road_sign_W-19.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/62-Pakistan_road_sign_W-19.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/62-Pakistan_road_sign_W-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pakistan_road_sign_W-19.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/63-Pakistan_road_sign_W-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pakistan_road_sign_W-19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-20.svg",
+      "iso": "PK",
+      "id": "W-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pakistan_road_sign_W-20.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/63-Pakistan_road_sign_W-20.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/63-Pakistan_road_sign_W-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pakistan_road_sign_W-20.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/64-Pakistan_road_sign_W-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pakistan_road_sign_W-20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-21.svg",
+      "iso": "PK",
+      "id": "W-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pakistan_road_sign_W-21.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/64-Pakistan_road_sign_W-21.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/64-Pakistan_road_sign_W-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pakistan_road_sign_W-21.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/65-Pakistan_road_sign_W-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pakistan_road_sign_W-21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-22.svg",
+      "iso": "PK",
+      "id": "W-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pakistan_road_sign_W-22.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/65-Pakistan_road_sign_W-22.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/65-Pakistan_road_sign_W-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pakistan_road_sign_W-22.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/66-Pakistan_road_sign_W-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pakistan_road_sign_W-22.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.927
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-23.svg",
+      "iso": "PK",
+      "id": "W-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pakistan_road_sign_W-23.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/66-Pakistan_road_sign_W-23.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/66-Pakistan_road_sign_W-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pakistan_road_sign_W-23.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/67-Pakistan_road_sign_W-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pakistan_road_sign_W-23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-24.svg",
+      "iso": "PK",
+      "id": "W-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Pakistan_road_sign_W-24.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/67-Pakistan_road_sign_W-24.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/67-Pakistan_road_sign_W-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Pakistan_road_sign_W-24.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/68-Pakistan_road_sign_W-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Pakistan_road_sign_W-24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-25.svg",
+      "iso": "PK",
+      "id": "W-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pakistan_road_sign_W-25.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/68-Pakistan_road_sign_W-25.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/68-Pakistan_road_sign_W-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pakistan_road_sign_W-25.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/69-Pakistan_road_sign_W-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pakistan_road_sign_W-25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-26.svg",
+      "iso": "PK",
+      "id": "W-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pakistan_road_sign_W-26.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/69-Pakistan_road_sign_W-26.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/69-Pakistan_road_sign_W-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pakistan_road_sign_W-26.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/70-Pakistan_road_sign_W-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pakistan_road_sign_W-26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-27.svg",
+      "iso": "PK",
+      "id": "W-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pakistan_road_sign_W-27.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/70-Pakistan_road_sign_W-27.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/70-Pakistan_road_sign_W-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pakistan_road_sign_W-27.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/71-Pakistan_road_sign_W-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pakistan_road_sign_W-27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-28-L-R.svg",
+      "iso": "PK",
+      "id": "W-28-L-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pakistan_road_sign_W-28-L-R.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/71-Pakistan_road_sign_W-28-L-R.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/71-Pakistan_road_sign_W-28-L-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pakistan_road_sign_W-28-L-R.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/72-Pakistan_road_sign_W-28-L-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pakistan_road_sign_W-28-L-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-28-R-L.svg",
+      "iso": "PK",
+      "id": "W-28-R-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_road_sign_W-28-R-L.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/72-Pakistan_road_sign_W-28-R-L.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/72-Pakistan_road_sign_W-28-R-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_road_sign_W-28-R-L.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/73-Pakistan_road_sign_W-28-R-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pakistan_road_sign_W-28-R-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-29-L.svg",
+      "iso": "PK",
+      "id": "W-29-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pakistan_road_sign_W-29-L.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/73-Pakistan_road_sign_W-29-L.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/73-Pakistan_road_sign_W-29-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pakistan_road_sign_W-29-L.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/74-Pakistan_road_sign_W-29-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pakistan_road_sign_W-29-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-29-R.svg",
+      "iso": "PK",
+      "id": "W-29-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pakistan_road_sign_W-29-R.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/74-Pakistan_road_sign_W-29-R.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/74-Pakistan_road_sign_W-29-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pakistan_road_sign_W-29-R.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/75-Pakistan_road_sign_W-29-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pakistan_road_sign_W-29-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-30.svg",
+      "iso": "PK",
+      "id": "W-30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakistan_road_sign_W-30.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/75-Pakistan_road_sign_W-30.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/75-Pakistan_road_sign_W-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakistan_road_sign_W-30.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/76-Pakistan_road_sign_W-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakistan_road_sign_W-30.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-31.svg",
+      "iso": "PK",
+      "id": "W-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pakistan_road_sign_W-31.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/76-Pakistan_road_sign_W-31.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/76-Pakistan_road_sign_W-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pakistan_road_sign_W-31.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/77-Pakistan_road_sign_W-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pakistan_road_sign_W-31.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-32.svg",
+      "iso": "PK",
+      "id": "W-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pakistan_road_sign_W-32.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/77-Pakistan_road_sign_W-32.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/77-Pakistan_road_sign_W-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pakistan_road_sign_W-32.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/78-Pakistan_road_sign_W-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pakistan_road_sign_W-32.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-33.svg",
+      "iso": "PK",
+      "id": "W-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pakistan_road_sign_W-33.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/78-Pakistan_road_sign_W-33.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/78-Pakistan_road_sign_W-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pakistan_road_sign_W-33.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/79-Pakistan_road_sign_W-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pakistan_road_sign_W-33.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-34.svg",
+      "iso": "PK",
+      "id": "W-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pakistan_road_sign_W-34.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/79-Pakistan_road_sign_W-34.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/79-Pakistan_road_sign_W-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pakistan_road_sign_W-34.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/80-Pakistan_road_sign_W-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pakistan_road_sign_W-34.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-35.svg",
+      "iso": "PK",
+      "id": "W-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pakistan_road_sign_W-35.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/80-Pakistan_road_sign_W-35.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/80-Pakistan_road_sign_W-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pakistan_road_sign_W-35.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/81-Pakistan_road_sign_W-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pakistan_road_sign_W-35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-36.svg",
+      "iso": "PK",
+      "id": "W-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pakistan_road_sign_W-36.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/81-Pakistan_road_sign_W-36.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/81-Pakistan_road_sign_W-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pakistan_road_sign_W-36.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/82-Pakistan_road_sign_W-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pakistan_road_sign_W-36.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-37-L.svg",
+      "iso": "PK",
+      "id": "W-37-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pakistan_road_sign_W-37-L.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/82-Pakistan_road_sign_W-37-L.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/82-Pakistan_road_sign_W-37-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pakistan_road_sign_W-37-L.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/83-Pakistan_road_sign_W-37-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pakistan_road_sign_W-37-L.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-37-R.svg",
+      "iso": "PK",
+      "id": "W-37-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pakistan_road_sign_W-37-R.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/83-Pakistan_road_sign_W-37-R.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/83-Pakistan_road_sign_W-37-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pakistan_road_sign_W-37-R.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/84-Pakistan_road_sign_W-37-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pakistan_road_sign_W-37-R.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-38.svg",
+      "iso": "PK",
+      "id": "W-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pakistan_road_sign_W-38.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/84-Pakistan_road_sign_W-38.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/84-Pakistan_road_sign_W-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pakistan_road_sign_W-38.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/85-Pakistan_road_sign_W-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pakistan_road_sign_W-38.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-39.svg",
+      "iso": "PK",
+      "id": "W-39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pakistan_road_sign_W-39.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/85-Pakistan_road_sign_W-39.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/85-Pakistan_road_sign_W-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pakistan_road_sign_W-39.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/86-Pakistan_road_sign_W-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pakistan_road_sign_W-39.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-40.svg",
+      "iso": "PK",
+      "id": "W-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pakistan_road_sign_W-40.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/86-Pakistan_road_sign_W-40.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/86-Pakistan_road_sign_W-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pakistan_road_sign_W-40.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/87-Pakistan_road_sign_W-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pakistan_road_sign_W-40.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PK-W-41.svg",
+      "iso": "PK",
+      "id": "W-41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Pakistan_road_sign_W-41.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/87-Pakistan_road_sign_W-41.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/87-Pakistan_road_sign_W-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Pakistan_road_sign_W-41.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/88-Pakistan_road_sign_W-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Pakistan_road_sign_W-41.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PK-W-42.svg",
+      "iso": "PK",
+      "id": "W-42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pakistan_road_sign_W-42.svg",
+      "kept_from": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/88-Pakistan_road_sign_W-42.svg",
+      "sources": [
+        {
+          "file": "PK_Pakistan/wikipedia/01-sd_پاڪستان_۾_اچ_وڃ_جون_نشانيون/88-Pakistan_road_sign_W-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pakistan_road_sign_W-42.svg"
+        },
+        {
+          "file": "PK_Pakistan/wikipedia_en/01-en_Road_signs_in_Pakistan/89-Pakistan_road_sign_W-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pakistan_road_sign_W-42.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.924
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="310mm"
+   height="200mm"
+   viewBox="0 0 310 200"
+   version="1.1"
+   id="svg979"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Philippines_road_sign_G9-4R.svg">
+  <defs
+     id="defs973" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="693.27543"
+     inkscape:cy="404.42725"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata976">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(52.916664,-70.541656)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1524"
+       width="309"
+       height="199"
+       x="-52.916668"
+       y="71.541672"
+       rx="39.556007"
+       ry="39.556004" />
+    <rect
+       style="fill:#00000b;fill-opacity:1;stroke:none;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1524-0"
+       width="286"
+       height="176"
+       x="-40.916664"
+       y="82.541656"
+       rx="28.216715"
+       ry="28.216715" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1524-0-2"
+       width="262"
+       height="152"
+       x="-28.916664"
+       y="94.541656"
+       rx="15.365523"
+       ry="15.365523" />
+    <path
+       id="path3020"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
+       d="M 65.338999,216.99105 54.393929,206.08671 108.4259,157.83111 79.539409,139.95926 c -0.23164,-0.14198 -0.56186,-0.41693 -0.83795,-0.69302 -1.766321,-1.76632 -1.73178,-4.67633 0.0765,-6.48537 0.80084,-0.80791 1.93689,-1.2431 3.06361,-1.35498 l 71.431731,-7.59785 c 0,0 2.90184,0.19928 3.88432,1.17459 l 0.0858,0.0928 c 1.0183,1.0282 1.21875,3.93054 1.21875,3.93054 l -7.64876,71.46478 c -0.0593,1.1266 -0.54426,2.26226 -1.34569,3.01958 -1.80805,1.80097 -4.6713,1.83458 -6.48247,0.0764 -0.22997,-0.27678 -0.50703,-0.56105 -0.69326,-0.79296 l -17.8176,-28.94551 -48.238851,54.05146 -10.89906,-10.90614"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsccccccccccccc" />
+  </g>
+</svg>

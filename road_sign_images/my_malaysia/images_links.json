@@ -1,0 +1,2569 @@
+{
+  "country_code": "MY",
+  "country": "Malaysia",
+  "images": [
+    {
+      "filename": "g_other_information_signs/other/MY-E1.png",
+      "iso": "MY",
+      "id": "E1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/E1_Kawasan_Rehat_Ulu_Bernam.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/277-E1_Kawasan_Rehat_Ulu_Bernam.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/246-E1_Lebuhraya_Utara_-_Selatan.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/E1_Lebuhraya_Utara_-_Selatan.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/270-E1_papan_tanda_jarak.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/E1_papan_tanda_jarak.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/275-E1_kawasan_rehat_dan_hentian_sebelah.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/E1_kawasan_rehat_dan_hentian_sebelah.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/276-E1_Kawasan_Rehat_Ulu_Bernam_1_km.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/E1_Kawasan_Rehat_Ulu_Bernam_1_km.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/277-E1_Kawasan_Rehat_Ulu_Bernam.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/E1_Kawasan_Rehat_Ulu_Bernam.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/278-E1_Restoran_Jejantas_Sungai_Buloh.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/E1_Restoran_Jejantas_Sungai_Buloh.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/283-E1_Hentian_Sebelah_Simpang_Pulai.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/E1_Hentian_Sebelah_Simpang_Pulai.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/302-E1_lorong_arah_ke_destinasi.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/E1_lorong_arah_ke_destinasi.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.967
+    },
+    {
+      "filename": "h_additional_panels/other/MY-E11.png",
+      "iso": "MY",
+      "id": "E11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/E11_EXIT_1101.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/290-E11_EXIT_1101.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/290-E11_EXIT_1101.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/E11_EXIT_1101.png"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.924
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-E13.png",
+      "iso": "MY",
+      "id": "E13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/E13_T%26G_Smart_Tag_sahaja.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/259-E13_T&G_Smart_Tag_sahaja.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/259-E13_T&G_Smart_Tag_sahaja.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/E13_T%26G_Smart_Tag_sahaja.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/MY-E2.png",
+      "iso": "MY",
+      "id": "E2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/E2_jarak_persimpangan.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/289-E2_jarak_persimpangan.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/256-E2_penanda_kilometer.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/E2_penanda_kilometer.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/257-E2_Hectometer_Sign.png",
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/96/E2_Hectometer_Sign.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/271-E2_papan_tanda_jarak.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/E2_papan_tanda_jarak.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/280-E2_Hentian_Sebelah_Yong_Peng_500_m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/E2_Hentian_Sebelah_Yong_Peng_500_m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/281-E2_Hentian_Sebelah_Yong_Peng.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/E2_Hentian_Sebelah_Yong_Peng.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/289-E2_jarak_persimpangan.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/E2_jarak_persimpangan.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/291-E2_EXIT_244_2_km.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/E2_EXIT_244_2_km.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/292-E2_EXIT_244_1_km.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/E2_EXIT_244_1_km.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/293-E2_EXIT_244_500_m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/E2_EXIT_244_500_m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/295-E2_EXIT_244.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/E2_EXIT_244.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/296-E2_EXIT_244_0_m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/E2_EXIT_244_0_m.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/MY-E23.png",
+      "iso": "MY",
+      "id": "E23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/E23_Lebuhraya_SPRINT.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/247-E23_Lebuhraya_SPRINT.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/247-E23_Lebuhraya_SPRINT.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/E23_Lebuhraya_SPRINT.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-E32_Expressway.png",
+      "iso": "MY",
+      "id": "E32",
+      "description": null,
+      "variants": [
+        "Expressway"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Malaysia_Expressway_E32_-_Expressway_Begins.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/248-Malaysia_Expressway_E32_-_Expressway_Begins.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/248-Malaysia_Expressway_E32_-_Expressway_Begins.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Malaysia_Expressway_E32_-_Expressway_Begins.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/250-Malaysia_Expressway_E32_-_Expressway_Ends.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Malaysia_Expressway_E32_-_Expressway_Ends.png"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-E35.png",
+      "iso": "MY",
+      "id": "E35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/E35_laluan_motosikal.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/239-E35_laluan_motosikal.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/239-E35_laluan_motosikal.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/E35_laluan_motosikal.png"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.909
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-E6.png",
+      "iso": "MY",
+      "id": "E6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/E6_EXIT_612_Nilai_Utara_0_km.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/301-E6_EXIT_612_Nilai_Utara_0_km.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/297-E6_EXIT_612_Nilai_Utara_2_km.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/E6_EXIT_612_Nilai_Utara_2_km.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/298-E6_EXIT_612_Nilai_Utara_1_km.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/E6_EXIT_612_Nilai_Utara_1_km.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/299-E6_EXIT_612_Nilai_Utara_500_m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/E6_EXIT_612_Nilai_Utara_500_m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/300-E6_EXIT_612_Nilai_Utara_250_m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/E6_EXIT_612_Nilai_Utara_250_m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/301-E6_EXIT_612_Nilai_Utara_0_km.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/E6_EXIT_612_Nilai_Utara_0_km.png"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.907
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-E8.png",
+      "iso": "MY",
+      "id": "E8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/E8_EXIT_833_Kuantan.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/294-E8_EXIT_833_Kuantan.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/294-E8_EXIT_833_Kuantan.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/E8_EXIT_833_Kuantan.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/312-E8_Lebuhraya_bermula.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/E8_Lebuhraya_bermula.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/313-E8_Lebuhraya_tamat.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/E8_Lebuhraya_tamat.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-EXIT245.png",
+      "iso": "MY",
+      "id": "EXIT245",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/EXIT245.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/307-EXIT245.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/307-EXIT245.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/EXIT245.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-FT1.png",
+      "iso": "MY",
+      "id": "FT1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/FT1_Johor_Bahru.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/333-FT1_Johor_Bahru.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/317-FT1_EXIT121_1000m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FT1_EXIT121_1000m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/318-FT1_EXIT121_500m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/FT1_EXIT121_500m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/319-FT1_EXIT121_100m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/FT1_EXIT121_100m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/321-FT1_EXIT121_10m.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/FT1_EXIT121_10m.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/324-FT1_Jalan_Kuala_Lumpur_-_Ipoh.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/FT1_Jalan_Kuala_Lumpur_-_Ipoh.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/325-FT1_Jalan_Kuala_Lumpur_-_Tanjung_Malim_2.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/FT1_Jalan_Kuala_Lumpur_-_Tanjung_Malim_2.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/326-FT1_Bidor.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/FT1_Bidor.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/330-FT1_penanda_kilometer_primer.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/FT1_penanda_kilometer_primer.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/331-FT1_penanda_kilometer_sekunder.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/FT1_penanda_kilometer_sekunder.png"
+        },
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/333-FT1_Johor_Bahru.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/FT1_Johor_Bahru.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-FT12.png",
+      "iso": "MY",
+      "id": "FT12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/FT12_Lebuhraya_Tun_Abdul_Razak.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/328-FT12_Lebuhraya_Tun_Abdul_Razak.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/328-FT12_Lebuhraya_Tun_Abdul_Razak.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/FT12_Lebuhraya_Tun_Abdul_Razak.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-FT231.png",
+      "iso": "MY",
+      "id": "FT231",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/FT231_Jalan_Sungai_Lembing.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/327-FT231_Jalan_Sungai_Lembing.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/327-FT231_Jalan_Sungai_Lembing.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/FT231_Jalan_Sungai_Lembing.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-FT29.png",
+      "iso": "MY",
+      "id": "FT29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/FT29_Exit_to_E11_E26.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/245-FT29_Exit_to_E11_E26.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/245-FT29_Exit_to_E11_E26.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/FT29_Exit_to_E11_E26.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-Federal_Territory_border.svg",
+      "iso": "MY",
+      "id": "Federal_Territory_border",
+      "description": "Federal_Territory_border_sign",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Malaysia_road_sign_-_Federal_Territory_border_sign.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/351-Malaysia_road_sign_-_Federal_Territory_border_sign.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/351-Malaysia_road_sign_-_Federal_Territory_border_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Malaysia_road_sign_-_Federal_Territory_border_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MY-GI4a.svg",
+      "iso": "MY",
+      "id": "GI4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_GI4a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/225-Malaysia_road_sign_GI4a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/225-Malaysia_road_sign_GI4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_GI4a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-GI4b.svg",
+      "iso": "MY",
+      "id": "GI4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Malaysia_road_sign_GI4b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/209-Malaysia_road_sign_GI4b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/209-Malaysia_road_sign_GI4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Malaysia_road_sign_GI4b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/MY-GI5.svg",
+      "iso": "MY",
+      "id": "GI5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Malaysia_road_sign_GI5.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/204-Malaysia_road_sign_GI5.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/204-Malaysia_road_sign_GI5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Malaysia_road_sign_GI5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-GI6.svg",
+      "iso": "MY",
+      "id": "GI6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Malaysia_road_sign_GI6.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/205-Malaysia_road_sign_GI6.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/205-Malaysia_road_sign_GI6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Malaysia_road_sign_GI6.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/MY-GI8.svg",
+      "iso": "MY",
+      "id": "GI8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Malaysia_road_sign_GI8.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/206-Malaysia_road_sign_GI8.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/206-Malaysia_road_sign_GI8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Malaysia_road_sign_GI8.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.958
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MY-GI9.svg",
+      "iso": "MY",
+      "id": "GI9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malaysia_road_sign_GI9.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/207-Malaysia_road_sign_GI9.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/207-Malaysia_road_sign_GI9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malaysia_road_sign_GI9.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-International_border_signboard.svg",
+      "iso": "MY",
+      "id": "International_border_signboard",
+      "description": "International_border_signboard",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Malaysia_road_sign_-_International_border_signboard.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/349-Malaysia_road_sign_-_International_border_signboard.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/349-Malaysia_road_sign_-_International_border_signboard.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Malaysia_road_sign_-_International_border_signboard.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/MY-Motocycle_lane_expressway.svg",
+      "iso": "MY",
+      "id": "Motocycle_lane_expressway",
+      "description": "Motocycle_lane_expressway",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Malaysia_road_sign_-_Motocycle_lane_expressway.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/238-Malaysia_road_sign_-_Motocycle_lane_expressway.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/238-Malaysia_road_sign_-_Motocycle_lane_expressway.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Malaysia_road_sign_-_Motocycle_lane_expressway.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MY-One_way_road.svg",
+      "iso": "MY",
+      "id": "One_way_road",
+      "description": "One_way_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Malaysia_road_sign_-_One_way_road.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/151-Malaysia_road_sign_-_One_way_road.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/151-Malaysia_road_sign_-_One_way_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Malaysia_road_sign_-_One_way_road.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM1a.svg",
+      "iso": "MY",
+      "id": "RM1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Malaysia_road_sign_RM1a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/135-Malaysia_road_sign_RM1a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/135-Malaysia_road_sign_RM1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Malaysia_road_sign_RM1a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM1b.svg",
+      "iso": "MY",
+      "id": "RM1b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Malaysia_road_sign_RM1b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/136-Malaysia_road_sign_RM1b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/136-Malaysia_road_sign_RM1b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Malaysia_road_sign_RM1b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/other/MY-RM1c.svg",
+      "iso": "MY",
+      "id": "RM1c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Malaysia_road_sign_RM1c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/137-Malaysia_road_sign_RM1c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/137-Malaysia_road_sign_RM1c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Malaysia_road_sign_RM1c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM1d.svg",
+      "iso": "MY",
+      "id": "RM1d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Malaysia_road_sign_RM1d.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/138-Malaysia_road_sign_RM1d.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/138-Malaysia_road_sign_RM1d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Malaysia_road_sign_RM1d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM1e.svg",
+      "iso": "MY",
+      "id": "RM1e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Malaysia_road_sign_RM1e.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/139-Malaysia_road_sign_RM1e.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/139-Malaysia_road_sign_RM1e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Malaysia_road_sign_RM1e.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM1f.svg",
+      "iso": "MY",
+      "id": "RM1f",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Malaysia_road_sign_RM1f.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/140-Malaysia_road_sign_RM1f.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/140-Malaysia_road_sign_RM1f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Malaysia_road_sign_RM1f.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM1g.svg",
+      "iso": "MY",
+      "id": "RM1g",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Malaysia_road_sign_RM1g.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/141-Malaysia_road_sign_RM1g.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/141-Malaysia_road_sign_RM1g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Malaysia_road_sign_RM1g.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM2a.svg",
+      "iso": "MY",
+      "id": "RM2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Malaysia_road_sign_RM2a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/142-Malaysia_road_sign_RM2a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/142-Malaysia_road_sign_RM2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Malaysia_road_sign_RM2a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/other/MY-RM2b.svg",
+      "iso": "MY",
+      "id": "RM2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Malaysia_road_sign_RM2b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/143-Malaysia_road_sign_RM2b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/143-Malaysia_road_sign_RM2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Malaysia_road_sign_RM2b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM2c.svg",
+      "iso": "MY",
+      "id": "RM2c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Malaysia_road_sign_RM2c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/144-Malaysia_road_sign_RM2c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/144-Malaysia_road_sign_RM2c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Malaysia_road_sign_RM2c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/other/MY-RM2d.svg",
+      "iso": "MY",
+      "id": "RM2d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Malaysia_road_sign_RM2d.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/145-Malaysia_road_sign_RM2d.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/145-Malaysia_road_sign_RM2d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Malaysia_road_sign_RM2d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/other/MY-RM3a.svg",
+      "iso": "MY",
+      "id": "RM3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Malaysia_road_sign_RM3a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/146-Malaysia_road_sign_RM3a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/146-Malaysia_road_sign_RM3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Malaysia_road_sign_RM3a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM4a+RM-2c.svg",
+      "iso": "MY",
+      "id": "RM4a+RM-2c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_RM_4a%2B_RM_2c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/237-Malaysia_road_sign_RM_4a+_RM_2c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/237-Malaysia_road_sign_RM_4a+_RM_2c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_RM_4a%2B_RM_2c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.98
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM4a.svg",
+      "iso": "MY",
+      "id": "RM4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Malaysia_road_sign_RM4a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/147-Malaysia_road_sign_RM4a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/147-Malaysia_road_sign_RM4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Malaysia_road_sign_RM4a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM4b.svg",
+      "iso": "MY",
+      "id": "RM4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Malaysia_road_sign_RM4b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/148-Malaysia_road_sign_RM4b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/148-Malaysia_road_sign_RM4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Malaysia_road_sign_RM4b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MY-RM4c.svg",
+      "iso": "MY",
+      "id": "RM4c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Malaysia_road_sign_RM4c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/149-Malaysia_road_sign_RM4c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/149-Malaysia_road_sign_RM4c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Malaysia_road_sign_RM4c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/MY-RP1.svg",
+      "iso": "MY",
+      "id": "RP1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Malaysia_road_sign_RP1.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/110-Malaysia_road_sign_RP1.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/110-Malaysia_road_sign_RP1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Malaysia_road_sign_RP1.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP10.svg",
+      "iso": "MY",
+      "id": "RP10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Malaysia_road_sign_RP10.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/127-Malaysia_road_sign_RP10.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/127-Malaysia_road_sign_RP10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Malaysia_road_sign_RP10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP11.svg",
+      "iso": "MY",
+      "id": "RP11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Malaysia_road_sign_RP11.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/128-Malaysia_road_sign_RP11.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/128-Malaysia_road_sign_RP11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Malaysia_road_sign_RP11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP12.svg",
+      "iso": "MY",
+      "id": "RP12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Malaysia_road_sign_RP12.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/129-Malaysia_road_sign_RP12.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/129-Malaysia_road_sign_RP12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Malaysia_road_sign_RP12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "b_priority_signs/vienna/MY-RP13.svg",
+      "iso": "MY",
+      "id": "RP13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Malaysia_road_sign_RP13.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/112-Malaysia_road_sign_RP13.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/112-Malaysia_road_sign_RP13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Malaysia_road_sign_RP13.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.916
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP14.svg",
+      "iso": "MY",
+      "id": "RP14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Malaysia_road_sign_RP14.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/119-Malaysia_road_sign_RP14.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/119-Malaysia_road_sign_RP14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Malaysia_road_sign_RP14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "b_priority_signs/vienna/MY-RP15.svg",
+      "iso": "MY",
+      "id": "RP15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Malaysia_road_sign_RP15.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/111-Malaysia_road_sign_RP15.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/111-Malaysia_road_sign_RP15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Malaysia_road_sign_RP15.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/MY-RP16.svg",
+      "iso": "MY",
+      "id": "RP16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Malaysia_road_sign_RP16.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/155-Malaysia_road_sign_RP16.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/155-Malaysia_road_sign_RP16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Malaysia_road_sign_RP16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP17.svg",
+      "iso": "MY",
+      "id": "RP17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Malaysia_road_sign_RP17.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/130-Malaysia_road_sign_RP17.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/130-Malaysia_road_sign_RP17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Malaysia_road_sign_RP17.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.986
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP2a.svg",
+      "iso": "MY",
+      "id": "RP2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Malaysia_road_sign_RP2a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/113-Malaysia_road_sign_RP2a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/113-Malaysia_road_sign_RP2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Malaysia_road_sign_RP2a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP2b.svg",
+      "iso": "MY",
+      "id": "RP2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Malaysia_road_sign_RP2b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/114-Malaysia_road_sign_RP2b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/114-Malaysia_road_sign_RP2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Malaysia_road_sign_RP2b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP3.svg",
+      "iso": "MY",
+      "id": "RP3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Malaysia_road_sign_RP3.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/115-Malaysia_road_sign_RP3.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/115-Malaysia_road_sign_RP3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Malaysia_road_sign_RP3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP4.svg",
+      "iso": "MY",
+      "id": "RP4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Malaysia_road_sign_RP4.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/116-Malaysia_road_sign_RP4.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/116-Malaysia_road_sign_RP4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Malaysia_road_sign_RP4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP5.svg",
+      "iso": "MY",
+      "id": "RP5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Malaysia_road_sign_RP5.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/117-Malaysia_road_sign_RP5.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/117-Malaysia_road_sign_RP5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Malaysia_road_sign_RP5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP6.svg",
+      "iso": "MY",
+      "id": "RP6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Malaysia_road_sign_RP6.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/118-Malaysia_road_sign_RP6.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/118-Malaysia_road_sign_RP6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Malaysia_road_sign_RP6.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP7-60.svg",
+      "iso": "MY",
+      "id": "RP7-60",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Malaysia_road_sign_RP7-60.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/152-Malaysia_road_sign_RP7-60.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/152-Malaysia_road_sign_RP7-60.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Malaysia_road_sign_RP7-60.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP7a-60.svg",
+      "iso": "MY",
+      "id": "RP7a-60",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Malaysia_road_sign_RP7a-60.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/153-Malaysia_road_sign_RP7a-60.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/153-Malaysia_road_sign_RP7a-60.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Malaysia_road_sign_RP7a-60.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-RP8a.svg",
+      "iso": "MY",
+      "id": "RP8a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Malaysia_road_sign_RP8a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/120-Malaysia_road_sign_RP8a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/120-Malaysia_road_sign_RP8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Malaysia_road_sign_RP8a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-RP8b-1.png",
+      "iso": "MY",
+      "id": "RP8b-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Malaysia_road_sign_RP8b-1.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/125-Malaysia_road_sign_RP8b-1.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/125-Malaysia_road_sign_RP8b-1.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Malaysia_road_sign_RP8b-1.png"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-RP8b.svg",
+      "iso": "MY",
+      "id": "RP8b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Malaysia_road_sign_RP8b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/121-Malaysia_road_sign_RP8b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/121-Malaysia_road_sign_RP8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Malaysia_road_sign_RP8b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP8c.svg",
+      "iso": "MY",
+      "id": "RP8c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Malaysia_road_sign_RP8c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/122-Malaysia_road_sign_RP8c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/122-Malaysia_road_sign_RP8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Malaysia_road_sign_RP8c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-RP8d.svg",
+      "iso": "MY",
+      "id": "RP8d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Malaysia_road_sign_RP8d.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/123-Malaysia_road_sign_RP8d.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/123-Malaysia_road_sign_RP8d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Malaysia_road_sign_RP8d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-RP8e.svg",
+      "iso": "MY",
+      "id": "RP8e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Malaysia_road_sign_RP8e.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/124-Malaysia_road_sign_RP8e.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/124-Malaysia_road_sign_RP8e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Malaysia_road_sign_RP8e.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP8f.svg",
+      "iso": "MY",
+      "id": "RP8f",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Malaysia_road_sign_RP8f.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/126-Malaysia_road_sign_RP8f.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/126-Malaysia_road_sign_RP8f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Malaysia_road_sign_RP8f.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MY-RP9.svg",
+      "iso": "MY",
+      "id": "RP9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Malaysia_road_sign_RP9.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/154-Malaysia_road_sign_RP9.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/154-Malaysia_road_sign_RP9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Malaysia_road_sign_RP9.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-T1.svg",
+      "iso": "MY",
+      "id": "T1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Malaysia_road_sign_T1.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/160-Malaysia_road_sign_T1.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/160-Malaysia_road_sign_T1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Malaysia_road_sign_T1.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-T12.svg",
+      "iso": "MY",
+      "id": "T12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Malaysia_road_sign_T12.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/165-Malaysia_road_sign_T12.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/165-Malaysia_road_sign_T12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Malaysia_road_sign_T12.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-T13a.svg",
+      "iso": "MY",
+      "id": "T13a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Malaysia_road_sign_T13a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/166-Malaysia_road_sign_T13a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/166-Malaysia_road_sign_T13a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Malaysia_road_sign_T13a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-T13b.svg",
+      "iso": "MY",
+      "id": "T13b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Malaysia_road_sign_T13b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/167-Malaysia_road_sign_T13b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/167-Malaysia_road_sign_T13b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Malaysia_road_sign_T13b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-T14a.svg",
+      "iso": "MY",
+      "id": "T14a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Malaysia_road_sign_T14a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/168-Malaysia_road_sign_T14a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/168-Malaysia_road_sign_T14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Malaysia_road_sign_T14a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-T14b.svg",
+      "iso": "MY",
+      "id": "T14b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Malaysia_road_sign_T14b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/169-Malaysia_road_sign_T14b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/169-Malaysia_road_sign_T14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Malaysia_road_sign_T14b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-T15.svg",
+      "iso": "MY",
+      "id": "T15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Malaysia_road_sign_T15.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/172-Malaysia_road_sign_T15.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/172-Malaysia_road_sign_T15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Malaysia_road_sign_T15.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/MY-T17a.svg",
+      "iso": "MY",
+      "id": "T17a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Malaysia_road_sign_T17a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/170-Malaysia_road_sign_T17a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/170-Malaysia_road_sign_T17a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Malaysia_road_sign_T17a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/MY-T17b.svg",
+      "iso": "MY",
+      "id": "T17b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Malaysia_road_sign_T17b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/171-Malaysia_road_sign_T17b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/171-Malaysia_road_sign_T17b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Malaysia_road_sign_T17b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/MY-T4.svg",
+      "iso": "MY",
+      "id": "T4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Malaysia_road_sign_T4.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/161-Malaysia_road_sign_T4.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/161-Malaysia_road_sign_T4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Malaysia_road_sign_T4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-T5a.svg",
+      "iso": "MY",
+      "id": "T5a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Malaysia_road_sign_T5a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/162-Malaysia_road_sign_T5a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/162-Malaysia_road_sign_T5a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Malaysia_road_sign_T5a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-T5b.svg",
+      "iso": "MY",
+      "id": "T5b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Malaysia_road_sign_T5b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/163-Malaysia_road_sign_T5b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/163-Malaysia_road_sign_T5b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Malaysia_road_sign_T5b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-T5c.svg",
+      "iso": "MY",
+      "id": "T5c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Malaysia_road_sign_T5c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/164-Malaysia_road_sign_T5c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/164-Malaysia_road_sign_T5c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Malaysia_road_sign_T5c.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD1.svg",
+      "iso": "MY",
+      "id": "WD1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Malaysia_road_sign_WD1.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/033-Malaysia_road_sign_WD1.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/033-Malaysia_road_sign_WD1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Malaysia_road_sign_WD1.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD10a.svg",
+      "iso": "MY",
+      "id": "WD10a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Malaysia_road_sign_WD10a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/044-Malaysia_road_sign_WD10a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/044-Malaysia_road_sign_WD10a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Malaysia_road_sign_WD10a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD10b.svg",
+      "iso": "MY",
+      "id": "WD10b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Malaysia_road_sign_WD10b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/043-Malaysia_road_sign_WD10b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/043-Malaysia_road_sign_WD10b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Malaysia_road_sign_WD10b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD11.svg",
+      "iso": "MY",
+      "id": "WD11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Malaysia_road_sign_WD11.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/045-Malaysia_road_sign_WD11.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/045-Malaysia_road_sign_WD11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Malaysia_road_sign_WD11.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD12.svg",
+      "iso": "MY",
+      "id": "WD12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Malaysia_road_sign_WD12.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/047-Malaysia_road_sign_WD12.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/047-Malaysia_road_sign_WD12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Malaysia_road_sign_WD12.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD13.svg",
+      "iso": "MY",
+      "id": "WD13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Malaysia_road_sign_WD13.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/048-Malaysia_road_sign_WD13.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/048-Malaysia_road_sign_WD13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Malaysia_road_sign_WD13.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD14.svg",
+      "iso": "MY",
+      "id": "WD14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Malaysia_road_sign_WD14.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/049-Malaysia_road_sign_WD14.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/049-Malaysia_road_sign_WD14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Malaysia_road_sign_WD14.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD15.svg",
+      "iso": "MY",
+      "id": "WD15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Malaysia_road_sign_WD15.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/050-Malaysia_road_sign_WD15.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/050-Malaysia_road_sign_WD15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Malaysia_road_sign_WD15.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD16.svg",
+      "iso": "MY",
+      "id": "WD16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Malaysia_road_sign_WD16.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/051-Malaysia_road_sign_WD16.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/051-Malaysia_road_sign_WD16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Malaysia_road_sign_WD16.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/MY-WD17a.png",
+      "iso": "MY",
+      "id": "WD17a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Malaysia_road_sign_WD17a.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/052-Malaysia_road_sign_WD17a.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/052-Malaysia_road_sign_WD17a.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Malaysia_road_sign_WD17a.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/MY-WD17b.png",
+      "iso": "MY",
+      "id": "WD17b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Malaysia_road_sign_WD17b.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/053-Malaysia_road_sign_WD17b.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/053-Malaysia_road_sign_WD17b.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Malaysia_road_sign_WD17b.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD18.svg",
+      "iso": "MY",
+      "id": "WD18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Malaysia_road_sign_WD18.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/054-Malaysia_road_sign_WD18.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/054-Malaysia_road_sign_WD18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Malaysia_road_sign_WD18.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD19.svg",
+      "iso": "MY",
+      "id": "WD19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Malaysia_road_sign_WD19.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/055-Malaysia_road_sign_WD19.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/055-Malaysia_road_sign_WD19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Malaysia_road_sign_WD19.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD20.svg",
+      "iso": "MY",
+      "id": "WD20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Malaysia_road_sign_WD20.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/056-Malaysia_road_sign_WD20.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/056-Malaysia_road_sign_WD20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Malaysia_road_sign_WD20.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD21a.svg",
+      "iso": "MY",
+      "id": "WD21a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Malaysia_road_sign_WD21a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/057-Malaysia_road_sign_WD21a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/057-Malaysia_road_sign_WD21a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Malaysia_road_sign_WD21a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD21b.svg",
+      "iso": "MY",
+      "id": "WD21b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Malaysia_road_sign_WD21b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/058-Malaysia_road_sign_WD21b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/058-Malaysia_road_sign_WD21b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Malaysia_road_sign_WD21b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD22.svg",
+      "iso": "MY",
+      "id": "WD22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Malaysia_road_sign_WD22.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/059-Malaysia_road_sign_WD22.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/059-Malaysia_road_sign_WD22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Malaysia_road_sign_WD22.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD23.svg",
+      "iso": "MY",
+      "id": "WD23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_WD23.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/060-Malaysia_road_sign_WD23.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/060-Malaysia_road_sign_WD23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_WD23.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/MY-WD24.svg",
+      "iso": "MY",
+      "id": "WD24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Malaysia_road_sign_WD24.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/061-Malaysia_road_sign_WD24.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/061-Malaysia_road_sign_WD24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Malaysia_road_sign_WD24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD25a.svg",
+      "iso": "MY",
+      "id": "WD25a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Malaysia_road_sign_WD25a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/062-Malaysia_road_sign_WD25a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/062-Malaysia_road_sign_WD25a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Malaysia_road_sign_WD25a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-WD26a.svg",
+      "iso": "MY",
+      "id": "WD26a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Malaysia_road_sign_WD26a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/063-Malaysia_road_sign_WD26a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/063-Malaysia_road_sign_WD26a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Malaysia_road_sign_WD26a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-WD26b.svg",
+      "iso": "MY",
+      "id": "WD26b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malaysia_road_sign_WD26b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/064-Malaysia_road_sign_WD26b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/064-Malaysia_road_sign_WD26b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malaysia_road_sign_WD26b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MY-WD26c.svg",
+      "iso": "MY",
+      "id": "WD26c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Malaysia_road_sign_WD26c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/065-Malaysia_road_sign_WD26c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/065-Malaysia_road_sign_WD26c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Malaysia_road_sign_WD26c.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD26d.svg",
+      "iso": "MY",
+      "id": "WD26d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Malaysia_road_sign_WD26d.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/066-Malaysia_road_sign_WD26d.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/066-Malaysia_road_sign_WD26d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Malaysia_road_sign_WD26d.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD27a.svg",
+      "iso": "MY",
+      "id": "WD27a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Malaysia_road_sign_WD27a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/067-Malaysia_road_sign_WD27a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/067-Malaysia_road_sign_WD27a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Malaysia_road_sign_WD27a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD27b.svg",
+      "iso": "MY",
+      "id": "WD27b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Malaysia_road_sign_WD27b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/068-Malaysia_road_sign_WD27b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/068-Malaysia_road_sign_WD27b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Malaysia_road_sign_WD27b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD27c.svg",
+      "iso": "MY",
+      "id": "WD27c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Malaysia_road_sign_WD27c.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/069-Malaysia_road_sign_WD27c.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/069-Malaysia_road_sign_WD27c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Malaysia_road_sign_WD27c.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD27d.png",
+      "iso": "MY",
+      "id": "WD27d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Malaysia_road_sign_WD27d.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/070-Malaysia_road_sign_WD27d.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/070-Malaysia_road_sign_WD27d.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Malaysia_road_sign_WD27d.png"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD27e.png",
+      "iso": "MY",
+      "id": "WD27e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Malaysia_road_sign_WD27e.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/071-Malaysia_road_sign_WD27e.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/071-Malaysia_road_sign_WD27e.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Malaysia_road_sign_WD27e.png"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD28a.svg",
+      "iso": "MY",
+      "id": "WD28a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Malaysia_road_sign_WD28a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/072-Malaysia_road_sign_WD28a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/072-Malaysia_road_sign_WD28a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Malaysia_road_sign_WD28a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD28b.svg",
+      "iso": "MY",
+      "id": "WD28b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Malaysia_road_sign_WD28b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/073-Malaysia_road_sign_WD28b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/073-Malaysia_road_sign_WD28b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Malaysia_road_sign_WD28b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD29a.svg",
+      "iso": "MY",
+      "id": "WD29a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Malaysia_road_sign_WD29a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/074-Malaysia_road_sign_WD29a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/074-Malaysia_road_sign_WD29a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Malaysia_road_sign_WD29a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD29b.svg",
+      "iso": "MY",
+      "id": "WD29b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Malaysia_road_sign_WD29b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/075-Malaysia_road_sign_WD29b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/075-Malaysia_road_sign_WD29b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Malaysia_road_sign_WD29b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD2a.svg",
+      "iso": "MY",
+      "id": "WD2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Malaysia_road_sign_WD2_a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/034-Malaysia_road_sign_WD2_a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/034-Malaysia_road_sign_WD2_a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Malaysia_road_sign_WD2_a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD2b.svg",
+      "iso": "MY",
+      "id": "WD2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Malaysia_road_sign_WD2_b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/035-Malaysia_road_sign_WD2_b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/035-Malaysia_road_sign_WD2_b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Malaysia_road_sign_WD2_b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD3.svg",
+      "iso": "MY",
+      "id": "WD3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Malaysia_road_sign_WD3.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/036-Malaysia_road_sign_WD3.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/036-Malaysia_road_sign_WD3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Malaysia_road_sign_WD3.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD30.svg",
+      "iso": "MY",
+      "id": "WD30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Malaysia_road_sign_WD30.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/076-Malaysia_road_sign_WD30.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/076-Malaysia_road_sign_WD30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Malaysia_road_sign_WD30.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD31.svg",
+      "iso": "MY",
+      "id": "WD31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Malaysia_road_sign_WD31.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/077-Malaysia_road_sign_WD31.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/077-Malaysia_road_sign_WD31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Malaysia_road_sign_WD31.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD32a.svg",
+      "iso": "MY",
+      "id": "WD32a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malaysia_road_sign_WD32a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/078-Malaysia_road_sign_WD32a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/078-Malaysia_road_sign_WD32a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malaysia_road_sign_WD32a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD32b.svg",
+      "iso": "MY",
+      "id": "WD32b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Malaysia_road_sign_WD32b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/079-Malaysia_road_sign_WD32b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/079-Malaysia_road_sign_WD32b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Malaysia_road_sign_WD32b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD33.svg",
+      "iso": "MY",
+      "id": "WD33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malaysia_road_sign_WD33.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/080-Malaysia_road_sign_WD33.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/080-Malaysia_road_sign_WD33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malaysia_road_sign_WD33.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD34.svg",
+      "iso": "MY",
+      "id": "WD34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Malaysia_road_sign_WD34.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/081-Malaysia_road_sign_WD34.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/081-Malaysia_road_sign_WD34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Malaysia_road_sign_WD34.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD35.svg",
+      "iso": "MY",
+      "id": "WD35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Malaysia_road_sign_WD35.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/082-Malaysia_road_sign_WD35.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/082-Malaysia_road_sign_WD35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Malaysia_road_sign_WD35.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD36.svg",
+      "iso": "MY",
+      "id": "WD36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Malaysia_road_sign_WD36.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/083-Malaysia_road_sign_WD36.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/083-Malaysia_road_sign_WD36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Malaysia_road_sign_WD36.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD37.svg",
+      "iso": "MY",
+      "id": "WD37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malaysia_road_sign_WD37.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/084-Malaysia_road_sign_WD37.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/084-Malaysia_road_sign_WD37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malaysia_road_sign_WD37.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD38a.svg",
+      "iso": "MY",
+      "id": "WD38a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Malaysia_road_sign_WD38a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/085-Malaysia_road_sign_WD38a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/085-Malaysia_road_sign_WD38a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Malaysia_road_sign_WD38a.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD38b.svg",
+      "iso": "MY",
+      "id": "WD38b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malaysia_road_sign_WD38b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/086-Malaysia_road_sign_WD38b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/086-Malaysia_road_sign_WD38b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Malaysia_road_sign_WD38b.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/MY-WD39a.svg",
+      "iso": "MY",
+      "id": "WD39a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Malaysia_road_sign_WD39a.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/087-Malaysia_road_sign_WD39a.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/087-Malaysia_road_sign_WD39a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Malaysia_road_sign_WD39a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/MY-WD39b.svg",
+      "iso": "MY",
+      "id": "WD39b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Malaysia_road_sign_WD39b.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/088-Malaysia_road_sign_WD39b.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/088-Malaysia_road_sign_WD39b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Malaysia_road_sign_WD39b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD4.svg",
+      "iso": "MY",
+      "id": "WD4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Malaysia_road_sign_WD4.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/037-Malaysia_road_sign_WD4.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/037-Malaysia_road_sign_WD4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Malaysia_road_sign_WD4.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD40.svg",
+      "iso": "MY",
+      "id": "WD40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Malaysia_road_sign_WD40.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/089-Malaysia_road_sign_WD40.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/089-Malaysia_road_sign_WD40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Malaysia_road_sign_WD40.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD40b.png",
+      "iso": "MY",
+      "id": "WD40b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_WD40b.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/090-Malaysia_road_sign_WD40b.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/090-Malaysia_road_sign_WD40b.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Malaysia_road_sign_WD40b.png"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD41.svg",
+      "iso": "MY",
+      "id": "WD41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Malaysia_road_sign_WD41.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/091-Malaysia_road_sign_WD41.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/091-Malaysia_road_sign_WD41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Malaysia_road_sign_WD41.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD42.svg",
+      "iso": "MY",
+      "id": "WD42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Malaysia_road_sign_WD42.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/092-Malaysia_road_sign_WD42.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/092-Malaysia_road_sign_WD42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Malaysia_road_sign_WD42.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/MY-WD43.svg",
+      "iso": "MY",
+      "id": "WD43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Malaysia_road_sign_WD43.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/157-Malaysia_road_sign_WD43.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/157-Malaysia_road_sign_WD43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Malaysia_road_sign_WD43.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD47.png",
+      "iso": "MY",
+      "id": "WD47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Malaysia_road_sign_WD47.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/094-Malaysia_road_sign_WD47.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/094-Malaysia_road_sign_WD47.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Malaysia_road_sign_WD47.png"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD48.png",
+      "iso": "MY",
+      "id": "WD48",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Malaysia_road_sign_WD48.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/095-Malaysia_road_sign_WD48.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/095-Malaysia_road_sign_WD48.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Malaysia_road_sign_WD48.png"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD5.svg",
+      "iso": "MY",
+      "id": "WD5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Malaysia_road_sign_WD5.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/038-Malaysia_road_sign_WD5.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/038-Malaysia_road_sign_WD5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Malaysia_road_sign_WD5.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.985
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD51b.png",
+      "iso": "MY",
+      "id": "WD51b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Malaysia_road_sign_WD51b.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/096-Malaysia_road_sign_WD51b.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/096-Malaysia_road_sign_WD51b.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Malaysia_road_sign_WD51b.png"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.982
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MY-WD6.svg",
+      "iso": "MY",
+      "id": "WD6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Malaysia_road_sign_WD6.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/039-Malaysia_road_sign_WD6.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/039-Malaysia_road_sign_WD6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Malaysia_road_sign_WD6.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "h_additional_panels/other/MY-WD7.svg",
+      "iso": "MY",
+      "id": "WD7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Malaysia_road_sign_WD7.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/040-Malaysia_road_sign_WD7.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/040-Malaysia_road_sign_WD7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Malaysia_road_sign_WD7.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.643
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD8.svg",
+      "iso": "MY",
+      "id": "WD8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Malaysia_road_sign_WD8.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/041-Malaysia_road_sign_WD8.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/041-Malaysia_road_sign_WD8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Malaysia_road_sign_WD8.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MY-WD9.svg",
+      "iso": "MY",
+      "id": "WD9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Malaysia_road_sign_WD9.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/042-Malaysia_road_sign_WD9.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/042-Malaysia_road_sign_WD9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Malaysia_road_sign_WD9.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/MY-WD_Foggy_area.svg",
+      "iso": "MY",
+      "id": "WD_Foggy_area",
+      "description": "WD_Foggy_area",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malaysia_road_sign_WD-_Foggy_area.svg",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/103-Malaysia_road_sign_WD-_Foggy_area.svg",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/103-Malaysia_road_sign_WD-_Foggy_area.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malaysia_road_sign_WD-_Foggy_area.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/FT-E1_2.png",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/FT-E1_2.png",
+      "kept_from": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/243-FT-E1_2.png",
+      "sources": [
+        {
+          "file": "MY_Malaysia/wikipedia_en/01-en_Road_signs_in_Malaysia/243-FT-E1_2.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/FT-E1_2.png"
+        }
+      ]
+    }
+  ]
+}

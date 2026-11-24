@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600.0002"
+   height="399.9985"
+   id="svg2880"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Andorra traffic signal 3aIII.svg">
+  <defs
+     id="defs2882">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2888" />
+    <inkscape:perspective
+       id="perspective2900"
+       inkscape:persp3d-origin="800 : 133.33333 : 1"
+       inkscape:vp_z="1600 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 200 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.29534138"
+     inkscape:cx="876.98195"
+     inkscape:cy="458.9794"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(529.45535,-262.19225)">
+    <g
+       inkscape:label="Ebene 1"
+       inkscape:groupmode="layer"
+       transform="translate(-688.40676,83.842877)"
+       id="layer1-0">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.79056406;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 186.12682,181.74466 1545.64948,0 c 13.1742,0 23.7801,9.86765 23.7801,22.12479 l 0,348.95837 c 0,12.25713 -10.6059,22.12479 -23.7801,22.12479 l -1545.64948,0 c -13.17419,0 -23.78013,-9.86766 -23.78013,-22.12479 l 0,-348.95837 c 0,-12.25714 10.60594,-22.12479 23.78013,-22.12479 z"
+         id="rect12706" />
+      <g
+         transform="scale(0.88570966,1.1290382)"
+         style="font-size:107.44309235px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="text13220">
+        <text
+           xml:space="preserve"
+           style="font-size:119.66346741px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Transport Heavy;-inkscape-font-specification:'Transport Heavy,'"
+           x="644.58624"
+           y="383.2388"
+           id="text3718"
+           sodipodi:linespacing="100%"
+           transform="scale(1.0344542,0.96669335)"><tspan
+             sodipodi:role="line"
+             id="tspan3720"
+             x="644.58624"
+             y="383.2388"
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:Arial Bold">ZONA DUANA</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

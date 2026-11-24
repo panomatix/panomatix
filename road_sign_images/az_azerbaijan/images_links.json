@@ -1,0 +1,1808 @@
+{
+  "country_code": "AZ",
+  "country": "Azerbaijan",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/AZ-1.14.svg",
+      "iso": "AZ",
+      "id": "1.14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Azerbaijan_road_sign_1.14.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/027-Azerbaijan_road_sign_1.14.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/027-Azerbaijan_road_sign_1.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Azerbaijan_road_sign_1.14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973,
+      "also_used_in": [
+        "AM_Armenia",
+        "GE_Georgia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AZ-1.16.2.svg",
+      "iso": "AZ",
+      "id": "1.16.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Azerbaijan_road_sign_1.16.2.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/030-Azerbaijan_road_sign_1.16.2.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/030-Azerbaijan_road_sign_1.16.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Azerbaijan_road_sign_1.16.2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AZ-1.32.svg",
+      "iso": "AZ",
+      "id": "1.32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Azerbaijan_road_sign_1.32.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/049-Azerbaijan_road_sign_1.32.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/049-Azerbaijan_road_sign_1.32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Azerbaijan_road_sign_1.32.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AZ-1.33.svg",
+      "iso": "AZ",
+      "id": "1.33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Azerbaijan_road_sign_1.33.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/050-Azerbaijan_road_sign_1.33.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/050-Azerbaijan_road_sign_1.33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Azerbaijan_road_sign_1.33.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AZ-1.6.2.svg",
+      "iso": "AZ",
+      "id": "1.6.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/1.6.2_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/013-1.6.2_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/013-1.6.2_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/1.6.2_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AZ-1.6.3.svg",
+      "iso": "AZ",
+      "id": "1.6.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1.6.3_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/014-1.6.3_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/014-1.6.3_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1.6.3_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AZ-1.6.4.svg",
+      "iso": "AZ",
+      "id": "1.6.4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/1.6.4_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/015-1.6.4_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/015-1.6.4_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/1.6.4_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AZ-1.6.5.svg",
+      "iso": "AZ",
+      "id": "1.6.5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/1.6.5_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/016-1.6.5_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/016-1.6.5_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/1.6.5_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AZ-1.6.6.svg",
+      "iso": "AZ",
+      "id": "1.6.6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/1.6.6_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/017-1.6.6_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/017-1.6.6_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/1.6.6_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.973
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AZ-3.11.svg",
+      "iso": "AZ",
+      "id": "3.11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/AZ_road_sign_3.11.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/070-AZ_road_sign_3.11.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/070-AZ_road_sign_3.11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/AZ_road_sign_3.11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AZ-3.12.svg",
+      "iso": "AZ",
+      "id": "3.12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/AZ_road_sign_3.12.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/071-AZ_road_sign_3.12.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/071-AZ_road_sign_3.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/AZ_road_sign_3.12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AZ-3.13.svg",
+      "iso": "AZ",
+      "id": "3.13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/AZ_road_sign_3.13.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/072-AZ_road_sign_3.13.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/072-AZ_road_sign_3.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/AZ_road_sign_3.13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AZ-3.14.svg",
+      "iso": "AZ",
+      "id": "3.14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/AZ_road_sign_3.14.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/073-AZ_road_sign_3.14.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/073-AZ_road_sign_3.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/AZ_road_sign_3.14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AZ-3.15.svg",
+      "iso": "AZ",
+      "id": "3.15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AZ_road_sign_3.15.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/074-AZ_road_sign_3.15.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/074-AZ_road_sign_3.15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AZ_road_sign_3.15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-3.16.svg",
+      "iso": "AZ",
+      "id": "3.16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/AZ_road_sign_3.16.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/075-AZ_road_sign_3.16.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/075-AZ_road_sign_3.16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/AZ_road_sign_3.16.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AZ-3.17.1.svg",
+      "iso": "AZ",
+      "id": "3.17.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/AZ_road_sign_3.17.1.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/076-AZ_road_sign_3.17.1.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/076-AZ_road_sign_3.17.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/AZ_road_sign_3.17.1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-3.17.2.svg",
+      "iso": "AZ",
+      "id": "3.17.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AZ_road_sign_3.17.2.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/077-AZ_road_sign_3.17.2.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/077-AZ_road_sign_3.17.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AZ_road_sign_3.17.2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-3.29.svg",
+      "iso": "AZ",
+      "id": "3.29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Azerbaijan_road_sign_3.29.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/090-Azerbaijan_road_sign_3.29.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/090-Azerbaijan_road_sign_3.29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Azerbaijan_road_sign_3.29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-3.30.svg",
+      "iso": "AZ",
+      "id": "3.30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Azerbaijan_road_sign_3.30.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/091-Azerbaijan_road_sign_3.30.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/091-Azerbaijan_road_sign_3.30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Azerbaijan_road_sign_3.30.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-3.32.svg",
+      "iso": "AZ",
+      "id": "3.32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/AZ_road_sign_3.32.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/093-AZ_road_sign_3.32.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/093-AZ_road_sign_3.32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/AZ_road_sign_3.32.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-3.33.svg",
+      "iso": "AZ",
+      "id": "3.33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AZ_road_sign_3.33.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/094-AZ_road_sign_3.33.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/094-AZ_road_sign_3.33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/AZ_road_sign_3.33.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-3.4.svg",
+      "iso": "AZ",
+      "id": "3.4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/AZ_road_sign_3.4.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/063-AZ_road_sign_3.4.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/063-AZ_road_sign_3.4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/AZ_road_sign_3.4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AZ-5.12.svg",
+      "iso": "AZ",
+      "id": "5.12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/AZ_road_sign_5.12.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/142-AZ_road_sign_5.12.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/142-AZ_road_sign_5.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/AZ_road_sign_5.12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AZ-5.13.svg",
+      "iso": "AZ",
+      "id": "5.13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AZ_road_sign_5.13.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/143-AZ_road_sign_5.13.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/143-AZ_road_sign_5.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AZ_road_sign_5.13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.14.svg",
+      "iso": "AZ",
+      "id": "5.14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/AZ_road_sign_5.14.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/144-AZ_road_sign_5.14.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/144-AZ_road_sign_5.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/AZ_road_sign_5.14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/other/AZ-5.20.1-A.svg",
+      "iso": "AZ",
+      "id": "5.20.1-A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/AZ_road_sign_5.20.1_A.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/154-AZ_road_sign_5.20.1_A.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/154-AZ_road_sign_5.20.1_A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/AZ_road_sign_5.20.1_A.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.911
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.20.1-D.svg",
+      "iso": "AZ",
+      "id": "5.20.1-D",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/AZ_road_sign_5.20.1_D.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/153-AZ_road_sign_5.20.1_D.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/153-AZ_road_sign_5.20.1_D.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/AZ_road_sign_5.20.1_D.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.982
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.20.2-A.svg",
+      "iso": "AZ",
+      "id": "5.20.2-A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/AZ_road_sign_5.20.2_A.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/155-AZ_road_sign_5.20.2_A.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/155-AZ_road_sign_5.20.2_A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/AZ_road_sign_5.20.2_A.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/other/AZ-5.21.1-A.svg",
+      "iso": "AZ",
+      "id": "5.21.1-A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/AZ_road_sign_5.21.1_A.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/157-AZ_road_sign_5.21.1_A.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/157-AZ_road_sign_5.21.1_A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/AZ_road_sign_5.21.1_A.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.889
+    },
+    {
+      "filename": "h_additional_panels/other/AZ-5.22.svg",
+      "iso": "AZ",
+      "id": "5.22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/AZ_road_sign_5.22.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/158-AZ_road_sign_5.22.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/158-AZ_road_sign_5.22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/AZ_road_sign_5.22.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AZ-5.23.svg",
+      "iso": "AZ",
+      "id": "5.23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/AZ_road_sign_5.23.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/159-AZ_road_sign_5.23.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/159-AZ_road_sign_5.23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/AZ_road_sign_5.23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.24.svg",
+      "iso": "AZ",
+      "id": "5.24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/AZ_road_sign_5.24.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/160-AZ_road_sign_5.24.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/160-AZ_road_sign_5.24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/AZ_road_sign_5.24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.25.svg",
+      "iso": "AZ",
+      "id": "5.25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/AZ_road_sign_5.25.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/161-AZ_road_sign_5.25.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/161-AZ_road_sign_5.25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/AZ_road_sign_5.25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.31.svg",
+      "iso": "AZ",
+      "id": "5.31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/AZ_road_sign_5.31.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/167-AZ_road_sign_5.31.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/167-AZ_road_sign_5.31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/AZ_road_sign_5.31.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.32.1.svg",
+      "iso": "AZ",
+      "id": "5.32.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/5.32.1_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/168-5.32.1_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/168-5.32.1_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/5.32.1_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.32.2.svg",
+      "iso": "AZ",
+      "id": "5.32.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/5.32.2_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/169-5.32.2_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/169-5.32.2_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/5.32.2_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.32.3.svg",
+      "iso": "AZ",
+      "id": "5.32.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/5.32.3_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/170-5.32.3_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/170-5.32.3_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/5.32.3_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.39.svg",
+      "iso": "AZ",
+      "id": "5.39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/AZ_road_sign_5.39.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/175-AZ_road_sign_5.39.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/175-AZ_road_sign_5.39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/AZ_road_sign_5.39.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.956
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-5.40.svg",
+      "iso": "AZ",
+      "id": "5.40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/5.40_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/176-5.40_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/176-5.40_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/5.40_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AZ-5.41.svg",
+      "iso": "AZ",
+      "id": "5.41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/5.41_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/177-5.41_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/177-5.41_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/5.41_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.42.svg",
+      "iso": "AZ",
+      "id": "5.42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/5.42_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/178-5.42_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/178-5.42_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/5.42_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.43.svg",
+      "iso": "AZ",
+      "id": "5.43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/5.43_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/179-5.43_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/179-5.43_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/5.43_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.44.svg",
+      "iso": "AZ",
+      "id": "5.44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/AZ_road_sign_5.44.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/180-AZ_road_sign_5.44.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/180-AZ_road_sign_5.44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/AZ_road_sign_5.44.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.45.svg",
+      "iso": "AZ",
+      "id": "5.45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/AZ_road_sign_5.45.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/181-AZ_road_sign_5.45.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/181-AZ_road_sign_5.45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/AZ_road_sign_5.45.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-5.46.svg",
+      "iso": "AZ",
+      "id": "5.46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/5.46_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/182-5.46_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/182-5.46_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/5.46_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AZ-5.47.svg",
+      "iso": "AZ",
+      "id": "5.47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/5.47_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/183-5.47_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/183-5.47_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/5.47_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AZ-5.48.1.svg",
+      "iso": "AZ",
+      "id": "5.48.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/AZ_road_sign_5.48.1.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/184-AZ_road_sign_5.48.1.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/184-AZ_road_sign_5.48.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/AZ_road_sign_5.48.1.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.50.1.svg",
+      "iso": "AZ",
+      "id": "5.50.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/5.50.1_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/187-5.50.1_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/187-5.50.1_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/5.50.1_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.50.2.svg",
+      "iso": "AZ",
+      "id": "5.50.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/5.50.2_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/188-5.50.2_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/188-5.50.2_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/5.50.2_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AZ-5.50.3.svg",
+      "iso": "AZ",
+      "id": "5.50.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/5.50.3_Azerbaijan_road_sign.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/189-5.50.3_Azerbaijan_road_sign.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/189-5.50.3_Azerbaijan_road_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/5.50.3_Azerbaijan_road_sign.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-6.12.svg",
+      "iso": "AZ",
+      "id": "6.12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AZ_road_sign_6.12.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/203-AZ_road_sign_6.12.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/203-AZ_road_sign_6.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AZ_road_sign_6.12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-6.13.svg",
+      "iso": "AZ",
+      "id": "6.13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/AZ_road_sign_6.13.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/204-AZ_road_sign_6.13.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/204-AZ_road_sign_6.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/AZ_road_sign_6.13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-6.14.svg",
+      "iso": "AZ",
+      "id": "6.14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/AZ_road_sign_6.14.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/205-AZ_road_sign_6.14.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/205-AZ_road_sign_6.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/AZ_road_sign_6.14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-6.17.svg",
+      "iso": "AZ",
+      "id": "6.17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/AZ_road_sign_6.17.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/207-AZ_road_sign_6.17.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/207-AZ_road_sign_6.17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/AZ_road_sign_6.17.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-7.11.svg",
+      "iso": "AZ",
+      "id": "7.11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/AZ_road_sign_7.11.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/243-AZ_road_sign_7.11.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/243-AZ_road_sign_7.11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/AZ_road_sign_7.11.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AZ-7.19.svg",
+      "iso": "AZ",
+      "id": "7.19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/AZ_road_sign_7.19.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/251-AZ_road_sign_7.19.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/251-AZ_road_sign_7.19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/AZ_road_sign_7.19.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AZ-7.5.3.svg",
+      "iso": "AZ",
+      "id": "7.5.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/AZ_road_sign_7.5.3.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/230-AZ_road_sign_7.5.3.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/230-AZ_road_sign_7.5.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/AZ_road_sign_7.5.3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AZ-7.5.7.svg",
+      "iso": "AZ",
+      "id": "7.5.7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/AZ_road_sign_7.5.7.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/234-AZ_road_sign_7.5.7.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/234-AZ_road_sign_7.5.7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/AZ_road_sign_7.5.7.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AZ-7.9.svg",
+      "iso": "AZ",
+      "id": "7.9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AZ_road_sign_7.9.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/241-AZ_road_sign_7.9.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/241-AZ_road_sign_7.9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AZ_road_sign_7.9.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "_non_identifies/Commons-logo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/252-Commons-logo.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/252-Commons-logo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Albania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/253-Flag_of_Albania.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/253-Flag_of_Albania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Andorra.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/254-Flag_of_Andorra.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/254-Flag_of_Andorra.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Armenia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/255-Flag_of_Armenia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/255-Flag_of_Armenia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Austria.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/256-Flag_of_Austria.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/256-Flag_of_Austria.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Azerbaijan.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/257-Flag_of_Azerbaijan.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/257-Flag_of_Azerbaijan.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Belarus.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/259-Flag_of_Belarus.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/259-Flag_of_Belarus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Belgium_(civil).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/258-Flag_of_Belgium_(civil).svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/258-Flag_of_Belgium_(civil).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Bosnia_and_Herzegovina.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/260-Flag_of_Bosnia_and_Herzegovina.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/260-Flag_of_Bosnia_and_Herzegovina.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Bulgaria.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/261-Flag_of_Bulgaria.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/261-Flag_of_Bulgaria.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Croatia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/263-Flag_of_Croatia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/263-Flag_of_Croatia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Cyprus.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/262-Flag_of_Cyprus.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/262-Flag_of_Cyprus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Denmark.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/264-Flag_of_Denmark.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/264-Flag_of_Denmark.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Estonia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/265-Flag_of_Estonia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/265-Flag_of_Estonia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Finland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/266-Flag_of_Finland.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/266-Flag_of_Finland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_France.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/267-Flag_of_France.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/267-Flag_of_France.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Georgia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/268-Flag_of_Georgia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/268-Flag_of_Georgia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Germany.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/269-Flag_of_Germany.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/269-Flag_of_Germany.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Greece.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/270-Flag_of_Greece.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/270-Flag_of_Greece.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Hungary.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/302-Flag_of_Hungary.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/302-Flag_of_Hungary.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Iceland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/272-Flag_of_Iceland.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/272-Flag_of_Iceland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Ireland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/271-Flag_of_Ireland.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/271-Flag_of_Ireland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Italy.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/273-Flag_of_Italy.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/273-Flag_of_Italy.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Kazakhstan.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/274-Flag_of_Kazakhstan.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/274-Flag_of_Kazakhstan.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Kosovo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/275-Flag_of_Kosovo.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/275-Flag_of_Kosovo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Latvia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/276-Flag_of_Latvia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/276-Flag_of_Latvia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Liechtenstein.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/277-Flag_of_Liechtenstein.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/277-Flag_of_Liechtenstein.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Lithuania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/278-Flag_of_Lithuania.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/278-Flag_of_Lithuania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Luxembourg.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/279-Flag_of_Luxembourg.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/279-Flag_of_Luxembourg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Malta.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/281-Flag_of_Malta.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/281-Flag_of_Malta.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Moldova.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/282-Flag_of_Moldova.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/282-Flag_of_Moldova.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Monaco.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/283-Flag_of_Monaco.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/283-Flag_of_Monaco.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Montenegro.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/284-Flag_of_Montenegro.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/284-Flag_of_Montenegro.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_North_Macedonia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/280-Flag_of_North_Macedonia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/280-Flag_of_North_Macedonia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Norway.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/285-Flag_of_Norway.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/285-Flag_of_Norway.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Poland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/287-Flag_of_Poland.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/287-Flag_of_Poland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Portugal.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/288-Flag_of_Portugal.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/288-Flag_of_Portugal.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Romania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/291-Flag_of_Romania.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/291-Flag_of_Romania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Russia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/292-Flag_of_Russia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/292-Flag_of_Russia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_San_Marino.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/293-Flag_of_San_Marino.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/293-Flag_of_San_Marino.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Serbia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/294-Flag_of_Serbia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/294-Flag_of_Serbia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Slovakia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/295-Flag_of_Slovakia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/295-Flag_of_Slovakia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Slovenia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/296-Flag_of_Slovenia.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/296-Flag_of_Slovenia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Spain.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/297-Flag_of_Spain.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/297-Flag_of_Spain.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Sweden.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/298-Flag_of_Sweden.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/298-Flag_of_Sweden.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Switzerland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/299-Flag_of_Switzerland.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/299-Flag_of_Switzerland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Turkey.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/300-Flag_of_Turkey.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/300-Flag_of_Turkey.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Ukraine.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/301-Flag_of_Ukraine.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/301-Flag_of_Ukraine.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Vatican_City_(2023-present).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/303-Flag_of_Vatican_City_(2023–present).svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/303-Flag_of_Vatican_City_(2023–present).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_Czech_Republic.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/290-Flag_of_the_Czech_Republic.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/290-Flag_of_the_Czech_Republic.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_Netherlands.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/286-Flag_of_the_Netherlands.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/286-Flag_of_the_Netherlands.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_United_Kingdom_(3-5).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/289-Flag_of_the_United_Kingdom_(3-5).svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/289-Flag_of_the_United_Kingdom_(3-5).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Logo_del_Progetto_Trasporti.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_del_Progetto_Trasporti.svg",
+      "kept_from": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/304-Logo_del_Progetto_Trasporti.svg",
+      "sources": [
+        {
+          "file": "AZ_Azerbaijan/wikipedia/01-it_Segnaletica_stradale_in_Azerbaigian/304-Logo_del_Progetto_Trasporti.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_del_Progetto_Trasporti.svg"
+        }
+      ]
+    }
+  ]
+}

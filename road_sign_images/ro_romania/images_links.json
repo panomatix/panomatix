@@ -1,0 +1,4267 @@
+{
+  "country_code": "RO",
+  "country": "Romania",
+  "images": [
+    {
+      "filename": "sd_unclassified/other/RO-1.svg",
+      "iso": "RO",
+      "id": "1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/RO_Roadsign_1.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/161-RO_Roadsign_1.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/161-RO_Roadsign_1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/RO_Roadsign_1.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.846
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A05-L.svg",
+      "iso": "RO",
+      "id": "A05-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_road_sign_A05-L.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/008-RO_road_sign_A05-L.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/008-RO_road_sign_A05-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_road_sign_A05-L.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A05-R.svg",
+      "iso": "RO",
+      "id": "A05-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/RO_road_sign_A05-R.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/007-RO_road_sign_A05-R.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/007-RO_road_sign_A05-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/RO_road_sign_A05-R.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A06-L.svg",
+      "iso": "RO",
+      "id": "A06-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/RO_road_sign_A06-L.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/006-RO_road_sign_A06-L.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/006-RO_road_sign_A06-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/RO_road_sign_A06-L.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.599
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A06-R.svg",
+      "iso": "RO",
+      "id": "A06-R",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/RO_road_sign_A06-R.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/005-RO_road_sign_A06-R.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/005-RO_road_sign_A06-R.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/RO_road_sign_A06-R.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.599
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A07.svg",
+      "iso": "RO",
+      "id": "A07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/RO_road_sign_A07.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/009-RO_road_sign_A07.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/009-RO_road_sign_A07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/RO_road_sign_A07.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A08.svg",
+      "iso": "RO",
+      "id": "A08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RO_road_sign_A08.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/010-RO_road_sign_A08.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/010-RO_road_sign_A08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RO_road_sign_A08.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A09.svg",
+      "iso": "RO",
+      "id": "A09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RO_road_sign_A09.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/011-RO_road_sign_A09.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/011-RO_road_sign_A09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RO_road_sign_A09.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A1.svg",
+      "iso": "RO",
+      "id": "A1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RO_A1.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/001-RO_A1.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/001-RO_A1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RO_A1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A10.svg",
+      "iso": "RO",
+      "id": "A10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/RO_road_sign_A10.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/012-RO_road_sign_A10.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/012-RO_road_sign_A10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/RO_road_sign_A10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A11.svg",
+      "iso": "RO",
+      "id": "A11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/RO_road_sign_A11.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/013-RO_road_sign_A11.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/013-RO_road_sign_A11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/RO_road_sign_A11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A12.svg",
+      "iso": "RO",
+      "id": "A12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/RO_road_sign_A12.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/014-RO_road_sign_A12.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/014-RO_road_sign_A12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/RO_road_sign_A12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A13.svg",
+      "iso": "RO",
+      "id": "A13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RO_A13.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/015-RO_A13.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/015-RO_A13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RO_A13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945,
+      "also_used_in": [
+        "HR_Croatia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A14.svg",
+      "iso": "RO",
+      "id": "A14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/RO_road_sign_A14.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/016-RO_road_sign_A14.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/016-RO_road_sign_A14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/RO_road_sign_A14.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A15.svg",
+      "iso": "RO",
+      "id": "A15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/RO_road_sign_A15.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/017-RO_road_sign_A15.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/017-RO_road_sign_A15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/RO_road_sign_A15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A16.svg",
+      "iso": "RO",
+      "id": "A16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/RO_A16.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/018-RO_A16.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/018-RO_A16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/RO_A16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A17.svg",
+      "iso": "RO",
+      "id": "A17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/RO_road_sign_A17.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/019-RO_road_sign_A17.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/019-RO_road_sign_A17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/RO_road_sign_A17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A18.svg",
+      "iso": "RO",
+      "id": "A18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_A18.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/020-RO_A18.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/020-RO_A18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_A18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A19.svg",
+      "iso": "RO",
+      "id": "A19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_A19.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/021-RO_A19.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/021-RO_A19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_A19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A2.svg",
+      "iso": "RO",
+      "id": "A2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_A2.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/002-RO_A2.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/002-RO_A2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_A2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A20.svg",
+      "iso": "RO",
+      "id": "A20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RO_A20.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/022-RO_A20.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/022-RO_A20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RO_A20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A21.svg",
+      "iso": "RO",
+      "id": "A21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/RO_A21.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/023-RO_A21.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/023-RO_A21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/RO_A21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A23.svg",
+      "iso": "RO",
+      "id": "A23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/RO_A23.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/025-RO_A23.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/025-RO_A23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/RO_A23.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A24.svg",
+      "iso": "RO",
+      "id": "A24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_A24.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/026-RO_A24.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/026-RO_A24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_A24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A25.svg",
+      "iso": "RO",
+      "id": "A25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/RO_A25.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/027-RO_A25.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/027-RO_A25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/RO_A25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A26.svg",
+      "iso": "RO",
+      "id": "A26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/RO_A26.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/028-RO_A26.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/028-RO_A26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/RO_A26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A27.svg",
+      "iso": "RO",
+      "id": "A27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/RO_road_sign_A27.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/029-RO_road_sign_A27.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/029-RO_road_sign_A27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/RO_road_sign_A27.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A28.svg",
+      "iso": "RO",
+      "id": "A28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RO_road_sign_A28.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/030-RO_road_sign_A28.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/030-RO_road_sign_A28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RO_road_sign_A28.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A29.svg",
+      "iso": "RO",
+      "id": "A29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/RO_road_sign_A29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/031-RO_road_sign_A29.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/031-RO_road_sign_A29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/RO_road_sign_A29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A3.svg",
+      "iso": "RO",
+      "id": "A3",
+      "description": "sign",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RO_A3_sign.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/024-RO_A3_sign.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/024-RO_A3_sign.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RO_A3_sign.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.949
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A30.svg",
+      "iso": "RO",
+      "id": "A30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/RO_road_sign_A30.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/032-RO_road_sign_A30.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/032-RO_road_sign_A30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/RO_road_sign_A30.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A31.svg",
+      "iso": "RO",
+      "id": "A31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/RO_road_sign_A31.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/033-RO_road_sign_A31.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/033-RO_road_sign_A31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/RO_road_sign_A31.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A32.svg",
+      "iso": "RO",
+      "id": "A32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RO_road_sign_A32.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/034-RO_road_sign_A32.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/034-RO_road_sign_A32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RO_road_sign_A32.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A33.svg",
+      "iso": "RO",
+      "id": "A33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RO_road_sign_A33.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/035-RO_road_sign_A33.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/035-RO_road_sign_A33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RO_road_sign_A33.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A34.svg",
+      "iso": "RO",
+      "id": "A34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RO_road_sign_A34.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/036-RO_road_sign_A34.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/036-RO_road_sign_A34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RO_road_sign_A34.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A35.svg",
+      "iso": "RO",
+      "id": "A35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RO_road_sign_A35.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/037-RO_road_sign_A35.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/037-RO_road_sign_A35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RO_road_sign_A35.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A36.svg",
+      "iso": "RO",
+      "id": "A36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RO_road_sign_A36.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/038-RO_road_sign_A36.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/038-RO_road_sign_A36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RO_road_sign_A36.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A37.svg",
+      "iso": "RO",
+      "id": "A37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RO_road_sign_A37.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/039-RO_road_sign_A37.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/039-RO_road_sign_A37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RO_road_sign_A37.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A38.svg",
+      "iso": "RO",
+      "id": "A38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/RO_road_sign_A38.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/040-RO_road_sign_A38.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/040-RO_road_sign_A38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/RO_road_sign_A38.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A39.svg",
+      "iso": "RO",
+      "id": "A39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/RO_road_sign_A39.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/041-RO_road_sign_A39.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/041-RO_road_sign_A39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/RO_road_sign_A39.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A40.svg",
+      "iso": "RO",
+      "id": "A40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/RO_road_sign_A40.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/042-RO_road_sign_A40.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/042-RO_road_sign_A40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/RO_road_sign_A40.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A41.svg",
+      "iso": "RO",
+      "id": "A41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/RO_road_sign_A41.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/043-RO_road_sign_A41.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/043-RO_road_sign_A41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/RO_road_sign_A41.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A42.svg",
+      "iso": "RO",
+      "id": "A42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/RO_road_sign_A42.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/044-RO_road_sign_A42.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/044-RO_road_sign_A42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/RO_road_sign_A42.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A43.svg",
+      "iso": "RO",
+      "id": "A43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/RO_road_sign_A43.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/045-RO_road_sign_A43.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/045-RO_road_sign_A43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/RO_road_sign_A43.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A44.svg",
+      "iso": "RO",
+      "id": "A44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_A44.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/049-RO_road_sign_A44.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/049-RO_road_sign_A44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_A44.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/other/RO-A45.svg",
+      "iso": "RO",
+      "id": "A45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RO_road_sign_A45.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/050-RO_road_sign_A45.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/050-RO_road_sign_A45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RO_road_sign_A45.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A46-47.svg",
+      "iso": "RO",
+      "id": "A46-47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/RO_road_sign_A46-47.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/051-RO_road_sign_A46-47.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/051-RO_road_sign_A46-47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/RO_road_sign_A46-47.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A48.svg",
+      "iso": "RO",
+      "id": "A48",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/RO_road_sign_A48.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/052-RO_road_sign_A48.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/052-RO_road_sign_A48.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/RO_road_sign_A48.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A49.svg",
+      "iso": "RO",
+      "id": "A49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RO_road_sign_A49.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/053-RO_road_sign_A49.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/053-RO_road_sign_A49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RO_road_sign_A49.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.542
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A50.svg",
+      "iso": "RO",
+      "id": "A50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/RO_road_sign_A50.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/054-RO_road_sign_A50.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/054-RO_road_sign_A50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/RO_road_sign_A50.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.542
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-A51.svg",
+      "iso": "RO",
+      "id": "A51",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RO_road_sign_A51.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/055-RO_road_sign_A51.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/055-RO_road_sign_A51.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RO_road_sign_A51.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.408
+    },
+    {
+      "filename": "sd_unclassified/other/RO-A52.svg",
+      "iso": "RO",
+      "id": "A52",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/RO_road_sign_A52.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/056-RO_road_sign_A52.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/056-RO_road_sign_A52.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/RO_road_sign_A52.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.411
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A53.svg",
+      "iso": "RO",
+      "id": "A53",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/RO_road_sign_A53.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/046-RO_road_sign_A53.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/046-RO_road_sign_A53.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/RO_road_sign_A53.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A54.svg",
+      "iso": "RO",
+      "id": "A54",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/RO_road_sign_A54.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/047-RO_road_sign_A54.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/047-RO_road_sign_A54.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/RO_road_sign_A54.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "a_danger_warning_signs/other/RO-A55.svg",
+      "iso": "RO",
+      "id": "A55",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RO_road_sign_A55.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/048-RO_road_sign_A55.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/048-RO_road_sign_A55.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RO_road_sign_A55.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-B01.svg",
+      "iso": "RO",
+      "id": "B01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_road_sign_B01.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/057-RO_road_sign_B01.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/057-RO_road_sign_B01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_road_sign_B01.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-B02.svg",
+      "iso": "RO",
+      "id": "B02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RO_road_sign_B02.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/058-RO_road_sign_B02.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/058-RO_road_sign_B02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RO_road_sign_B02.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-B03.svg",
+      "iso": "RO",
+      "id": "B03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_B03.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/059-RO_road_sign_B03.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/059-RO_road_sign_B03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_B03.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-B04.svg",
+      "iso": "RO",
+      "id": "B04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/RO_road_sign_B04.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/060-RO_road_sign_B04.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/060-RO_road_sign_B04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/RO_road_sign_B04.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-B05.svg",
+      "iso": "RO",
+      "id": "B05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/RO_road_sign_B05.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/061-RO_road_sign_B05.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/061-RO_road_sign_B05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/RO_road_sign_B05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-B06.svg",
+      "iso": "RO",
+      "id": "B06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/RO_road_sign_B06.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/062-RO_road_sign_B06.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/062-RO_road_sign_B06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/RO_road_sign_B06.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C01.svg",
+      "iso": "RO",
+      "id": "C01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RO_road_sign_C01.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/063-RO_road_sign_C01.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/063-RO_road_sign_C01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RO_road_sign_C01.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C02.svg",
+      "iso": "RO",
+      "id": "C02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/RO_road_sign_C02.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/064-RO_road_sign_C02.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/064-RO_road_sign_C02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/RO_road_sign_C02.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C03.svg",
+      "iso": "RO",
+      "id": "C03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/RO_road_sign_C03.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/065-RO_road_sign_C03.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/065-RO_road_sign_C03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/RO_road_sign_C03.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C04.svg",
+      "iso": "RO",
+      "id": "C04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_road_sign_C04.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/066-RO_road_sign_C04.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/066-RO_road_sign_C04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_road_sign_C04.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C05.svg",
+      "iso": "RO",
+      "id": "C05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/RO_road_sign_C05.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/067-RO_road_sign_C05.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/067-RO_road_sign_C05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/RO_road_sign_C05.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C06.svg",
+      "iso": "RO",
+      "id": "C06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/RO_road_sign_C06.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/068-RO_road_sign_C06.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/068-RO_road_sign_C06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/RO_road_sign_C06.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C07.svg",
+      "iso": "RO",
+      "id": "C07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/RO_road_sign_C07.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/069-RO_road_sign_C07.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/069-RO_road_sign_C07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/RO_road_sign_C07.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-C08.svg",
+      "iso": "RO",
+      "id": "C08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_C08.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/070-RO_road_sign_C08.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/070-RO_road_sign_C08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_C08.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-C09.svg",
+      "iso": "RO",
+      "id": "C09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/RO_road_sign_C09.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/071-RO_road_sign_C09.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/071-RO_road_sign_C09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/RO_road_sign_C09.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C10.svg",
+      "iso": "RO",
+      "id": "C10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/RO_road_sign_C10.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/072-RO_road_sign_C10.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/072-RO_road_sign_C10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/RO_road_sign_C10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C11.svg",
+      "iso": "RO",
+      "id": "C11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/RO_road_sign_C11.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/073-RO_road_sign_C11.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/073-RO_road_sign_C11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/RO_road_sign_C11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C12.svg",
+      "iso": "RO",
+      "id": "C12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/RO_road_sign_C12.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/074-RO_road_sign_C12.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/074-RO_road_sign_C12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/RO_road_sign_C12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C13.svg",
+      "iso": "RO",
+      "id": "C13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RO_road_sign_C13.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/075-RO_road_sign_C13.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/075-RO_road_sign_C13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RO_road_sign_C13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C14.svg",
+      "iso": "RO",
+      "id": "C14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/RO_road_sign_C14.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/076-RO_road_sign_C14.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/076-RO_road_sign_C14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/RO_road_sign_C14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C15.svg",
+      "iso": "RO",
+      "id": "C15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RO_road_sign_C15.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/077-RO_road_sign_C15.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/077-RO_road_sign_C15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RO_road_sign_C15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C16.svg",
+      "iso": "RO",
+      "id": "C16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/RO_road_sign_C16.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/078-RO_road_sign_C16.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/078-RO_road_sign_C16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/RO_road_sign_C16.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C17.svg",
+      "iso": "RO",
+      "id": "C17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RO_road_sign_C17.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/079-RO_road_sign_C17.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/079-RO_road_sign_C17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RO_road_sign_C17.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C18.svg",
+      "iso": "RO",
+      "id": "C18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RO_road_sign_C18.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/080-RO_road_sign_C18.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/080-RO_road_sign_C18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RO_road_sign_C18.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C19.svg",
+      "iso": "RO",
+      "id": "C19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/RO_road_sign_C19.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/081-RO_road_sign_C19.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/081-RO_road_sign_C19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/RO_road_sign_C19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C20.svg",
+      "iso": "RO",
+      "id": "C20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RO_road_sign_C20.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/082-RO_road_sign_C20.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/082-RO_road_sign_C20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RO_road_sign_C20.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C21.svg",
+      "iso": "RO",
+      "id": "C21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/RO_road_sign_C21.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/083-RO_road_sign_C21.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/083-RO_road_sign_C21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/RO_road_sign_C21.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C22.svg",
+      "iso": "RO",
+      "id": "C22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RO_road_sign_C22.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/084-RO_road_sign_C22.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/084-RO_road_sign_C22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RO_road_sign_C22.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C23.svg",
+      "iso": "RO",
+      "id": "C23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/RO_road_sign_C23.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/085-RO_road_sign_C23.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/085-RO_road_sign_C23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/RO_road_sign_C23.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C24-1.svg",
+      "iso": "RO",
+      "id": "C24-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Romania_road_sign_C24-1.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/086-Romania_road_sign_C24-1.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/086-Romania_road_sign_C24-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Romania_road_sign_C24-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C24-2.svg",
+      "iso": "RO",
+      "id": "C24-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Romania_road_sign_C24-2.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/087-Romania_road_sign_C24-2.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/087-Romania_road_sign_C24-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Romania_road_sign_C24-2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C26.svg",
+      "iso": "RO",
+      "id": "C26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RO_road_sign_C26.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/088-RO_road_sign_C26.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/088-RO_road_sign_C26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RO_road_sign_C26.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C27.svg",
+      "iso": "RO",
+      "id": "C27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/RO_road_sign_C27.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/089-RO_road_sign_C27.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/089-RO_road_sign_C27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/RO_road_sign_C27.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C28.svg",
+      "iso": "RO",
+      "id": "C28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/RO_road_sign_C28.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/090-RO_road_sign_C28.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/090-RO_road_sign_C28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/RO_road_sign_C28.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C29_50.svg",
+      "iso": "RO",
+      "id": "C29",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/RO_road_sign_C29_%2850%29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/091-RO_road_sign_C29_(50).svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/091-RO_road_sign_C29_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/RO_road_sign_C29_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C30a.svg",
+      "iso": "RO",
+      "id": "C30a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/RO_road_sign_C30a.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/092-RO_road_sign_C30a.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/092-RO_road_sign_C30a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/RO_road_sign_C30a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C31.svg",
+      "iso": "RO",
+      "id": "C31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RO_road_sign_C31.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/093-RO_road_sign_C31.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/093-RO_road_sign_C31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RO_road_sign_C31.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C32.svg",
+      "iso": "RO",
+      "id": "C32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RO_road_sign_C32.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/094-RO_road_sign_C32.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/094-RO_road_sign_C32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RO_road_sign_C32.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-C33.svg",
+      "iso": "RO",
+      "id": "C33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RO_road_sign_C33.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/095-RO_road_sign_C33.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/095-RO_road_sign_C33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RO_road_sign_C33.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C34.svg",
+      "iso": "RO",
+      "id": "C34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/RO_road_sign_C34.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/096-RO_road_sign_C34.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/096-RO_road_sign_C34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/RO_road_sign_C34.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C35.svg",
+      "iso": "RO",
+      "id": "C35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/RO_road_sign_C35.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/097-RO_road_sign_C35.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/097-RO_road_sign_C35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/RO_road_sign_C35.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C36_50.svg",
+      "iso": "RO",
+      "id": "C36",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_road_sign_C36_%2850%29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/098-RO_road_sign_C36_(50).svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/098-RO_road_sign_C36_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_road_sign_C36_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C37.svg",
+      "iso": "RO",
+      "id": "C37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RO_road_sign_C37.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/099-RO_road_sign_C37.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/099-RO_road_sign_C37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RO_road_sign_C37.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C38.svg",
+      "iso": "RO",
+      "id": "C38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/RO_road_sign_C38.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/100-RO_road_sign_C38.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/100-RO_road_sign_C38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/RO_road_sign_C38.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C39.svg",
+      "iso": "RO",
+      "id": "C39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/RO_road_sign_C39.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/101-RO_road_sign_C39.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/101-RO_road_sign_C39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/RO_road_sign_C39.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C40.svg",
+      "iso": "RO",
+      "id": "C40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_road_sign_C40.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/102-RO_road_sign_C40.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/102-RO_road_sign_C40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_road_sign_C40.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C41.svg",
+      "iso": "RO",
+      "id": "C41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/RO_road_sign_C41.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/103-RO_road_sign_C41.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/103-RO_road_sign_C41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/RO_road_sign_C41.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-C42.svg",
+      "iso": "RO",
+      "id": "C42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/RO_road_sign_C42.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/104-RO_road_sign_C42.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/104-RO_road_sign_C42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/RO_road_sign_C42.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-C43.svg",
+      "iso": "RO",
+      "id": "C43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/RO_road_sign_C43.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/105-RO_road_sign_C43.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/105-RO_road_sign_C43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/RO_road_sign_C43.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-C44.svg",
+      "iso": "RO",
+      "id": "C44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/RO_road_sign_C44.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/106-RO_road_sign_C44.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/106-RO_road_sign_C44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/RO_road_sign_C44.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.981
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-C45.svg",
+      "iso": "RO",
+      "id": "C45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/RO_road_sign_C45.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/107-RO_road_sign_C45.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/107-RO_road_sign_C45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/RO_road_sign_C45.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.672
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-C46.svg",
+      "iso": "RO",
+      "id": "C46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/RO_road_sign_C46.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/108-RO_road_sign_C46.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/108-RO_road_sign_C46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/RO_road_sign_C46.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C47.svg",
+      "iso": "RO",
+      "id": "C47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RO_road_sign_C47.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/109-RO_road_sign_C47.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/109-RO_road_sign_C47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RO_road_sign_C47.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/RO-C48.svg",
+      "iso": "RO",
+      "id": "C48",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RO_road_sign_C48.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/110-RO_road_sign_C48.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/110-RO_road_sign_C48.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RO_road_sign_C48.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D01.svg",
+      "iso": "RO",
+      "id": "D01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Romania_road_sign_D01.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/111-Romania_road_sign_D01.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/111-Romania_road_sign_D01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Romania_road_sign_D01.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.906
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-D02.svg",
+      "iso": "RO",
+      "id": "D02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Romania_road_sign_D02.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/112-Romania_road_sign_D02.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/112-Romania_road_sign_D02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Romania_road_sign_D02.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.906
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-D03.svg",
+      "iso": "RO",
+      "id": "D03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Romania_road_sign_D03.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/113-Romania_road_sign_D03.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/113-Romania_road_sign_D03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Romania_road_sign_D03.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.906
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-D04.svg",
+      "iso": "RO",
+      "id": "D04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Romania_road_sign_D04.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/114-Romania_road_sign_D04.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/114-Romania_road_sign_D04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Romania_road_sign_D04.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.906
+    },
+    {
+      "filename": "b_priority_signs/other/RO-D05.svg",
+      "iso": "RO",
+      "id": "D05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Romania_road_sign_D05.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/115-Romania_road_sign_D05.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/115-Romania_road_sign_D05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Romania_road_sign_D05.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 0.946
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-D06.svg",
+      "iso": "RO",
+      "id": "D06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Romania_road_sign_D06.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/116-Romania_road_sign_D06.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/116-Romania_road_sign_D06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Romania_road_sign_D06.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.905
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D08.svg",
+      "iso": "RO",
+      "id": "D08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/RO_road_sign_D08.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/118-RO_road_sign_D08.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/118-RO_road_sign_D08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/RO_road_sign_D08.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/RO-D09.svg",
+      "iso": "RO",
+      "id": "D09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/RO_road_sign_D09.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/119-RO_road_sign_D09.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/119-RO_road_sign_D09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/RO_road_sign_D09.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D10.svg",
+      "iso": "RO",
+      "id": "D10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RO_road_sign_D10.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/120-RO_road_sign_D10.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/120-RO_road_sign_D10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RO_road_sign_D10.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D11.svg",
+      "iso": "RO",
+      "id": "D11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/RO_road_sign_D11.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/121-RO_road_sign_D11.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/121-RO_road_sign_D11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/RO_road_sign_D11.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.778
+    },
+    {
+      "filename": "sd_unclassified/other/RO-D12.svg",
+      "iso": "RO",
+      "id": "D12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/RO_road_sign_D12.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/122-RO_road_sign_D12.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/122-RO_road_sign_D12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/RO_road_sign_D12.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.778
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D13_40.svg",
+      "iso": "RO",
+      "id": "D13",
+      "description": null,
+      "variants": [
+        "40"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RO_road_sign_D13%2840%29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/124-RO_road_sign_D13(40).svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/124-RO_road_sign_D13(40).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RO_road_sign_D13%2840%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D14_40.svg",
+      "iso": "RO",
+      "id": "D14",
+      "description": null,
+      "variants": [
+        "40"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/RO_road_sign_D14%2840%29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/125-RO_road_sign_D14(40).svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/125-RO_road_sign_D14(40).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/RO_road_sign_D14%2840%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/RO-D15.svg",
+      "iso": "RO",
+      "id": "D15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/RO_road_sign_D15.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/126-RO_road_sign_D15.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/126-RO_road_sign_D15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/RO_road_sign_D15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D16.svg",
+      "iso": "RO",
+      "id": "D16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/RO_road_sign_D16.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/127-RO_road_sign_D16.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/127-RO_road_sign_D16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/RO_road_sign_D16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-D17.svg",
+      "iso": "RO",
+      "id": "D17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/RO_road_sign_D17.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/129-RO_road_sign_D17.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/129-RO_road_sign_D17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/RO_road_sign_D17.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-D18.svg",
+      "iso": "RO",
+      "id": "D18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/RO_road_sign_D18.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/128-RO_road_sign_D18.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/128-RO_road_sign_D18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/RO_road_sign_D18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/RO-D19.svg",
+      "iso": "RO",
+      "id": "D19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/RO_road_sign_D19.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/123-RO_road_sign_D19.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/123-RO_road_sign_D19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/RO_road_sign_D19.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F01.svg",
+      "iso": "RO",
+      "id": "F01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/RO_road_sign_F01.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/130-RO_road_sign_F01.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/130-RO_road_sign_F01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/RO_road_sign_F01.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F02.svg",
+      "iso": "RO",
+      "id": "F02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/RO_road_sign_F02.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/131-RO_road_sign_F02.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/131-RO_road_sign_F02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/RO_road_sign_F02.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F03.svg",
+      "iso": "RO",
+      "id": "F03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/RO_road_sign_F03.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/132-RO_road_sign_F03.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/132-RO_road_sign_F03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/RO_road_sign_F03.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F04.svg",
+      "iso": "RO",
+      "id": "F04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RO_road_sign_F04.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/133-RO_road_sign_F04.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/133-RO_road_sign_F04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RO_road_sign_F04.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F05.svg",
+      "iso": "RO",
+      "id": "F05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Romania_road_sign_F05.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/134-Romania_road_sign_F05.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/134-Romania_road_sign_F05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Romania_road_sign_F05.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F06.svg",
+      "iso": "RO",
+      "id": "F06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/RO_road_sign_F06.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/135-RO_road_sign_F06.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/135-RO_road_sign_F06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/RO_road_sign_F06.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F07.svg",
+      "iso": "RO",
+      "id": "F07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/RO_road_sign_F07.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/136-RO_road_sign_F07.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/136-RO_road_sign_F07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/RO_road_sign_F07.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/RO-F08.svg",
+      "iso": "RO",
+      "id": "F08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_F08.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/137-RO_road_sign_F08.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/137-RO_road_sign_F08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_F08.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F10.svg",
+      "iso": "RO",
+      "id": "F10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_F10.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/138-RO_road_sign_F10.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/138-RO_road_sign_F10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_F10.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "g_other_information_signs/other/RO-F11.svg",
+      "iso": "RO",
+      "id": "F11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/RO_road_sign_F11.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/139-RO_road_sign_F11.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/139-RO_road_sign_F11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/RO_road_sign_F11.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F12.svg",
+      "iso": "RO",
+      "id": "F12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RO_road_sign_F12.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/140-RO_road_sign_F12.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/140-RO_road_sign_F12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/RO_road_sign_F12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-F13.svg",
+      "iso": "RO",
+      "id": "F13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/RO_road_sign_F13.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/141-RO_road_sign_F13.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/141-RO_road_sign_F13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/RO_road_sign_F13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/RO-F14.svg",
+      "iso": "RO",
+      "id": "F14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/RO_road_sign_F14.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/142-RO_road_sign_F14.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/142-RO_road_sign_F14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/RO_road_sign_F14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/RO-F15.svg",
+      "iso": "RO",
+      "id": "F15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/RO_road_sign_F15.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/143-RO_road_sign_F15.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/143-RO_road_sign_F15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/RO_road_sign_F15.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.929
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F21.svg",
+      "iso": "RO",
+      "id": "F21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/RO_road_sign_F21.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/144-RO_road_sign_F21.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/144-RO_road_sign_F21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/RO_road_sign_F21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F22.svg",
+      "iso": "RO",
+      "id": "F22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/RO_road_sign_F22.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/145-RO_road_sign_F22.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/145-RO_road_sign_F22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/RO_road_sign_F22.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F23.svg",
+      "iso": "RO",
+      "id": "F23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/RO_road_sign_F23.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/146-RO_road_sign_F23.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/146-RO_road_sign_F23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/RO_road_sign_F23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F24.svg",
+      "iso": "RO",
+      "id": "F24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RO_road_sign_F24.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/147-RO_road_sign_F24.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/147-RO_road_sign_F24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RO_road_sign_F24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F25.svg",
+      "iso": "RO",
+      "id": "F25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_F25.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/148-RO_road_sign_F25.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/148-RO_road_sign_F25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_F25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-F26.svg",
+      "iso": "RO",
+      "id": "F26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RO_road_sign_F26.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/149-RO_road_sign_F26.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/149-RO_road_sign_F26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RO_road_sign_F26.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F27.svg",
+      "iso": "RO",
+      "id": "F27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/RO_road_sign_F27.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/150-RO_road_sign_F27.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/150-RO_road_sign_F27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/RO_road_sign_F27.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-F28.svg",
+      "iso": "RO",
+      "id": "F28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/RO_road_sign_F28.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/151-RO_road_sign_F28.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/151-RO_road_sign_F28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/RO_road_sign_F28.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F29.svg",
+      "iso": "RO",
+      "id": "F29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/RO_road_sign_F29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/152-RO_road_sign_F29.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/152-RO_road_sign_F29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/RO_road_sign_F29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.953
+    },
+    {
+      "filename": "g_other_information_signs/other/RO-F30.svg",
+      "iso": "RO",
+      "id": "F30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RO_road_sign_F30.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/153-RO_road_sign_F30.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/153-RO_road_sign_F30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RO_road_sign_F30.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.901
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F31.svg",
+      "iso": "RO",
+      "id": "F31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RO_road_sign_F31.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/154-RO_road_sign_F31.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/154-RO_road_sign_F31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RO_road_sign_F31.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.942
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F32.svg",
+      "iso": "RO",
+      "id": "F32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RO_road_sign_F32.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/155-RO_road_sign_F32.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/155-RO_road_sign_F32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RO_road_sign_F32.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.884
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F33.svg",
+      "iso": "RO",
+      "id": "F33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/RO_road_sign_F33.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/156-RO_road_sign_F33.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/156-RO_road_sign_F33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/RO_road_sign_F33.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.942
+    },
+    {
+      "filename": "sd_unclassified/other/RO-F34.svg",
+      "iso": "RO",
+      "id": "F34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/RO_road_sign_F34.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/157-RO_road_sign_F34.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/157-RO_road_sign_F34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/RO_road_sign_F34.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.893
+    },
+    {
+      "filename": "h_additional_panels/other/RO-F35.svg",
+      "iso": "RO",
+      "id": "F35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/RO_road_sign_F35.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/158-RO_road_sign_F35.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/158-RO_road_sign_F35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/RO_road_sign_F35.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.914
+    },
+    {
+      "filename": "h_additional_panels/other/RO-F36.svg",
+      "iso": "RO",
+      "id": "F36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RO_road_sign_F36.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/159-RO_road_sign_F36.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/159-RO_road_sign_F36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RO_road_sign_F36.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.929
+    },
+    {
+      "filename": "sd_unclassified/other/RO-F38.svg",
+      "iso": "RO",
+      "id": "F38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RO_road_sign_F38.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/160-RO_road_sign_F38.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/160-RO_road_sign_F38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RO_road_sign_F38.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.913
+    },
+    {
+      "filename": "h_additional_panels/other/RO-F46.svg",
+      "iso": "RO",
+      "id": "F46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/RO_road_sign_F46.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/166-RO_road_sign_F46.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/166-RO_road_sign_F46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/RO_road_sign_F46.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-F47.svg",
+      "iso": "RO",
+      "id": "F47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/RO_road_sign_F47.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/167-RO_road_sign_F47.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/167-RO_road_sign_F47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/RO_road_sign_F47.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/RO-F48.svg",
+      "iso": "RO",
+      "id": "F48",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/RO_road_sign_F48.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/168-RO_road_sign_F48.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/168-RO_road_sign_F48.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/RO_road_sign_F48.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-F49.svg",
+      "iso": "RO",
+      "id": "F49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/RO_road_sign_F49.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/169-RO_road_sign_F49.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/169-RO_road_sign_F49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/RO_road_sign_F49.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F50.svg",
+      "iso": "RO",
+      "id": "F50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RO_road_sign_F50.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/170-RO_road_sign_F50.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/170-RO_road_sign_F50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RO_road_sign_F50.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F51.svg",
+      "iso": "RO",
+      "id": "F51",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/RO_road_sign_F51.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/171-RO_road_sign_F51.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/171-RO_road_sign_F51.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/RO_road_sign_F51.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F52.svg",
+      "iso": "RO",
+      "id": "F52",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RO_road_sign_F52.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/172-RO_road_sign_F52.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/172-RO_road_sign_F52.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RO_road_sign_F52.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-F53.svg",
+      "iso": "RO",
+      "id": "F53",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/RO_road_sign_F53.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/173-RO_road_sign_F53.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/173-RO_road_sign_F53.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/RO_road_sign_F53.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-F54.svg",
+      "iso": "RO",
+      "id": "F54",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_road_sign_F54.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/174-RO_road_sign_F54.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/174-RO_road_sign_F54.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_road_sign_F54.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G01.svg",
+      "iso": "RO",
+      "id": "G01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/RO_road_sign_G01.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/175-RO_road_sign_G01.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/175-RO_road_sign_G01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/RO_road_sign_G01.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G02.svg",
+      "iso": "RO",
+      "id": "G02",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/RO_road_sign_G02.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/176-RO_road_sign_G02.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/176-RO_road_sign_G02.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/RO_road_sign_G02.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/RO-G03.svg",
+      "iso": "RO",
+      "id": "G03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_road_sign_G03.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/177-RO_road_sign_G03.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/177-RO_road_sign_G03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RO_road_sign_G03.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-G04.svg",
+      "iso": "RO",
+      "id": "G04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/RO_road_sign_G04.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/178-RO_road_sign_G04.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/178-RO_road_sign_G04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/RO_road_sign_G04.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G05.svg",
+      "iso": "RO",
+      "id": "G05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/RO_road_sign_G05.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/179-RO_road_sign_G05.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/179-RO_road_sign_G05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/RO_road_sign_G05.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G06.svg",
+      "iso": "RO",
+      "id": "G06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/RO_road_sign_G06.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/180-RO_road_sign_G06.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/180-RO_road_sign_G06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/RO_road_sign_G06.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G07.svg",
+      "iso": "RO",
+      "id": "G07",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_G07.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/181-RO_road_sign_G07.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/181-RO_road_sign_G07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_G07.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G08.svg",
+      "iso": "RO",
+      "id": "G08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/RO_road_sign_G08.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/182-RO_road_sign_G08.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/182-RO_road_sign_G08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/RO_road_sign_G08.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G09.svg",
+      "iso": "RO",
+      "id": "G09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/RO_road_sign_G09.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/183-RO_road_sign_G09.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/183-RO_road_sign_G09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/RO_road_sign_G09.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G10.svg",
+      "iso": "RO",
+      "id": "G10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RO_road_sign_G10.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/184-RO_road_sign_G10.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/184-RO_road_sign_G10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RO_road_sign_G10.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G11.svg",
+      "iso": "RO",
+      "id": "G11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/RO_road_sign_G11.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/185-RO_road_sign_G11.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/185-RO_road_sign_G11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/RO_road_sign_G11.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G12.svg",
+      "iso": "RO",
+      "id": "G12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/RO_road_sign_G12.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/186-RO_road_sign_G12.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/186-RO_road_sign_G12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/RO_road_sign_G12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G13.svg",
+      "iso": "RO",
+      "id": "G13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/RO_road_sign_G13.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/187-RO_road_sign_G13.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/187-RO_road_sign_G13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/RO_road_sign_G13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G14.svg",
+      "iso": "RO",
+      "id": "G14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RO_road_sign_G14.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/188-RO_road_sign_G14.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/188-RO_road_sign_G14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RO_road_sign_G14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G15.svg",
+      "iso": "RO",
+      "id": "G15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/RO_road_sign_G15.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/189-RO_road_sign_G15.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/189-RO_road_sign_G15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/RO_road_sign_G15.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-G16.svg",
+      "iso": "RO",
+      "id": "G16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RO_road_sign_G16.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/190-RO_road_sign_G16.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/190-RO_road_sign_G16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RO_road_sign_G16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G17.svg",
+      "iso": "RO",
+      "id": "G17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/RO_road_sign_G17.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/191-RO_road_sign_G17.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/191-RO_road_sign_G17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/RO_road_sign_G17.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G18.svg",
+      "iso": "RO",
+      "id": "G18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_G18.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/192-RO_road_sign_G18.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/192-RO_road_sign_G18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/RO_road_sign_G18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G19.svg",
+      "iso": "RO",
+      "id": "G19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/RO_road_sign_G19.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/193-RO_road_sign_G19.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/193-RO_road_sign_G19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/RO_road_sign_G19.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G20.svg",
+      "iso": "RO",
+      "id": "G20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/RO_road_sign_G20.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/194-RO_road_sign_G20.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/194-RO_road_sign_G20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/RO_road_sign_G20.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G21.svg",
+      "iso": "RO",
+      "id": "G21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RO_road_sign_G21.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/195-RO_road_sign_G21.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/195-RO_road_sign_G21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RO_road_sign_G21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G22.svg",
+      "iso": "RO",
+      "id": "G22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RO_road_sign_G22.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/196-RO_road_sign_G22.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/196-RO_road_sign_G22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RO_road_sign_G22.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G23.svg",
+      "iso": "RO",
+      "id": "G23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RO_road_sign_G23.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/197-RO_road_sign_G23.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/197-RO_road_sign_G23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RO_road_sign_G23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G24.svg",
+      "iso": "RO",
+      "id": "G24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RO_road_sign_G24.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/198-RO_road_sign_G24.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/198-RO_road_sign_G24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RO_road_sign_G24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G25.svg",
+      "iso": "RO",
+      "id": "G25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_road_sign_G25.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/199-RO_road_sign_G25.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/199-RO_road_sign_G25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/RO_road_sign_G25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G26.svg",
+      "iso": "RO",
+      "id": "G26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/RO_road_sign_G26.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/200-RO_road_sign_G26.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/200-RO_road_sign_G26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/RO_road_sign_G26.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G27.svg",
+      "iso": "RO",
+      "id": "G27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/RO_road_sign_G27.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/201-RO_road_sign_G27.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/201-RO_road_sign_G27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/RO_road_sign_G27.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G28.svg",
+      "iso": "RO",
+      "id": "G28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/RO_road_sign_G28.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/202-RO_road_sign_G28.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/202-RO_road_sign_G28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/RO_road_sign_G28.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G29.svg",
+      "iso": "RO",
+      "id": "G29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/RO_road_sign_G29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/203-RO_road_sign_G29.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/203-RO_road_sign_G29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/RO_road_sign_G29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G30.svg",
+      "iso": "RO",
+      "id": "G30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/RO_road_sign_G30.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/204-RO_road_sign_G30.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/204-RO_road_sign_G30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/RO_road_sign_G30.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G31.svg",
+      "iso": "RO",
+      "id": "G31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/RO_road_sign_G31.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/205-RO_road_sign_G31.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/205-RO_road_sign_G31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/RO_road_sign_G31.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/RO-G32.svg",
+      "iso": "RO",
+      "id": "G32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/RO_road_sign_G32.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/206-RO_road_sign_G32.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/206-RO_road_sign_G32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/RO_road_sign_G32.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G33.svg",
+      "iso": "RO",
+      "id": "G33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_road_sign_G33.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/207-RO_road_sign_G33.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/207-RO_road_sign_G33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_road_sign_G33.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G34.svg",
+      "iso": "RO",
+      "id": "G34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/RO_road_sign_G34.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/208-RO_road_sign_G34.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/208-RO_road_sign_G34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/RO_road_sign_G34.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-G36.svg",
+      "iso": "RO",
+      "id": "G36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/RO_road_sign_G36.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/209-RO_road_sign_G36.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/209-RO_road_sign_G36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/RO_road_sign_G36.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-G38.svg",
+      "iso": "RO",
+      "id": "G38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/RO_road_sign_G38.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/210-RO_road_sign_G38.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/210-RO_road_sign_G38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/RO_road_sign_G38.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G39.svg",
+      "iso": "RO",
+      "id": "G39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/RO_road_sign_G39.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/211-RO_road_sign_G39.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/211-RO_road_sign_G39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/RO_road_sign_G39.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/RO-G40.svg",
+      "iso": "RO",
+      "id": "G40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RO_road_sign_G40.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/212-RO_road_sign_G40.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/212-RO_road_sign_G40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RO_road_sign_G40.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/RO-G41.svg",
+      "iso": "RO",
+      "id": "G41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/RO_road_sign_G41.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/213-RO_road_sign_G41.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/213-RO_road_sign_G41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/RO_road_sign_G41.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G42.svg",
+      "iso": "RO",
+      "id": "G42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/RO_road_sign_G42.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/214-RO_road_sign_G42.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/214-RO_road_sign_G42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/RO_road_sign_G42.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G43.svg",
+      "iso": "RO",
+      "id": "G43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/RO_road_sign_G43.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/215-RO_road_sign_G43.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/215-RO_road_sign_G43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/RO_road_sign_G43.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G45.svg",
+      "iso": "RO",
+      "id": "G45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/RO_road_sign_G45.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/216-RO_road_sign_G45.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/216-RO_road_sign_G45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/RO_road_sign_G45.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G46.svg",
+      "iso": "RO",
+      "id": "G46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_G46.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/217-RO_road_sign_G46.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/217-RO_road_sign_G46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_G46.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G56.svg",
+      "iso": "RO",
+      "id": "G56",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RO_road_sign_G56.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/218-RO_road_sign_G56.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/218-RO_road_sign_G56.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RO_road_sign_G56.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G64.svg",
+      "iso": "RO",
+      "id": "G64",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/RO_road_sign_G64.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/219-RO_road_sign_G64.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/219-RO_road_sign_G64.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/RO_road_sign_G64.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G65.svg",
+      "iso": "RO",
+      "id": "G65",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/RO_road_sign_G65.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/220-RO_road_sign_G65.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/220-RO_road_sign_G65.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/RO_road_sign_G65.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/RO-G66.svg",
+      "iso": "RO",
+      "id": "G66",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RO_road_sign_G66.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/221-RO_road_sign_G66.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/221-RO_road_sign_G66.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RO_road_sign_G66.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-G67.svg",
+      "iso": "RO",
+      "id": "G67",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RO_road_sign_G67.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/222-RO_road_sign_G67.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/222-RO_road_sign_G67.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RO_road_sign_G67.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/RO-G68.svg",
+      "iso": "RO",
+      "id": "G68",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/RO_road_sign_G68.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/223-RO_road_sign_G68.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/223-RO_road_sign_G68.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/RO_road_sign_G68.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-G71.svg",
+      "iso": "RO",
+      "id": "G71",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/RO_road_sign_G71.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/224-RO_road_sign_G71.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/224-RO_road_sign_G71.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/RO_road_sign_G71.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/RO-G72.svg",
+      "iso": "RO",
+      "id": "G72",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/RO_road_sign_G72.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/225-RO_road_sign_G72.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/225-RO_road_sign_G72.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/RO_road_sign_G72.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G73.svg",
+      "iso": "RO",
+      "id": "G73",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RO_road_sign_G73.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/226-RO_road_sign_G73.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/226-RO_road_sign_G73.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RO_road_sign_G73.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/RO-G74.svg",
+      "iso": "RO",
+      "id": "G74",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RO_road_sign_G74.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/227-RO_road_sign_G74.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/227-RO_road_sign_G74.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RO_road_sign_G74.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-G75.svg",
+      "iso": "RO",
+      "id": "G75",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/RO_road_sign_G75.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/228-RO_road_sign_G75.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/228-RO_road_sign_G75.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/RO_road_sign_G75.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-P01.svg",
+      "iso": "RO",
+      "id": "P01",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_P01.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/229-RO_road_sign_P01.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/229-RO_road_sign_P01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_P01.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/RO-P03.svg",
+      "iso": "RO",
+      "id": "P03",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/RO_road_sign_P03.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/231-RO_road_sign_P03.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/231-RO_road_sign_P03.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/RO_road_sign_P03.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-P04.svg",
+      "iso": "RO",
+      "id": "P04",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RO_road_sign_P04.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/230-RO_road_sign_P04.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/230-RO_road_sign_P04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RO_road_sign_P04.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P05.svg",
+      "iso": "RO",
+      "id": "P05",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/RO_road_sign_P05.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/233-RO_road_sign_P05.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/233-RO_road_sign_P05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/RO_road_sign_P05.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/RO-P06.svg",
+      "iso": "RO",
+      "id": "P06",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/RO_road_sign_P06.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/232-RO_road_sign_P06.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/232-RO_road_sign_P06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/RO_road_sign_P06.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/RO-P08.svg",
+      "iso": "RO",
+      "id": "P08",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/RO_road_sign_P08.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/234-RO_road_sign_P08.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/234-RO_road_sign_P08.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/RO_road_sign_P08.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P09.svg",
+      "iso": "RO",
+      "id": "P09",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/RO_road_sign_P09.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/235-RO_road_sign_P09.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/235-RO_road_sign_P09.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/RO_road_sign_P09.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P10.svg",
+      "iso": "RO",
+      "id": "P10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/RO_road_sign_P10.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/236-RO_road_sign_P10.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/236-RO_road_sign_P10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/RO_road_sign_P10.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P11.svg",
+      "iso": "RO",
+      "id": "P11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RO_road_sign_P11.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/237-RO_road_sign_P11.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/237-RO_road_sign_P11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RO_road_sign_P11.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P12.svg",
+      "iso": "RO",
+      "id": "P12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RO_road_sign_P12.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/238-RO_road_sign_P12.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/238-RO_road_sign_P12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RO_road_sign_P12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/RO-P13.svg",
+      "iso": "RO",
+      "id": "P13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/RO_road_sign_P13.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/239-RO_road_sign_P13.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/239-RO_road_sign_P13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/RO_road_sign_P13.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P15.svg",
+      "iso": "RO",
+      "id": "P15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/RO_road_sign_P15.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/240-RO_road_sign_P15.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/240-RO_road_sign_P15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/RO_road_sign_P15.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/RO-P16.svg",
+      "iso": "RO",
+      "id": "P16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/RO_road_sign_P16.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/241-RO_road_sign_P16.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/241-RO_road_sign_P16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/RO_road_sign_P16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/RO-P17.svg",
+      "iso": "RO",
+      "id": "P17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RO_road_sign_P17.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/242-RO_road_sign_P17.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/242-RO_road_sign_P17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RO_road_sign_P17.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P20.svg",
+      "iso": "RO",
+      "id": "P20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/RO_road_sign_P20.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/243-RO_road_sign_P20.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/243-RO_road_sign_P20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/RO_road_sign_P20.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P21.svg",
+      "iso": "RO",
+      "id": "P21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_road_sign_P21.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/244-RO_road_sign_P21.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/244-RO_road_sign_P21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RO_road_sign_P21.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P25.svg",
+      "iso": "RO",
+      "id": "P25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_P25.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/245-RO_road_sign_P25.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/245-RO_road_sign_P25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RO_road_sign_P25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P26.svg",
+      "iso": "RO",
+      "id": "P26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/RO_road_sign_P26.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/246-RO_road_sign_P26.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/246-RO_road_sign_P26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/RO_road_sign_P26.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/RO-P27.svg",
+      "iso": "RO",
+      "id": "P27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/RO_road_sign_P27.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/247-RO_road_sign_P27.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/247-RO_road_sign_P27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/RO_road_sign_P27.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P29.svg",
+      "iso": "RO",
+      "id": "P29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RO_road_sign_P29.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/248-RO_road_sign_P29.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/248-RO_road_sign_P29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RO_road_sign_P29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P38.svg",
+      "iso": "RO",
+      "id": "P38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/RO_road_sign_P38.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/249-RO_road_sign_P38.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/249-RO_road_sign_P38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/RO_road_sign_P38.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P39.svg",
+      "iso": "RO",
+      "id": "P39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/RO_road_sign_P39.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/250-RO_road_sign_P39.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/250-RO_road_sign_P39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/RO_road_sign_P39.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P40.svg",
+      "iso": "RO",
+      "id": "P40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RO_road_sign_P40.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/251-RO_road_sign_P40.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/251-RO_road_sign_P40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RO_road_sign_P40.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P41.svg",
+      "iso": "RO",
+      "id": "P41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/RO_road_sign_P41.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/252-RO_road_sign_P41.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/252-RO_road_sign_P41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/RO_road_sign_P41.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P42.svg",
+      "iso": "RO",
+      "id": "P42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RO_road_sign_P42.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/253-RO_road_sign_P42.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/253-RO_road_sign_P42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RO_road_sign_P42.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P43.svg",
+      "iso": "RO",
+      "id": "P43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/RO_road_sign_P43.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/254-RO_road_sign_P43.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/254-RO_road_sign_P43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/RO_road_sign_P43.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/RO-P44.svg",
+      "iso": "RO",
+      "id": "P44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_road_sign_P44.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/255-RO_road_sign_P44.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/255-RO_road_sign_P44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/RO_road_sign_P44.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/RO-P45.svg",
+      "iso": "RO",
+      "id": "P45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/RO_road_sign_P45.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/256-RO_road_sign_P45.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/256-RO_road_sign_P45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/RO_road_sign_P45.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/RO-P46.svg",
+      "iso": "RO",
+      "id": "P46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_P46.svg",
+      "kept_from": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/257-RO_road_sign_P46.svg",
+      "sources": [
+        {
+          "file": "RO_Romania/wikipedia/01-it_Segnaletica_stradale_in_Romania/257-RO_road_sign_P46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/RO_road_sign_P46.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.949
+    }
+  ]
+}

@@ -1,0 +1,1615 @@
+{
+  "country_code": "AM",
+  "country": "Armenia",
+  "images": [
+    {
+      "filename": "b_priority_signs/vienna/AM-2.5.svg",
+      "iso": "AM",
+      "id": "2.5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AM_road_sign_2.5.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/055-AM_road_sign_2.5.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/055-AM_road_sign_2.5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AM_road_sign_2.5.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AM-3.11.svg",
+      "iso": "AM",
+      "id": "3.11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/AM_road_sign_3.11.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/068-AM_road_sign_3.11.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/068-AM_road_sign_3.11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/AM_road_sign_3.11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AM-3.12.svg",
+      "iso": "AM",
+      "id": "3.12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/AM_road_sign_3.12.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/069-AM_road_sign_3.12.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/069-AM_road_sign_3.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/AM_road_sign_3.12.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AM-3.13.svg",
+      "iso": "AM",
+      "id": "3.13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Armenian_road_sign_3.13.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/070-Armenian_road_sign_3.13.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/070-Armenian_road_sign_3.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Armenian_road_sign_3.13.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AM-3.14.svg",
+      "iso": "AM",
+      "id": "3.14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Armenian_road_sign_3.14.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/071-Armenian_road_sign_3.14.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/071-Armenian_road_sign_3.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Armenian_road_sign_3.14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AM-3.15.svg",
+      "iso": "AM",
+      "id": "3.15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Armenian_road_sign_3.15.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/072-Armenian_road_sign_3.15.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/072-Armenian_road_sign_3.15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Armenian_road_sign_3.15.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AM-3.16.svg",
+      "iso": "AM",
+      "id": "3.16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/AM_road_sign_3.16.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/073-AM_road_sign_3.16.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/073-AM_road_sign_3.16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/AM_road_sign_3.16.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AM-3.17.1.svg",
+      "iso": "AM",
+      "id": "3.17.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AM_road_sign_3.17.1.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/074-AM_road_sign_3.17.1.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/074-AM_road_sign_3.17.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AM_road_sign_3.17.1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AM-3.17.2.svg",
+      "iso": "AM",
+      "id": "3.17.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/AM_road_sign_3.17.2.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/075-AM_road_sign_3.17.2.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/075-AM_road_sign_3.17.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/AM_road_sign_3.17.2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/AM-3.17.3.svg",
+      "iso": "AM",
+      "id": "3.17.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/AM_road_sign_3.17.3.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/076-AM_road_sign_3.17.3.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/076-AM_road_sign_3.17.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/AM_road_sign_3.17.3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AM-3.4.svg",
+      "iso": "AM",
+      "id": "3.4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Armenian_road_sign_3.4.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/061-Armenian_road_sign_3.4.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/061-Armenian_road_sign_3.4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Armenian_road_sign_3.4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AM-5.11.2.svg",
+      "iso": "AM",
+      "id": "5.11.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Armenia_road_sign_5.11.2.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/139-Armenia_road_sign_5.11.2.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/139-Armenia_road_sign_5.11.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Armenia_road_sign_5.11.2.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-5.14.svg",
+      "iso": "AM",
+      "id": "5.14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Armenian_road_sign_5.14.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/142-Armenian_road_sign_5.14.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/142-Armenian_road_sign_5.14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Armenian_road_sign_5.14.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-5.22.svg",
+      "iso": "AM",
+      "id": "5.22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Armenian_road_sign_5.22.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/159-Armenian_road_sign_5.22.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/159-Armenian_road_sign_5.22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Armenian_road_sign_5.22.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-5.23.svg",
+      "iso": "AM",
+      "id": "5.23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Armenian_road_sign_5.23.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/160-Armenian_road_sign_5.23.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/160-Armenian_road_sign_5.23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Armenian_road_sign_5.23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.979
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AM-5.24.svg",
+      "iso": "AM",
+      "id": "5.24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Armenian_road_sign_5.24.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/161-Armenian_road_sign_5.24.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/161-Armenian_road_sign_5.24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Armenian_road_sign_5.24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AM-5.25.svg",
+      "iso": "AM",
+      "id": "5.25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Armenian_road_sign_5.25.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/162-Armenian_road_sign_5.25.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/162-Armenian_road_sign_5.25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Armenian_road_sign_5.25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AM-5.27.svg",
+      "iso": "AM",
+      "id": "5.27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Armenian_road_sign_5.27.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/179-Armenian_road_sign_5.27.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/179-Armenian_road_sign_5.27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Armenian_road_sign_5.27.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AM-5.28.svg",
+      "iso": "AM",
+      "id": "5.28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Armenian_road_sign_5.28.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/180-Armenian_road_sign_5.28.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/180-Armenian_road_sign_5.28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Armenian_road_sign_5.28.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AM-5.29.svg",
+      "iso": "AM",
+      "id": "5.29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Armenian_road_sign_5.29.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/181-Armenian_road_sign_5.29.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/181-Armenian_road_sign_5.29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Armenian_road_sign_5.29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AM-5.30.svg",
+      "iso": "AM",
+      "id": "5.30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Armenian_road_sign_5.30.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/182-Armenian_road_sign_5.30.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/182-Armenian_road_sign_5.30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Armenian_road_sign_5.30.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-5.31.svg",
+      "iso": "AM",
+      "id": "5.31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Armenian_road_sign_5.31.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/183-Armenian_road_sign_5.31.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/183-Armenian_road_sign_5.31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Armenian_road_sign_5.31.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-5.32.svg",
+      "iso": "AM",
+      "id": "5.32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Armenian_road_sign_5.32.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/184-Armenian_road_sign_5.32.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/184-Armenian_road_sign_5.32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Armenian_road_sign_5.32.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-5.33.svg",
+      "iso": "AM",
+      "id": "5.33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Armenian_road_sign_5.33.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/185-Armenian_road_sign_5.33.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/185-Armenian_road_sign_5.33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Armenian_road_sign_5.33.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-5.34.svg",
+      "iso": "AM",
+      "id": "5.34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Armenian_road_sign_5.34.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/186-Armenian_road_sign_5.34.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/186-Armenian_road_sign_5.34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Armenian_road_sign_5.34.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/AM-6.1.svg",
+      "iso": "AM",
+      "id": "6.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AM_road_sign_6.1.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/147-AM_road_sign_6.1.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/147-AM_road_sign_6.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AM_road_sign_6.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/AM-6.10.2A.svg",
+      "iso": "AM",
+      "id": "6.10.2A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Armenian_road_sign_6.10.2A.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/156-Armenian_road_sign_6.10.2A.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/156-Armenian_road_sign_6.10.2A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Armenian_road_sign_6.10.2A.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.897
+    },
+    {
+      "filename": "sd_unclassified/other/AM-6.12.svg",
+      "iso": "AM",
+      "id": "6.12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Armenian_road_sign_6.12.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/198-Armenian_road_sign_6.12.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/198-Armenian_road_sign_6.12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Armenian_road_sign_6.12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AM-6.13.svg",
+      "iso": "AM",
+      "id": "6.13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Armenian_road_sign_6.13.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/199-Armenian_road_sign_6.13.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/199-Armenian_road_sign_6.13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Armenian_road_sign_6.13.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/AM-6.16.svg",
+      "iso": "AM",
+      "id": "6.16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AM_road_sign_6.16.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/172-AM_road_sign_6.16.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/172-AM_road_sign_6.16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AM_road_sign_6.16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-6.18.3.svg",
+      "iso": "AM",
+      "id": "6.18.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/AM_road_sign_6.18.3.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/171-AM_road_sign_6.18.3.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/171-AM_road_sign_6.18.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/AM_road_sign_6.18.3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-6.21.1.svg",
+      "iso": "AM",
+      "id": "6.21.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Armenian_road_sign_6.21.1.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/158-Armenian_road_sign_6.21.1.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/158-Armenian_road_sign_6.21.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Armenian_road_sign_6.21.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.919
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/AM-6.3.svg",
+      "iso": "AM",
+      "id": "6.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Armenian_road_sign_6.3.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/189-Armenian_road_sign_6.3.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/189-Armenian_road_sign_6.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Armenian_road_sign_6.3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AM-6.32.1.svg",
+      "iso": "AM",
+      "id": "6.32.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Armenian_road_sign_6.32.1.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/169-Armenian_road_sign_6.32.1.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/169-Armenian_road_sign_6.32.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Armenian_road_sign_6.32.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-6.32.2.svg",
+      "iso": "AM",
+      "id": "6.32.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Armenian_road_sign_6.32.2.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/170-Armenian_road_sign_6.32.2.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/170-Armenian_road_sign_6.32.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Armenian_road_sign_6.32.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/AM-6.4.svg",
+      "iso": "AM",
+      "id": "6.4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Armenian_road_sign_6.4.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/190-Armenian_road_sign_6.4.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/190-Armenian_road_sign_6.4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Armenian_road_sign_6.4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AM-6.9.1A.svg",
+      "iso": "AM",
+      "id": "6.9.1A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Armenian_road_sign_6.9.1A.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/155-Armenian_road_sign_6.9.1A.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/155-Armenian_road_sign_6.9.1A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Armenian_road_sign_6.9.1A.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "sd_unclassified/other/AM-8.1.1.svg",
+      "iso": "AM",
+      "id": "8.1.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/AM_road_sign_8.1.1.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/200-AM_road_sign_8.1.1.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/200-AM_road_sign_8.1.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/AM_road_sign_8.1.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "b_priority_signs/vienna/AM-8.1.2.svg",
+      "iso": "AM",
+      "id": "8.1.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/AM_road_sign_8.1.2.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/201-AM_road_sign_8.1.2.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/201-AM_road_sign_8.1.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/AM_road_sign_8.1.2.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-8.1.3.svg",
+      "iso": "AM",
+      "id": "8.1.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/AM_road_sign_8.1.3.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/202-AM_road_sign_8.1.3.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/202-AM_road_sign_8.1.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/AM_road_sign_8.1.3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-8.1.4.svg",
+      "iso": "AM",
+      "id": "8.1.4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/AM_road_sign_8.1.4.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/203-AM_road_sign_8.1.4.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/203-AM_road_sign_8.1.4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/AM_road_sign_8.1.4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-8.11.svg",
+      "iso": "AM",
+      "id": "8.11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AM_road_sign_8.11.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/234-AM_road_sign_8.11.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/234-AM_road_sign_8.11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AM_road_sign_8.11.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-8.2.1.svg",
+      "iso": "AM",
+      "id": "8.2.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/AM_road_sign_8.2.1.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/204-AM_road_sign_8.2.1.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/204-AM_road_sign_8.2.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/AM_road_sign_8.2.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AM-8.2.2.svg",
+      "iso": "AM",
+      "id": "8.2.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/AM_road_sign_8.2.2.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/205-AM_road_sign_8.2.2.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/205-AM_road_sign_8.2.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/AM_road_sign_8.2.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-8.5.3.svg",
+      "iso": "AM",
+      "id": "8.5.3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/AM_road_sign_8.5.3.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/221-AM_road_sign_8.5.3.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/221-AM_road_sign_8.5.3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/AM_road_sign_8.5.3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-8.5.7.svg",
+      "iso": "AM",
+      "id": "8.5.7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/AM_road_sign_8.5.7.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/225-AM_road_sign_8.5.7.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/225-AM_road_sign_8.5.7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/AM_road_sign_8.5.7.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AM-8.9.svg",
+      "iso": "AM",
+      "id": "8.9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/AM_road_sign_8.9.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/232-AM_road_sign_8.9.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/232-AM_road_sign_8.9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/AM_road_sign_8.9.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "_non_identifies/Commons-logo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/242-Commons-logo.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/242-Commons-logo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_map_of_Armenia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_map_of_Armenia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/294-Flag_map_of_Armenia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/294-Flag_map_of_Armenia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_map_of_Armenia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Albania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/243-Flag_of_Albania.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/243-Flag_of_Albania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Andorra.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/244-Flag_of_Andorra.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/244-Flag_of_Andorra.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Armenia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/245-Flag_of_Armenia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/245-Flag_of_Armenia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Austria.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/246-Flag_of_Austria.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/246-Flag_of_Austria.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Azerbaijan.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/247-Flag_of_Azerbaijan.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/247-Flag_of_Azerbaijan.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Belarus.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/249-Flag_of_Belarus.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/249-Flag_of_Belarus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Belgium_(civil).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/248-Flag_of_Belgium_(civil).svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/248-Flag_of_Belgium_(civil).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Bosnia_and_Herzegovina.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/250-Flag_of_Bosnia_and_Herzegovina.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/250-Flag_of_Bosnia_and_Herzegovina.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Bulgaria.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/251-Flag_of_Bulgaria.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/251-Flag_of_Bulgaria.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Croatia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/253-Flag_of_Croatia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/253-Flag_of_Croatia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Cyprus.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/252-Flag_of_Cyprus.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/252-Flag_of_Cyprus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Denmark.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/254-Flag_of_Denmark.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/254-Flag_of_Denmark.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Estonia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/255-Flag_of_Estonia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/255-Flag_of_Estonia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Finland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/256-Flag_of_Finland.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/256-Flag_of_Finland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_France.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/257-Flag_of_France.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/257-Flag_of_France.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Georgia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/258-Flag_of_Georgia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/258-Flag_of_Georgia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Germany.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/259-Flag_of_Germany.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/259-Flag_of_Germany.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Greece.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/260-Flag_of_Greece.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/260-Flag_of_Greece.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Hungary.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/292-Flag_of_Hungary.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/292-Flag_of_Hungary.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Iceland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/262-Flag_of_Iceland.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/262-Flag_of_Iceland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Ireland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/261-Flag_of_Ireland.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/261-Flag_of_Ireland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Italy.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/263-Flag_of_Italy.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/263-Flag_of_Italy.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Kazakhstan.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/264-Flag_of_Kazakhstan.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/264-Flag_of_Kazakhstan.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Kosovo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/265-Flag_of_Kosovo.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/265-Flag_of_Kosovo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Latvia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/266-Flag_of_Latvia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/266-Flag_of_Latvia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Liechtenstein.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/267-Flag_of_Liechtenstein.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/267-Flag_of_Liechtenstein.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Lithuania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/268-Flag_of_Lithuania.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/268-Flag_of_Lithuania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Luxembourg.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/269-Flag_of_Luxembourg.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/269-Flag_of_Luxembourg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Malta.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/271-Flag_of_Malta.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/271-Flag_of_Malta.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Moldova.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/272-Flag_of_Moldova.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/272-Flag_of_Moldova.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Monaco.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/273-Flag_of_Monaco.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/273-Flag_of_Monaco.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Montenegro.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/274-Flag_of_Montenegro.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/274-Flag_of_Montenegro.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_North_Macedonia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/270-Flag_of_North_Macedonia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/270-Flag_of_North_Macedonia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Norway.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/275-Flag_of_Norway.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/275-Flag_of_Norway.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Poland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/277-Flag_of_Poland.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/277-Flag_of_Poland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Portugal.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/278-Flag_of_Portugal.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/278-Flag_of_Portugal.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Romania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/281-Flag_of_Romania.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/281-Flag_of_Romania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Russia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/282-Flag_of_Russia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/282-Flag_of_Russia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_San_Marino.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/283-Flag_of_San_Marino.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/283-Flag_of_San_Marino.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Serbia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/284-Flag_of_Serbia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/284-Flag_of_Serbia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Slovakia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/285-Flag_of_Slovakia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/285-Flag_of_Slovakia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Slovenia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/286-Flag_of_Slovenia.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/286-Flag_of_Slovenia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Spain.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/287-Flag_of_Spain.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/287-Flag_of_Spain.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Sweden.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/288-Flag_of_Sweden.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/288-Flag_of_Sweden.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Switzerland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/289-Flag_of_Switzerland.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/289-Flag_of_Switzerland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Turkey.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/290-Flag_of_Turkey.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/290-Flag_of_Turkey.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Ukraine.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/291-Flag_of_Ukraine.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/291-Flag_of_Ukraine.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Vatican_City_(2023-present).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/293-Flag_of_Vatican_City_(2023–present).svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/293-Flag_of_Vatican_City_(2023–present).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_Czech_Republic.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/280-Flag_of_the_Czech_Republic.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/280-Flag_of_the_Czech_Republic.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_Netherlands.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/276-Flag_of_the_Netherlands.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/276-Flag_of_the_Netherlands.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_United_Kingdom_(3-5).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/279-Flag_of_the_United_Kingdom_(3-5).svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/279-Flag_of_the_United_Kingdom_(3-5).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Logo_del_Progetto_Trasporti.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_del_Progetto_Trasporti.svg",
+      "kept_from": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/295-Logo_del_Progetto_Trasporti.svg",
+      "sources": [
+        {
+          "file": "AM_Armenia/wikipedia/01-it_Segnaletica_stradale_in_Armenia/295-Logo_del_Progetto_Trasporti.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_del_Progetto_Trasporti.svg"
+        }
+      ]
+    }
+  ]
+}

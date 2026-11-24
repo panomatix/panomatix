@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1674.2581mm"
+   height="1674.2581mm"
+   viewBox="0 0 1674.2581 1674.258"
+   version="1.1"
+   id="svg827"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Singapore_road_sign_W37.svg">
+  <defs
+     id="defs821" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.083119816"
+     inkscape:cx="3846.6608"
+     inkscape:cy="2800.2073"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true" />
+  <metadata
+     id="metadata824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1377.2577)">
+    <rect
+       style="fill:#ff2d05;fill-opacity:1;stroke:none;stroke-width:664.04852295;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1372"
+       width="1200"
+       height="1200"
+       x="373.86832"
+       y="-389.98911"
+       rx="30"
+       ry="30"
+       transform="rotate(-45.000001)" />
+    <rect
+       y="-365.98907"
+       x="397.86832"
+       height="1152"
+       width="1152"
+       id="rect1374"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:637.48657227;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-45.000001)" />
+    <rect
+       y="-341.98907"
+       x="421.86819"
+       height="1104"
+       width="1104"
+       id="rect1376"
+       style="fill:#ff2d05;fill-opacity:1;stroke:none;stroke-width:610.92462158;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-45.000001)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:51.0210228;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect840"
+       width="500"
+       height="900"
+       x="587.12903"
+       y="-990.12872"
+       rx="250"
+       ry="250" />
+    <circle
+       style="fill:#ffd219;fill-opacity:1;stroke:none;stroke-width:65.70514679;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path842"
+       cx="837.12903"
+       cy="-540.12872"
+       r="125" />
+    <circle
+       r="125"
+       cy="-252.62878"
+       cx="837.12903"
+       id="circle844"
+       style="fill:#00a55a;fill-opacity:1;stroke:none;stroke-width:65.70514679;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:65.70514679;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="circle848"
+       cx="837.12903"
+       cy="-827.62872"
+       r="125" />
+  </g>
+</svg>

@@ -1,0 +1,4039 @@
+{
+  "country_code": "LT",
+  "country": "Lithuania",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-101.svg",
+      "iso": "LT",
+      "id": "101",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/LT_road_sign_101.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/001-LT_road_sign_101.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/001-LT_road_sign_101.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/LT_road_sign_101.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-102.svg",
+      "iso": "LT",
+      "id": "102",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LT_road_sign_102.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/002-LT_road_sign_102.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/002-LT_road_sign_102.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LT_road_sign_102.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-103.svg",
+      "iso": "LT",
+      "id": "103",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_103.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/003-LT_road_sign_103.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/003-LT_road_sign_103.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_103.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-104.svg",
+      "iso": "LT",
+      "id": "104",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/LT_road_sign_104.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/004-LT_road_sign_104.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/004-LT_road_sign_104.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/LT_road_sign_104.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-105.svg",
+      "iso": "LT",
+      "id": "105",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/LT_road_sign_105.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/005-LT_road_sign_105.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/005-LT_road_sign_105.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/LT_road_sign_105.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-106.svg",
+      "iso": "LT",
+      "id": "106",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/LT_road_sign_106.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/006-LT_road_sign_106.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/006-LT_road_sign_106.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/LT_road_sign_106.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-107.svg",
+      "iso": "LT",
+      "id": "107",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LT_road_sign_107.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/007-LT_road_sign_107.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/007-LT_road_sign_107.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LT_road_sign_107.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-108.svg",
+      "iso": "LT",
+      "id": "108",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LT_road_sign_108.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/009-LT_road_sign_108.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/009-LT_road_sign_108.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LT_road_sign_108.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-109.svg",
+      "iso": "LT",
+      "id": "109",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/LT_road_sign_109.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/011-LT_road_sign_109.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/011-LT_road_sign_109.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/LT_road_sign_109.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-110.svg",
+      "iso": "LT",
+      "id": "110",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/LT_road_sign_110.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/013-LT_road_sign_110.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/013-LT_road_sign_110.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/LT_road_sign_110.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-111.svg",
+      "iso": "LT",
+      "id": "111",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LT_road_sign_111.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/014-LT_road_sign_111.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/014-LT_road_sign_111.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LT_road_sign_111.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-112.svg",
+      "iso": "LT",
+      "id": "112",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LT_road_sign_112.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/015-LT_road_sign_112.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/015-LT_road_sign_112.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LT_road_sign_112.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-113.svg",
+      "iso": "LT",
+      "id": "113",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LT_road_sign_113.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/017-LT_road_sign_113.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/017-LT_road_sign_113.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LT_road_sign_113.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-114.svg",
+      "iso": "LT",
+      "id": "114",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LT_road_sign_114.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/019-LT_road_sign_114.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/019-LT_road_sign_114.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LT_road_sign_114.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-115.svg",
+      "iso": "LT",
+      "id": "115",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/LT_road_sign_115.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/021-LT_road_sign_115.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/021-LT_road_sign_115.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/LT_road_sign_115.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-116.svg",
+      "iso": "LT",
+      "id": "116",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/LT_road_sign_116.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/023-LT_road_sign_116.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/023-LT_road_sign_116.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/LT_road_sign_116.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-117.svg",
+      "iso": "LT",
+      "id": "117",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LT_road_sign_117.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/024-LT_road_sign_117.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/024-LT_road_sign_117.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LT_road_sign_117.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-118.svg",
+      "iso": "LT",
+      "id": "118",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/LT_road_sign_118.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/025-LT_road_sign_118.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/025-LT_road_sign_118.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/LT_road_sign_118.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-119.svg",
+      "iso": "LT",
+      "id": "119",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LT_road_sign_119.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/026-LT_road_sign_119.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/026-LT_road_sign_119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LT_road_sign_119.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-120.svg",
+      "iso": "LT",
+      "id": "120",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LT_road_sign_120.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/027-LT_road_sign_120.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/027-LT_road_sign_120.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LT_road_sign_120.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-121.svg",
+      "iso": "LT",
+      "id": "121",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_121.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/028-LT_road_sign_121.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/028-LT_road_sign_121.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_121.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-122.svg",
+      "iso": "LT",
+      "id": "122",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/LT_road_sign_122.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/029-LT_road_sign_122.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/029-LT_road_sign_122.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/LT_road_sign_122.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-123.svg",
+      "iso": "LT",
+      "id": "123",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/LT_road_sign_123.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/030-LT_road_sign_123.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/030-LT_road_sign_123.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/LT_road_sign_123.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-124.svg",
+      "iso": "LT",
+      "id": "124",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LT_road_sign_124.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/031-LT_road_sign_124.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/031-LT_road_sign_124.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LT_road_sign_124.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-125.svg",
+      "iso": "LT",
+      "id": "125",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LT_road_sign_125.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/032-LT_road_sign_125.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/032-LT_road_sign_125.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LT_road_sign_125.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-126.svg",
+      "iso": "LT",
+      "id": "126",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/LT_road_sign_126.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/033-LT_road_sign_126.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/033-LT_road_sign_126.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/LT_road_sign_126.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-127.svg",
+      "iso": "LT",
+      "id": "127",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LT_road_sign_127.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/034-LT_road_sign_127.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/034-LT_road_sign_127.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LT_road_sign_127.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-128.svg",
+      "iso": "LT",
+      "id": "128",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/LT_road_sign_128.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/035-LT_road_sign_128.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/035-LT_road_sign_128.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/LT_road_sign_128.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-129.svg",
+      "iso": "LT",
+      "id": "129",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/LT_road_sign_129.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/036-LT_road_sign_129.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/036-LT_road_sign_129.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/LT_road_sign_129.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-130.svg",
+      "iso": "LT",
+      "id": "130",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/LT_road_sign_130.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/037-LT_road_sign_130.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/037-LT_road_sign_130.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/LT_road_sign_130.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-131.svg",
+      "iso": "LT",
+      "id": "131",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LT_road_sign_131.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/038-LT_road_sign_131.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/038-LT_road_sign_131.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LT_road_sign_131.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-132.svg",
+      "iso": "LT",
+      "id": "132",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_132.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/039-LT_road_sign_132.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/039-LT_road_sign_132.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_132.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-133.svg",
+      "iso": "LT",
+      "id": "133",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/LT_road_sign_133.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/040-LT_road_sign_133.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/040-LT_road_sign_133.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/LT_road_sign_133.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-134.svg",
+      "iso": "LT",
+      "id": "134",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/LT_road_sign_134.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/041-LT_road_sign_134.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/041-LT_road_sign_134.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/LT_road_sign_134.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-135.svg",
+      "iso": "LT",
+      "id": "135",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LT_road_sign_135.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/042-LT_road_sign_135.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/042-LT_road_sign_135.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LT_road_sign_135.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LT-136.svg",
+      "iso": "LT",
+      "id": "136",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_136.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/043-LT_road_sign_136.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/043-LT_road_sign_136.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_136.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-137.svg",
+      "iso": "LT",
+      "id": "137",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/LT_road_sign_137.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/044-LT_road_sign_137.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/044-LT_road_sign_137.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/LT_road_sign_137.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-138.svg",
+      "iso": "LT",
+      "id": "138",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LT_road_sign_138.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/045-LT_road_sign_138.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/045-LT_road_sign_138.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LT_road_sign_138.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.555
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-139.svg",
+      "iso": "LT",
+      "id": "139",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_139.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/046-LT_road_sign_139.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/046-LT_road_sign_139.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_139.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.563
+    },
+    {
+      "filename": "sd_unclassified/other/LT-140.svg",
+      "iso": "LT",
+      "id": "140",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/LT_road_sign_140.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/047-LT_road_sign_140.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/047-LT_road_sign_140.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/LT_road_sign_140.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LT-141.svg",
+      "iso": "LT",
+      "id": "141",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LT_road_sign_141.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/048-LT_road_sign_141.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/048-LT_road_sign_141.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LT_road_sign_141.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LT-142.svg",
+      "iso": "LT",
+      "id": "142",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/LT_road_sign_142.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/049-LT_road_sign_142.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/049-LT_road_sign_142.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/LT_road_sign_142.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LT-143.svg",
+      "iso": "LT",
+      "id": "143",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/LT_road_sign_143.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/050-LT_road_sign_143.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/050-LT_road_sign_143.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/LT_road_sign_143.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LT-144.svg",
+      "iso": "LT",
+      "id": "144",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/LT_road_sign_144.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/051-LT_road_sign_144.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/051-LT_road_sign_144.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/LT_road_sign_144.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LT-145.svg",
+      "iso": "LT",
+      "id": "145",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LT_road_sign_145.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/052-LT_road_sign_145.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/052-LT_road_sign_145.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LT_road_sign_145.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/LT-146.svg",
+      "iso": "LT",
+      "id": "146",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/LT_road_sign_146.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/053-LT_road_sign_146.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/053-LT_road_sign_146.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/LT_road_sign_146.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LT-147.svg",
+      "iso": "LT",
+      "id": "147",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/LT_road_sign_147.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/054-LT_road_sign_147.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/054-LT_road_sign_147.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/LT_road_sign_147.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LT-148.svg",
+      "iso": "LT",
+      "id": "148",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/LT_road_sign_148.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/055-LT_road_sign_148.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/055-LT_road_sign_148.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/LT_road_sign_148.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/other/LT-150.svg",
+      "iso": "LT",
+      "id": "150",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/LT_road_sign_150.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/056-LT_road_sign_150.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/056-LT_road_sign_150.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/LT_road_sign_150.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/LT-151.svg",
+      "iso": "LT",
+      "id": "151",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LT_road_sign_151.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/057-LT_road_sign_151.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/057-LT_road_sign_151.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LT_road_sign_151.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "b_priority_signs/vienna/LT-203.svg",
+      "iso": "LT",
+      "id": "203",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LT_road_sign_203.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/060-LT_road_sign_203.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/060-LT_road_sign_203.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LT_road_sign_203.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.941
+    },
+    {
+      "filename": "b_priority_signs/vienna/LT-205.svg",
+      "iso": "LT",
+      "id": "205",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/LT_road_sign_205.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/062-LT_road_sign_205.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/062-LT_road_sign_205.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/LT_road_sign_205.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/LT-206.svg",
+      "iso": "LT",
+      "id": "206",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LT_road_sign_206.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/063-LT_road_sign_206.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/063-LT_road_sign_206.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LT_road_sign_206.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-301.svg",
+      "iso": "LT",
+      "id": "301",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LT_road_sign_301.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/064-LT_road_sign_301.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/064-LT_road_sign_301.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LT_road_sign_301.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-302.svg",
+      "iso": "LT",
+      "id": "302",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/LT_road_sign_302.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/065-LT_road_sign_302.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/065-LT_road_sign_302.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/LT_road_sign_302.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-303.svg",
+      "iso": "LT",
+      "id": "303",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/LT_road_sign_303.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/066-LT_road_sign_303.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/066-LT_road_sign_303.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/LT_road_sign_303.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-304.svg",
+      "iso": "LT",
+      "id": "304",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LT_road_sign_304.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/067-LT_road_sign_304.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/067-LT_road_sign_304.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LT_road_sign_304.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-305.svg",
+      "iso": "LT",
+      "id": "305",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LT_road_sign_305.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/068-LT_road_sign_305.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/068-LT_road_sign_305.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LT_road_sign_305.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-306.svg",
+      "iso": "LT",
+      "id": "306",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/LT_road_sign_306.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/069-LT_road_sign_306.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/069-LT_road_sign_306.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/LT_road_sign_306.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-307.svg",
+      "iso": "LT",
+      "id": "307",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LT_road_sign_307.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/070-LT_road_sign_307.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/070-LT_road_sign_307.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LT_road_sign_307.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-308.svg",
+      "iso": "LT",
+      "id": "308",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/LT_road_sign_308.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/071-LT_road_sign_308.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/071-LT_road_sign_308.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/LT_road_sign_308.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-309.svg",
+      "iso": "LT",
+      "id": "309",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LT_road_sign_309.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/072-LT_road_sign_309.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/072-LT_road_sign_309.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LT_road_sign_309.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-310.svg",
+      "iso": "LT",
+      "id": "310",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LT_road_sign_310.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/073-LT_road_sign_310.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/073-LT_road_sign_310.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LT_road_sign_310.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-311.svg",
+      "iso": "LT",
+      "id": "311",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/LT_road_sign_311.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/074-LT_road_sign_311.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/074-LT_road_sign_311.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/LT_road_sign_311.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-312.svg",
+      "iso": "LT",
+      "id": "312",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/LT_road_sign_312.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/075-LT_road_sign_312.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/075-LT_road_sign_312.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/LT_road_sign_312.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-313.svg",
+      "iso": "LT",
+      "id": "313",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/LT_road_sign_313.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/076-LT_road_sign_313.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/076-LT_road_sign_313.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/LT_road_sign_313.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-314.svg",
+      "iso": "LT",
+      "id": "314",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/LT_road_sign_314.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/077-LT_road_sign_314.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/077-LT_road_sign_314.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/LT_road_sign_314.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-315.svg",
+      "iso": "LT",
+      "id": "315",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LT_road_sign_315.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/078-LT_road_sign_315.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/078-LT_road_sign_315.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LT_road_sign_315.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-316.svg",
+      "iso": "LT",
+      "id": "316",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LT_road_sign_316.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/079-LT_road_sign_316.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/079-LT_road_sign_316.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LT_road_sign_316.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-317.svg",
+      "iso": "LT",
+      "id": "317",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LT_road_sign_317.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/080-LT_road_sign_317.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/080-LT_road_sign_317.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LT_road_sign_317.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-318.svg",
+      "iso": "LT",
+      "id": "318",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/LT_road_sign_318.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/081-LT_road_sign_318.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/081-LT_road_sign_318.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/LT_road_sign_318.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-319.svg",
+      "iso": "LT",
+      "id": "319",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LT_road_sign_319.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/082-LT_road_sign_319.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/082-LT_road_sign_319.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LT_road_sign_319.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-320.svg",
+      "iso": "LT",
+      "id": "320",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/LT_road_sign_320.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/083-LT_road_sign_320.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/083-LT_road_sign_320.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/LT_road_sign_320.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-320a.svg",
+      "iso": "LT",
+      "id": "320a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/LT_road_sign_320a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/084-LT_road_sign_320a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/084-LT_road_sign_320a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/LT_road_sign_320a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LT-321.svg",
+      "iso": "LT",
+      "id": "321",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/LT_road_sign_321.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/085-LT_road_sign_321.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/085-LT_road_sign_321.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/LT_road_sign_321.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-322.svg",
+      "iso": "LT",
+      "id": "322",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/LT_road_sign_322.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/086-LT_road_sign_322.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/086-LT_road_sign_322.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/LT_road_sign_322.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-323.svg",
+      "iso": "LT",
+      "id": "323",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/LT_road_sign_323.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/087-LT_road_sign_323.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/087-LT_road_sign_323.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/LT_road_sign_323.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-324.svg",
+      "iso": "LT",
+      "id": "324",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/LT_road_sign_324.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/088-LT_road_sign_324.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/088-LT_road_sign_324.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/LT_road_sign_324.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-325.svg",
+      "iso": "LT",
+      "id": "325",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LT_road_sign_325.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/089-LT_road_sign_325.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/089-LT_road_sign_325.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LT_road_sign_325.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-326.svg",
+      "iso": "LT",
+      "id": "326",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/LT_road_sign_326.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/090-LT_road_sign_326.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/090-LT_road_sign_326.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/LT_road_sign_326.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-327.svg",
+      "iso": "LT",
+      "id": "327",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/LT_road_sign_327.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/091-LT_road_sign_327.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/091-LT_road_sign_327.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/LT_road_sign_327.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-328.svg",
+      "iso": "LT",
+      "id": "328",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LT_road_sign_328.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/092-LT_road_sign_328.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/092-LT_road_sign_328.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LT_road_sign_328.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-329_50.svg",
+      "iso": "LT",
+      "id": "329",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/LT_road_sign_329_%2850%29.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/093-LT_road_sign_329_(50).svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/093-LT_road_sign_329_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/LT_road_sign_329_%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-330-50.svg",
+      "iso": "LT",
+      "id": "330-50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LT_road_sign_330-50.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/094-LT_road_sign_330-50.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/094-LT_road_sign_330-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LT_road_sign_330-50.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-331.svg",
+      "iso": "LT",
+      "id": "331",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/LT_road_sign_331.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/095-LT_road_sign_331.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/095-LT_road_sign_331.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/LT_road_sign_331.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-332.svg",
+      "iso": "LT",
+      "id": "332",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/LT_road_sign_332.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/096-LT_road_sign_332.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/096-LT_road_sign_332.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/LT_road_sign_332.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-333.svg",
+      "iso": "LT",
+      "id": "333",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_333.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/097-LT_road_sign_333.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/097-LT_road_sign_333.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LT_road_sign_333.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-334.svg",
+      "iso": "LT",
+      "id": "334",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/LT_road_sign_334.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/098-LT_road_sign_334.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/098-LT_road_sign_334.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/LT_road_sign_334.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-335.svg",
+      "iso": "LT",
+      "id": "335",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/LT_road_sign_335.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/099-LT_road_sign_335.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/099-LT_road_sign_335.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/LT_road_sign_335.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-336.svg",
+      "iso": "LT",
+      "id": "336",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/LT_road_sign_336.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/100-LT_road_sign_336.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/100-LT_road_sign_336.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/LT_road_sign_336.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-337.svg",
+      "iso": "LT",
+      "id": "337",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/LT_road_sign_337.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/101-LT_road_sign_337.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/101-LT_road_sign_337.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/LT_road_sign_337.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-338.svg",
+      "iso": "LT",
+      "id": "338",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LT_road_sign_338.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/102-LT_road_sign_338.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/102-LT_road_sign_338.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LT_road_sign_338.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/LT-339.svg",
+      "iso": "LT",
+      "id": "339",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LT_road_sign_339.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/103-LT_road_sign_339.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/103-LT_road_sign_339.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LT_road_sign_339.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-401.svg",
+      "iso": "LT",
+      "id": "401",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_401.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/104-LT_road_sign_401.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/104-LT_road_sign_401.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_401.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-402.svg",
+      "iso": "LT",
+      "id": "402",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/LT_road_sign_402.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/105-LT_road_sign_402.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/105-LT_road_sign_402.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/LT_road_sign_402.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-403.svg",
+      "iso": "LT",
+      "id": "403",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LT_road_sign_403.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/106-LT_road_sign_403.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/106-LT_road_sign_403.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LT_road_sign_403.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-404.svg",
+      "iso": "LT",
+      "id": "404",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LT_road_sign_404.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/107-LT_road_sign_404.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/107-LT_road_sign_404.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LT_road_sign_404.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-405.svg",
+      "iso": "LT",
+      "id": "405",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/LT_road_sign_405.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/108-LT_road_sign_405.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/108-LT_road_sign_405.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/LT_road_sign_405.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-406.svg",
+      "iso": "LT",
+      "id": "406",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/LT_road_sign_406.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/109-LT_road_sign_406.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/109-LT_road_sign_406.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/LT_road_sign_406.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-407.svg",
+      "iso": "LT",
+      "id": "407",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/LT_road_sign_407.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/110-LT_road_sign_407.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/110-LT_road_sign_407.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/LT_road_sign_407.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-408.svg",
+      "iso": "LT",
+      "id": "408",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LT_road_sign_408.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/111-LT_road_sign_408.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/111-LT_road_sign_408.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LT_road_sign_408.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-409.svg",
+      "iso": "LT",
+      "id": "409",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LT_road_sign_409.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/112-LT_road_sign_409.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/112-LT_road_sign_409.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LT_road_sign_409.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-410a.svg",
+      "iso": "LT",
+      "id": "410a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/LT_road_sign_410a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/113-LT_road_sign_410a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/113-LT_road_sign_410a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/LT_road_sign_410a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-410b.svg",
+      "iso": "LT",
+      "id": "410b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/LT_road_sign_410b.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/114-LT_road_sign_410b.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/114-LT_road_sign_410b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/LT_road_sign_410b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-411.svg",
+      "iso": "LT",
+      "id": "411",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/LT_road_sign_411.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/115-LT_road_sign_411.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/115-LT_road_sign_411.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/LT_road_sign_411.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-412.svg",
+      "iso": "LT",
+      "id": "412",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/LT_road_sign_412.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/116-LT_road_sign_412.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/116-LT_road_sign_412.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/LT_road_sign_412.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-413.svg",
+      "iso": "LT",
+      "id": "413",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/LT_road_sign_413.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/117-LT_road_sign_413.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/117-LT_road_sign_413.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/LT_road_sign_413.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-413a.svg",
+      "iso": "LT",
+      "id": "413a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/LT_road_sign_413a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/118-LT_road_sign_413a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/118-LT_road_sign_413a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/LT_road_sign_413a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-413b.svg",
+      "iso": "LT",
+      "id": "413b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/LT_road_sign_413b.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/119-LT_road_sign_413b.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/119-LT_road_sign_413b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/LT_road_sign_413b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-414.svg",
+      "iso": "LT",
+      "id": "414",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/LT_road_sign_414.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/120-LT_road_sign_414.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/120-LT_road_sign_414.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/LT_road_sign_414.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/LT-415.svg",
+      "iso": "LT",
+      "id": "415",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LT_road_sign_415.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/121-LT_road_sign_415.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/121-LT_road_sign_415.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LT_road_sign_415.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-501.svg",
+      "iso": "LT",
+      "id": "501",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/LT_road_sign_501.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/123-LT_road_sign_501.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/123-LT_road_sign_501.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/LT_road_sign_501.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-502.svg",
+      "iso": "LT",
+      "id": "502",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LT_road_sign_502.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/124-LT_road_sign_502.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/124-LT_road_sign_502.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LT_road_sign_502.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-503.svg",
+      "iso": "LT",
+      "id": "503",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/LT_road_sign_503.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/125-LT_road_sign_503.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/125-LT_road_sign_503.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/LT_road_sign_503.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-504.svg",
+      "iso": "LT",
+      "id": "504",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LT_road_sign_504.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/126-LT_road_sign_504.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/126-LT_road_sign_504.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LT_road_sign_504.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-505.svg",
+      "iso": "LT",
+      "id": "505",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LT_road_sign_505.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/127-LT_road_sign_505.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/127-LT_road_sign_505.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LT_road_sign_505.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-506.svg",
+      "iso": "LT",
+      "id": "506",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/LT_road_sign_506.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/128-LT_road_sign_506.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/128-LT_road_sign_506.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/LT_road_sign_506.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-507.svg",
+      "iso": "LT",
+      "id": "507",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/LT_road_sign_507.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/129-LT_road_sign_507.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/129-LT_road_sign_507.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/LT_road_sign_507.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-508.svg",
+      "iso": "LT",
+      "id": "508",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/LT_road_sign_508.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/130-LT_road_sign_508.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/130-LT_road_sign_508.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/LT_road_sign_508.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-509.svg",
+      "iso": "LT",
+      "id": "509",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/LT_road_sign_509.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/131-LT_road_sign_509.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/131-LT_road_sign_509.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/LT_road_sign_509.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-510.svg",
+      "iso": "LT",
+      "id": "510",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LT_road_sign_510.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/132-LT_road_sign_510.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/132-LT_road_sign_510.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LT_road_sign_510.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-513.svg",
+      "iso": "LT",
+      "id": "513",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LT_road_sign_513.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/133-LT_road_sign_513.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/133-LT_road_sign_513.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LT_road_sign_513.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-516.svg",
+      "iso": "LT",
+      "id": "516",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/LT_road_sign_516.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/134-LT_road_sign_516.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/134-LT_road_sign_516.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/LT_road_sign_516.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-517.svg",
+      "iso": "LT",
+      "id": "517",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/LT_road_sign_517.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/135-LT_road_sign_517.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/135-LT_road_sign_517.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/LT_road_sign_517.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-520.svg",
+      "iso": "LT",
+      "id": "520",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/LT_road_sign_520.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/136-LT_road_sign_520.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/136-LT_road_sign_520.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/LT_road_sign_520.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-521.svg",
+      "iso": "LT",
+      "id": "521",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_521.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/137-LT_road_sign_521.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/137-LT_road_sign_521.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_521.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-522.svg",
+      "iso": "LT",
+      "id": "522",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/LT_road_sign_522.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/138-LT_road_sign_522.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/138-LT_road_sign_522.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/LT_road_sign_522.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/LT-523.svg",
+      "iso": "LT",
+      "id": "523",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/LT_road_sign_523.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/139-LT_road_sign_523.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/139-LT_road_sign_523.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/LT_road_sign_523.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-524.svg",
+      "iso": "LT",
+      "id": "524",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LT_road_sign_524.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/140-LT_road_sign_524.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/140-LT_road_sign_524.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LT_road_sign_524.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-525.svg",
+      "iso": "LT",
+      "id": "525",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/LT_road_sign_525.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/141-LT_road_sign_525.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/141-LT_road_sign_525.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/LT_road_sign_525.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-526.svg",
+      "iso": "LT",
+      "id": "526",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/LT_road_sign_526.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/142-LT_road_sign_526.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/142-LT_road_sign_526.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/LT_road_sign_526.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-527.svg",
+      "iso": "LT",
+      "id": "527",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/LT_road_sign_527.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/143-LT_road_sign_527.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/143-LT_road_sign_527.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/LT_road_sign_527.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-528.svg",
+      "iso": "LT",
+      "id": "528",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LT_road_sign_528.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/144-LT_road_sign_528.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/144-LT_road_sign_528.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LT_road_sign_528.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-529.svg",
+      "iso": "LT",
+      "id": "529",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/LT_road_sign_529.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/145-LT_road_sign_529.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/145-LT_road_sign_529.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/LT_road_sign_529.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-530.svg",
+      "iso": "LT",
+      "id": "530",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/LT_road_sign_530.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/146-LT_road_sign_530.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/146-LT_road_sign_530.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/LT_road_sign_530.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-531.svg",
+      "iso": "LT",
+      "id": "531",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/LT_road_sign_531.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/147-LT_road_sign_531.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/147-LT_road_sign_531.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/LT_road_sign_531.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-532.svg",
+      "iso": "LT",
+      "id": "532",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LT_road_sign_532.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/148-LT_road_sign_532.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/148-LT_road_sign_532.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/LT_road_sign_532.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-533.svg",
+      "iso": "LT",
+      "id": "533",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LT_road_sign_533.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/149-LT_road_sign_533.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/149-LT_road_sign_533.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LT_road_sign_533.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-534.svg",
+      "iso": "LT",
+      "id": "534",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/LT_road_sign_534.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/150-LT_road_sign_534.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/150-LT_road_sign_534.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/LT_road_sign_534.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-535.svg",
+      "iso": "LT",
+      "id": "535",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/LT_road_sign_535.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/151-LT_road_sign_535.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/151-LT_road_sign_535.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/LT_road_sign_535.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-536.svg",
+      "iso": "LT",
+      "id": "536",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/LT_road_sign_536.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/152-LT_road_sign_536.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/152-LT_road_sign_536.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/LT_road_sign_536.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-537.svg",
+      "iso": "LT",
+      "id": "537",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LT_road_sign_537.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/153-LT_road_sign_537.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/153-LT_road_sign_537.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LT_road_sign_537.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-538.svg",
+      "iso": "LT",
+      "id": "538",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/LT_road_sign_538.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/154-LT_road_sign_538.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/154-LT_road_sign_538.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/LT_road_sign_538.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/LT-539_50.svg",
+      "iso": "LT",
+      "id": "539",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LT_road_sign_539_%2850%29.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/155-LT_road_sign_539_(50).svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/155-LT_road_sign_539_(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/LT_road_sign_539_%2850%29.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-540.svg",
+      "iso": "LT",
+      "id": "540",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/LT_road_sign_540.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/156-LT_road_sign_540.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/156-LT_road_sign_540.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/LT_road_sign_540.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-541.svg",
+      "iso": "LT",
+      "id": "541",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_541.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/157-LT_road_sign_541.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/157-LT_road_sign_541.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_541.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LT-542.svg",
+      "iso": "LT",
+      "id": "542",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LT_road_sign_542.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/158-LT_road_sign_542.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/158-LT_road_sign_542.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LT_road_sign_542.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-543.svg",
+      "iso": "LT",
+      "id": "543",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/LT_road_sign_543.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/159-LT_road_sign_543.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/159-LT_road_sign_543.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/LT_road_sign_543.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-544.svg",
+      "iso": "LT",
+      "id": "544",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LT_road_sign_544.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/160-LT_road_sign_544.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/160-LT_road_sign_544.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LT_road_sign_544.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/LT-545.svg",
+      "iso": "LT",
+      "id": "545",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LT_road_sign_545.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/161-LT_road_sign_545.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/161-LT_road_sign_545.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LT_road_sign_545.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-546.svg",
+      "iso": "LT",
+      "id": "546",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/LT_road_sign_546.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/162-LT_road_sign_546.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/162-LT_road_sign_546.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/LT_road_sign_546.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-547.svg",
+      "iso": "LT",
+      "id": "547",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LT_road_sign_547.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/163-LT_road_sign_547.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/163-LT_road_sign_547.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LT_road_sign_547.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-548.svg",
+      "iso": "LT",
+      "id": "548",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/LT_road_sign_548.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/164-LT_road_sign_548.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/164-LT_road_sign_548.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/LT_road_sign_548.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-549.svg",
+      "iso": "LT",
+      "id": "549",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LT_road_sign_549.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/165-LT_road_sign_549.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/165-LT_road_sign_549.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LT_road_sign_549.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-550.svg",
+      "iso": "LT",
+      "id": "550",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lithuania_road_sign_550.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/166-Lithuania_road_sign_550.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/166-Lithuania_road_sign_550.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lithuania_road_sign_550.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-550a.svg",
+      "iso": "LT",
+      "id": "550a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lithuania_road_sign_550a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/167-Lithuania_road_sign_550a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/167-Lithuania_road_sign_550a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lithuania_road_sign_550a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-550b.svg",
+      "iso": "LT",
+      "id": "550b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lithuania_road_sign_550b.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/168-Lithuania_road_sign_550b.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/168-Lithuania_road_sign_550b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lithuania_road_sign_550b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-551.svg",
+      "iso": "LT",
+      "id": "551",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lithuania_road_sign_551.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/169-Lithuania_road_sign_551.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/169-Lithuania_road_sign_551.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lithuania_road_sign_551.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-551a.svg",
+      "iso": "LT",
+      "id": "551a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lithuania_road_sign_551a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/170-Lithuania_road_sign_551a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/170-Lithuania_road_sign_551a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lithuania_road_sign_551a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-551b.svg",
+      "iso": "LT",
+      "id": "551b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lithuania_road_sign_551b.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/171-Lithuania_road_sign_551b.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/171-Lithuania_road_sign_551b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lithuania_road_sign_551b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-552.svg",
+      "iso": "LT",
+      "id": "552",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LT_road_sign_552.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/172-LT_road_sign_552.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/172-LT_road_sign_552.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LT_road_sign_552.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-553.svg",
+      "iso": "LT",
+      "id": "553",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LT_road_sign_553.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/173-LT_road_sign_553.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/173-LT_road_sign_553.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LT_road_sign_553.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/LT-554.svg",
+      "iso": "LT",
+      "id": "554",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LT_road_sign_554.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/174-LT_road_sign_554.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/174-LT_road_sign_554.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/LT_road_sign_554.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-555.svg",
+      "iso": "LT",
+      "id": "555",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LT_road_sign_555.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/175-LT_road_sign_555.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/175-LT_road_sign_555.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LT_road_sign_555.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/LT-556.svg",
+      "iso": "LT",
+      "id": "556",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LT_road_sign_556.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/176-LT_road_sign_556.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/176-LT_road_sign_556.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LT_road_sign_556.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LT-557.svg",
+      "iso": "LT",
+      "id": "557",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LT_road_sign_557.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/177-LT_road_sign_557.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/177-LT_road_sign_557.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LT_road_sign_557.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-558.svg",
+      "iso": "LT",
+      "id": "558",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LT_road_sign_558.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/178-LT_road_sign_558.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/178-LT_road_sign_558.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LT_road_sign_558.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-601.svg",
+      "iso": "LT",
+      "id": "601",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_601.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/179-LT_road_sign_601.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/179-LT_road_sign_601.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/LT_road_sign_601.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-602.svg",
+      "iso": "LT",
+      "id": "602",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/LT_road_sign_602.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/180-LT_road_sign_602.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/180-LT_road_sign_602.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/LT_road_sign_602.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LT-603.svg",
+      "iso": "LT",
+      "id": "603",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/LT_road_sign_603.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/181-LT_road_sign_603.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/181-LT_road_sign_603.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/LT_road_sign_603.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/LT-605.svg",
+      "iso": "LT",
+      "id": "605",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LT_road_sign_605.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/183-LT_road_sign_605.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/183-LT_road_sign_605.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LT_road_sign_605.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-606.svg",
+      "iso": "LT",
+      "id": "606",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LT_road_sign_606.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/184-LT_road_sign_606.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/184-LT_road_sign_606.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/LT_road_sign_606.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-608.svg",
+      "iso": "LT",
+      "id": "608",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LT_road_sign_608.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/182-LT_road_sign_608.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/182-LT_road_sign_608.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LT_road_sign_608.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-612.svg",
+      "iso": "LT",
+      "id": "612",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_612.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/188-LT_road_sign_612.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/188-LT_road_sign_612.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_612.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-613.svg",
+      "iso": "LT",
+      "id": "613",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/LT_road_sign_613.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/189-LT_road_sign_613.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/189-LT_road_sign_613.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/LT_road_sign_613.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-614.svg",
+      "iso": "LT",
+      "id": "614",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/LT_road_sign_614.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/190-LT_road_sign_614.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/190-LT_road_sign_614.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/LT_road_sign_614.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/LT-617.svg",
+      "iso": "LT",
+      "id": "617",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/LT_road_sign_617.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/191-LT_road_sign_617.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/191-LT_road_sign_617.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/LT_road_sign_617.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-618.svg",
+      "iso": "LT",
+      "id": "618",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LT_road_sign_618.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/192-LT_road_sign_618.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/192-LT_road_sign_618.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LT_road_sign_618.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/LT-619.svg",
+      "iso": "LT",
+      "id": "619",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lithuania_road_sign_619.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/193-Lithuania_road_sign_619.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/193-Lithuania_road_sign_619.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lithuania_road_sign_619.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/LT-620.svg",
+      "iso": "LT",
+      "id": "620",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LT_road_sign_620.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/194-LT_road_sign_620.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/194-LT_road_sign_620.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LT_road_sign_620.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/LT-624.svg",
+      "iso": "LT",
+      "id": "624",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/LT_road_sign_624.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/198-LT_road_sign_624.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/198-LT_road_sign_624.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/LT_road_sign_624.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LT-625.svg",
+      "iso": "LT",
+      "id": "625",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lithuania_road_sign_625.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/199-Lithuania_road_sign_625.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/199-Lithuania_road_sign_625.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lithuania_road_sign_625.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LT-626.svg",
+      "iso": "LT",
+      "id": "626",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lithuania_road_sign_626.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/200-Lithuania_road_sign_626.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/200-Lithuania_road_sign_626.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lithuania_road_sign_626.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LT-627.svg",
+      "iso": "LT",
+      "id": "627",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lithuania_road_sign_627.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/201-Lithuania_road_sign_627.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/201-Lithuania_road_sign_627.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lithuania_road_sign_627.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/LT-635.svg",
+      "iso": "LT",
+      "id": "635",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/LT_road_sign_635.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/202-LT_road_sign_635.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/202-LT_road_sign_635.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/LT_road_sign_635.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/LT-636.svg",
+      "iso": "LT",
+      "id": "636",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/LT_road_sign_636.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/203-LT_road_sign_636.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/203-LT_road_sign_636.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/LT_road_sign_636.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.99
+    },
+    {
+      "filename": "sd_unclassified/other/LT-636a.svg",
+      "iso": "LT",
+      "id": "636a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/LT_road_sign_636a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/204-LT_road_sign_636a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/204-LT_road_sign_636a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/LT_road_sign_636a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-703.svg",
+      "iso": "LT",
+      "id": "703",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/LT_road_sign_703.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/207-LT_road_sign_703.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/207-LT_road_sign_703.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/LT_road_sign_703.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-704.svg",
+      "iso": "LT",
+      "id": "704",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/LT_road_sign_704.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/208-LT_road_sign_704.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/208-LT_road_sign_704.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/LT_road_sign_704.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-707.svg",
+      "iso": "LT",
+      "id": "707",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LT_road_sign_707.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/211-LT_road_sign_707.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/211-LT_road_sign_707.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LT_road_sign_707.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-708.svg",
+      "iso": "LT",
+      "id": "708",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/LT_road_sign_708.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/212-LT_road_sign_708.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/212-LT_road_sign_708.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/LT_road_sign_708.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-711.svg",
+      "iso": "LT",
+      "id": "711",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/LT_road_sign_711.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/215-LT_road_sign_711.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/215-LT_road_sign_711.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/LT_road_sign_711.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-712.svg",
+      "iso": "LT",
+      "id": "712",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LT_road_sign_712.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/216-LT_road_sign_712.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/216-LT_road_sign_712.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LT_road_sign_712.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-714.svg",
+      "iso": "LT",
+      "id": "714",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/LT_road_sign_714.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/218-LT_road_sign_714.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/218-LT_road_sign_714.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/LT_road_sign_714.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-715.svg",
+      "iso": "LT",
+      "id": "715",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LT_road_sign_715.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/219-LT_road_sign_715.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/219-LT_road_sign_715.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LT_road_sign_715.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-716.svg",
+      "iso": "LT",
+      "id": "716",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/LT_road_sign_716.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/220-LT_road_sign_716.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/220-LT_road_sign_716.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/LT_road_sign_716.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-719.svg",
+      "iso": "LT",
+      "id": "719",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/LT_road_sign_719.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/222-LT_road_sign_719.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/222-LT_road_sign_719.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/LT_road_sign_719.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-720.svg",
+      "iso": "LT",
+      "id": "720",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/LT_road_sign_720.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/223-LT_road_sign_720.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/223-LT_road_sign_720.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/LT_road_sign_720.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-722.svg",
+      "iso": "LT",
+      "id": "722",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/LT_road_sign_722.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/224-LT_road_sign_722.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/224-LT_road_sign_722.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/LT_road_sign_722.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/LT-723.svg",
+      "iso": "LT",
+      "id": "723",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_723.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/225-LT_road_sign_723.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/225-LT_road_sign_723.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LT_road_sign_723.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-724.svg",
+      "iso": "LT",
+      "id": "724",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/LT_road_sign_724.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/226-LT_road_sign_724.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/226-LT_road_sign_724.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/LT_road_sign_724.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-725.svg",
+      "iso": "LT",
+      "id": "725",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/LT_road_sign_725.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/227-LT_road_sign_725.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/227-LT_road_sign_725.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/LT_road_sign_725.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-726.svg",
+      "iso": "LT",
+      "id": "726",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lithuania_road_sign_726.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/228-Lithuania_road_sign_726.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/228-Lithuania_road_sign_726.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lithuania_road_sign_726.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-727.svg",
+      "iso": "LT",
+      "id": "727",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lithuania_road_sign_727.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/229-Lithuania_road_sign_727.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/229-Lithuania_road_sign_727.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lithuania_road_sign_727.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-728.svg",
+      "iso": "LT",
+      "id": "728",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lithuania_road_sign_728.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/230-Lithuania_road_sign_728.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/230-Lithuania_road_sign_728.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lithuania_road_sign_728.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-729.svg",
+      "iso": "LT",
+      "id": "729",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lithuania_road_sign_729.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/231-Lithuania_road_sign_729.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/231-Lithuania_road_sign_729.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lithuania_road_sign_729.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-730.svg",
+      "iso": "LT",
+      "id": "730",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lithuania_road_sign_730.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/232-Lithuania_road_sign_730.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/232-Lithuania_road_sign_730.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lithuania_road_sign_730.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-731.svg",
+      "iso": "LT",
+      "id": "731",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LT_road_sign_731.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/233-LT_road_sign_731.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/233-LT_road_sign_731.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LT_road_sign_731.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/LT-732.svg",
+      "iso": "LT",
+      "id": "732",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/LT_road_sign_732.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/234-LT_road_sign_732.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/234-LT_road_sign_732.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/LT_road_sign_732.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/vienna/LT-801.svg",
+      "iso": "LT",
+      "id": "801",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LT_road_sign_801.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/235-LT_road_sign_801.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/235-LT_road_sign_801.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LT_road_sign_801.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-802.svg",
+      "iso": "LT",
+      "id": "802",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lithuania_road_sign_802.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/236-Lithuania_road_sign_802.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/236-Lithuania_road_sign_802.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lithuania_road_sign_802.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-803.svg",
+      "iso": "LT",
+      "id": "803",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithuania_road_sign_803.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/237-Lithuania_road_sign_803.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/237-Lithuania_road_sign_803.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithuania_road_sign_803.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-804.svg",
+      "iso": "LT",
+      "id": "804",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lithuania_road_sign_804.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/238-Lithuania_road_sign_804.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/238-Lithuania_road_sign_804.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lithuania_road_sign_804.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-805.svg",
+      "iso": "LT",
+      "id": "805",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lithuania_road_sign_805.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/239-Lithuania_road_sign_805.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/239-Lithuania_road_sign_805.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lithuania_road_sign_805.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/LT-806.svg",
+      "iso": "LT",
+      "id": "806",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lithuania_road_sign_806.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/240-Lithuania_road_sign_806.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/240-Lithuania_road_sign_806.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lithuania_road_sign_806.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-820.svg",
+      "iso": "LT",
+      "id": "820",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lithuania_road_sign_820.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/251-Lithuania_road_sign_820.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/251-Lithuania_road_sign_820.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lithuania_road_sign_820.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/LT-824.svg",
+      "iso": "LT",
+      "id": "824",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lithuania_road_sign_824.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/256-Lithuania_road_sign_824.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/256-Lithuania_road_sign_824.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lithuania_road_sign_824.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-825.svg",
+      "iso": "LT",
+      "id": "825",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lithuania_road_sign_825.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/257-Lithuania_road_sign_825.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/257-Lithuania_road_sign_825.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lithuania_road_sign_825.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-826.svg",
+      "iso": "LT",
+      "id": "826",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lithuania_road_sign_826.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/258-Lithuania_road_sign_826.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/258-Lithuania_road_sign_826.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lithuania_road_sign_826.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-827.svg",
+      "iso": "LT",
+      "id": "827",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lithuania_road_sign_827.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/259-Lithuania_road_sign_827.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/259-Lithuania_road_sign_827.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lithuania_road_sign_827.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-828.svg",
+      "iso": "LT",
+      "id": "828",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lithuania_road_sign_828.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/260-Lithuania_road_sign_828.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/260-Lithuania_road_sign_828.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lithuania_road_sign_828.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-829.svg",
+      "iso": "LT",
+      "id": "829",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lithuania_road_sign_829.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/261-Lithuania_road_sign_829.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/261-Lithuania_road_sign_829.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lithuania_road_sign_829.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-840.svg",
+      "iso": "LT",
+      "id": "840",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lithuania_road_sign_840.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/267-Lithuania_road_sign_840.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/267-Lithuania_road_sign_840.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lithuania_road_sign_840.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-840a.svg",
+      "iso": "LT",
+      "id": "840a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lithuania_road_sign_840a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/268-Lithuania_road_sign_840a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/268-Lithuania_road_sign_840a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lithuania_road_sign_840a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-841.svg",
+      "iso": "LT",
+      "id": "841",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lithuania_road_sign_841.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/269-Lithuania_road_sign_841.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/269-Lithuania_road_sign_841.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lithuania_road_sign_841.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-843.svg",
+      "iso": "LT",
+      "id": "843",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lithuania_road_sign_843.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/271-Lithuania_road_sign_843.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/271-Lithuania_road_sign_843.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lithuania_road_sign_843.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-846.svg",
+      "iso": "LT",
+      "id": "846",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lithuania_road_sign_846.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/274-Lithuania_road_sign_846.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/274-Lithuania_road_sign_846.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lithuania_road_sign_846.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-847.svg",
+      "iso": "LT",
+      "id": "847",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lithuania_road_sign_847.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/275-Lithuania_road_sign_847.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/275-Lithuania_road_sign_847.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lithuania_road_sign_847.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-848.svg",
+      "iso": "LT",
+      "id": "848",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Lithuania_road_sign_848.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/276-Lithuania_road_sign_848.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/276-Lithuania_road_sign_848.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Lithuania_road_sign_848.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-849.svg",
+      "iso": "LT",
+      "id": "849",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lithuania_road_sign_849.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/277-Lithuania_road_sign_849.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/277-Lithuania_road_sign_849.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lithuania_road_sign_849.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-849a.svg",
+      "iso": "LT",
+      "id": "849a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lithuania_road_sign_849a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/278-Lithuania_road_sign_849a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/278-Lithuania_road_sign_849a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Lithuania_road_sign_849a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-850.svg",
+      "iso": "LT",
+      "id": "850",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lithuania_road_sign_850.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/279-Lithuania_road_sign_850.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/279-Lithuania_road_sign_850.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lithuania_road_sign_850.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-850a.svg",
+      "iso": "LT",
+      "id": "850a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lithuania_road_sign_850a.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/280-Lithuania_road_sign_850a.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/280-Lithuania_road_sign_850a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lithuania_road_sign_850a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-851.svg",
+      "iso": "LT",
+      "id": "851",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lithuania_road_sign_851.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/281-Lithuania_road_sign_851.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/281-Lithuania_road_sign_851.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lithuania_road_sign_851.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-853.svg",
+      "iso": "LT",
+      "id": "853",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lithuania_road_sign_853.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/282-Lithuania_road_sign_853.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/282-Lithuania_road_sign_853.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lithuania_road_sign_853.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-854.svg",
+      "iso": "LT",
+      "id": "854",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Lithuania_road_sign_854.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/283-Lithuania_road_sign_854.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/283-Lithuania_road_sign_854.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Lithuania_road_sign_854.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/LT-855.svg",
+      "iso": "LT",
+      "id": "855",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lithuania_road_sign_855.svg",
+      "kept_from": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/284-Lithuania_road_sign_855.svg",
+      "sources": [
+        {
+          "file": "LT_Lithuania/wikipedia/01-it_Segnaletica_stradale_in_Lituania/284-Lithuania_road_sign_855.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lithuania_road_sign_855.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    }
+  ]
+}

@@ -1,0 +1,4030 @@
+{
+  "country_code": "BG",
+  "country": "Bulgaria",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A1.svg",
+      "iso": "BG",
+      "id": "A1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/BG_road_sign_%D0%901.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/004-BG_road_sign_А1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/004-BG_road_sign_А1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/BG_road_sign_%D0%901.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A10.svg",
+      "iso": "BG",
+      "id": "A10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/BG_road_sign_%D0%9010.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/013-BG_road_sign_А10.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/013-BG_road_sign_А10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/BG_road_sign_%D0%9010.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A11.svg",
+      "iso": "BG",
+      "id": "A11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/BG_road_sign_%D0%9011.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/014-BG_road_sign_А11.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/014-BG_road_sign_А11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/BG_road_sign_%D0%9011.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A12.svg",
+      "iso": "BG",
+      "id": "A12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/BG_road_sign_%D0%9012.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/015-BG_road_sign_А12.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/015-BG_road_sign_А12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/BG_road_sign_%D0%9012.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A13.svg",
+      "iso": "BG",
+      "id": "A13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/BG_road_sign_%D0%9013.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/016-BG_road_sign_А13.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/016-BG_road_sign_А13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/BG_road_sign_%D0%9013.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A14.svg",
+      "iso": "BG",
+      "id": "A14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%9014.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/017-BG_road_sign_А14.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/017-BG_road_sign_А14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%9014.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A15.svg",
+      "iso": "BG",
+      "id": "A15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/BG_road_sign_%D0%9015.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/018-BG_road_sign_А15.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/018-BG_road_sign_А15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/BG_road_sign_%D0%9015.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A16.svg",
+      "iso": "BG",
+      "id": "A16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/BG_road_sign_%D0%9016.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/019-BG_road_sign_А16.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/019-BG_road_sign_А16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/BG_road_sign_%D0%9016.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A17.svg",
+      "iso": "BG",
+      "id": "A17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/BG_road_sign_%D0%9017.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/020-BG_road_sign_А17.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/020-BG_road_sign_А17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/BG_road_sign_%D0%9017.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A18.svg",
+      "iso": "BG",
+      "id": "A18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/BG_road_sign_%D0%9018.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/021-BG_road_sign_А18.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/021-BG_road_sign_А18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/BG_road_sign_%D0%9018.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A19.svg",
+      "iso": "BG",
+      "id": "A19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/BG_road_sign_%D0%9019.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/022-BG_road_sign_А19.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/022-BG_road_sign_А19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/BG_road_sign_%D0%9019.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A2.svg",
+      "iso": "BG",
+      "id": "A2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/BG_road_sign_%D0%902.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/005-BG_road_sign_А2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/005-BG_road_sign_А2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/BG_road_sign_%D0%902.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A20.svg",
+      "iso": "BG",
+      "id": "A20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/BG_road_sign_%D0%9020.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/023-BG_road_sign_А20.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/023-BG_road_sign_А20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/BG_road_sign_%D0%9020.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A21.svg",
+      "iso": "BG",
+      "id": "A21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BG_road_sign_%D0%9021.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/024-BG_road_sign_А21.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/024-BG_road_sign_А21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BG_road_sign_%D0%9021.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A22.svg",
+      "iso": "BG",
+      "id": "A22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/BG_road_sign_%D0%9022.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/025-BG_road_sign_А22.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/025-BG_road_sign_А22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/BG_road_sign_%D0%9022.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A23.svg",
+      "iso": "BG",
+      "id": "A23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/BG_road_sign_%D0%9023.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/026-BG_road_sign_А23.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/026-BG_road_sign_А23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/BG_road_sign_%D0%9023.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A24.svg",
+      "iso": "BG",
+      "id": "A24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/BG_road_sign_%D0%9024.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/027-BG_road_sign_А24.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/027-BG_road_sign_А24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/BG_road_sign_%D0%9024.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A25.svg",
+      "iso": "BG",
+      "id": "A25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/BG_road_sign_%D0%9025.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/028-BG_road_sign_А25.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/028-BG_road_sign_А25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/BG_road_sign_%D0%9025.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A26.svg",
+      "iso": "BG",
+      "id": "A26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/BG_road_sign_%D0%9026.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/029-BG_road_sign_А26.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/029-BG_road_sign_А26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/BG_road_sign_%D0%9026.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A27.svg",
+      "iso": "BG",
+      "id": "A27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BG_road_sign_%D0%9027.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/030-BG_road_sign_А27.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/030-BG_road_sign_А27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BG_road_sign_%D0%9027.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A28.svg",
+      "iso": "BG",
+      "id": "A28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/BG_road_sign_%D0%9028.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/031-BG_road_sign_А28.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/031-BG_road_sign_А28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/BG_road_sign_%D0%9028.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A29.svg",
+      "iso": "BG",
+      "id": "A29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/BG_road_sign_%D0%9029.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/032-BG_road_sign_А29.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/032-BG_road_sign_А29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/BG_road_sign_%D0%9029.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A3.svg",
+      "iso": "BG",
+      "id": "A3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/BG_road_sign_%D0%903.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/006-BG_road_sign_А3.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/006-BG_road_sign_А3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/BG_road_sign_%D0%903.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A30.svg",
+      "iso": "BG",
+      "id": "A30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/BG_road_sign_%D0%9030.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/033-BG_road_sign_А30.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/033-BG_road_sign_А30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/BG_road_sign_%D0%9030.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A31.svg",
+      "iso": "BG",
+      "id": "A31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/BG_road_sign_%D0%9031.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/034-BG_road_sign_А31.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/034-BG_road_sign_А31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/BG_road_sign_%D0%9031.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A32.svg",
+      "iso": "BG",
+      "id": "A32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/BG_road_sign_%D0%9032.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/035-BG_road_sign_А32.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/035-BG_road_sign_А32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/BG_road_sign_%D0%9032.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A33.svg",
+      "iso": "BG",
+      "id": "A33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/BG_road_sign_%D0%9033.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/036-BG_road_sign_А33.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/036-BG_road_sign_А33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/BG_road_sign_%D0%9033.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A34.1.svg",
+      "iso": "BG",
+      "id": "A34.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/BG_road_sign_%D0%9034.1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/037-BG_road_sign_А34.1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/037-BG_road_sign_А34.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/BG_road_sign_%D0%9034.1.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.472
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A34.2.svg",
+      "iso": "BG",
+      "id": "A34.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/BG_road_sign_%D0%9034.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/038-BG_road_sign_А34.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/038-BG_road_sign_А34.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/BG_road_sign_%D0%9034.2.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.472
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A35.1D.svg",
+      "iso": "BG",
+      "id": "A35.1D",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/BG_road_sign_%D0%9035.1%D0%94.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/039-BG_road_sign_А35.1Д.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/039-BG_road_sign_А35.1Д.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/BG_road_sign_%D0%9035.1%D0%94.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A35.1L.svg",
+      "iso": "BG",
+      "id": "A35.1L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/BG_road_sign_%D0%9035.1%D0%9B.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/040-BG_road_sign_А35.1Л.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/040-BG_road_sign_А35.1Л.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/BG_road_sign_%D0%9035.1%D0%9B.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A35.2D.svg",
+      "iso": "BG",
+      "id": "A35.2D",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/BG_road_sign_%D0%9035.2%D0%94.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/041-BG_road_sign_А35.2Д.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/041-BG_road_sign_А35.2Д.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/BG_road_sign_%D0%9035.2%D0%94.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A35.2L.svg",
+      "iso": "BG",
+      "id": "A35.2L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/BG_road_sign_%D0%9035.2%D0%9B.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/042-BG_road_sign_А35.2Л.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/042-BG_road_sign_А35.2Л.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/BG_road_sign_%D0%9035.2%D0%9B.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A35.3D.svg",
+      "iso": "BG",
+      "id": "A35.3D",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/BG_road_sign_%D0%9035.3%D0%94.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/043-BG_road_sign_А35.3Д.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/043-BG_road_sign_А35.3Д.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/BG_road_sign_%D0%9035.3%D0%94.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A35.3L.svg",
+      "iso": "BG",
+      "id": "A35.3L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/BG_road_sign_%D0%9035.3%D0%9B.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/044-BG_road_sign_А35.3Л.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/044-BG_road_sign_А35.3Л.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/BG_road_sign_%D0%9035.3%D0%9B.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A36.svg",
+      "iso": "BG",
+      "id": "A36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/BG_road_sign_%D0%9036.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/045-BG_road_sign_А36.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/045-BG_road_sign_А36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/BG_road_sign_%D0%9036.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A37.svg",
+      "iso": "BG",
+      "id": "A37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/BG_road_sign_%D0%9037.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/046-BG_road_sign_А37.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/046-BG_road_sign_А37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/BG_road_sign_%D0%9037.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BG-A38.svg",
+      "iso": "BG",
+      "id": "A38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/BG_road_sign_%D0%9038.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/047-BG_road_sign_А38.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/047-BG_road_sign_А38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/BG_road_sign_%D0%9038.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A39.svg",
+      "iso": "BG",
+      "id": "A39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/BG_road_sign_%D0%9039.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/048-BG_road_sign_А39.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/048-BG_road_sign_А39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/BG_road_sign_%D0%9039.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A4.svg",
+      "iso": "BG",
+      "id": "A4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/BG_road_sign_%D0%904.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/007-BG_road_sign_А4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/007-BG_road_sign_А4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/BG_road_sign_%D0%904.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BG-A40.svg",
+      "iso": "BG",
+      "id": "A40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/BG_road_sign_%D0%9040.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/049-BG_road_sign_А40.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/049-BG_road_sign_А40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/BG_road_sign_%D0%9040.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A41.svg",
+      "iso": "BG",
+      "id": "A41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%9041.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/050-BG_road_sign_А41.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/050-BG_road_sign_А41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%9041.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A42.svg",
+      "iso": "BG",
+      "id": "A42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%9042.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/051-BG_road_sign_А42.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/051-BG_road_sign_А42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%9042.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/BG-A43.svg",
+      "iso": "BG",
+      "id": "A43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/BG_road_sign_%D0%9043.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/052-BG_road_sign_А43.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/052-BG_road_sign_А43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/BG_road_sign_%D0%9043.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A5.svg",
+      "iso": "BG",
+      "id": "A5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BG_road_sign_%D0%905.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/008-BG_road_sign_А5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/008-BG_road_sign_А5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BG_road_sign_%D0%905.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A6.svg",
+      "iso": "BG",
+      "id": "A6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/BG_road_sign_%D0%906.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/009-BG_road_sign_А6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/009-BG_road_sign_А6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/BG_road_sign_%D0%906.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A7.svg",
+      "iso": "BG",
+      "id": "A7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/BG_road_sign_%D0%907.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/010-BG_road_sign_А7.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/010-BG_road_sign_А7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/BG_road_sign_%D0%907.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A8.svg",
+      "iso": "BG",
+      "id": "A8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/BG_road_sign_%D0%908.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/011-BG_road_sign_А8.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/011-BG_road_sign_А8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/BG_road_sign_%D0%908.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/BG-A9.svg",
+      "iso": "BG",
+      "id": "A9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/BG_road_sign_%D0%909.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/012-BG_road_sign_А9.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/012-BG_road_sign_А9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/BG_road_sign_%D0%909.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "b_priority_signs/vienna/BG-B1.svg",
+      "iso": "BG",
+      "id": "B1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%911.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/053-BG_road_sign_Б1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/053-BG_road_sign_Б1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%911.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.942
+    },
+    {
+      "filename": "b_priority_signs/vienna/BG-B2.svg",
+      "iso": "BG",
+      "id": "B2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/BG_road_sign_%D0%912.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/055-BG_road_sign_Б2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/055-BG_road_sign_Б2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/BG_road_sign_%D0%912.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/BG-B3.svg",
+      "iso": "BG",
+      "id": "B3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BG_road_sign_%D0%913.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/056-BG_road_sign_Б3.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/056-BG_road_sign_Б3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BG_road_sign_%D0%913.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "b_priority_signs/vienna/BG-B4.svg",
+      "iso": "BG",
+      "id": "B4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/BG_road_sign_%D0%914.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/057-BG_road_sign_Б4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/057-BG_road_sign_Б4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/BG_road_sign_%D0%914.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "b_priority_signs/vienna/BG-B5.svg",
+      "iso": "BG",
+      "id": "B5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/BG_road_sign_%D0%915.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/058-BG_road_sign_Б5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/058-BG_road_sign_Б5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/BG_road_sign_%D0%915.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "b_priority_signs/vienna/BG-B6.svg",
+      "iso": "BG",
+      "id": "B6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/BG_road_sign_%D0%916.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/059-BG_road_sign_Б6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/059-BG_road_sign_Б6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/BG_road_sign_%D0%916.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D10.svg",
+      "iso": "BG",
+      "id": "D10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bulgaria_road_sign_%D0%9410.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/133-Bulgaria_road_sign_Д10.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/133-Bulgaria_road_sign_Д10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bulgaria_road_sign_%D0%9410.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D12.svg",
+      "iso": "BG",
+      "id": "D12",
+      "description": "pure",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bulgaria_road_sign_%D0%9412_pure.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/135-Bulgaria_road_sign_Д12_pure.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/135-Bulgaria_road_sign_Д12_pure.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bulgaria_road_sign_%D0%9412_pure.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D13.2.svg",
+      "iso": "BG",
+      "id": "D13.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bulgaria_road_sign_%D0%9413.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/137-Bulgaria_road_sign_Д13.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/137-Bulgaria_road_sign_Д13.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bulgaria_road_sign_%D0%9413.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D13.svg",
+      "iso": "BG",
+      "id": "D13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bulgaria_road_sign_%D0%9413.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/136-Bulgaria_road_sign_Д13.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/136-Bulgaria_road_sign_Д13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bulgaria_road_sign_%D0%9413.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D14.2.svg",
+      "iso": "BG",
+      "id": "D14.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bulgaria_road_sign_%D0%9414.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/139-Bulgaria_road_sign_Д14.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/139-Bulgaria_road_sign_Д14.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bulgaria_road_sign_%D0%9414.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D14.svg",
+      "iso": "BG",
+      "id": "D14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bulgaria_road_sign_%D0%9414.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/140-Bulgaria_road_sign_Д14.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/140-Bulgaria_road_sign_Д14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bulgaria_road_sign_%D0%9414.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D14_ChiB.svg",
+      "iso": "BG",
+      "id": "D14_ChiB",
+      "description": "ЧиБ",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bulgaria_road_sign_%D0%9414_%D0%A7%D0%B8%D0%91.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/138-Bulgaria_road_sign_Д14_ЧиБ.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/138-Bulgaria_road_sign_Д14_ЧиБ.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bulgaria_road_sign_%D0%9414_%D0%A7%D0%B8%D0%91.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-D15.svg",
+      "iso": "BG",
+      "id": "D15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bulgaria_road_sign_%D0%9415.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/141-Bulgaria_road_sign_Д15.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/141-Bulgaria_road_sign_Д15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bulgaria_road_sign_%D0%9415.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-D16.svg",
+      "iso": "BG",
+      "id": "D16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bulgaria_road_sign_%D0%9416.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/142-Bulgaria_road_sign_Д16.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/142-Bulgaria_road_sign_Д16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bulgaria_road_sign_%D0%9416.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D17.svg",
+      "iso": "BG",
+      "id": "D17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bulgaria_road_sign_%D0%9417.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/143-Bulgaria_road_sign_Д17.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/143-Bulgaria_road_sign_Д17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bulgaria_road_sign_%D0%9417.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D18.svg",
+      "iso": "BG",
+      "id": "D18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bulgaria_road_sign_%D0%9418.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/144-Bulgaria_road_sign_Д18.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/144-Bulgaria_road_sign_Д18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bulgaria_road_sign_%D0%9418.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D19.svg",
+      "iso": "BG",
+      "id": "D19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/BG_road_sign_%D0%9419.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/145-BG_road_sign_Д19.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/145-BG_road_sign_Д19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/BG_road_sign_%D0%9419.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-D1a.svg",
+      "iso": "BG",
+      "id": "D1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/BG_road_sign_%D0%941a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/118-BG_road_sign_Д1a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/118-BG_road_sign_Д1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/BG_road_sign_%D0%941a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-D1b.svg",
+      "iso": "BG",
+      "id": "D1b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BG_road_sign_%D0%941b.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/119-BG_road_sign_Д1b.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/119-BG_road_sign_Д1b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BG_road_sign_%D0%941b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D1c.svg",
+      "iso": "BG",
+      "id": "D1c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/BG_road_sign_%D0%941c.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/120-BG_road_sign_Д1c.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/120-BG_road_sign_Д1c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/BG_road_sign_%D0%941c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-D20.svg",
+      "iso": "BG",
+      "id": "D20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/BG_road_sign_%D0%9420.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/146-BG_road_sign_Д20.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/146-BG_road_sign_Д20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/BG_road_sign_%D0%9420.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-D21.svg",
+      "iso": "BG",
+      "id": "D21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bulgaria_road_sign_%D0%9421.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/147-Bulgaria_road_sign_Д21.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/147-Bulgaria_road_sign_Д21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bulgaria_road_sign_%D0%9421.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D22.svg",
+      "iso": "BG",
+      "id": "D22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/BG_road_sign_%D0%9422.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/148-BG_road_sign_Д22.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/148-BG_road_sign_Д22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/BG_road_sign_%D0%9422.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D23.svg",
+      "iso": "BG",
+      "id": "D23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/BG_road_sign_%D0%9423.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/149-BG_road_sign_Д23.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/149-BG_road_sign_Д23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/BG_road_sign_%D0%9423.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D24.svg",
+      "iso": "BG",
+      "id": "D24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BG_road_sign_%D0%9424.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/150-BG_road_sign_Д24.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/150-BG_road_sign_Д24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BG_road_sign_%D0%9424.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D25.1.svg",
+      "iso": "BG",
+      "id": "D25.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bulgaria_road_sign_%D0%9425.1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/152-Bulgaria_road_sign_Д25.1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/152-Bulgaria_road_sign_Д25.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bulgaria_road_sign_%D0%9425.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-D25.2.svg",
+      "iso": "BG",
+      "id": "D25.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bulgaria_road_sign_%D0%9425.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/153-Bulgaria_road_sign_Д25.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/153-Bulgaria_road_sign_Д25.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bulgaria_road_sign_%D0%9425.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D25.svg",
+      "iso": "BG",
+      "id": "D25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bulgaria_road_sign_%D0%9425.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/151-Bulgaria_road_sign_Д25.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/151-Bulgaria_road_sign_Д25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bulgaria_road_sign_%D0%9425.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D26.svg",
+      "iso": "BG",
+      "id": "D26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/BG_road_sign_%D0%9426.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/154-BG_road_sign_Д26.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/154-BG_road_sign_Д26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/BG_road_sign_%D0%9426.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D27.svg",
+      "iso": "BG",
+      "id": "D27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/BG_road_sign_%D0%9427.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/157-BG_road_sign_Д27.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/155-Bulgaria_road_sign_Д27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bulgaria_road_sign_%D0%9427.svg"
+        },
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/157-BG_road_sign_Д27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/BG_road_sign_%D0%9427.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-D2b.svg",
+      "iso": "BG",
+      "id": "D2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/BG_road_sign_%D0%942b.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/121-BG_road_sign_Д2b.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/121-BG_road_sign_Д2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/BG_road_sign_%D0%942b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D2c.svg",
+      "iso": "BG",
+      "id": "D2c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/BG_road_sign_%D0%942c.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/122-BG_road_sign_Д2c.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/122-BG_road_sign_Д2c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/BG_road_sign_%D0%942c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-D3a.svg",
+      "iso": "BG",
+      "id": "D3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/BG_road_sign_%D0%943a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/123-BG_road_sign_Д3a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/123-BG_road_sign_Д3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/BG_road_sign_%D0%943a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-D3b.svg",
+      "iso": "BG",
+      "id": "D3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BG_road_sign_%D0%943b.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/124-BG_road_sign_Д3b.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/124-BG_road_sign_Д3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BG_road_sign_%D0%943b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D4.svg",
+      "iso": "BG",
+      "id": "D4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bulgaria_road_sign_%D0%944.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/125-Bulgaria_road_sign_Д4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/125-Bulgaria_road_sign_Д4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bulgaria_road_sign_%D0%944.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D5.svg",
+      "iso": "BG",
+      "id": "D5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bulgaria_road_sign_%D0%945.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/126-Bulgaria_road_sign_Д5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/126-Bulgaria_road_sign_Д5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bulgaria_road_sign_%D0%945.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D6.svg",
+      "iso": "BG",
+      "id": "D6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bulgaria_road_sign_%D0%946.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/127-Bulgaria_road_sign_Д6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/127-Bulgaria_road_sign_Д6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bulgaria_road_sign_%D0%946.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D7.svg",
+      "iso": "BG",
+      "id": "D7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bulgaria_road_sign_%D0%947.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/128-Bulgaria_road_sign_Д7.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/128-Bulgaria_road_sign_Д7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bulgaria_road_sign_%D0%947.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D7a.svg",
+      "iso": "BG",
+      "id": "D7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bulgaria_road_sign_%D0%947%D0%B0.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/129-Bulgaria_road_sign_Д7а.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/129-Bulgaria_road_sign_Д7а.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bulgaria_road_sign_%D0%947%D0%B0.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D8.svg",
+      "iso": "BG",
+      "id": "D8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bulgaria_road_sign_%D0%948.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/130-Bulgaria_road_sign_Д8.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/130-Bulgaria_road_sign_Д8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bulgaria_road_sign_%D0%948.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D8a.svg",
+      "iso": "BG",
+      "id": "D8a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bulgaria_road_sign_%D0%948%D0%B0.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/131-Bulgaria_road_sign_Д8а.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/131-Bulgaria_road_sign_Д8а.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bulgaria_road_sign_%D0%948%D0%B0.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/BG-D9.svg",
+      "iso": "BG",
+      "id": "D9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bulgaria_road_sign_%D0%949.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/132-Bulgaria_road_sign_Д9.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/132-Bulgaria_road_sign_Д9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bulgaria_road_sign_%D0%949.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E1.svg",
+      "iso": "BG",
+      "id": "E1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/BG_road_sign_%D0%951.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/159-BG_road_sign_Е1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/159-BG_road_sign_Е1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/BG_road_sign_%D0%951.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E10.svg",
+      "iso": "BG",
+      "id": "E10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/BG_road_sign_%D0%9510.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/169-BG_road_sign_Е10.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/169-BG_road_sign_Е10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/BG_road_sign_%D0%9510.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E11.svg",
+      "iso": "BG",
+      "id": "E11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/BG_road_sign_%D0%9511.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/170-BG_road_sign_Е11.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/170-BG_road_sign_Е11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/BG_road_sign_%D0%9511.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E12.svg",
+      "iso": "BG",
+      "id": "E12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/BG_road_sign_%D0%9512.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/171-BG_road_sign_Е12.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/171-BG_road_sign_Е12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/BG_road_sign_%D0%9512.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E13.svg",
+      "iso": "BG",
+      "id": "E13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/BG_road_sign_%D0%9513.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/172-BG_road_sign_Е13.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/172-BG_road_sign_Е13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/BG_road_sign_%D0%9513.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E14.svg",
+      "iso": "BG",
+      "id": "E14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/BG_road_sign_%D0%9514.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/173-BG_road_sign_Е14.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/173-BG_road_sign_Е14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/BG_road_sign_%D0%9514.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E15.svg",
+      "iso": "BG",
+      "id": "E15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/BG_road_sign_%D0%9515.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/174-BG_road_sign_Е15.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/174-BG_road_sign_Е15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/BG_road_sign_%D0%9515.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E16.svg",
+      "iso": "BG",
+      "id": "E16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BG_road_sign_%D0%9516.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/175-BG_road_sign_Е16.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/175-BG_road_sign_Е16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BG_road_sign_%D0%9516.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E17.svg",
+      "iso": "BG",
+      "id": "E17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%9517.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/176-BG_road_sign_Е17.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/176-BG_road_sign_Е17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%9517.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E18.svg",
+      "iso": "BG",
+      "id": "E18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%9518.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/177-BG_road_sign_Е18.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/177-BG_road_sign_Е18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%9518.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E19.svg",
+      "iso": "BG",
+      "id": "E19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/BG_road_sign_%D0%9519.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/178-BG_road_sign_Е19.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/178-BG_road_sign_Е19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/BG_road_sign_%D0%9519.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E2.svg",
+      "iso": "BG",
+      "id": "E2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/BG_road_sign_%D0%952.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/160-BG_road_sign_Е2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/160-BG_road_sign_Е2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/BG_road_sign_%D0%952.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-E20.svg",
+      "iso": "BG",
+      "id": "E20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bulgaria_road_sign_%D0%9520.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/179-Bulgaria_road_sign_Е20.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/179-Bulgaria_road_sign_Е20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bulgaria_road_sign_%D0%9520.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BG-E21.svg",
+      "iso": "BG",
+      "id": "E21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BG_road_sign_E21.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/180-BG_road_sign_E21.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/180-BG_road_sign_E21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BG_road_sign_E21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BG-E22.svg",
+      "iso": "BG",
+      "id": "E22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bulgaria_road_sign_%D0%9522.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/181-Bulgaria_road_sign_Е22.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/181-Bulgaria_road_sign_Е22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bulgaria_road_sign_%D0%9522.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E23.svg",
+      "iso": "BG",
+      "id": "E23",
+      "description": "open",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/BG_road_sign_%D0%9523-open.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/182-BG_road_sign_Е23-open.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/182-BG_road_sign_Е23-open.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/BG_road_sign_%D0%9523-open.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E23b.svg",
+      "iso": "BG",
+      "id": "E23b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/BG_road_sign_%D0%9523b_-_open_with_info.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/183-BG_road_sign_Е23b_-_open_with_info.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/183-BG_road_sign_Е23b_-_open_with_info.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/BG_road_sign_%D0%9523b_-_open_with_info.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E23c.svg",
+      "iso": "BG",
+      "id": "E23c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/BG_road_sign_%D0%9523c_-_closed.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/184-BG_road_sign_Е23c_-_closed.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/184-BG_road_sign_Е23c_-_closed.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/BG_road_sign_%D0%9523c_-_closed.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E24.svg",
+      "iso": "BG",
+      "id": "E24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/BG_road_sign_%D0%9524.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/185-BG_road_sign_Е24.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/185-BG_road_sign_Е24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/BG_road_sign_%D0%9524.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E25.svg",
+      "iso": "BG",
+      "id": "E25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/BG_road_sign_%D0%9525.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/186-BG_road_sign_Е25.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/186-BG_road_sign_Е25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/BG_road_sign_%D0%9525.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E26.svg",
+      "iso": "BG",
+      "id": "E26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BG_road_sign_%D0%9526.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/187-BG_road_sign_Е26.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/187-BG_road_sign_Е26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BG_road_sign_%D0%9526.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E3.svg",
+      "iso": "BG",
+      "id": "E3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/BG_road_sign_%D0%953.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/161-BG_road_sign_Е3.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/161-BG_road_sign_Е3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/BG_road_sign_%D0%953.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E4.svg",
+      "iso": "BG",
+      "id": "E4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%954.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/162-BG_road_sign_Е4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/162-BG_road_sign_Е4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BG_road_sign_%D0%954.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E5.svg",
+      "iso": "BG",
+      "id": "E5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/BG_road_sign_%D0%955.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/163-BG_road_sign_Е5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/163-BG_road_sign_Е5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/BG_road_sign_%D0%955.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E6.svg",
+      "iso": "BG",
+      "id": "E6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/BG_road_sign_%D0%956.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/164-BG_road_sign_Е6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/164-BG_road_sign_Е6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/BG_road_sign_%D0%956.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E7.1.svg",
+      "iso": "BG",
+      "id": "E7.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BG_road_sign_%D0%957.1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/165-BG_road_sign_Е7.1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/165-BG_road_sign_Е7.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BG_road_sign_%D0%957.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E7.1a.svg",
+      "iso": "BG",
+      "id": "E7.1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bulgaria_road_sign_%D0%957.1a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/166-Bulgaria_road_sign_Е7.1a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/166-Bulgaria_road_sign_Е7.1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bulgaria_road_sign_%D0%957.1a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E7.2.svg",
+      "iso": "BG",
+      "id": "E7.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/BG_road_sign_%D0%957.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/244-BG_road_sign_Е7.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/244-BG_road_sign_Е7.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/BG_road_sign_%D0%957.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BG-E8.svg",
+      "iso": "BG",
+      "id": "E8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/BG_road_sign_%D0%958.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/167-BG_road_sign_Е8.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/167-BG_road_sign_Е8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/BG_road_sign_%D0%958.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/BG-E9.svg",
+      "iso": "BG",
+      "id": "E9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/BG_road_sign_%D0%959.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/168-BG_road_sign_Е9.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/168-BG_road_sign_Е9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/BG_road_sign_%D0%959.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G1.svg",
+      "iso": "BG",
+      "id": "G1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bulgaria_road_sign_%D0%931.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/095-Bulgaria_road_sign_Г1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/095-Bulgaria_road_sign_Г1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bulgaria_road_sign_%D0%931.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G10.svg",
+      "iso": "BG",
+      "id": "G10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bulgaria_road_sign_%D0%9310.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/104-Bulgaria_road_sign_Г10.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/104-Bulgaria_road_sign_Г10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bulgaria_road_sign_%D0%9310.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G11.svg",
+      "iso": "BG",
+      "id": "G11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bulgaria_road_sign_%D0%9311.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/105-Bulgaria_road_sign_Г11.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/105-Bulgaria_road_sign_Г11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bulgaria_road_sign_%D0%9311.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G12.svg",
+      "iso": "BG",
+      "id": "G12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bulgaria_road_sign_%D0%9312.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/106-Bulgaria_road_sign_Г12.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/106-Bulgaria_road_sign_Г12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bulgaria_road_sign_%D0%9312.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/BG-G13.svg",
+      "iso": "BG",
+      "id": "G13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bulgaria_road_sign_%D0%9313.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/107-Bulgaria_road_sign_Г13.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/107-Bulgaria_road_sign_Г13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bulgaria_road_sign_%D0%9313.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G14.svg",
+      "iso": "BG",
+      "id": "G14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bulgaria_road_sign_%D0%9314.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/108-Bulgaria_road_sign_Г14.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/108-Bulgaria_road_sign_Г14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bulgaria_road_sign_%D0%9314.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G14b.svg",
+      "iso": "BG",
+      "id": "G14b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bulgaria_road_sign_%D0%9314%D0%B1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/109-Bulgaria_road_sign_Г14б.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/109-Bulgaria_road_sign_Г14б.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bulgaria_road_sign_%D0%9314%D0%B1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G15.svg",
+      "iso": "BG",
+      "id": "G15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bulgaria_road_sign_%D0%9315.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/110-Bulgaria_road_sign_Г15.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/110-Bulgaria_road_sign_Г15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bulgaria_road_sign_%D0%9315.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G15b.svg",
+      "iso": "BG",
+      "id": "G15b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bulgaria_road_sign_%D0%9315%D0%B1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/111-Bulgaria_road_sign_Г15б.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/111-Bulgaria_road_sign_Г15б.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bulgaria_road_sign_%D0%9315%D0%B1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/BG-G16.svg",
+      "iso": "BG",
+      "id": "G16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bulgaria_road_sign_%D0%9316.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/112-Bulgaria_road_sign_Г16.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/112-Bulgaria_road_sign_Г16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bulgaria_road_sign_%D0%9316.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G16b.svg",
+      "iso": "BG",
+      "id": "G16b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bulgaria_road_sign_%D0%9316%D0%B1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/113-Bulgaria_road_sign_Г16б.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/113-Bulgaria_road_sign_Г16б.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bulgaria_road_sign_%D0%9316%D0%B1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G17_50.svg",
+      "iso": "BG",
+      "id": "G17",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bulgaria_road_sign_%D0%9317%2850%29.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/114-Bulgaria_road_sign_Г17(50).svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/114-Bulgaria_road_sign_Г17(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bulgaria_road_sign_%D0%9317%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G18_50.svg",
+      "iso": "BG",
+      "id": "G18",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bulgaria_road_sign_%D0%9318%2850%29.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/115-Bulgaria_road_sign_Г18(50).svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/115-Bulgaria_road_sign_Г18(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bulgaria_road_sign_%D0%9318%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G19.svg",
+      "iso": "BG",
+      "id": "G19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bulgaria_road_sign_%D0%9319.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/116-Bulgaria_road_sign_Г19.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/116-Bulgaria_road_sign_Г19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bulgaria_road_sign_%D0%9319.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.985
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G2.svg",
+      "iso": "BG",
+      "id": "G2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bulgaria_road_sign_%D0%932.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/096-Bulgaria_road_sign_Г2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/096-Bulgaria_road_sign_Г2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bulgaria_road_sign_%D0%932.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G20.svg",
+      "iso": "BG",
+      "id": "G20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bulgaria_road_sign_%D0%9320.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/117-Bulgaria_road_sign_Г20.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/117-Bulgaria_road_sign_Г20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bulgaria_road_sign_%D0%9320.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G3.svg",
+      "iso": "BG",
+      "id": "G3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bulgaria_road_sign_%D0%933.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/097-Bulgaria_road_sign_Г3.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/097-Bulgaria_road_sign_Г3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bulgaria_road_sign_%D0%933.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G4.svg",
+      "iso": "BG",
+      "id": "G4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bulgaria_road_sign_%D0%934.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/098-Bulgaria_road_sign_Г4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/098-Bulgaria_road_sign_Г4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bulgaria_road_sign_%D0%934.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G5.svg",
+      "iso": "BG",
+      "id": "G5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bulgaria_road_sign_%D0%935.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/099-Bulgaria_road_sign_Г5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/099-Bulgaria_road_sign_Г5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bulgaria_road_sign_%D0%935.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G6.svg",
+      "iso": "BG",
+      "id": "G6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bulgaria_road_sign_%D0%936.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/100-Bulgaria_road_sign_Г6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/100-Bulgaria_road_sign_Г6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bulgaria_road_sign_%D0%936.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G7.svg",
+      "iso": "BG",
+      "id": "G7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bulgaria_road_sign_%D0%937.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/101-Bulgaria_road_sign_Г7.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/101-Bulgaria_road_sign_Г7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bulgaria_road_sign_%D0%937.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G8.svg",
+      "iso": "BG",
+      "id": "G8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bulgaria_road_sign_%D0%938.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/102-Bulgaria_road_sign_Г8.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/102-Bulgaria_road_sign_Г8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bulgaria_road_sign_%D0%938.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/BG-G9.svg",
+      "iso": "BG",
+      "id": "G9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bulgaria_road_sign_%D0%939.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/103-Bulgaria_road_sign_Г9.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/103-Bulgaria_road_sign_Г9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bulgaria_road_sign_%D0%939.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T1.svg",
+      "iso": "BG",
+      "id": "T1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/BG_road_sign_%D0%A21.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/224-BG_road_sign_Т1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/224-BG_road_sign_Т1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/BG_road_sign_%D0%A21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T10.svg",
+      "iso": "BG",
+      "id": "T10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/BG_road_sign_%D0%A210.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/233-BG_road_sign_Т10.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/233-BG_road_sign_Т10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/BG_road_sign_%D0%A210.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T11.svg",
+      "iso": "BG",
+      "id": "T11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%A211.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/234-BG_road_sign_Т11.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/234-BG_road_sign_Т11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/BG_road_sign_%D0%A211.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T12.svg",
+      "iso": "BG",
+      "id": "T12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/BG_road_sign_%D0%A212.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/235-BG_road_sign_Т12.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/235-BG_road_sign_Т12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/BG_road_sign_%D0%A212.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T13.svg",
+      "iso": "BG",
+      "id": "T13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BG_road_sign_%D0%A213.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/054-BG_road_sign_Т13.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/054-BG_road_sign_Т13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BG_road_sign_%D0%A213.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T14.1.svg",
+      "iso": "BG",
+      "id": "T14.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/BG_road_sign_%D0%A214.1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/236-BG_road_sign_Т14.1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/236-BG_road_sign_Т14.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/BG_road_sign_%D0%A214.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T14.2.svg",
+      "iso": "BG",
+      "id": "T14.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/BG_road_sign_%D0%A214.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/237-BG_road_sign_Т14.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/237-BG_road_sign_Т14.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/BG_road_sign_%D0%A214.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T15.svg",
+      "iso": "BG",
+      "id": "T15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/BG_road_sign_%D0%A215.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/238-BG_road_sign_Т15.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/238-BG_road_sign_Т15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/BG_road_sign_%D0%A215.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T16.svg",
+      "iso": "BG",
+      "id": "T16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/BG_road_sign_%D0%A216.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/239-BG_road_sign_Т16.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/239-BG_road_sign_Т16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/BG_road_sign_%D0%A216.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T17.svg",
+      "iso": "BG",
+      "id": "T17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/BG_road_sign_%D0%A217.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/240-BG_road_sign_Т17.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/240-BG_road_sign_Т17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/BG_road_sign_%D0%A217.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T18.1.svg",
+      "iso": "BG",
+      "id": "T18.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BG_road_sign_%D0%A218.1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/241-BG_road_sign_Т18.1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/241-BG_road_sign_Т18.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BG_road_sign_%D0%A218.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T18.2.svg",
+      "iso": "BG",
+      "id": "T18.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BG_road_sign_%D0%A218.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/242-BG_road_sign_Т18.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/242-BG_road_sign_Т18.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/BG_road_sign_%D0%A218.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T2.svg",
+      "iso": "BG",
+      "id": "T2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/BG_road_sign_%D0%A22.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/225-BG_road_sign_Т2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/225-BG_road_sign_Т2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/BG_road_sign_%D0%A22.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T3.svg",
+      "iso": "BG",
+      "id": "T3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/BG_road_sign_%D0%A23.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/226-BG_road_sign_Т3.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/226-BG_road_sign_Т3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/BG_road_sign_%D0%A23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T4.svg",
+      "iso": "BG",
+      "id": "T4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/BG_road_sign_%D0%A24.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/227-BG_road_sign_Т4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/227-BG_road_sign_Т4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/BG_road_sign_%D0%A24.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T5.svg",
+      "iso": "BG",
+      "id": "T5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BG_road_sign_%D0%A25.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/228-BG_road_sign_Т5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/228-BG_road_sign_Т5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/BG_road_sign_%D0%A25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T6.svg",
+      "iso": "BG",
+      "id": "T6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/BG_road_sign_%D0%A26.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/229-BG_road_sign_Т6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/229-BG_road_sign_Т6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/BG_road_sign_%D0%A26.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T7.svg",
+      "iso": "BG",
+      "id": "T7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/BG_road_sign_%D0%A27.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/230-BG_road_sign_Т7.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/230-BG_road_sign_Т7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/BG_road_sign_%D0%A27.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/BG-T8.svg",
+      "iso": "BG",
+      "id": "T8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/BG_road_sign_%D0%A28.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/231-BG_road_sign_Т8.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/231-BG_road_sign_Т8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/BG_road_sign_%D0%A28.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/BG-T9.svg",
+      "iso": "BG",
+      "id": "T9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/BG_road_sign_%D0%A29.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/232-BG_road_sign_Т9.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/232-BG_road_sign_Т9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/BG_road_sign_%D0%A29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V1.svg",
+      "iso": "BG",
+      "id": "V1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bulgaria_road_sign_%D0%921.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/060-Bulgaria_road_sign_В1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/060-Bulgaria_road_sign_В1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bulgaria_road_sign_%D0%921.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V10.svg",
+      "iso": "BG",
+      "id": "V10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bulgaria_road_sign_%D0%9210.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/069-Bulgaria_road_sign_В10.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/069-Bulgaria_road_sign_В10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bulgaria_road_sign_%D0%9210.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V11.svg",
+      "iso": "BG",
+      "id": "V11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bulgaria_road_sign_%D0%9211.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/070-Bulgaria_road_sign_В11.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/070-Bulgaria_road_sign_В11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bulgaria_road_sign_%D0%9211.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V12.svg",
+      "iso": "BG",
+      "id": "V12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bulgaria_road_sign_%D0%9212.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/071-Bulgaria_road_sign_В12.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/071-Bulgaria_road_sign_В12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bulgaria_road_sign_%D0%9212.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V13.svg",
+      "iso": "BG",
+      "id": "V13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bulgaria_road_sign_%D0%9213.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/072-Bulgaria_road_sign_В13.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/072-Bulgaria_road_sign_В13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bulgaria_road_sign_%D0%9213.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V14.svg",
+      "iso": "BG",
+      "id": "V14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bulgaria_road_sign_%D0%9214.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/073-Bulgaria_road_sign_В14.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/073-Bulgaria_road_sign_В14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bulgaria_road_sign_%D0%9214.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V15.svg",
+      "iso": "BG",
+      "id": "V15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bulgaria_road_sign_%D0%9215.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/074-Bulgaria_road_sign_В15.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/074-Bulgaria_road_sign_В15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bulgaria_road_sign_%D0%9215.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V16.svg",
+      "iso": "BG",
+      "id": "V16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bulgaria_road_sign_%D0%9216.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/075-Bulgaria_road_sign_В16.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/075-Bulgaria_road_sign_В16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bulgaria_road_sign_%D0%9216.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V17.svg",
+      "iso": "BG",
+      "id": "V17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bulgaria_road_sign_%D0%9217.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/076-Bulgaria_road_sign_В17.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/076-Bulgaria_road_sign_В17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bulgaria_road_sign_%D0%9217.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V18.svg",
+      "iso": "BG",
+      "id": "V18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bulgaria_road_sign_%D0%9218.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/077-Bulgaria_road_sign_В18.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/077-Bulgaria_road_sign_В18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bulgaria_road_sign_%D0%9218.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V19.svg",
+      "iso": "BG",
+      "id": "V19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bulgaria_road_sign_%D0%9219.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/078-Bulgaria_road_sign_В19.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/078-Bulgaria_road_sign_В19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bulgaria_road_sign_%D0%9219.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V2.svg",
+      "iso": "BG",
+      "id": "V2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bulgaria_road_sign_%D0%922.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/061-Bulgaria_road_sign_В2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/061-Bulgaria_road_sign_В2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bulgaria_road_sign_%D0%922.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V20.svg",
+      "iso": "BG",
+      "id": "V20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bulgaria_road_sign_%D0%9220.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/079-Bulgaria_road_sign_В20.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/079-Bulgaria_road_sign_В20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bulgaria_road_sign_%D0%9220.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V21.svg",
+      "iso": "BG",
+      "id": "V21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bulgaria_road_sign_%D0%9221.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/080-Bulgaria_road_sign_В21.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/080-Bulgaria_road_sign_В21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bulgaria_road_sign_%D0%9221.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V22.svg",
+      "iso": "BG",
+      "id": "V22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bulgaria_road_sign_%D0%9222.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/081-Bulgaria_road_sign_В22.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/081-Bulgaria_road_sign_В22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bulgaria_road_sign_%D0%9222.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V23.svg",
+      "iso": "BG",
+      "id": "V23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bulgaria_road_sign_%D0%9223.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/083-Bulgaria_road_sign_В23.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/083-Bulgaria_road_sign_В23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bulgaria_road_sign_%D0%9223.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V24.svg",
+      "iso": "BG",
+      "id": "V24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bulgaria_road_sign_%D0%9224.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/084-Bulgaria_road_sign_В24.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/084-Bulgaria_road_sign_В24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bulgaria_road_sign_%D0%9224.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V25.svg",
+      "iso": "BG",
+      "id": "V25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bulgaria_road_sign_%D0%9225.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/085-Bulgaria_road_sign_В25.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/085-Bulgaria_road_sign_В25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bulgaria_road_sign_%D0%9225.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V26_50.svg",
+      "iso": "BG",
+      "id": "V26",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bulgaria_road_sign_%D0%9226%2850%29.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/086-Bulgaria_road_sign_В26(50).svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/086-Bulgaria_road_sign_В26(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bulgaria_road_sign_%D0%9226%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V27.svg",
+      "iso": "BG",
+      "id": "V27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bulgaria_road_sign_%D0%9227.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/087-Bulgaria_road_sign_В27.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/087-Bulgaria_road_sign_В27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bulgaria_road_sign_%D0%9227.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V28.svg",
+      "iso": "BG",
+      "id": "V28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bulgaria_road_sign_%D0%9228.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/088-Bulgaria_road_sign_В28.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/088-Bulgaria_road_sign_В28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bulgaria_road_sign_%D0%9228.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V29.svg",
+      "iso": "BG",
+      "id": "V29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bulgaria_road_sign_%D0%9229.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/089-Bulgaria_road_sign_В29.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/089-Bulgaria_road_sign_В29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bulgaria_road_sign_%D0%9229.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V3.svg",
+      "iso": "BG",
+      "id": "V3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bulgaria_road_sign_%D0%923.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/062-Bulgaria_road_sign_В3.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/062-Bulgaria_road_sign_В3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bulgaria_road_sign_%D0%923.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V30.svg",
+      "iso": "BG",
+      "id": "V30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bulgaria_road_sign_%D0%9230.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/090-Bulgaria_road_sign_В30.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/090-Bulgaria_road_sign_В30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bulgaria_road_sign_%D0%9230.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V31.svg",
+      "iso": "BG",
+      "id": "V31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bulgaria_road_sign_%D0%9231.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/091-Bulgaria_road_sign_В31.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/091-Bulgaria_road_sign_В31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bulgaria_road_sign_%D0%9231.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V32.svg",
+      "iso": "BG",
+      "id": "V32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria_road_sign_%D0%9232.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/092-Bulgaria_road_sign_В32.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/092-Bulgaria_road_sign_В32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bulgaria_road_sign_%D0%9232.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V33_50.svg",
+      "iso": "BG",
+      "id": "V33",
+      "description": null,
+      "variants": [
+        "50"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bulgaria_road_sign_%D0%9233%2850%29.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/093-Bulgaria_road_sign_В33(50).svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/093-Bulgaria_road_sign_В33(50).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bulgaria_road_sign_%D0%9233%2850%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V34.svg",
+      "iso": "BG",
+      "id": "V34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bulgaria_road_sign_%D0%9234.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/094-Bulgaria_road_sign_В34.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/094-Bulgaria_road_sign_В34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bulgaria_road_sign_%D0%9234.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V4.svg",
+      "iso": "BG",
+      "id": "V4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bulgaria_road_sign_%D0%924.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/063-Bulgaria_road_sign_В4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/063-Bulgaria_road_sign_В4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bulgaria_road_sign_%D0%924.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V5.svg",
+      "iso": "BG",
+      "id": "V5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bulgaria_road_sign_%D0%925.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/064-Bulgaria_road_sign_В5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/064-Bulgaria_road_sign_В5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bulgaria_road_sign_%D0%925.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V6.svg",
+      "iso": "BG",
+      "id": "V6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bulgaria_road_sign_%D0%926.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/065-Bulgaria_road_sign_В6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/065-Bulgaria_road_sign_В6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bulgaria_road_sign_%D0%926.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V7.svg",
+      "iso": "BG",
+      "id": "V7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bulgaria_road_sign_%D0%927.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/066-Bulgaria_road_sign_В7.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/066-Bulgaria_road_sign_В7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bulgaria_road_sign_%D0%927.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V8.svg",
+      "iso": "BG",
+      "id": "V8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bulgaria_road_sign_%D0%928.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/067-Bulgaria_road_sign_В8.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/067-Bulgaria_road_sign_В8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bulgaria_road_sign_%D0%928.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/BG-V9.svg",
+      "iso": "BG",
+      "id": "V9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bulgaria_road_sign_%D0%929.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/068-Bulgaria_road_sign_В9.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/068-Bulgaria_road_sign_В9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bulgaria_road_sign_%D0%929.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-Zh10.svg",
+      "iso": "BG",
+      "id": "Zh10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/BG_road_sign_%D0%9610.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/204-BG_road_sign_Ж10.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/204-BG_road_sign_Ж10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/BG_road_sign_%D0%9610.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-Zh10a.svg",
+      "iso": "BG",
+      "id": "Zh10a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/BG_road_sign_%D0%9610a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/203-BG_road_sign_Ж10a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/203-BG_road_sign_Ж10a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/BG_road_sign_%D0%9610a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-Zh11.svg",
+      "iso": "BG",
+      "id": "Zh11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BG_road_sign_%D0%9611.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/205-BG_road_sign_Ж11.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/205-BG_road_sign_Ж11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BG_road_sign_%D0%9611.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BG-Zh12.svg",
+      "iso": "BG",
+      "id": "Zh12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/BG_road_sign_%D0%9612.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/206-BG_road_sign_Ж12.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/206-BG_road_sign_Ж12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/BG_road_sign_%D0%9612.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BG-Zh13.svg",
+      "iso": "BG",
+      "id": "Zh13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BG_road_sign_%D0%9613.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/207-BG_road_sign_Ж13.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/207-BG_road_sign_Ж13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BG_road_sign_%D0%9613.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh14a.svg",
+      "iso": "BG",
+      "id": "Zh14a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/BG_road_sign_%D0%9614a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/210-BG_road_sign_Ж14a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/210-BG_road_sign_Ж14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/BG_road_sign_%D0%9614a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-Zh14b.svg",
+      "iso": "BG",
+      "id": "Zh14b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BG_road_sign_%D0%9614b.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/208-BG_road_sign_Ж14b.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/208-BG_road_sign_Ж14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BG_road_sign_%D0%9614b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh14c.svg",
+      "iso": "BG",
+      "id": "Zh14c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/BG_road_sign_%D0%9614c.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/209-BG_road_sign_Ж14c.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/209-BG_road_sign_Ж14c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/BG_road_sign_%D0%9614c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-Zh15a.svg",
+      "iso": "BG",
+      "id": "Zh15a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/BG_road_sign_%D0%9615a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/213-BG_road_sign_Ж15a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/213-BG_road_sign_Ж15a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/BG_road_sign_%D0%9615a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-Zh15b.svg",
+      "iso": "BG",
+      "id": "Zh15b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/BG_road_sign_%D0%9615b.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/212-BG_road_sign_Ж15b.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/212-BG_road_sign_Ж15b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/BG_road_sign_%D0%9615b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh15c.svg",
+      "iso": "BG",
+      "id": "Zh15c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/BG_road_sign_%D0%9615c.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/214-BG_road_sign_Ж15c.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/214-BG_road_sign_Ж15c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/BG_road_sign_%D0%9615c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh16.svg",
+      "iso": "BG",
+      "id": "Zh16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BG_road_sign_%D0%9616.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/215-BG_road_sign_Ж16.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/215-BG_road_sign_Ж16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BG_road_sign_%D0%9616.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-Zh17.svg",
+      "iso": "BG",
+      "id": "Zh17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/BG_road_sign_%D0%9617.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/245-BG_road_sign_Ж17.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/245-BG_road_sign_Ж17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/BG_road_sign_%D0%9617.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BG-Zh18.svg",
+      "iso": "BG",
+      "id": "Zh18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BG_road_sign_%D0%9618.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/216-BG_road_sign_Ж18.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/216-BG_road_sign_Ж18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/BG_road_sign_%D0%9618.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/BG-Zh19.svg",
+      "iso": "BG",
+      "id": "Zh19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/BG_road_sign_%D0%9619.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/217-BG_road_sign_Ж19.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/217-BG_road_sign_Ж19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/BG_road_sign_%D0%9619.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-Zh1a.svg",
+      "iso": "BG",
+      "id": "Zh1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BG_road_sign_%D0%961a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/188-BG_road_sign_Ж1a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/188-BG_road_sign_Ж1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BG_road_sign_%D0%961a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-Zh1c.svg",
+      "iso": "BG",
+      "id": "Zh1c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/BG_road_sign_%D0%961c.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/189-BG_road_sign_Ж1c.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/189-BG_road_sign_Ж1c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/BG_road_sign_%D0%961c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/BG-Zh1d.svg",
+      "iso": "BG",
+      "id": "Zh1d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/BG_road_sign_%D0%961d.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/190-BG_road_sign_Ж1d.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/190-BG_road_sign_Ж1d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/BG_road_sign_%D0%961d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-Zh20-21.svg",
+      "iso": "BG",
+      "id": "Zh20-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BG_road_sign_%D0%9620-21.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/243-BG_road_sign_Ж20-21.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/243-BG_road_sign_Ж20-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BG_road_sign_%D0%9620-21.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "s_road_numbers/other/BG-Zh20.1.svg",
+      "iso": "BG",
+      "id": "Zh20.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BG_road_sign_%D0%9620.1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/218-BG_road_sign_Ж20.1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/218-BG_road_sign_Ж20.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/BG_road_sign_%D0%9620.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-Zh20.2.svg",
+      "iso": "BG",
+      "id": "Zh20.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/BG_road_sign_%D0%9620.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/219-BG_road_sign_Ж20.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/219-BG_road_sign_Ж20.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/BG_road_sign_%D0%9620.2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "s_road_numbers/other/BG-Zh21.svg",
+      "iso": "BG",
+      "id": "Zh21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/BG_road_sign_%D0%9621.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/220-BG_road_sign_Ж21.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/220-BG_road_sign_Ж21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/BG_road_sign_%D0%9621.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-Zh22.svg",
+      "iso": "BG",
+      "id": "Zh22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/BG_road_sign_%D0%9622.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/221-BG_road_sign_Ж22.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/221-BG_road_sign_Ж22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/BG_road_sign_%D0%9622.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-Zh25.1.svg",
+      "iso": "BG",
+      "id": "Zh25.1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BG_road_sign_%D0%9625.1.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/222-BG_road_sign_Ж25.1.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/222-BG_road_sign_Ж25.1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BG_road_sign_%D0%9625.1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh25.2.svg",
+      "iso": "BG",
+      "id": "Zh25.2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/BG_road_sign_%D0%9625.2.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/223-BG_road_sign_Ж25.2.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/223-BG_road_sign_Ж25.2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/BG_road_sign_%D0%9625.2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.988
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-Zh2a.svg",
+      "iso": "BG",
+      "id": "Zh2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/BG_road_sign_%D0%962a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/191-BG_road_sign_Ж2a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/191-BG_road_sign_Ж2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/BG_road_sign_%D0%962a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-Zh2b.svg",
+      "iso": "BG",
+      "id": "Zh2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/BG_road_sign_%D0%962b.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/192-BG_road_sign_Ж2b.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/192-BG_road_sign_Ж2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/BG_road_sign_%D0%962b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/BG-Zh2c.svg",
+      "iso": "BG",
+      "id": "Zh2c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BG_road_sign_%D0%962c.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/193-BG_road_sign_Ж2c.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/193-BG_road_sign_Ж2c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BG_road_sign_%D0%962c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh3.svg",
+      "iso": "BG",
+      "id": "Zh3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/BG_road_sign_%D0%963.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/194-BG_road_sign_Ж3.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/194-BG_road_sign_Ж3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/BG_road_sign_%D0%963.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh4.svg",
+      "iso": "BG",
+      "id": "Zh4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/BG_road_sign_%D0%964.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/195-BG_road_sign_Ж4.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/195-BG_road_sign_Ж4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/BG_road_sign_%D0%964.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh5.svg",
+      "iso": "BG",
+      "id": "Zh5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/BG_road_sign_%D0%965.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/196-BG_road_sign_Ж5.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/196-BG_road_sign_Ж5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/BG_road_sign_%D0%965.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-Zh6.svg",
+      "iso": "BG",
+      "id": "Zh6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/BG_road_sign_%D0%966.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/197-BG_road_sign_Ж6.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/197-BG_road_sign_Ж6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/BG_road_sign_%D0%966.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/BG-Zh7a.svg",
+      "iso": "BG",
+      "id": "Zh7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/BG_road_sign_%D0%967a.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/198-BG_road_sign_Ж7a.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/198-BG_road_sign_Ж7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/BG_road_sign_%D0%967a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.94
+    },
+    {
+      "filename": "e_special_regulation_signs/other/BG-Zh7b.svg",
+      "iso": "BG",
+      "id": "Zh7b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/BG_road_sign_%D0%967b.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/199-BG_road_sign_Ж7b.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/199-BG_road_sign_Ж7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/BG_road_sign_%D0%967b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.934
+    },
+    {
+      "filename": "h_additional_panels/other/BG-Zh7c.svg",
+      "iso": "BG",
+      "id": "Zh7c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/BG_road_sign_%D0%967c.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/200-BG_road_sign_Ж7c.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/200-BG_road_sign_Ж7c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/BG_road_sign_%D0%967c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.89
+    },
+    {
+      "filename": "sd_unclassified/other/BG-Zh8.svg",
+      "iso": "BG",
+      "id": "Zh8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/BG_road_sign_%D0%968.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/201-BG_road_sign_Ж8.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/201-BG_road_sign_Ж8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/BG_road_sign_%D0%968.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.918
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/BG-Zh9.svg",
+      "iso": "BG",
+      "id": "Zh9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/BG_road_sign_%D0%969.svg",
+      "kept_from": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/202-BG_road_sign_Ж9.svg",
+      "sources": [
+        {
+          "file": "BG_Bulgaria/wikipedia/01-bg_Пътни_знаци_в_България/202-BG_road_sign_Ж9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/BG_road_sign_%D0%969.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    }
+  ]
+}

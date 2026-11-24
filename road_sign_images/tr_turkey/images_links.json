@@ -1,0 +1,1791 @@
+{
+  "country_code": "TR",
+  "country": "Turkey",
+  "images": [
+    {
+      "filename": "e_special_regulation_signs/vienna/TR-B-14a.svg",
+      "iso": "TR",
+      "id": "B-14a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Turkey_road_sign_B-14a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/125-Turkey_road_sign_B-14a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/125-Turkey_road_sign_B-14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Turkey_road_sign_B-14a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/TR-B-14b.svg",
+      "iso": "TR",
+      "id": "B-14b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Turkey_road_sign_B-14b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/126-Turkey_road_sign_B-14b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/126-Turkey_road_sign_B-14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Turkey_road_sign_B-14b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/TR-B-16.svg",
+      "iso": "TR",
+      "id": "B-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Turkey_road_sign_B-16.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/127-Turkey_road_sign_B-16.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/127-Turkey_road_sign_B-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Turkey_road_sign_B-16.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "g_other_information_signs/vienna/TR-B-17.svg",
+      "iso": "TR",
+      "id": "B-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Turkey_road_sign_B-17.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/128-Turkey_road_sign_B-17.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/128-Turkey_road_sign_B-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Turkey_road_sign_B-17.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/TR-B-18.svg",
+      "iso": "TR",
+      "id": "B-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Turkey_road_sign_B-18.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/129-Turkey_road_sign_B-18.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/129-Turkey_road_sign_B-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Turkey_road_sign_B-18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/TR-B-19.svg",
+      "iso": "TR",
+      "id": "B-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_road_sign_B-19.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/130-Turkey_road_sign_B-19.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/130-Turkey_road_sign_B-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_road_sign_B-19.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/TR-B-20.svg",
+      "iso": "TR",
+      "id": "B-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Turkey_road_sign_B-20.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/131-Turkey_road_sign_B-20.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/131-Turkey_road_sign_B-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Turkey_road_sign_B-20.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/TR-B-21.svg",
+      "iso": "TR",
+      "id": "B-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Turkey_road_sign_B-21.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/132-Turkey_road_sign_B-21.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/132-Turkey_road_sign_B-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Turkey_road_sign_B-21.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/TR-B-22.svg",
+      "iso": "TR",
+      "id": "B-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Turkey_road_sign_B-22.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/133-Turkey_road_sign_B-22.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/133-Turkey_road_sign_B-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Turkey_road_sign_B-22.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-23.svg",
+      "iso": "TR",
+      "id": "B-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Turkey_road_sign_B-23.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/134-Turkey_road_sign_B-23.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/134-Turkey_road_sign_B-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Turkey_road_sign_B-23.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-24.svg",
+      "iso": "TR",
+      "id": "B-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_road_sign_B-24.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/135-Turkey_road_sign_B-24.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/135-Turkey_road_sign_B-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_road_sign_B-24.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-25.svg",
+      "iso": "TR",
+      "id": "B-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Turkey_road_sign_B-25.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/136-Turkey_road_sign_B-25.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/136-Turkey_road_sign_B-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Turkey_road_sign_B-25.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-26.svg",
+      "iso": "TR",
+      "id": "B-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Turkey_road_sign_B-26.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/137-Turkey_road_sign_B-26.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/137-Turkey_road_sign_B-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Turkey_road_sign_B-26.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-27.svg",
+      "iso": "TR",
+      "id": "B-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Turkey_road_sign_B-27.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/138-Turkey_road_sign_B-27.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/138-Turkey_road_sign_B-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Turkey_road_sign_B-27.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-28.svg",
+      "iso": "TR",
+      "id": "B-28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Turkey_road_sign_B-28.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/139-Turkey_road_sign_B-28.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/139-Turkey_road_sign_B-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Turkey_road_sign_B-28.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-29.svg",
+      "iso": "TR",
+      "id": "B-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Turkey_road_sign_B-29.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/140-Turkey_road_sign_B-29.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/140-Turkey_road_sign_B-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Turkey_road_sign_B-29.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/TR-B-2a.svg",
+      "iso": "TR",
+      "id": "B-2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Turkey_road_sign_B-2a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/118-Turkey_road_sign_B-2a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/118-Turkey_road_sign_B-2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Turkey_road_sign_B-2a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/TR-B-2b.svg",
+      "iso": "TR",
+      "id": "B-2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Turkey_road_sign_B-2b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/119-Turkey_road_sign_B-2b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/119-Turkey_road_sign_B-2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Turkey_road_sign_B-2b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/TR-B-2c.svg",
+      "iso": "TR",
+      "id": "B-2c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Turkey_road_sign_B-2c.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/120-Turkey_road_sign_B-2c.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/120-Turkey_road_sign_B-2c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Turkey_road_sign_B-2c.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/TR-B-3.svg",
+      "iso": "TR",
+      "id": "B-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Turkey_road_sign_B-3.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/121-Turkey_road_sign_B-3.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/121-Turkey_road_sign_B-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Turkey_road_sign_B-3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-30.svg",
+      "iso": "TR",
+      "id": "B-30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Turkey_road_sign_B-30.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/141-Turkey_road_sign_B-30.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/141-Turkey_road_sign_B-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Turkey_road_sign_B-30.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-31.svg",
+      "iso": "TR",
+      "id": "B-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Turkey_road_sign_B-31.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/142-Turkey_road_sign_B-31.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/142-Turkey_road_sign_B-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Turkey_road_sign_B-31.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-32.svg",
+      "iso": "TR",
+      "id": "B-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Turkey_road_sign_B-32.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/143-Turkey_road_sign_B-32.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/143-Turkey_road_sign_B-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Turkey_road_sign_B-32.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-33.svg",
+      "iso": "TR",
+      "id": "B-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Turkey_road_sign_B-33.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/144-Turkey_road_sign_B-33.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/144-Turkey_road_sign_B-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Turkey_road_sign_B-33.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-34.svg",
+      "iso": "TR",
+      "id": "B-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Turkey_road_sign_B-34.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/145-Turkey_road_sign_B-34.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/145-Turkey_road_sign_B-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Turkey_road_sign_B-34.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-35.svg",
+      "iso": "TR",
+      "id": "B-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Turkey_road_sign_B-35.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/146-Turkey_road_sign_B-35.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/146-Turkey_road_sign_B-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Turkey_road_sign_B-35.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/TR-B-36.svg",
+      "iso": "TR",
+      "id": "B-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Turkey_road_sign_B-36.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/147-Turkey_road_sign_B-36.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/147-Turkey_road_sign_B-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Turkey_road_sign_B-36.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/vienna/TR-B-37.svg",
+      "iso": "TR",
+      "id": "B-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Turkey_road_sign_B-37.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/148-Turkey_road_sign_B-37.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/148-Turkey_road_sign_B-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Turkey_road_sign_B-37.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/vienna/TR-B-38.svg",
+      "iso": "TR",
+      "id": "B-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey_road_sign_B-38.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/149-Turkey_road_sign_B-38.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/149-Turkey_road_sign_B-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey_road_sign_B-38.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.971
+    },
+    {
+      "filename": "b_priority_signs/vienna/TR-B-39.svg",
+      "iso": "TR",
+      "id": "B-39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Turkey_road_sign_B-39.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/150-Turkey_road_sign_B-39.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/150-Turkey_road_sign_B-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Turkey_road_sign_B-39.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.971
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/TR-B-4.svg",
+      "iso": "TR",
+      "id": "B-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Turkey_road_sign_B-4.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/122-Turkey_road_sign_B-4.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/122-Turkey_road_sign_B-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Turkey_road_sign_B-4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/TR-B-40.svg",
+      "iso": "TR",
+      "id": "B-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_road_sign_B-40.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/151-Turkey_road_sign_B-40.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/151-Turkey_road_sign_B-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_road_sign_B-40.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-41.svg",
+      "iso": "TR",
+      "id": "B-41",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Turkey_road_sign_B-41.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/152-Turkey_road_sign_B-41.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/152-Turkey_road_sign_B-41.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Turkey_road_sign_B-41.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-42.svg",
+      "iso": "TR",
+      "id": "B-42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Turkey_road_sign_B-42.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/153-Turkey_road_sign_B-42.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/153-Turkey_road_sign_B-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Turkey_road_sign_B-42.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-43.svg",
+      "iso": "TR",
+      "id": "B-43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Turkey_road_sign_B-43.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/154-Turkey_road_sign_B-43.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/154-Turkey_road_sign_B-43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Turkey_road_sign_B-43.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-44.svg",
+      "iso": "TR",
+      "id": "B-44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Turkey_road_sign_B-44.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/155-Turkey_road_sign_B-44.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/155-Turkey_road_sign_B-44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Turkey_road_sign_B-44.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/TR-B-45a.svg",
+      "iso": "TR",
+      "id": "B-45a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey_road_sign_B-45a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/156-Turkey_road_sign_B-45a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/156-Turkey_road_sign_B-45a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Turkey_road_sign_B-45a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-46.svg",
+      "iso": "TR",
+      "id": "B-46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Turkey_road_sign_B-46.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/157-Turkey_road_sign_B-46.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/157-Turkey_road_sign_B-46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Turkey_road_sign_B-46.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-B-47.svg",
+      "iso": "TR",
+      "id": "B-47",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Turkey_road_sign_B-47.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/158-Turkey_road_sign_B-47.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/158-Turkey_road_sign_B-47.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Turkey_road_sign_B-47.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/TR-B-48.svg",
+      "iso": "TR",
+      "id": "B-48",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Turkey_road_sign_B-48.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/159-Turkey_road_sign_B-48.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/159-Turkey_road_sign_B-48.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Turkey_road_sign_B-48.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/TR-B-49.svg",
+      "iso": "TR",
+      "id": "B-49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Turkey_road_sign_B-49.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/160-Turkey_road_sign_B-49.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/160-Turkey_road_sign_B-49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Turkey_road_sign_B-49.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/TR-B-52.svg",
+      "iso": "TR",
+      "id": "B-52",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Turkey_road_sign_B-52.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/161-Turkey_road_sign_B-52.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/161-Turkey_road_sign_B-52.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Turkey_road_sign_B-52.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/TR-B-53a.svg",
+      "iso": "TR",
+      "id": "B-53a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Turkey_road_sign_B-53a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/162-Turkey_road_sign_B-53a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/162-Turkey_road_sign_B-53a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Turkey_road_sign_B-53a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/TR-B-55a.svg",
+      "iso": "TR",
+      "id": "B-55a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Turkey_road_sign_B-55a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/163-Turkey_road_sign_B-55a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/163-Turkey_road_sign_B-55a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Turkey_road_sign_B-55a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/TR-B-55b.svg",
+      "iso": "TR",
+      "id": "B-55b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Turkey_road_sign_B-55b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/164-Turkey_road_sign_B-55b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/164-Turkey_road_sign_B-55b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Turkey_road_sign_B-55b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/TR-B-8a.svg",
+      "iso": "TR",
+      "id": "B-8a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Turkey_road_sign_B-8a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/123-Turkey_road_sign_B-8a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/123-Turkey_road_sign_B-8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Turkey_road_sign_B-8a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/TR-B-8c.svg",
+      "iso": "TR",
+      "id": "B-8c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Turkey_road_sign_B-8c.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/124-Turkey_road_sign_B-8c.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/124-Turkey_road_sign_B-8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Turkey_road_sign_B-8c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/TR-O-1.svg",
+      "iso": "TR",
+      "id": "O-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/O-1_Otoyolu.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/115-O-1_Otoyolu.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/115-O-1_Otoyolu.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/O-1_Otoyolu.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/TR-P-1.svg",
+      "iso": "TR",
+      "id": "P-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Turkey_road_sign_P-1.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/165-Turkey_road_sign_P-1.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/165-Turkey_road_sign_P-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Turkey_road_sign_P-1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/TR-P-2.svg",
+      "iso": "TR",
+      "id": "P-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Turkey_road_sign_P-2.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/166-Turkey_road_sign_P-2.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/166-Turkey_road_sign_P-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Turkey_road_sign_P-2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/TR-P-3a.svg",
+      "iso": "TR",
+      "id": "P-3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Turkey_road_sign_P-3a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/167-Turkey_road_sign_P-3a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/167-Turkey_road_sign_P-3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Turkey_road_sign_P-3a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/TR-P-3b.svg",
+      "iso": "TR",
+      "id": "P-3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Turkey_road_sign_P-3b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/168-Turkey_road_sign_P-3b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/168-Turkey_road_sign_P-3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Turkey_road_sign_P-3b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/TR-P-3c.svg",
+      "iso": "TR",
+      "id": "P-3c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Turkey_road_sign_P-3c.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/169-Turkey_road_sign_P-3c.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/169-Turkey_road_sign_P-3c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Turkey_road_sign_P-3c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-10.svg",
+      "iso": "TR",
+      "id": "T-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Turkey_road_sign_T-10.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/015-Turkey_road_sign_T-10.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/015-Turkey_road_sign_T-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Turkey_road_sign_T-10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-11.svg",
+      "iso": "TR",
+      "id": "T-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Turkey_road_sign_T-11.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/016-Turkey_road_sign_T-11.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/016-Turkey_road_sign_T-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Turkey_road_sign_T-11.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-12.svg",
+      "iso": "TR",
+      "id": "T-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Turkey_road_sign_T-12.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/017-Turkey_road_sign_T-12.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/017-Turkey_road_sign_T-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Turkey_road_sign_T-12.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-13.svg",
+      "iso": "TR",
+      "id": "T-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Turkey_road_sign_T-13.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/018-Turkey_road_sign_T-13.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/018-Turkey_road_sign_T-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Turkey_road_sign_T-13.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-14a.svg",
+      "iso": "TR",
+      "id": "T-14a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Turkey_road_sign_T-14a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/019-Turkey_road_sign_T-14a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/019-Turkey_road_sign_T-14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Turkey_road_sign_T-14a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-14b.svg",
+      "iso": "TR",
+      "id": "T-14b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Turkey_road_sign_T-14b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/020-Turkey_road_sign_T-14b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/020-Turkey_road_sign_T-14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Turkey_road_sign_T-14b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-15.svg",
+      "iso": "TR",
+      "id": "T-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Turkey_road_sign_T-15.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/021-Turkey_road_sign_T-15.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/021-Turkey_road_sign_T-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Turkey_road_sign_T-15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-16.svg",
+      "iso": "TR",
+      "id": "T-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Turkey_road_sign_T-16.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/022-Turkey_road_sign_T-16.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/022-Turkey_road_sign_T-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Turkey_road_sign_T-16.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-17.svg",
+      "iso": "TR",
+      "id": "T-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Turkey_road_sign_T-17.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/023-Turkey_road_sign_T-17.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/023-Turkey_road_sign_T-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Turkey_road_sign_T-17.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-18.svg",
+      "iso": "TR",
+      "id": "T-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Turkey_road_sign_T-18.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/024-Turkey_road_sign_T-18.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/024-Turkey_road_sign_T-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Turkey_road_sign_T-18.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-19.svg",
+      "iso": "TR",
+      "id": "T-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Turkey_road_sign_T-19.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/025-Turkey_road_sign_T-19.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/025-Turkey_road_sign_T-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Turkey_road_sign_T-19.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-1a.svg",
+      "iso": "TR",
+      "id": "T-1a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Turkey_road_sign_T-1a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/001-Turkey_road_sign_T-1a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/001-Turkey_road_sign_T-1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Turkey_road_sign_T-1a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-1b.svg",
+      "iso": "TR",
+      "id": "T-1b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Turkey_road_sign_T-1b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/002-Turkey_road_sign_T-1b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/002-Turkey_road_sign_T-1b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Turkey_road_sign_T-1b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-20.svg",
+      "iso": "TR",
+      "id": "T-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Turkey_road_sign_T-20.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/026-Turkey_road_sign_T-20.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/026-Turkey_road_sign_T-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Turkey_road_sign_T-20.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-21.svg",
+      "iso": "TR",
+      "id": "T-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Turkey_road_sign_T-21.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/027-Turkey_road_sign_T-21.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/027-Turkey_road_sign_T-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Turkey_road_sign_T-21.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-22a.svg",
+      "iso": "TR",
+      "id": "T-22a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Turkey_road_sign_T-22a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/028-Turkey_road_sign_T-22a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/028-Turkey_road_sign_T-22a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Turkey_road_sign_T-22a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/other/TR-T-22b.svg",
+      "iso": "TR",
+      "id": "T-22b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Turkey_road_sign_T-22b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/029-Turkey_road_sign_T-22b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/029-Turkey_road_sign_T-22b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Turkey_road_sign_T-22b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/other/TR-T-22c.svg",
+      "iso": "TR",
+      "id": "T-22c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Turkey_road_sign_T-22c.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/030-Turkey_road_sign_T-22c.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/030-Turkey_road_sign_T-22c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Turkey_road_sign_T-22c.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/other/TR-T-22d.svg",
+      "iso": "TR",
+      "id": "T-22d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Turkey_road_sign_T-22d.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/031-Turkey_road_sign_T-22d.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/031-Turkey_road_sign_T-22d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Turkey_road_sign_T-22d.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/other/TR-T-22e.svg",
+      "iso": "TR",
+      "id": "T-22e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Turkey_road_sign_T-22e.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/032-Turkey_road_sign_T-22e.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/032-Turkey_road_sign_T-22e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Turkey_road_sign_T-22e.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/other/TR-T-23a.svg",
+      "iso": "TR",
+      "id": "T-23a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Turkey_road_sign_T-23a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/033-Turkey_road_sign_T-23a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/033-Turkey_road_sign_T-23a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Turkey_road_sign_T-23a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/other/TR-T-23b.svg",
+      "iso": "TR",
+      "id": "T-23b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Turkey_road_sign_T-23b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/034-Turkey_road_sign_T-23b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/034-Turkey_road_sign_T-23b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Turkey_road_sign_T-23b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-24.svg",
+      "iso": "TR",
+      "id": "T-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Turkey_road_sign_T-24.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/035-Turkey_road_sign_T-24.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/035-Turkey_road_sign_T-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Turkey_road_sign_T-24.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-25.svg",
+      "iso": "TR",
+      "id": "T-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_road_sign_T-25.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/036-Turkey_road_sign_T-25.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/036-Turkey_road_sign_T-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_road_sign_T-25.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-26.svg",
+      "iso": "TR",
+      "id": "T-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Turkey_road_sign_T-26.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/037-Turkey_road_sign_T-26.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/037-Turkey_road_sign_T-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Turkey_road_sign_T-26.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-27a.svg",
+      "iso": "TR",
+      "id": "T-27a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Turkey_road_sign_T-27a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/038-Turkey_road_sign_T-27a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/038-Turkey_road_sign_T-27a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Turkey_road_sign_T-27a.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.413
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-27b.svg",
+      "iso": "TR",
+      "id": "T-27b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Turkey_road_sign_T-27b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/039-Turkey_road_sign_T-27b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/039-Turkey_road_sign_T-27b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Turkey_road_sign_T-27b.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.413
+    },
+    {
+      "filename": "sd_unclassified/other/TR-T-28a-b.svg",
+      "iso": "TR",
+      "id": "T-28a-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Turkey_road_sign_T-28a-b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/040-Turkey_road_sign_T-28a-b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/040-Turkey_road_sign_T-28a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Turkey_road_sign_T-28a-b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-T-29a-b.svg",
+      "iso": "TR",
+      "id": "T-29a-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Turkey_road_sign_T-29a-b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/041-Turkey_road_sign_T-29a-b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/041-Turkey_road_sign_T-29a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Turkey_road_sign_T-29a-b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-2a.svg",
+      "iso": "TR",
+      "id": "T-2a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Turkey_road_sign_T-2a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/003-Turkey_road_sign_T-2a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/003-Turkey_road_sign_T-2a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Turkey_road_sign_T-2a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-2b.svg",
+      "iso": "TR",
+      "id": "T-2b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Turkey_road_sign_T-2b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/004-Turkey_road_sign_T-2b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/004-Turkey_road_sign_T-2b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Turkey_road_sign_T-2b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "sd_unclassified/other/TR-T-30a-b.svg",
+      "iso": "TR",
+      "id": "T-30a-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Turkey_road_sign_T-30a-b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/042-Turkey_road_sign_T-30a-b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/042-Turkey_road_sign_T-30a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Turkey_road_sign_T-30a-b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-T-31a-b.svg",
+      "iso": "TR",
+      "id": "T-31a-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Turkey_road_sign_T-31a-b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/043-Turkey_road_sign_T-31a-b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/043-Turkey_road_sign_T-31a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Turkey_road_sign_T-31a-b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/TR-T-32.svg",
+      "iso": "TR",
+      "id": "T-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Turkey_road_sign_T-32.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/044-Turkey_road_sign_T-32.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/044-Turkey_road_sign_T-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Turkey_road_sign_T-32.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/TR-T-33a.svg",
+      "iso": "TR",
+      "id": "T-33a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Turkey_road_sign_T-33a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/045-Turkey_road_sign_T-33a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/045-Turkey_road_sign_T-33a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Turkey_road_sign_T-33a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/TR-T-33b.svg",
+      "iso": "TR",
+      "id": "T-33b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Turkey_road_sign_T-33b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/046-Turkey_road_sign_T-33b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/046-Turkey_road_sign_T-33b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Turkey_road_sign_T-33b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-36.svg",
+      "iso": "TR",
+      "id": "T-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Turkey_road_sign_T-36.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/047-Turkey_road_sign_T-36.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/047-Turkey_road_sign_T-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Turkey_road_sign_T-36.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-37.svg",
+      "iso": "TR",
+      "id": "T-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Turkey_road_sign_T-37.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/048-Turkey_road_sign_T-37.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/048-Turkey_road_sign_T-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Turkey_road_sign_T-37.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-38.svg",
+      "iso": "TR",
+      "id": "T-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Turkey_road_sign_T-38.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/049-Turkey_road_sign_T-38.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/049-Turkey_road_sign_T-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Turkey_road_sign_T-38.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-39.svg",
+      "iso": "TR",
+      "id": "T-39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Turkey_road_sign_T-39.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/050-Turkey_road_sign_T-39.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/050-Turkey_road_sign_T-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Turkey_road_sign_T-39.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-3a.svg",
+      "iso": "TR",
+      "id": "T-3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Turkey_road_sign_T-3a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/005-Turkey_road_sign_T-3a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/005-Turkey_road_sign_T-3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Turkey_road_sign_T-3a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-3b.svg",
+      "iso": "TR",
+      "id": "T-3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Turkey_road_sign_T-3b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/006-Turkey_road_sign_T-3b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/006-Turkey_road_sign_T-3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Turkey_road_sign_T-3b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-4a.svg",
+      "iso": "TR",
+      "id": "T-4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Turkey_road_sign_T-4a.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/007-Turkey_road_sign_T-4a.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/007-Turkey_road_sign_T-4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Turkey_road_sign_T-4a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-4b.svg",
+      "iso": "TR",
+      "id": "T-4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkey_road_sign_T-4b.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/008-Turkey_road_sign_T-4b.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/008-Turkey_road_sign_T-4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkey_road_sign_T-4b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-4c.svg",
+      "iso": "TR",
+      "id": "T-4c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Turkey_road_sign_T-4c.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/009-Turkey_road_sign_T-4c.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/009-Turkey_road_sign_T-4c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Turkey_road_sign_T-4c.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-5.svg",
+      "iso": "TR",
+      "id": "T-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Turkey_road_sign_T-5.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/010-Turkey_road_sign_T-5.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/010-Turkey_road_sign_T-5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Turkey_road_sign_T-5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-6.svg",
+      "iso": "TR",
+      "id": "T-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Turkey_road_sign_T-6.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/011-Turkey_road_sign_T-6.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/011-Turkey_road_sign_T-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Turkey_road_sign_T-6.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-7.svg",
+      "iso": "TR",
+      "id": "T-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_road_sign_T-7.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/012-Turkey_road_sign_T-7.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/012-Turkey_road_sign_T-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_road_sign_T-7.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.92
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-8.svg",
+      "iso": "TR",
+      "id": "T-8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Turkey_road_sign_T-8.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/013-Turkey_road_sign_T-8.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/013-Turkey_road_sign_T-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Turkey_road_sign_T-8.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/TR-T-9.svg",
+      "iso": "TR",
+      "id": "T-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey_road_sign_T-9.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/014-Turkey_road_sign_T-9.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/014-Turkey_road_sign_T-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey_road_sign_T-9.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "sd_unclassified/other/TR-YBTT-29-50.svg",
+      "iso": "TR",
+      "id": "YBTT-29-50",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Turkey_road_sign_YBTT-29-50.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/172-Turkey_road_sign_YBTT-29-50.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/172-Turkey_road_sign_YBTT-29-50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Turkey_road_sign_YBTT-29-50.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/TR-YBTT-3.svg",
+      "iso": "TR",
+      "id": "YBTT-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Turkey_road_sign_YBTT-3.svg",
+      "kept_from": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/171-Turkey_road_sign_YBTT-3.svg",
+      "sources": [
+        {
+          "file": "TR_Turkey/wikipedia/01-it_Segnaletica_stradale_in_Turchia/171-Turkey_road_sign_YBTT-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Turkey_road_sign_YBTT-3.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    }
+  ]
+}

@@ -23,15 +23,16 @@ VIENNA:C-14.1  Maximum speed limit
 | `template.json` | Two fully worked entries (`VIENNA:A-23.1`, `VIENNA:H-01.1`) showing the complete structure, including illustrative Swiss and MUTCD jurisdictions. |
 | `comparison_2006-2023.json` | Intermediate product: the 2006 ↔ 2023 correspondence, with every rendering variant expressed as uniform labels. |
 `full_database.json` was generated from it but the file itself needs to be restored before the pipeline can be re-run. |
-| `pictures_of_road_signs/` | Source: sign images per country (27 folders; several — Croatia, Cyprus, Greece, Ireland, Italy, Luxembourg, Malta — are not covered by `road_signs_all.json`). |
+| `road_sign_images/` | Source: sign images per country, sorted as `<iso>_<country>/<vienna category>/<vienna or other>/` (e.g. `fr_france_monaco/c_prohibitory_and_restrictive_signs/vienna/`). `vienna` = sign matched to a Vienna Convention entry, `other` = national sign of that category; `sd_unclassified/` holds national signs with no category; only images whose code appears in `full_database.json` are kept. Each country has an `images_links.json` (source URLs). |
+| `vienna_convention_images/` | Official illustrations of the Vienna Convention signs (2026 amendment), downloaded from the [Commons gallery](https://commons.wikimedia.org/wiki/User:%E6%B4%97%E5%92%A7%E5%93%88%E5%9B%89/Gallery/Vienna_Convention_on_Road_Signs_and_Signals_2026_Amendment): `<category>/<number><variant>.svg` (e.g. `a_danger_warning_signs/A-01.1-V1.svg`; `-V1…` other colours, `-1`, `-a…` other models). `images_links.json` lists each file's Commons title, URL, licence and author. |
 | `Conv_road_signs_2006v_EN.pdf`, `ECE-TRANS-WP1-2023-2-Rev2e.pdf` | Sources: the 2006 consolidated Convention and the 2023 revision (ECE/TRANS/WP.1/2023/2/Rev.2). |
 | `scripts/` | Build pipeline (see below). |
-| `display/` | Static web viewer for `full_database.json` (see [Browsing the database](#browsing-the-database)). |
+| `website/` | Collaborative editor and REST API (accounts, history, image uploads) — see [`website/README.md`](website/README.md). |
 
 ## Browsing the database
 
 `display/` is a plain HTML/CSS/JS page that shows `full_database.json` as a table — one row per Vienna
-sign, one column per country — with the national sign images from `pictures_of_road_signs/`.
+sign, one column per country — with the national sign images from `road_sign_images/`.
 
 It must be served over HTTP (the page loads the JSON with `fetch()`, which browsers block on `file://`),
 and the server must be started **from the repository root** so that the images, which live outside
@@ -57,7 +58,7 @@ Images are matched by name: national code `fr:A7` → file `FR-A7.svg`. The look
 python3 -c "
 import json, os
 idx = {}
-for root, _, files in os.walk('pictures_of_road_signs'):
+for root, _, files in os.walk('road_sign_images'):
     for f in files:
         name, ext = os.path.splitext(f)
         if ext.lower() in ('.svg', '.png', '.jpg', '.jpeg', '.gif'):

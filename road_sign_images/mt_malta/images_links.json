@@ -1,0 +1,1583 @@
+{
+  "country_code": "MT",
+  "country": "Malta",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.A5.svg",
+      "iso": "MT",
+      "id": "I.A5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Maltese_road_sign_I.A5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/006-Maltese_road_sign_I.A5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/006-Maltese_road_sign_I.A5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Maltese_road_sign_I.A5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.B1.svg",
+      "iso": "MT",
+      "id": "I.B1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Maltese_road_sign_I.B1.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/007-Maltese_road_sign_I.B1.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/007-Maltese_road_sign_I.B1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Maltese_road_sign_I.B1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.B5.svg",
+      "iso": "MT",
+      "id": "I.B5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Maltese_road_sign_I.B5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/008-Maltese_road_sign_I.B5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/008-Maltese_road_sign_I.B5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Maltese_road_sign_I.B5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.D4.svg",
+      "iso": "MT",
+      "id": "I.D4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Maltese_road_sign_I.D4.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/012-Maltese_road_sign_I.D4.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/012-Maltese_road_sign_I.D4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Maltese_road_sign_I.D4.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.D5.svg",
+      "iso": "MT",
+      "id": "I.D5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Maltese_road_sign_I.D5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/013-Maltese_road_sign_I.D5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/013-Maltese_road_sign_I.D5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Maltese_road_sign_I.D5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.E10.svg",
+      "iso": "MT",
+      "id": "I.E10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Maltese_road_sign_I.E10.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/027-Maltese_road_sign_I.E10.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/027-Maltese_road_sign_I.E10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Maltese_road_sign_I.E10.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.E5.svg",
+      "iso": "MT",
+      "id": "I.E5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltese_road_sign_I.E5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/018-Maltese_road_sign_I.E5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/018-Maltese_road_sign_I.E5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltese_road_sign_I.E5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.E7.svg",
+      "iso": "MT",
+      "id": "I.E7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Maltese_road_sign_I.E7.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/020-Maltese_road_sign_I.E7.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/020-Maltese_road_sign_I.E7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Maltese_road_sign_I.E7.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.E8.svg",
+      "iso": "MT",
+      "id": "I.E8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Maltese_road_sign_I.E8.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/021-Maltese_road_sign_I.E8.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/021-Maltese_road_sign_I.E8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Maltese_road_sign_I.E8.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.F1.svg",
+      "iso": "MT",
+      "id": "I.F1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Maltese_road_sign_I.F1.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/029-Maltese_road_sign_I.F1.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/029-Maltese_road_sign_I.F1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Maltese_road_sign_I.F1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.F2.svg",
+      "iso": "MT",
+      "id": "I.F2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltese_road_sign_I.F2.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/030-Maltese_road_sign_I.F2.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/030-Maltese_road_sign_I.F2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Maltese_road_sign_I.F2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.F3.svg",
+      "iso": "MT",
+      "id": "I.F3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Maltese_road_sign_I.F3.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/031-Maltese_road_sign_I.F3.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/031-Maltese_road_sign_I.F3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Maltese_road_sign_I.F3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935,
+      "also_used_in": [
+        "SI_Slovenia"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.F4.svg",
+      "iso": "MT",
+      "id": "I.F4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Maltese_road_sign_I.F4.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/032-Maltese_road_sign_I.F4.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/032-Maltese_road_sign_I.F4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Maltese_road_sign_I.F4.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.F5.svg",
+      "iso": "MT",
+      "id": "I.F5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Maltese_road_sign_I.F5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/033-Maltese_road_sign_I.F5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/033-Maltese_road_sign_I.F5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Maltese_road_sign_I.F5.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.F6.svg",
+      "iso": "MT",
+      "id": "I.F6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Maltese_road_sign_I.F6.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/034-Maltese_road_sign_I.F6.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/034-Maltese_road_sign_I.F6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Maltese_road_sign_I.F6.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.H1.svg",
+      "iso": "MT",
+      "id": "I.H1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Maltese_road_sign_I.H1.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/035-Maltese_road_sign_I.H1.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/035-Maltese_road_sign_I.H1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Maltese_road_sign_I.H1.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MT-I.H2.svg",
+      "iso": "MT",
+      "id": "I.H2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Maltese_road_sign_I.H2.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/036-Maltese_road_sign_I.H2.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/036-Maltese_road_sign_I.H2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Maltese_road_sign_I.H2.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/MT-I.H3.svg",
+      "iso": "MT",
+      "id": "I.H3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Maltese_road_sign_I.H3.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/038-Maltese_road_sign_I.H3.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/038-Maltese_road_sign_I.H3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Maltese_road_sign_I.H3.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MT-II.A3.svg",
+      "iso": "MT",
+      "id": "II.A3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Maltese_road_sign_II.A3.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/043-Maltese_road_sign_II.A3.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/043-Maltese_road_sign_II.A3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Maltese_road_sign_II.A3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MT-II.A6.svg",
+      "iso": "MT",
+      "id": "II.A6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Maltese_road_sign_II.A6.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/046-Maltese_road_sign_II.A6.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/046-Maltese_road_sign_II.A6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Maltese_road_sign_II.A6.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/MT-II.B4.svg",
+      "iso": "MT",
+      "id": "II.B4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Maltese_road_sign_II.B4.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/051-Maltese_road_sign_II.B4.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/051-Maltese_road_sign_II.B4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Maltese_road_sign_II.B4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MT-II.B5.svg",
+      "iso": "MT",
+      "id": "II.B5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Maltese_road_sign_II.B5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/052-Maltese_road_sign_II.B5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/052-Maltese_road_sign_II.B5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Maltese_road_sign_II.B5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MT-II.D1.svg",
+      "iso": "MT",
+      "id": "II.D1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Maltese_road_sign_II.D1.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/056-Maltese_road_sign_II.D1.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/056-Maltese_road_sign_II.D1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Maltese_road_sign_II.D1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/MT-II.D2.svg",
+      "iso": "MT",
+      "id": "II.D2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Maltese_road_sign_II.D2.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/057-Maltese_road_sign_II.D2.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/057-Maltese_road_sign_II.D2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Maltese_road_sign_II.D2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MT-II.D3.svg",
+      "iso": "MT",
+      "id": "II.D3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maltese_road_sign_II.D3.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/058-Maltese_road_sign_II.D3.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/058-Maltese_road_sign_II.D3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maltese_road_sign_II.D3.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MT-II.D4.svg",
+      "iso": "MT",
+      "id": "II.D4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Maltese_road_sign_II.D4.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/059-Maltese_road_sign_II.D4.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/059-Maltese_road_sign_II.D4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Maltese_road_sign_II.D4.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/MT-II.D9.svg",
+      "iso": "MT",
+      "id": "II.D9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Maltese_road_sign_II.D9.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/063-Maltese_road_sign_II.D9.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/063-Maltese_road_sign_II.D9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Maltese_road_sign_II.D9.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/vienna/MT-II.E5.svg",
+      "iso": "MT",
+      "id": "II.E5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Maltese_road_sign_II.E5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/065-Maltese_road_sign_II.E5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/065-Maltese_road_sign_II.E5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Maltese_road_sign_II.E5.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/MT-II.E8.svg",
+      "iso": "MT",
+      "id": "II.E8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Maltese_road_sign_II.E8.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/068-Maltese_road_sign_II.E8.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/068-Maltese_road_sign_II.E8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Maltese_road_sign_II.E8.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/MT-II.F6.svg",
+      "iso": "MT",
+      "id": "II.F6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Maltese_road_sign_II.F6.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/074-Maltese_road_sign_II.F6.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/074-Maltese_road_sign_II.F6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Maltese_road_sign_II.F6.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/MT-III.A3.svg",
+      "iso": "MT",
+      "id": "III.A3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maltese_road_sign_III.A3.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/087-Maltese_road_sign_III.A3.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/087-Maltese_road_sign_III.A3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maltese_road_sign_III.A3.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MT-III.C1.svg",
+      "iso": "MT",
+      "id": "III.C1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Maltese_road_sign_III.C1.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/093-Maltese_road_sign_III.C1.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/093-Maltese_road_sign_III.C1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Maltese_road_sign_III.C1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MT-III.C10.svg",
+      "iso": "MT",
+      "id": "III.C10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Maltese_road_sign_III.C10.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/095-Maltese_road_sign_III.C10.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/095-Maltese_road_sign_III.C10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Maltese_road_sign_III.C10.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MT-III.C5.svg",
+      "iso": "MT",
+      "id": "III.C5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Maltese_road_sign_III.C5.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/094-Maltese_road_sign_III.C5.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/094-Maltese_road_sign_III.C5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Maltese_road_sign_III.C5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.895
+    },
+    {
+      "filename": "sd_unclassified/other/MT-III.D3.svg",
+      "iso": "MT",
+      "id": "III.D3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Maltese_road_sign_III.D3.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/096-Maltese_road_sign_III.D3.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/096-Maltese_road_sign_III.D3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Maltese_road_sign_III.D3.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.895
+    },
+    {
+      "filename": "sd_unclassified/other/MT-III.D8.svg",
+      "iso": "MT",
+      "id": "III.D8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Maltese_road_sign_III.D8.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/097-Maltese_road_sign_III.D8.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/097-Maltese_road_sign_III.D8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Maltese_road_sign_III.D8.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/MT-III.E1.svg",
+      "iso": "MT",
+      "id": "III.E1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Maltese_road_sign_III.E1.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/098-Maltese_road_sign_III.E1.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/098-Maltese_road_sign_III.E1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Maltese_road_sign_III.E1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.962
+    },
+    {
+      "filename": "_non_identifies/Commons-logo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/099-Commons-logo.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/099-Commons-logo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Fig._27a_-_Divieto_di_svolta_a_destra_-_1959.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Fig._27a_-_Divieto_di_svolta_a_destra_-_1959.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/042-Fig._27a_-_Divieto_di_svolta_a_destra_-_1959.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/042-Fig._27a_-_Divieto_di_svolta_a_destra_-_1959.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Fig._27a_-_Divieto_di_svolta_a_destra_-_1959.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Fig._27b_-_Divieto_di_svolta_a_sinistra_-_1959.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fig._27b_-_Divieto_di_svolta_a_sinistra_-_1959.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/041-Fig._27b_-_Divieto_di_svolta_a_sinistra_-_1959.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/041-Fig._27b_-_Divieto_di_svolta_a_sinistra_-_1959.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fig._27b_-_Divieto_di_svolta_a_sinistra_-_1959.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Albania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/100-Flag_of_Albania.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/100-Flag_of_Albania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Andorra.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/101-Flag_of_Andorra.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/101-Flag_of_Andorra.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Armenia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/102-Flag_of_Armenia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/102-Flag_of_Armenia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Austria.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/103-Flag_of_Austria.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/103-Flag_of_Austria.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Azerbaijan.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/104-Flag_of_Azerbaijan.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/104-Flag_of_Azerbaijan.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Belarus.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/106-Flag_of_Belarus.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/106-Flag_of_Belarus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Belgium_(civil).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/105-Flag_of_Belgium_(civil).svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/105-Flag_of_Belgium_(civil).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Bosnia_and_Herzegovina.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/107-Flag_of_Bosnia_and_Herzegovina.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/107-Flag_of_Bosnia_and_Herzegovina.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Bulgaria.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/108-Flag_of_Bulgaria.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/108-Flag_of_Bulgaria.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Burundi.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/155-Flag_of_Burundi.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/155-Flag_of_Burundi.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Croatia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/110-Flag_of_Croatia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/110-Flag_of_Croatia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Cyprus.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/109-Flag_of_Cyprus.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/109-Flag_of_Cyprus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Denmark.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/111-Flag_of_Denmark.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/111-Flag_of_Denmark.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Eritrea.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/156-Flag_of_Eritrea.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/156-Flag_of_Eritrea.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Estonia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/112-Flag_of_Estonia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/112-Flag_of_Estonia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Finland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/113-Flag_of_Finland.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/113-Flag_of_Finland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_France.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/114-Flag_of_France.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/114-Flag_of_France.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Georgia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/115-Flag_of_Georgia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/115-Flag_of_Georgia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Germany.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/116-Flag_of_Germany.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/116-Flag_of_Germany.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Greece.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/117-Flag_of_Greece.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/117-Flag_of_Greece.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Hungary.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/149-Flag_of_Hungary.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/149-Flag_of_Hungary.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Iceland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/119-Flag_of_Iceland.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/119-Flag_of_Iceland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Iraq.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/151-Flag_of_Iraq.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/151-Flag_of_Iraq.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Ireland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/118-Flag_of_Ireland.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/118-Flag_of_Ireland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Italy.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/120-Flag_of_Italy.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/120-Flag_of_Italy.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Kazakhstan.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/121-Flag_of_Kazakhstan.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/121-Flag_of_Kazakhstan.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Kosovo.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/122-Flag_of_Kosovo.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/122-Flag_of_Kosovo.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Latvia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/123-Flag_of_Latvia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/123-Flag_of_Latvia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Lebanon.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/153-Flag_of_Lebanon.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/153-Flag_of_Lebanon.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Libya.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/152-Flag_of_Libya.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/152-Flag_of_Libya.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Liechtenstein.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/124-Flag_of_Liechtenstein.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/124-Flag_of_Liechtenstein.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Lithuania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/125-Flag_of_Lithuania.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/125-Flag_of_Lithuania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Luxembourg.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/126-Flag_of_Luxembourg.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/126-Flag_of_Luxembourg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Malta.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/128-Flag_of_Malta.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/128-Flag_of_Malta.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Moldova.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/129-Flag_of_Moldova.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/129-Flag_of_Moldova.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Monaco.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/130-Flag_of_Monaco.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/130-Flag_of_Monaco.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Montenegro.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/131-Flag_of_Montenegro.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/131-Flag_of_Montenegro.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_North_Macedonia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/127-Flag_of_North_Macedonia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/127-Flag_of_North_Macedonia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Norway.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/132-Flag_of_Norway.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/132-Flag_of_Norway.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Poland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/134-Flag_of_Poland.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/134-Flag_of_Poland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Portugal.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/135-Flag_of_Portugal.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/135-Flag_of_Portugal.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Romania.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/138-Flag_of_Romania.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/138-Flag_of_Romania.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Russia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/139-Flag_of_Russia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/139-Flag_of_Russia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_San_Marino.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/140-Flag_of_San_Marino.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/140-Flag_of_San_Marino.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Serbia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/141-Flag_of_Serbia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/141-Flag_of_Serbia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Sierra_Leone.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/154-Flag_of_Sierra_Leone.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/154-Flag_of_Sierra_Leone.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Slovakia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/142-Flag_of_Slovakia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/142-Flag_of_Slovakia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Slovenia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/143-Flag_of_Slovenia.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/143-Flag_of_Slovenia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Spain.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/144-Flag_of_Spain.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/144-Flag_of_Spain.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Sweden.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/145-Flag_of_Sweden.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/145-Flag_of_Sweden.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Switzerland.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/146-Flag_of_Switzerland.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/146-Flag_of_Switzerland.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Turkey.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/147-Flag_of_Turkey.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/147-Flag_of_Turkey.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Ukraine.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/148-Flag_of_Ukraine.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/148-Flag_of_Ukraine.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Uruguay.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/157-Flag_of_Uruguay.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/157-Flag_of_Uruguay.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_Vatican_City_(2023-present).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/150-Flag_of_Vatican_City_(2023–present).svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/150-Flag_of_Vatican_City_(2023–present).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_Czech_Republic.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/137-Flag_of_the_Czech_Republic.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/137-Flag_of_the_Czech_Republic.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_Netherlands.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/133-Flag_of_the_Netherlands.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/133-Flag_of_the_Netherlands.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Flag_of_the_United_Kingdom_(3-5).svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/136-Flag_of_the_United_Kingdom_(3-5).svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/136-Flag_of_the_United_Kingdom_(3-5).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Logo_del_Progetto_Trasporti.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_del_Progetto_Trasporti.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/158-Logo_del_Progetto_Trasporti.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/158-Logo_del_Progetto_Trasporti.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_del_Progetto_Trasporti.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Question_book-4.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Question_book-4.svg",
+      "kept_from": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/001-Question_book-4.svg",
+      "sources": [
+        {
+          "file": "MT_Malta/wikipedia/01-it_Segnaletica_stradale_a_Malta/001-Question_book-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Question_book-4.svg"
+        }
+      ]
+    }
+  ]
+}

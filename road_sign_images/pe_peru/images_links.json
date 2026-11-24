@@ -1,0 +1,2927 @@
+{
+  "country_code": "PE",
+  "country": "Peru",
+  "images": [
+    {
+      "filename": "sd_unclassified/other/PE-I-1.svg",
+      "iso": "PE",
+      "id": "I-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Peru_road_sign_I-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/133-Peru_road_sign_I-1.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/133-Peru_road_sign_I-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Peru_road_sign_I-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.834
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-10.svg",
+      "iso": "PE",
+      "id": "I-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Peru_road_sign_I-10.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/143-Peru_road_sign_I-10.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/143-Peru_road_sign_I-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Peru_road_sign_I-10.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-11.svg",
+      "iso": "PE",
+      "id": "I-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Peru_road_sign_I-11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/144-Peru_road_sign_I-11.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/144-Peru_road_sign_I-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Peru_road_sign_I-11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-12.svg",
+      "iso": "PE",
+      "id": "I-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Peru_road_sign_I-12.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/145-Peru_road_sign_I-12.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/145-Peru_road_sign_I-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Peru_road_sign_I-12.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-13.svg",
+      "iso": "PE",
+      "id": "I-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Peru_road_sign_I-13.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/146-Peru_road_sign_I-13.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/146-Peru_road_sign_I-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Peru_road_sign_I-13.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-14.svg",
+      "iso": "PE",
+      "id": "I-14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Peru_road_sign_I-14.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/147-Peru_road_sign_I-14.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/147-Peru_road_sign_I-14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Peru_road_sign_I-14.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-15.svg",
+      "iso": "PE",
+      "id": "I-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Peru_road_sign_I-15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/148-Peru_road_sign_I-15.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/148-Peru_road_sign_I-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Peru_road_sign_I-15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-16.svg",
+      "iso": "PE",
+      "id": "I-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Peru_road_sign_I-16.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/149-Peru_road_sign_I-16.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/149-Peru_road_sign_I-16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Peru_road_sign_I-16.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-17.svg",
+      "iso": "PE",
+      "id": "I-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Peru_road_sign_I-17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/150-Peru_road_sign_I-17.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/150-Peru_road_sign_I-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Peru_road_sign_I-17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-17A.svg",
+      "iso": "PE",
+      "id": "I-17A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Peru_road_sign_I-17A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/151-Peru_road_sign_I-17A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/151-Peru_road_sign_I-17A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Peru_road_sign_I-17A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/PE-I-18.svg",
+      "iso": "PE",
+      "id": "I-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Peru_road_sign_I-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/152-Peru_road_sign_I-18.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/152-Peru_road_sign_I-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Peru_road_sign_I-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.108
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-19.svg",
+      "iso": "PE",
+      "id": "I-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Peru_road_sign_I-19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/153-Peru_road_sign_I-19.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/153-Peru_road_sign_I-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Peru_road_sign_I-19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-2.svg",
+      "iso": "PE",
+      "id": "I-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Peru_road_sign_I-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/134-Peru_road_sign_I-2.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/134-Peru_road_sign_I-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Peru_road_sign_I-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.834
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-20.svg",
+      "iso": "PE",
+      "id": "I-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Peru_road_sign_I-20.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/154-Peru_road_sign_I-20.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/154-Peru_road_sign_I-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Peru_road_sign_I-20.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-21.svg",
+      "iso": "PE",
+      "id": "I-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Peru_road_sign_I-21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/155-Peru_road_sign_I-21.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/155-Peru_road_sign_I-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Peru_road_sign_I-21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-22.svg",
+      "iso": "PE",
+      "id": "I-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Peru_road_sign_I-22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/156-Peru_road_sign_I-22.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/156-Peru_road_sign_I-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Peru_road_sign_I-22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-23.svg",
+      "iso": "PE",
+      "id": "I-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Peru_road_sign_I-23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/157-Peru_road_sign_I-23.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/157-Peru_road_sign_I-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Peru_road_sign_I-23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-24.svg",
+      "iso": "PE",
+      "id": "I-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Peru_road_sign_I-24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/158-Peru_road_sign_I-24.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/158-Peru_road_sign_I-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Peru_road_sign_I-24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-25.svg",
+      "iso": "PE",
+      "id": "I-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Peru_road_sign_I-25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/159-Peru_road_sign_I-25.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/159-Peru_road_sign_I-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Peru_road_sign_I-25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-26.svg",
+      "iso": "PE",
+      "id": "I-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Peru_road_sign_I-26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/160-Peru_road_sign_I-26.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/160-Peru_road_sign_I-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Peru_road_sign_I-26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.989
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-27.svg",
+      "iso": "PE",
+      "id": "I-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Peru_road_sign_I-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/161-Peru_road_sign_I-27.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/161-Peru_road_sign_I-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Peru_road_sign_I-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-28.svg",
+      "iso": "PE",
+      "id": "I-28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Peru_road_sign_I-28.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/162-Peru_road_sign_I-28.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/162-Peru_road_sign_I-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Peru_road_sign_I-28.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "e_special_regulation_signs/other/PE-I-29.svg",
+      "iso": "PE",
+      "id": "I-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Peru_road_sign_I-29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/163-Peru_road_sign_I-29.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/163-Peru_road_sign_I-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Peru_road_sign_I-29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-3.svg",
+      "iso": "PE",
+      "id": "I-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Peru_road_sign_I-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/135-Peru_road_sign_I-3.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/135-Peru_road_sign_I-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Peru_road_sign_I-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-30.svg",
+      "iso": "PE",
+      "id": "I-30",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Peru_road_sign_I-30.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/164-Peru_road_sign_I-30.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/164-Peru_road_sign_I-30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Peru_road_sign_I-30.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-31.svg",
+      "iso": "PE",
+      "id": "I-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Peru_road_sign_I-31.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/165-Peru_road_sign_I-31.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/165-Peru_road_sign_I-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Peru_road_sign_I-31.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-32.svg",
+      "iso": "PE",
+      "id": "I-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Peru_road_sign_I-32.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/166-Peru_road_sign_I-32.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/166-Peru_road_sign_I-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Peru_road_sign_I-32.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-33.svg",
+      "iso": "PE",
+      "id": "I-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Peru_road_sign_I-33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/167-Peru_road_sign_I-33.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/167-Peru_road_sign_I-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Peru_road_sign_I-33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-34.svg",
+      "iso": "PE",
+      "id": "I-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Peru_road_sign_I-34.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/168-Peru_road_sign_I-34.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/168-Peru_road_sign_I-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Peru_road_sign_I-34.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-35.svg",
+      "iso": "PE",
+      "id": "I-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Peru_road_sign_I-35.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/169-Peru_road_sign_I-35.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/169-Peru_road_sign_I-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Peru_road_sign_I-35.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-36.svg",
+      "iso": "PE",
+      "id": "I-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Peru_road_sign_I-36.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/170-Peru_road_sign_I-36.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/170-Peru_road_sign_I-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Peru_road_sign_I-36.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/PE-I-37.svg",
+      "iso": "PE",
+      "id": "I-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Peru_road_sign_I-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/171-Peru_road_sign_I-37.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/171-Peru_road_sign_I-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Peru_road_sign_I-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/PE-I-38.svg",
+      "iso": "PE",
+      "id": "I-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peru_road_sign_I-38.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/172-Peru_road_sign_I-38.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/172-Peru_road_sign_I-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peru_road_sign_I-38.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.604
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/PE-I-39.svg",
+      "iso": "PE",
+      "id": "I-39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Peru_road_sign_I-39.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/173-Peru_road_sign_I-39.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/173-Peru_road_sign_I-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Peru_road_sign_I-39.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-4.svg",
+      "iso": "PE",
+      "id": "I-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Peru_road_sign_I-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/136-Peru_road_sign_I-4.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/136-Peru_road_sign_I-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Peru_road_sign_I-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "g_other_information_signs/other/PE-I-5.svg",
+      "iso": "PE",
+      "id": "I-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peru_road_sign_I-5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/137-Peru_road_sign_I-5.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/137-Peru_road_sign_I-5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peru_road_sign_I-5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/PE-I-5A.svg",
+      "iso": "PE",
+      "id": "I-5A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Peru_road_sign_I-5A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/138-Peru_road_sign_I-5A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/138-Peru_road_sign_I-5A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Peru_road_sign_I-5A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.877
+    },
+    {
+      "filename": "g_other_information_signs/other/PE-I-6.svg",
+      "iso": "PE",
+      "id": "I-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Peru_road_sign_I-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/139-Peru_road_sign_I-6.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/139-Peru_road_sign_I-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Peru_road_sign_I-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/other/PE-I-7.svg",
+      "iso": "PE",
+      "id": "I-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Peru_road_sign_I-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/140-Peru_road_sign_I-7.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/140-Peru_road_sign_I-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Peru_road_sign_I-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-8.svg",
+      "iso": "PE",
+      "id": "I-8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Peru_road_sign_I-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/141-Peru_road_sign_I-8.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/141-Peru_road_sign_I-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Peru_road_sign_I-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-I-9.svg",
+      "iso": "PE",
+      "id": "I-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Peru_road_sign_I-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/142-Peru_road_sign_I-9.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/142-Peru_road_sign_I-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Peru_road_sign_I-9.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-10A.svg",
+      "iso": "PE",
+      "id": "P-10A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Peru_road_sign_P-10A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/077-Peru_road_sign_P-10A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/077-Peru_road_sign_P-10A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Peru_road_sign_P-10A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-10B.svg",
+      "iso": "PE",
+      "id": "P-10B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Peru_road_sign_P-10B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/078-Peru_road_sign_P-10B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/078-Peru_road_sign_P-10B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Peru_road_sign_P-10B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-11_until2016.svg",
+      "iso": "PE",
+      "id": "P-11",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/PE_road_sign_P-11_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/079-PE_road_sign_P-11_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/079-PE_road_sign_P-11_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/PE_road_sign_P-11_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-12_until2016.svg",
+      "iso": "PE",
+      "id": "P-12",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/PE_road_sign_P-12_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/080-PE_road_sign_P-12_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/080-PE_road_sign_P-12_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/PE_road_sign_P-12_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-13A.svg",
+      "iso": "PE",
+      "id": "P-13A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Peru_road_sign_P-13A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/081-Peru_road_sign_P-13A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/081-Peru_road_sign_P-13A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Peru_road_sign_P-13A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-13B.svg",
+      "iso": "PE",
+      "id": "P-13B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Peru_road_sign_P-13B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/082-Peru_road_sign_P-13B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/082-Peru_road_sign_P-13B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Peru_road_sign_P-13B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-14A.svg",
+      "iso": "PE",
+      "id": "P-14A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Peru_road_sign_P-14A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/083-Peru_road_sign_P-14A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/083-Peru_road_sign_P-14A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Peru_road_sign_P-14A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-14B.svg",
+      "iso": "PE",
+      "id": "P-14B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Peru_road_sign_P-14B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/084-Peru_road_sign_P-14B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/084-Peru_road_sign_P-14B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Peru_road_sign_P-14B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-15.svg",
+      "iso": "PE",
+      "id": "P-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Peru_road_sign_P-15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/085-Peru_road_sign_P-15.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/085-Peru_road_sign_P-15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Peru_road_sign_P-15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-16A.svg",
+      "iso": "PE",
+      "id": "P-16A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Peru_road_sign_P-16A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/086-Peru_road_sign_P-16A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/086-Peru_road_sign_P-16A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Peru_road_sign_P-16A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-16B.svg",
+      "iso": "PE",
+      "id": "P-16B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Peru_road_sign_P-16B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/087-Peru_road_sign_P-16B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/087-Peru_road_sign_P-16B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Peru_road_sign_P-16B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-17.svg",
+      "iso": "PE",
+      "id": "P-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Peru_road_sign_P-17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/088-Peru_road_sign_P-17.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/088-Peru_road_sign_P-17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Peru_road_sign_P-17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-18.svg",
+      "iso": "PE",
+      "id": "P-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peru_road_sign_P-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/089-Peru_road_sign_P-18.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/089-Peru_road_sign_P-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peru_road_sign_P-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-19.svg",
+      "iso": "PE",
+      "id": "P-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/090-Peru_road_sign_P-19.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/090-Peru_road_sign_P-19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-1A.svg",
+      "iso": "PE",
+      "id": "P-1A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Peru_road_sign_P-1A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/061-Peru_road_sign_P-1A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/061-Peru_road_sign_P-1A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Peru_road_sign_P-1A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-1B.svg",
+      "iso": "PE",
+      "id": "P-1B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-1B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/062-Peru_road_sign_P-1B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/062-Peru_road_sign_P-1B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-1B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-20.svg",
+      "iso": "PE",
+      "id": "P-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Peru_road_sign_P-20.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/091-Peru_road_sign_P-20.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/091-Peru_road_sign_P-20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Peru_road_sign_P-20.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-21.svg",
+      "iso": "PE",
+      "id": "P-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Peru_road_sign_P-21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/092-Peru_road_sign_P-21.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/092-Peru_road_sign_P-21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Peru_road_sign_P-21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-22.svg",
+      "iso": "PE",
+      "id": "P-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Peru_road_sign_P-22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/093-Peru_road_sign_P-22.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/093-Peru_road_sign_P-22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Peru_road_sign_P-22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-23.svg",
+      "iso": "PE",
+      "id": "P-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Peru_road_sign_P-23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/094-Peru_road_sign_P-23.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/094-Peru_road_sign_P-23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Peru_road_sign_P-23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-24.svg",
+      "iso": "PE",
+      "id": "P-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Peru_road_sign_P-24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/095-Peru_road_sign_P-24.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/095-Peru_road_sign_P-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Peru_road_sign_P-24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-25.svg",
+      "iso": "PE",
+      "id": "P-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Peru_road_sign_P-25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/096-Peru_road_sign_P-25.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/096-Peru_road_sign_P-25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Peru_road_sign_P-25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "sd_unclassified/other/PE-P-26.svg",
+      "iso": "PE",
+      "id": "P-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Peru_road_sign_P-26.svg",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/097-Peru_road_sign_P-26.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/097-Peru_road_sign_P-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Peru_road_sign_P-26.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-P-27.svg",
+      "iso": "PE",
+      "id": "P-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Peru_road_sign_P-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/098-Peru_road_sign_P-27.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/098-Peru_road_sign_P-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Peru_road_sign_P-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-28.svg",
+      "iso": "PE",
+      "id": "P-28",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Peru_road_sign_P-28.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/099-Peru_road_sign_P-28.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/099-Peru_road_sign_P-28.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Peru_road_sign_P-28.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-29.svg",
+      "iso": "PE",
+      "id": "P-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Peru_road_sign_P-29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/100-Peru_road_sign_P-29.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/100-Peru_road_sign_P-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Peru_road_sign_P-29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-2A.svg",
+      "iso": "PE",
+      "id": "P-2A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Peru_road_sign_P-2A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/063-Peru_road_sign_P-2A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/063-Peru_road_sign_P-2A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Peru_road_sign_P-2A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-2B.svg",
+      "iso": "PE",
+      "id": "P-2B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Peru_road_sign_P-2B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/064-Peru_road_sign_P-2B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/064-Peru_road_sign_P-2B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Peru_road_sign_P-2B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-30_until2016.svg",
+      "iso": "PE",
+      "id": "P-30",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/PE_road_sign_P-30_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/101-PE_road_sign_P-30_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/101-PE_road_sign_P-30_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/PE_road_sign_P-30_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-31.svg",
+      "iso": "PE",
+      "id": "P-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Peru_road_sign_P-31.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/102-Peru_road_sign_P-31.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/102-Peru_road_sign_P-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Peru_road_sign_P-31.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-32.svg",
+      "iso": "PE",
+      "id": "P-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Peru_road_sign_P-32.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/103-Peru_road_sign_P-32.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/103-Peru_road_sign_P-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Peru_road_sign_P-32.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-33.svg",
+      "iso": "PE",
+      "id": "P-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Peru_road_sign_P-33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/104-Peru_road_sign_P-33.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/104-Peru_road_sign_P-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Peru_road_sign_P-33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-34.svg",
+      "iso": "PE",
+      "id": "P-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Peru_road_sign_P-34.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/105-Peru_road_sign_P-34.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/105-Peru_road_sign_P-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Peru_road_sign_P-34.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-35_until2016.svg",
+      "iso": "PE",
+      "id": "P-35",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/PE_road_sign_P-35_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/106-PE_road_sign_P-35_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/106-PE_road_sign_P-35_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/PE_road_sign_P-35_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-36.svg",
+      "iso": "PE",
+      "id": "P-36",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Peru_road_sign_P-36.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/107-Peru_road_sign_P-36.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/107-Peru_road_sign_P-36.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Peru_road_sign_P-36.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-37.svg",
+      "iso": "PE",
+      "id": "P-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/108-Peru_road_sign_P-37.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/108-Peru_road_sign_P-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-38.svg",
+      "iso": "PE",
+      "id": "P-38",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Peru_road_sign_P-38.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/109-Peru_road_sign_P-38.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/109-Peru_road_sign_P-38.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Peru_road_sign_P-38.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-39.svg",
+      "iso": "PE",
+      "id": "P-39",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Peru_road_sign_P-39.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/110-Peru_road_sign_P-39.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/110-Peru_road_sign_P-39.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Peru_road_sign_P-39.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-3A.svg",
+      "iso": "PE",
+      "id": "P-3A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Peru_road_sign_P-3A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/065-Peru_road_sign_P-3A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/065-Peru_road_sign_P-3A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Peru_road_sign_P-3A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-3B.svg",
+      "iso": "PE",
+      "id": "P-3B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Peru_road_sign_P-3B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/066-Peru_road_sign_P-3B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/066-Peru_road_sign_P-3B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Peru_road_sign_P-3B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-40.svg",
+      "iso": "PE",
+      "id": "P-40",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Peru_road_sign_P-40.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/111-Peru_road_sign_P-40.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/111-Peru_road_sign_P-40.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Peru_road_sign_P-40.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-41_until2016.svg",
+      "iso": "PE",
+      "id": "P-41",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/PE_road_sign_P-41_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/112-PE_road_sign_P-41_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/112-PE_road_sign_P-41_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/PE_road_sign_P-41_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-42.svg",
+      "iso": "PE",
+      "id": "P-42",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Peru_road_sign_P-42.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/113-Peru_road_sign_P-42.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/113-Peru_road_sign_P-42.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Peru_road_sign_P-42.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-43.svg",
+      "iso": "PE",
+      "id": "P-43",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Peru_road_sign_P-43.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/114-Peru_road_sign_P-43.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/114-Peru_road_sign_P-43.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Peru_road_sign_P-43.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-44.svg",
+      "iso": "PE",
+      "id": "P-44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Peru_road_sign_P-44.svg",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/115-Peru_road_sign_P-44.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/115-Peru_road_sign_P-44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Peru_road_sign_P-44.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.517
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-45.svg",
+      "iso": "PE",
+      "id": "P-45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Peru_road_sign_P-45.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/116-Peru_road_sign_P-45.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/116-Peru_road_sign_P-45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Peru_road_sign_P-45.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "sd_unclassified/other/PE-P-46.svg",
+      "iso": "PE",
+      "id": "P-46",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Peru_road_sign_P-46.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/117-Peru_road_sign_P-46.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/117-Peru_road_sign_P-46.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Peru_road_sign_P-46.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-47_until2016.svg",
+      "iso": "PE",
+      "id": "P-47",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/PE_road_sign_P-47_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/118-PE_road_sign_P-47_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/118-PE_road_sign_P-47_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/PE_road_sign_P-47_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "sd_unclassified/other/PE-P-48.svg",
+      "iso": "PE",
+      "id": "P-48",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Peru_road_sign_P-48.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/119-Peru_road_sign_P-48.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/119-Peru_road_sign_P-48.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Peru_road_sign_P-48.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "g_other_information_signs/other/PE-P-49.svg",
+      "iso": "PE",
+      "id": "P-49",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Peru_road_sign_P-49.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/120-Peru_road_sign_P-49.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/120-Peru_road_sign_P-49.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Peru_road_sign_P-49.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "pentagon",
+      "shape_score": 0.957
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-4A.svg",
+      "iso": "PE",
+      "id": "P-4A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Peru_road_sign_P-4A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/067-Peru_road_sign_P-4A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/067-Peru_road_sign_P-4A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Peru_road_sign_P-4A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-4B.svg",
+      "iso": "PE",
+      "id": "P-4B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Peru_road_sign_P-4B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/068-Peru_road_sign_P-4B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/068-Peru_road_sign_P-4B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Peru_road_sign_P-4B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-5-1.svg",
+      "iso": "PE",
+      "id": "P-5-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Peru_road_sign_P-5-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/069-Peru_road_sign_P-5-1.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/069-Peru_road_sign_P-5-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Peru_road_sign_P-5-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-5-2A.svg",
+      "iso": "PE",
+      "id": "P-5-2A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Peru_road_sign_P-5-2A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/070-Peru_road_sign_P-5-2A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/070-Peru_road_sign_P-5-2A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Peru_road_sign_P-5-2A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-5-2B.svg",
+      "iso": "PE",
+      "id": "P-5-2B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Peru_road_sign_P-5-2B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/071-Peru_road_sign_P-5-2B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/071-Peru_road_sign_P-5-2B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Peru_road_sign_P-5-2B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-50.svg",
+      "iso": "PE",
+      "id": "P-50",
+      "description": null,
+      "variants": [
+        "2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Peru_road_sign_P-50_%282016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/121-Peru_road_sign_P-50_(2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/121-Peru_road_sign_P-50_(2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Peru_road_sign_P-50_%282016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944,
+      "valid_years": "2016"
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-51.svg",
+      "iso": "PE",
+      "id": "P-51",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Peru_road_sign_P-51.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/122-Peru_road_sign_P-51.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/122-Peru_road_sign_P-51.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Peru_road_sign_P-51.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-52.svg",
+      "iso": "PE",
+      "id": "P-52",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Peru_road_sign_P-52.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/123-Peru_road_sign_P-52.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/123-Peru_road_sign_P-52.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Peru_road_sign_P-52.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-53.svg",
+      "iso": "PE",
+      "id": "P-53",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Peru_road_sign_P-53.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/124-Peru_road_sign_P-53.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/124-Peru_road_sign_P-53.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Peru_road_sign_P-53.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "b_priority_signs/other/PE-P-54_until2016.svg",
+      "iso": "PE",
+      "id": "P-54",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/PE_road_sign_P-54_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/125-PE_road_sign_P-54_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/125-PE_road_sign_P-54_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/PE_road_sign_P-54_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-55.svg",
+      "iso": "PE",
+      "id": "P-55",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Peru_road_sign_P-55.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/126-Peru_road_sign_P-55.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/126-Peru_road_sign_P-55.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Peru_road_sign_P-55.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-56.svg",
+      "iso": "PE",
+      "id": "P-56",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Peru_road_sign_P-56.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/127-Peru_road_sign_P-56.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/127-Peru_road_sign_P-56.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Peru_road_sign_P-56.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-57.svg",
+      "iso": "PE",
+      "id": "P-57",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Peru_road_sign_P-57.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/128-Peru_road_sign_P-57.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/128-Peru_road_sign_P-57.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Peru_road_sign_P-57.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-58_until2016.svg",
+      "iso": "PE",
+      "id": "P-58",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/PE_road_sign_P-58_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/129-PE_road_sign_P-58_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/129-PE_road_sign_P-58_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/PE_road_sign_P-58_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-59.svg",
+      "iso": "PE",
+      "id": "P-59",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Peru_road_sign_P-59.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/130-Peru_road_sign_P-59.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/130-Peru_road_sign_P-59.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Peru_road_sign_P-59.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/PE-P-6.svg",
+      "iso": "PE",
+      "id": "P-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Peru_road_sign_P-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/072-Peru_road_sign_P-6.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/072-Peru_road_sign_P-6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Peru_road_sign_P-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "sd_unclassified/other/PE-P-60.svg",
+      "iso": "PE",
+      "id": "P-60",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Peru_P-60.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/131-Peru_P-60.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/131-Peru_P-60.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Peru_P-60.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.584
+    },
+    {
+      "filename": "g_other_information_signs/other/PE-P-61.svg",
+      "iso": "PE",
+      "id": "P-61",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Peru_road_sign_P-61.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/132-Peru_road_sign_P-61.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/132-Peru_road_sign_P-61.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Peru_road_sign_P-61.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-7.svg",
+      "iso": "PE",
+      "id": "P-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/073-Peru_road_sign_P-7.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/073-Peru_road_sign_P-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Peru_road_sign_P-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-8.svg",
+      "iso": "PE",
+      "id": "P-8",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Peru_road_sign_P-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/074-Peru_road_sign_P-8.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/074-Peru_road_sign_P-8.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Peru_road_sign_P-8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-9A.svg",
+      "iso": "PE",
+      "id": "P-9A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Peru_road_sign_P-9A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/075-Peru_road_sign_P-9A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/075-Peru_road_sign_P-9A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Peru_road_sign_P-9A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/PE-P-9B.svg",
+      "iso": "PE",
+      "id": "P-9B",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Peru_road_sign_P-9B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/076-Peru_road_sign_P-9B.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/076-Peru_road_sign_P-9B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Peru_road_sign_P-9B.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "b_priority_signs/vienna/PE-R-1.svg",
+      "iso": "PE",
+      "id": "R-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/PE_road_sign_R-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/006-PE_road_sign_R-1.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/006-PE_road_sign_R-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/PE_road_sign_R-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-10.svg",
+      "iso": "PE",
+      "id": "R-10",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/PE_road_sign_R-10.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/019-PE_road_sign_R-10.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/019-PE_road_sign_R-10.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/PE_road_sign_R-10.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-11.svg",
+      "iso": "PE",
+      "id": "R-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/PE_road_sign_R-11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/020-PE_road_sign_R-11.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/020-PE_road_sign_R-11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/PE_road_sign_R-11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-12.svg",
+      "iso": "PE",
+      "id": "R-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PE_road_sign_R-12.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/021-PE_road_sign_R-12.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/021-PE_road_sign_R-12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/PE_road_sign_R-12.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-13.svg",
+      "iso": "PE",
+      "id": "R-13",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Peru_road_sign_R-13.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/022-Peru_road_sign_R-13.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/022-Peru_road_sign_R-13.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Peru_road_sign_R-13.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-14A-R_until2016.svg",
+      "iso": "PE",
+      "id": "R-14A-R",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/PE_road_sign_R-14A-R_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/023-PE_road_sign_R-14A-R_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/023-PE_road_sign_R-14A-R_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/PE_road_sign_R-14A-R_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-14B_until2016.svg",
+      "iso": "PE",
+      "id": "R-14B",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PE_road_sign_R-14B_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/024-PE_road_sign_R-14B_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/024-PE_road_sign_R-14B_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PE_road_sign_R-14B_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-15_until2016.svg",
+      "iso": "PE",
+      "id": "R-15",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/PE_road_sign_R-15_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/025-PE_road_sign_R-15_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/025-PE_road_sign_R-15_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/PE_road_sign_R-15_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-16_until2016.svg",
+      "iso": "PE",
+      "id": "R-16",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/PE_road_sign_R-16_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/026-PE_road_sign_R-16_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/026-PE_road_sign_R-16_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/PE_road_sign_R-16_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-17_until2016.svg",
+      "iso": "PE",
+      "id": "R-17",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/PE_road_sign_R-17_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/027-PE_road_sign_R-17_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/027-PE_road_sign_R-17_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/PE_road_sign_R-17_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-18-1_until2016.svg",
+      "iso": "PE",
+      "id": "R-18-1",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/PE_road_sign_R-18-1_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/029-PE_road_sign_R-18-1_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/029-PE_road_sign_R-18-1_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/PE_road_sign_R-18-1_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-18-2_until2016.svg",
+      "iso": "PE",
+      "id": "R-18-2",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/PE_road_sign_R-18-2_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/030-PE_road_sign_R-18-2_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/030-PE_road_sign_R-18-2_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/PE_road_sign_R-18-2_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-18.svg",
+      "iso": "PE",
+      "id": "R-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/PE_road_sign_R-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/028-PE_road_sign_R-18.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/028-PE_road_sign_R-18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/PE_road_sign_R-18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-19_until2016.svg",
+      "iso": "PE",
+      "id": "R-19",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/PE_road_sign_R-19_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/031-PE_road_sign_R-19_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/031-PE_road_sign_R-19_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/PE_road_sign_R-19_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/other/PE-R-2.svg",
+      "iso": "PE",
+      "id": "R-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PE_road_sign_R-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/007-PE_road_sign_R-2.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/007-PE_road_sign_R-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PE_road_sign_R-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.979
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-20_until2016.svg",
+      "iso": "PE",
+      "id": "R-20",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/PE_road_sign_R-20_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/032-PE_road_sign_R-20_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/032-PE_road_sign_R-20_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/PE_road_sign_R-20_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-21_until2016.svg",
+      "iso": "PE",
+      "id": "R-21",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/PE_road_sign_R-21_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/033-PE_road_sign_R-21_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/033-PE_road_sign_R-21_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/PE_road_sign_R-21_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-22_until2016.svg",
+      "iso": "PE",
+      "id": "R-22",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/PE_road_sign_R-22_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/034-PE_road_sign_R-22_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/034-PE_road_sign_R-22_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/PE_road_sign_R-22_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-23_until2016.svg",
+      "iso": "PE",
+      "id": "R-23",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/PE_road_sign_R-23_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/035-PE_road_sign_R-23_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/035-PE_road_sign_R-23_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/PE_road_sign_R-23_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-24.svg",
+      "iso": "PE",
+      "id": "R-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/PE_road_sign_R-24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/036-PE_road_sign_R-24.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/036-PE_road_sign_R-24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/PE_road_sign_R-24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-25_until2016.svg",
+      "iso": "PE",
+      "id": "R-25",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/PE_road_sign_R-25_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/037-PE_road_sign_R-25_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/037-PE_road_sign_R-25_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/PE_road_sign_R-25_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-26.svg",
+      "iso": "PE",
+      "id": "R-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/PE_road_sign_R-26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/038-PE_road_sign_R-26.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/038-PE_road_sign_R-26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/PE_road_sign_R-26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/PE-R-27.svg",
+      "iso": "PE",
+      "id": "R-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/PE_road_sign_R-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/039-PE_road_sign_R-27.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/039-PE_road_sign_R-27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/PE_road_sign_R-27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-27A.svg",
+      "iso": "PE",
+      "id": "R-27A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/PE_road_sign_R-27A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/040-PE_road_sign_R-27A.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/040-PE_road_sign_R-27A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/PE_road_sign_R-27A.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-28_until2016.svg",
+      "iso": "PE",
+      "id": "R-28",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/PE_road_sign_R-28_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/041-PE_road_sign_R-28_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/041-PE_road_sign_R-28_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/PE_road_sign_R-28_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-29.svg",
+      "iso": "PE",
+      "id": "R-29",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/PE_road_sign_R-29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/042-PE_road_sign_R-29.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/042-PE_road_sign_R-29.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/PE_road_sign_R-29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-3.svg",
+      "iso": "PE",
+      "id": "R-3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/PE_road_sign_R-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/008-PE_road_sign_R-3.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/008-PE_road_sign_R-3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/PE_road_sign_R-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-30-050.svg",
+      "iso": "PE",
+      "id": "R-30-050",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/PE_road_sign_R-30-050.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/043-PE_road_sign_R-30-050.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/043-PE_road_sign_R-30-050.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/PE_road_sign_R-30-050.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-30-3-070_until2016.svg",
+      "iso": "PE",
+      "id": "R-30-3-070",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/PE_road_sign_R-30-3-070_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/046-PE_road_sign_R-30-3-070_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/046-PE_road_sign_R-30-3-070_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/PE_road_sign_R-30-3-070_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-30-4-055_until2016.svg",
+      "iso": "PE",
+      "id": "R-30-4-055",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/PE_road_sign_R-30-4-055_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/047-PE_road_sign_R-30-4-055_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/047-PE_road_sign_R-30-4-055_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/PE_road_sign_R-30-4-055_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-30B-060.svg",
+      "iso": "PE",
+      "id": "R-30B-060",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/PE_road_sign_R-30B-060.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/044-PE_road_sign_R-30B-060.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/044-PE_road_sign_R-30B-060.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/PE_road_sign_R-30B-060.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-30D-080.svg",
+      "iso": "PE",
+      "id": "R-30D-080",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/PE_road_sign_R-30D-080.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/045-PE_road_sign_R-30D-080.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/045-PE_road_sign_R-30D-080.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/PE_road_sign_R-30D-080.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-31.svg",
+      "iso": "PE",
+      "id": "R-31",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/PE_road_sign_R-31.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/048-PE_road_sign_R-31.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/048-PE_road_sign_R-31.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/PE_road_sign_R-31.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-32.svg",
+      "iso": "PE",
+      "id": "R-32",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/PE_road_sign_R-32.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/049-PE_road_sign_R-32.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/049-PE_road_sign_R-32.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/PE_road_sign_R-32.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-33.svg",
+      "iso": "PE",
+      "id": "R-33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/PE_road_sign_R-33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/050-PE_road_sign_R-33.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/050-PE_road_sign_R-33.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/PE_road_sign_R-33.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-34.svg",
+      "iso": "PE",
+      "id": "R-34",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/PE_road_sign_R-34.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/051-PE_road_sign_R-34.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/051-PE_road_sign_R-34.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/PE_road_sign_R-34.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-35.svg",
+      "iso": "PE",
+      "id": "R-35",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/PE_road_sign_R-35.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/052-PE_road_sign_R-35.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/052-PE_road_sign_R-35.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/PE_road_sign_R-35.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-36_until2016.svg",
+      "iso": "PE",
+      "id": "R-36",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/PE_road_sign_R-36_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/053-PE_road_sign_R-36_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/053-PE_road_sign_R-36_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/PE_road_sign_R-36_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-37.svg",
+      "iso": "PE",
+      "id": "R-37",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/PE_road_sign_R-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/054-PE_road_sign_R-37.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/054-PE_road_sign_R-37.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/PE_road_sign_R-37.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-39_until2016.svg",
+      "iso": "PE",
+      "id": "R-39",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/PE_road_sign_R-39_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/055-PE_road_sign_R-39_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/055-PE_road_sign_R-39_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/PE_road_sign_R-39_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-4.svg",
+      "iso": "PE",
+      "id": "R-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/PE_road_sign_R-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/009-PE_road_sign_R-4.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/009-PE_road_sign_R-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/PE_road_sign_R-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-42_until2016.svg",
+      "iso": "PE",
+      "id": "R-42",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/PE_road_sign_R-42_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/056-PE_road_sign_R-42_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/056-PE_road_sign_R-42_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/PE_road_sign_R-42_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-43_until2016.svg",
+      "iso": "PE",
+      "id": "R-43",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/PE_road_sign_R-43_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/058-PE_road_sign_R-43_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/058-PE_road_sign_R-43_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/PE_road_sign_R-43_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-44.svg",
+      "iso": "PE",
+      "id": "R-44",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/PE_road_sign_R-44.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/057-PE_road_sign_R-44.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/057-PE_road_sign_R-44.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/PE_road_sign_R-44.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-45.svg",
+      "iso": "PE",
+      "id": "R-45",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PE_road_sign_R-45.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/059-PE_road_sign_R-45.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/059-PE_road_sign_R-45.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PE_road_sign_R-45.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-46_until2016.svg",
+      "iso": "PE",
+      "id": "R-46",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/PE_road_sign_R-46_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/060-PE_road_sign_R-46_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/060-PE_road_sign_R-46_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/PE_road_sign_R-46_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-5-1-L.svg",
+      "iso": "PE",
+      "id": "R-5-1-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/PE_road_sign_R-5-1-L.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/011-PE_road_sign_R-5-1-L.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/011-PE_road_sign_R-5-1-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/PE_road_sign_R-5-1-L.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-5-2-L.svg",
+      "iso": "PE",
+      "id": "R-5-2-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PE_road_sign_R-5-2-L.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/012-PE_road_sign_R-5-2-L.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/012-PE_road_sign_R-5-2-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PE_road_sign_R-5-2-L.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-5-3-L.svg",
+      "iso": "PE",
+      "id": "R-5-3-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/PE_road_sign_R-5-3-L.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/013-PE_road_sign_R-5-3-L.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/013-PE_road_sign_R-5-3-L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/PE_road_sign_R-5-3-L.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-5-4.svg",
+      "iso": "PE",
+      "id": "R-5-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PE_road_sign_R-5-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/014-PE_road_sign_R-5-4.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/014-PE_road_sign_R-5-4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PE_road_sign_R-5-4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-5.svg",
+      "iso": "PE",
+      "id": "R-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PE_road_sign_R-5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/010-PE_road_sign_R-5.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/010-PE_road_sign_R-5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PE_road_sign_R-5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-6_until2016.svg",
+      "iso": "PE",
+      "id": "R-6",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/PE_road_sign_R-6_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/015-PE_road_sign_R-6_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/015-PE_road_sign_R-6_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/PE_road_sign_R-6_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-7.svg",
+      "iso": "PE",
+      "id": "R-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/PE_road_sign_R-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/016-PE_road_sign_R-7.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/016-PE_road_sign_R-7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/PE_road_sign_R-7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-8_until2016.svg",
+      "iso": "PE",
+      "id": "R-8",
+      "description": null,
+      "variants": [
+        "until2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PE_road_sign_R-8_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/017-PE_road_sign_R-8_(–2016).svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/017-PE_road_sign_R-8_(–2016).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PE_road_sign_R-8_%28%E2%80%932016%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/PE-R-9.svg",
+      "iso": "PE",
+      "id": "R-9",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/PE_road_sign_R-9.svg",
+      "kept_from": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/018-PE_road_sign_R-9.svg",
+      "sources": [
+        {
+          "file": "PE_Peru/osm_wiki/01-ES_Road_signs_in_the_Peru/018-PE_road_sign_R-9.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/PE_road_sign_R-9.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    }
+  ]
+}

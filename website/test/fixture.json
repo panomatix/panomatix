@@ -1,0 +1,6060 @@
+[
+ {
+  "reference": "VIENNA:B-01.1",
+  "category": "B",
+  "categoryName": "Priority signs",
+  "legacyReferences": [
+   "VIENNA:B,1"
+  ],
+  "wikidata": "QXXXXXXX",
+  "name": {
+   "en": "Give way",
+   "fr": "Cédez le passage",
+   "de": "Vorfahrt gewähren"
+  },
+  "description": {
+   "en": "B-01.1 notifies drivers that, at the intersection where the sign is placed, they must give way to vehicles on the road they are approaching. The sign shall consist of an equilateral triangle having one side horizontal and the opposite vertex below it. The ground shall be white or yellow with a red border. The sign shall not bear a symbol. The side of the normal sized sign shall measure approximately 0.90 m; the side of the small sign shall measure not less than 0.60 m. B-01.1 may be used in conjunction with an additional panel H-08.1 described in section H, subsection II, paragraph 5 of this Annex, that indicates to drivers the outline of the priority road. To give warning that sign B-01.1 is placed at an intersection, sign B-01.1 supplemented by an additional panel H-01.1, described in section H, subsection II, paragraph 1 of this Annex, shall be used at the approach by Contracting Parties using model one for danger warning signs. If a Contracting Party uses model two for danger warning signs, the sign B-01.1 shall be depicted on the panel of model two for danger warning signs."
+  },
+  "symbolMayBeReversed": false,
+  "officialSign": {
+   "designs": [
+    {
+     "shape": "inverted_triangle",
+     "background_color": "white",
+     "border_color": "red",
+     "symbol_color": null,
+     "band": "none",
+     "band_color": null,
+     "prohibition_bar": null,
+     "bar_continuity": null,
+     "model": null,
+     "legacyModel": null,
+     "versions": [
+      "2006",
+      "2023"
+     ],
+     "legacyReferences": [
+      "VIENNA:B,1"
+     ],
+     "mirrored": false,
+     "wikidata": "QXXXXXXX",
+     "toBeAdded": true,
+     "jurisdictions": {
+      "austria": {
+       "countryCode": "at",
+       "languages": {
+        "de": {
+         "code": "at:23",
+         "codes": [
+          "at:23"
+         ],
+         "text": "Vorfahrt gewähren",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "AT:23"
+        ]
+       }
+      },
+      "belgium": {
+       "countryCode": "be",
+       "languages": {
+        "fr": {
+         "code": "be:B1",
+         "codes": [
+          "be:B1"
+         ],
+         "text": "Cédez le passage",
+         "description": null
+        },
+        "nl": {
+         "code": "be:B1",
+         "codes": [
+          "be:B1"
+         ],
+         "text": null,
+         "description": null
+        },
+        "de": {
+         "code": "be:B1",
+         "codes": [
+          "be:B1"
+         ],
+         "text": "Vorfahrt gewähren",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BE:B1"
+        ]
+       }
+      },
+      "bulgaria": {
+       "countryCode": "bg",
+       "languages": {
+        "bg": {
+         "code": "bg:B1",
+         "codes": [
+          "bg:B1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BG:B1"
+        ]
+       }
+      },
+      "czechia": {
+       "countryCode": "cz",
+       "languages": {
+        "cs": {
+         "code": "cz:II-5",
+         "codes": [
+          "cz:II-5",
+          "cz:P4",
+          "cz:E03b",
+          "cz:E03a",
+          "cz:P05"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CZ:II-5",
+         "CZ:P4",
+         "CZ:E03b",
+         "CZ:E03a",
+         "CZ:P05"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CZ_Czechia/inverted_triangle/CZ-P4.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Czech_Republic_road_sign_P_4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "CZ_Czechia/rectangle/CZ-E03b.jpg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/CZ-E03b_Vzd%C3%A1lenost.jpg"
+        },
+        {
+         "file": "CZ_Czechia/rectangle/CZ-E03a.jpg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/CZ-E03a_Vzd%C3%A1lenost.jpg"
+        },
+        {
+         "file": "CZ_Czechia/inverted_triangle/CZ-P05.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/P05_CZ.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "denmark": {
+       "countryCode": "dk",
+       "languages": {
+        "da": {
+         "code": "dk:B11",
+         "codes": [
+          "dk:B11",
+          "dk:give_way_ahead"
+         ],
+         "text": "give way ahead",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "DK:B11",
+         "DK:give_way_ahead"
+        ]
+       },
+       "sources": [
+        {
+         "file": "DK_Denmark/inverted_triangle/DK-give_way_ahead_priority.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Danish_priority_road_sign_give_way_ahead.svg"
+        }
+       ]
+      },
+      "estonia": {
+       "countryCode": "ee",
+       "languages": {
+        "et": {
+         "code": "ee:221",
+         "codes": [
+          "ee:221"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "EE:221"
+        ]
+       }
+      },
+      "france": {
+       "countryCode": "fr",
+       "languages": {
+        "fr": {
+         "code": "fr:AB3a",
+         "codes": [
+          "fr:AB3a",
+          "fr:AB5",
+          "fr:AB3b",
+          "fr:M1",
+          "fr:M12a",
+          "fr:M12D",
+          "fr:M12F",
+          "fr:M12G"
+         ],
+         "text": "Cédez le passage",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "FR:AB3a",
+         "FR:AB5",
+         "FR:AB3b",
+         "FR:M1",
+         "FR:M12a",
+         "FR:M12D",
+         "FR:M12F",
+         "FR:M12G"
+        ]
+       },
+       "sources": [
+        {
+         "file": "FR_France, Monaco/inverted_triangle/FR-AB5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/France_road_sign_AB5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "FR_France, Monaco/inverted_triangle/FR-AB3b.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/France_road_sign_AB3b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "FR_France, Monaco/rectangle/FR-M1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/France_road_sign_M1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "FR_France, Monaco/inverted_triangle/FR-M12a.svg",
+         "url": null
+        },
+        {
+         "file": "FR_France, Monaco/inverted_triangle/FR-M12D.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/France_road_sign_M12D.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "FR_France, Monaco/inverted_triangle/FR-M12F.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/France_road_sign_M12F.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "FR_France, Monaco/inverted_triangle/FR-M12G.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/France_road_sign_M12G.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "germany": {
+       "countryCode": "de",
+       "languages": {
+        "de": {
+         "code": "de:205",
+         "codes": [
+          "de:205",
+          "de:1004-30",
+          "de:1934-G",
+          "de:Bild-30"
+         ],
+         "text": "Vorfahrt gewähren",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "DE:205",
+         "DE:1004-30",
+         "DE:1934-G",
+         "DE:Bild-30"
+        ]
+       },
+       "sources": [
+        {
+         "file": "DE_Germany/rectangle/DE-1004-30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Zusatzzeichen_1004-30_-_nach_100_m%2C_StVO_1992.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "DE_Germany/inverted_triangle/DE-1934-G.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/G_-_Vorfahrtrecht_auf_der_Hauptstra%C3%9Fe_achten%21_StVO_1934.svg"
+        },
+        {
+         "file": "DE_Germany/inverted_triangle/DE-Bild-30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bild_30_-_Vorfahrt_achten%21_StVO_1956.svg"
+        }
+       ]
+      },
+      "hungary": {
+       "countryCode": "hu",
+       "languages": {
+        "hu": {
+         "code": "hu:B-001",
+         "codes": [
+          "hu:B-001",
+          "hu:H-011",
+          "hu:H-017"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "HU:B-001",
+         "HU:H-011",
+         "HU:H-017"
+        ]
+       },
+       "sources": [
+        {
+         "file": "HU_Hungary/square/HU-H-011.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hungary_road_sign_H-011.svg"
+        },
+        {
+         "file": "HU_Hungary/rectangle/HU-H-017.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hungary_road_sign_H-017.svg"
+        }
+       ]
+      },
+      "latvia": {
+       "countryCode": "lv",
+       "languages": {
+        "lv": {
+         "code": "lv:206",
+         "codes": [
+          "lv:206"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "LV:206"
+        ]
+       }
+      },
+      "lithuania": {
+       "countryCode": "lt",
+       "languages": {
+        "lt": {
+         "code": "lt:203",
+         "codes": [
+          "lt:203"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "LT:203"
+        ]
+       }
+      },
+      "netherlands": {
+       "countryCode": "nl",
+       "languages": {
+        "nl": {
+         "code": "nl:B6_mb",
+         "codes": [
+          "nl:B6_mb",
+          "nl:fig-72"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "NL:B6_mb",
+         "NL:fig-72"
+        ]
+       },
+       "sources": [
+        {
+         "file": "NL_European Netherlands/inverted_triangle/NL-fig-72.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nederlandse_Wegenverkeersregeling_1941_figuur_72.svg"
+        }
+       ]
+      },
+      "portugal": {
+       "countryCode": "pt",
+       "languages": {
+        "pt": {
+         "code": "pt:B1",
+         "codes": [
+          "pt:B1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PT:B1"
+        ]
+       }
+      },
+      "romania": {
+       "countryCode": "ro",
+       "languages": {
+        "ro": {
+         "code": "ro:B01",
+         "codes": [
+          "ro:B01",
+          "ro:P17",
+          "ro:P04"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "RO:B01",
+         "RO:P17",
+         "RO:P04"
+        ]
+       },
+       "sources": [
+        {
+         "file": "RO_Romania/square/RO-P17.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RO_road_sign_P17.svg"
+        },
+        {
+         "file": "RO_Romania/rectangle/RO-P04.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RO_road_sign_P04.svg"
+        }
+       ]
+      },
+      "slovakia": {
+       "countryCode": "sk",
+       "languages": {
+        "sk": {
+         "code": "sk:201",
+         "codes": [
+          "sk:201",
+          "sk:501-50",
+          "sk:P1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "SK:201",
+         "SK:501-50",
+         "SK:P1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "SK_Slovakia/rectangle/SK-501-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/501-50_Vzdialenos%C5%A5_%28v_metroch%2C_vzor_100_m%29.svg"
+        },
+        {
+         "file": "SK_Slovakia/inverted_triangle/SK-P1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dopravn%C3%A1_zna%C4%8Dka_P1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "slovenia": {
+       "countryCode": "si",
+       "languages": {
+        "sl": {
+         "code": "si:II-1",
+         "codes": [
+          "si:II-1",
+          "si:IV-1.1",
+          "si:IV-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "SI:II-1",
+         "SI:IV-1.1",
+         "SI:IV-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "SI_Slovenia/rectangle/SI-IV-1.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Slovenia_road_sign_IV-1.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "SI_Slovenia/rectangle/SI-IV-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Slovenia_road_sign_IV-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "spain": {
+       "countryCode": "es",
+       "languages": {
+        "es": {
+         "code": "es:R-1",
+         "codes": [
+          "es:R-1",
+          "es:TR-1",
+          "es:stop_ahead",
+          "es:give_way_ahead"
+         ],
+         "text": "stop ahead",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ES:R-1",
+         "ES:TR-1",
+         "ES:stop_ahead",
+         "ES:give_way_ahead"
+        ]
+       },
+       "sources": [
+        {
+         "file": "ES_Spain/inverted_triangle/ES-stop_ahead.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Spain_traffic_signal_-_stop_ahead.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "ES_Spain/rectangle/ES-give_way_ahead.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Spain_traffic_signal_-_give_way_ahead.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "russia": {
+       "countryCode": "ru",
+       "languages": {
+        "ru": {
+         "code": "ru:2.4",
+         "codes": [
+          "ru:2.4",
+          "ru:8.1.2",
+          "ru:8.1.1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "RU:2.4",
+         "RU:8.1.2",
+         "RU:8.1.1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "RU_Russia/inverted_triangle/RU-2.4.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/RU_road_sign_2.4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "RU_Russia/square/RU-8.1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/RU_road_sign_8.1.2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "RU_Russia/rectangle/RU-8.1.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RU_road_sign_8.1.1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "croatia": {
+       "countryCode": "hr",
+       "languages": {
+        "hr": {
+         "code": "hr:B01",
+         "codes": [
+          "hr:B01"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "HR:B01"
+        ]
+       },
+       "sources": [
+        {
+         "file": "HR_Croatia/inverted_triangle/HR-B01.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/HR_road_sign_B01.svg"
+        }
+       ]
+      },
+      "cyprus": {
+       "countryCode": "cy",
+       "languages": {
+        "el": {
+         "code": "cy:give_way",
+         "codes": [
+          "cy:give_way",
+          "cy:stop_ahead",
+          "cy:give_way_ahead"
+         ],
+         "text": "give way",
+         "description": null
+        },
+        "tr": {
+         "code": "cy:give_way",
+         "codes": [
+          "cy:give_way",
+          "cy:stop_ahead",
+          "cy:give_way_ahead"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CY:give_way",
+         "CY:stop_ahead",
+         "CY:give_way_ahead"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CY_Cyprus/inverted_triangle/CY-give_way.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cyprus_road_sign_give_way.svg"
+        },
+        {
+         "file": "CY_Cyprus/other/CY-stop_ahead_warning.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cyprus_warning_road_sign_stop_ahead.svg"
+        },
+        {
+         "file": "CY_Cyprus/other/CY-give_way_ahead_warning.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cyprus_warning_road_sign_give_way_ahead.svg"
+        }
+       ]
+      },
+      "ireland": {
+       "countryCode": "ie",
+       "languages": {
+        "en": {
+         "code": "ie:RUS-026",
+         "codes": [
+          "ie:RUS-026",
+          "ie:RUS-026G",
+          "ie:W-040",
+          "ie:P-001",
+          "ie:W-041",
+          "ie:RUS-026A",
+          "ie:RUS-026A-L"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ga": {
+         "code": "ie:RUS-026",
+         "codes": [
+          "ie:RUS-026",
+          "ie:RUS-026G",
+          "ie:W-040",
+          "ie:P-001",
+          "ie:W-041",
+          "ie:RUS-026A",
+          "ie:RUS-026A-L"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IE:RUS-026",
+         "IE:RUS-026G",
+         "IE:W-040",
+         "IE:P-001",
+         "IE:W-041",
+         "IE:RUS-026A",
+         "IE:RUS-026A-L"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IE_Ireland/inverted_triangle/IE-RUS-026.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/IE_road_sign_RUS-026.svg"
+        },
+        {
+         "file": "IE_Ireland/inverted_triangle/IE-RUS-026G.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/IE_road_sign_RUS-026G.svg"
+        },
+        {
+         "file": "IE_Ireland/octagon/IE-W-040.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IE_road_sign_W-040.svg"
+        },
+        {
+         "file": "IE_Ireland/rectangle/IE-P-001.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/IE_road_sign_P-001.svg"
+        },
+        {
+         "file": "IE_Ireland/inverted_triangle/IE-W-041.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/IE_road_sign_W-041.svg"
+        },
+        {
+         "file": "IE_Ireland/inverted_triangle/IE-RUS-026A.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/IE_road_sign_RUS-026A.svg"
+        },
+        {
+         "file": "IE_Ireland/inverted_triangle/IE-RUS-026A-L.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/IE_road_sign_RUS-026A-L.svg"
+        }
+       ]
+      },
+      "italy": {
+       "countryCode": "it",
+       "languages": {
+        "it": {
+         "code": "it:dare_precedenza",
+         "codes": [
+          "it:dare_precedenza",
+          "it:fig-II-39",
+          "it:fig-II-38",
+          "it:distanza"
+         ],
+         "text": "dare precedenza",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IT:dare_precedenza",
+         "IT:fig-II-39",
+         "IT:fig-II-38",
+         "IT:distanza"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IT_Italy, San Marino, Vatican City/inverted_triangle/IT-dare_precedenza.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Italian_traffic_signs_-_dare_precedenza.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "IT_Italy, San Marino, Vatican City/inverted_triangle/IT-fig-II-39.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Italian_traffic_signs_-_preavviso_di_fermarsi_e_dare_precedenza_%28figura_II_39%29.svg"
+        },
+        {
+         "file": "IT_Italy, San Marino, Vatican City/inverted_triangle/IT-fig-II-38.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Italian_traffic_signs_-_preavviso_di_dare_precedenza_%28figura_II_38%29.svg"
+        },
+        {
+         "file": "IT_Italy, San Marino, Vatican City/rectangle/IT-distanza_modello_II_1-a.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Italian_traffic_signs_-_distanza_%28modello_II_1-a%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "IT_Italy, San Marino, Vatican City/rectangle/IT-distanza_modello_II_1-b.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Italian_traffic_signs_-_distanza_%28modello_II_1-b%29.svg"
+        },
+        {
+         "file": "IT_Italy, San Marino, Vatican City/rectangle/IT-distanza_modello_II_1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Italian_traffic_signs_-_distanza_%28modello_II_1%29.svg"
+        }
+       ]
+      },
+      "luxembourg": {
+       "countryCode": "lu",
+       "languages": {
+        "lb": {
+         "code": "lu:B1",
+         "codes": [
+          "lu:B1",
+          "lu:mod_3a"
+         ],
+         "text": "mod 3a",
+         "description": null
+        },
+        "fr": {
+         "code": "lu:B1",
+         "codes": [
+          "lu:B1",
+          "lu:mod_3a"
+         ],
+         "text": null,
+         "description": null
+        },
+        "de": {
+         "code": "lu:B1",
+         "codes": [
+          "lu:B1",
+          "lu:mod_3a"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "LU:B1",
+         "LU:mod_3a"
+        ]
+       },
+       "sources": [
+        {
+         "file": "LU_Luxembourg/inverted_triangle/LU-B1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Luxembourg_road_sign_diagram_B%2C1_%282018%29.svg"
+        },
+        {
+         "file": "LU_Luxembourg/rectangle/LU-mod_3a_1.gif",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Luxembourg_road_sign_diagram_mod_3a_%281%29.gif?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        },
+        {
+         "file": "LU_Luxembourg/rectangle/LU-mod_3a_3.gif",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Luxembourg_road_sign_diagram_mod_3a_%283%29.gif"
+        }
+       ]
+      },
+      "north_macedonia": {
+       "countryCode": "mk",
+       "languages": {
+        "mk": {
+         "code": "mk:201",
+         "codes": [
+          "mk:201",
+          "mk:505"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "MK:201",
+         "MK:505"
+        ]
+       },
+       "sources": [
+        {
+         "file": "MK_North Macedonia/inverted_triangle/MK-201.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/MK_road_sign_201.svg"
+        },
+        {
+         "file": "MK_North Macedonia/rectangle/MK-505.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Macedonia_road_sign_505.svg"
+        }
+       ]
+      },
+      "norway": {
+       "countryCode": "no",
+       "languages": {
+        "no": {
+         "code": "no:202",
+         "codes": [
+          "no:202",
+          "no:824-0",
+          "no:802.0"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "NO:202",
+         "NO:824-0",
+         "NO:802.0"
+        ]
+       },
+       "sources": [
+        {
+         "file": "NO_Norway/inverted_triangle/NO-202.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/NO_road_sign_202.svg"
+        },
+        {
+         "file": "NO_Norway/rectangle/NO-824-0.png",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Norwegian-road-sign-824_0.png"
+        },
+        {
+         "file": "NO_Norway/rectangle/NO-802.0.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Norwegian-road-sign-802.0.svg"
+        }
+       ]
+      },
+      "serbia": {
+       "countryCode": "rs",
+       "languages": {
+        "sr": {
+         "code": "rs:II-1",
+         "codes": [
+          "rs:II-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "RS:II-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "RS_Serbia/inverted_triangle/RS-II-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Serbia_road_sign_II-1.svg"
+        }
+       ]
+      },
+      "switzerland": {
+       "countryCode": "ch",
+       "languages": {
+        "de": {
+         "code": "ch:Vortrittssignal-Kein_Vortritt",
+         "codes": [
+          "ch:Vortrittssignal-Kein_Vortritt",
+          "ch:Zusatztafel-Distanztafel",
+          "ch:Gefahrsignal_7"
+         ],
+         "text": "Vortrittssignal-Kein Vortritt",
+         "description": null
+        },
+        "fr": {
+         "code": "ch:Vortrittssignal-Kein_Vortritt",
+         "codes": [
+          "ch:Vortrittssignal-Kein_Vortritt",
+          "ch:Zusatztafel-Distanztafel",
+          "ch:Gefahrsignal_7"
+         ],
+         "text": null,
+         "description": null
+        },
+        "it": {
+         "code": "ch:Vortrittssignal-Kein_Vortritt",
+         "codes": [
+          "ch:Vortrittssignal-Kein_Vortritt",
+          "ch:Zusatztafel-Distanztafel",
+          "ch:Gefahrsignal_7"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CH:Vortrittssignal-Kein_Vortritt",
+         "CH:Zusatztafel-Distanztafel",
+         "CH:Gefahrsignal_7"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CH_Switzerland, Liechtenstein/inverted_triangle/CH-Vortrittssignal-Kein_Vortritt.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/CH-Vortrittssignal-Kein_Vortritt.svg"
+        },
+        {
+         "file": "CH_Switzerland, Liechtenstein/rectangle/CH-Zusatztafel-Distanztafel.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/CH-Zusatztafel-Distanztafel.svg"
+        },
+        {
+         "file": "CH_Switzerland, Liechtenstein/inverted_triangle/CH-Gefahrsignal_7.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/CH-Gefahrsignal_7_-_Vortrittsrecht%2C_SSV_1932.svg"
+        }
+       ]
+      },
+      "turkey": {
+       "countryCode": "tr",
+       "languages": {
+        "tr": {
+         "code": "tr:TT-1",
+         "codes": [
+          "tr:TT-1",
+          "tr:PL-5",
+          "tr:PL-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "TR:TT-1",
+         "TR:PL-5",
+         "TR:PL-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "TR_Turkey/inverted_triangle/TR-TT-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Turkey_road_sign_TT-1.svg"
+        },
+        {
+         "file": "TR_Turkey/rectangle/TR-PL-5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/TR_road_sign_PL-5.svg"
+        },
+        {
+         "file": "TR_Turkey/rectangle/TR-PL-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TR_road_sign_PL-2.svg"
+        }
+       ]
+      },
+      "ukraine": {
+       "countryCode": "ua",
+       "languages": {
+        "uk": {
+         "code": "ua:2.1",
+         "codes": [
+          "ua:2.1",
+          "ua:7.1.2",
+          "ua:7.1.1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "UA:2.1",
+         "UA:7.1.2",
+         "UA:7.1.1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "UA_Ukraine/inverted_triangle/UA-2.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/UA_road_sign_2.1.svg"
+        },
+        {
+         "file": "UA_Ukraine/square/UA-7.1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/UA_road_sign_7.1.2.svg"
+        },
+        {
+         "file": "UA_Ukraine/rectangle/UA-7.1.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/UA_road_sign_7.1.1.svg"
+        }
+       ]
+      },
+      "united_kingdom": {
+       "countryCode": "gb",
+       "languages": {
+        "en": {
+         "code": "gb:602",
+         "codes": [
+          "gb:602",
+          "gb:602-WLS",
+          "gb:501",
+          "gb:502",
+          "gb:503",
+          "gb:572"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "GB:602",
+         "GB:602-WLS",
+         "GB:501",
+         "GB:502",
+         "GB:503",
+         "GB:572"
+        ]
+       },
+       "sources": [
+        {
+         "file": "GB_United Kingdom/inverted_triangle/GB-602.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/UK_traffic_sign_602.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "GB_United Kingdom/inverted_triangle/GB-602-WLS.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/UK_traffic_sign_602%E2%80%93WLS.svg"
+        },
+        {
+         "file": "GB_United Kingdom/inverted_triangle/GB-501.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UK_traffic_sign_501.svg"
+        },
+        {
+         "file": "GB_United Kingdom/rectangle/GB-502.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/UK_traffic_sign_502.svg"
+        },
+        {
+         "file": "GB_United Kingdom/rectangle/GB-503.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/UK_traffic_sign_503.svg"
+        },
+        {
+         "file": "GB_United Kingdom/rectangle/GB-572.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/UK_traffic_sign_572.svg"
+        }
+       ]
+      },
+      "belarus": {
+       "countryCode": "by",
+       "languages": {
+        "be": {
+         "code": "by:7.1.2",
+         "codes": [
+          "by:7.1.2",
+          "by:7.1.1"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ru": {
+         "code": "by:7.1.2",
+         "codes": [
+          "by:7.1.2",
+          "by:7.1.1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BY:7.1.2",
+         "BY:7.1.1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BY_Belarus/square/BY-7.1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/RU_road_sign_8.1.2.svg"
+        },
+        {
+         "file": "BY_Belarus/rectangle/BY-7.1.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RU_road_sign_8.1.1.svg"
+        }
+       ]
+      },
+      "iceland": {
+       "countryCode": "is",
+       "languages": {
+        "is": {
+         "code": "is:J42.11",
+         "codes": [
+          "is:J42.11",
+          "is:J01.11"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IS:J42.11",
+         "IS:J01.11"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IS_Iceland/rectangle/IS-J42.11.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Iceland_road_sign_J42.11.svg"
+        },
+        {
+         "file": "IS_Iceland/rectangle/IS-J01.11.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Iceland_road_sign_J01.11.svg"
+        }
+       ]
+      },
+      "greece": {
+       "countryCode": "gr",
+       "languages": {
+        "el": {
+         "code": "gr:Pr-1",
+         "codes": [
+          "gr:Pr-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "GR:Pr-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "GR_Greece/rectangle/GR-Pr-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Traffic_Sign_GR_-_KOK_2009_-_Pr-1.svg"
+        }
+       ]
+      },
+      "poland": {
+       "countryCode": "pl",
+       "languages": {
+        "pl": {
+         "code": "pl:T-1",
+         "codes": [
+          "pl:T-1",
+          "pl:T-1a",
+          "pl:T-21"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PL:T-1",
+         "PL:T-1a",
+         "PL:T-21"
+        ]
+       },
+       "sources": [
+        {
+         "file": "PL_Poland/rectangle/PL-T-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/PL_road_sign_T-1.svg"
+        },
+        {
+         "file": "PL_Poland/rectangle/PL-T-1a.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/PL_road_sign_T-1a.svg"
+        },
+        {
+         "file": "PL_Poland/rectangle/PL-T-21.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/PL_road_sign_T-21.svg"
+        }
+       ]
+      },
+      "finland": {
+       "countryCode": "fi",
+       "languages": {
+        "fi": {
+         "code": "fi:H4-A",
+         "codes": [
+          "fi:H4-A"
+         ],
+         "text": null,
+         "description": null
+        },
+        "sv": {
+         "code": "fi:H4-A",
+         "codes": [
+          "fi:H4-A"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "FI:H4-A"
+        ]
+       },
+       "sources": [
+        {
+         "file": "FI_Finland/rectangle/FI-H4-A.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Finland_road_sign_H4-A.svg"
+        }
+       ]
+      },
+      "armenia": {
+       "countryCode": "am",
+       "languages": {
+        "hy": {
+         "code": "am:8.1.2",
+         "codes": [
+          "am:8.1.2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "AM:8.1.2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "AM_Armenia/square/AM-8.1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/AM_road_sign_8.1.2.svg"
+        }
+       ]
+      },
+      "georgia": {
+       "countryCode": "ge",
+       "languages": {
+        "ka": {
+         "code": "ge:8.1.2",
+         "codes": [
+          "ge:8.1.2",
+          "ge:8.1.1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "GE:8.1.2",
+         "GE:8.1.1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "GE_Georgia/square/GE-8.1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/GE_road_sign_8.1.2.svg"
+        },
+        {
+         "file": "GE_Georgia/rectangle/GE-8.1.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/GE_road_sign_8.1.1.svg"
+        }
+       ]
+      },
+      "argentina": {
+       "countryCode": "ar",
+       "languages": {
+        "es": {
+         "code": "ar:R-28",
+         "codes": [
+          "ar:R-28"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "AR:R-28"
+        ]
+       },
+       "sources": [
+        {
+         "file": "AR_Argentina/inverted_triangle/AR-R-28_MSV.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Argentina_MSV_2017_road_sign_R-28.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "australia": {
+       "countryCode": "au",
+       "languages": {
+        "en": {
+         "code": "au:R1-2",
+         "codes": [
+          "au:R1-2",
+          "au:R1-3"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "AU:R1-2",
+         "AU:R1-3"
+        ]
+       },
+       "sources": [
+        {
+         "file": "AU_Australia/inverted_triangle/AU-R1-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Australia_R1-2_%28old%29.svg"
+        },
+        {
+         "file": "AU_Australia/inverted_triangle/AU-R1-3.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Australia_road_sign_R1-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "brazil": {
+       "countryCode": "br",
+       "languages": {
+        "pt": {
+         "code": "br:R-02",
+         "codes": [
+          "br:R-02",
+          "br:R-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BR:R-02",
+         "BR:R-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BR_Brazil/inverted_triangle/BR-R-02.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/1999_Brazil_road_sign_R-02.svg"
+        },
+        {
+         "file": "BR_Brazil/inverted_triangle/BR-R-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brasil_R-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "botswana": {
+       "countryCode": "bw",
+       "languages": {
+        "en": {
+         "code": "bw:R1.2",
+         "codes": [
+          "bw:R1.2",
+          "bw:R2",
+          "bw:R2.1",
+          "bw:R2.2",
+          "bw:W415"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BW:R1.2",
+         "BW:R2",
+         "BW:R2.1",
+         "BW:R2.2",
+         "BW:W415"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BW_Botswana/inverted_triangle/BW-R1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/SADC_road_sign_R1.2.svg"
+        },
+        {
+         "file": "BW_Botswana/inverted_triangle/BW-R2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SADC_road_sign_R2.svg"
+        },
+        {
+         "file": "BW_Botswana/inverted_triangle/BW-R2.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/SADC_road_sign_R2.1.svg"
+        },
+        {
+         "file": "BW_Botswana/inverted_triangle/BW-R2.1_Equestrians.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/SADC_road_sign_R2.1_%28Equestrians%29.svg"
+        },
+        {
+         "file": "BW_Botswana/inverted_triangle/BW-R2.1_Pedestrians_and_Equestrians.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SADC_road_sign_R2.1_%28Pedestrians_and_Equestrians%29.svg"
+        },
+        {
+         "file": "BW_Botswana/inverted_triangle/BW-R2.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/SADC_road_sign_R2.2.svg"
+        },
+        {
+         "file": "BW_Botswana/other/BW-W415.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/SADC_road_sign_W415.svg"
+        }
+       ]
+      },
+      "canada": {
+       "countryCode": "ca-qc",
+       "languages": {
+        "en": {
+         "code": "ca-qc:P-020-1",
+         "codes": [
+          "ca-qc:P-020-1",
+          "ca-bc:R-002",
+          "ca:RA-002",
+          "ca-ab:RA-2",
+          "ca-on:Ra-002"
+         ],
+         "text": null,
+         "description": null
+        },
+        "fr": {
+         "code": "ca-qc:P-020-1",
+         "codes": [
+          "ca-qc:P-020-1",
+          "ca-bc:R-002",
+          "ca:RA-002",
+          "ca-ab:RA-2",
+          "ca-on:Ra-002"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-QC:P-020-1",
+         "CA-BC:R-002",
+         "CA:RA-002",
+         "CA-AB:RA-2",
+         "CA-ON:Ra-002"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_Canada/inverted_triangle/CA-QC-P-020-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/CA-QC_road_sign_P-020-1.svg"
+        },
+        {
+         "file": "CA_Canada/inverted_triangle/CA-BC-R-002.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/CA-BC_road_sign_R-002.svg"
+        },
+        {
+         "file": "CA_Canada/inverted_triangle/CA-RA-002_MUTCDC.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/CA-MUTCDC_RA-002.svg"
+        },
+        {
+         "file": "CA_Canada/inverted_triangle/CA-AB-RA-2.png",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Alberta_road_sign_RA-2.png"
+        },
+        {
+         "file": "CA_Canada/inverted_triangle/CA-ON-Ra-002.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/CA-ON_road_sign_Ra-002.svg"
+        }
+       ]
+      },
+      "canada_british_columbia": {
+       "countryCode": "ca-bc",
+       "languages": {
+        "en": {
+         "code": "ca-bc:R-002",
+         "codes": [
+          "ca-bc:R-002"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-BC:R-002"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_BC_Canada_British Columbia/inverted_triangle/CA-BC-R-002.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/CA-BC_road_sign_R-002.svg"
+        }
+       ]
+      },
+      "canada_ontario": {
+       "countryCode": "ca-on",
+       "languages": {
+        "en": {
+         "code": "ca-on:Ra-002",
+         "codes": [
+          "ca-on:Ra-002"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-ON:Ra-002"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_ON_Canada_Ontario/inverted_triangle/CA-ON-Ra-002.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/CA-ON_road_sign_Ra-002.svg"
+        }
+       ]
+      },
+      "canada_quebec": {
+       "countryCode": "ca-qc",
+       "languages": {
+        "fr": {
+         "code": "ca-qc:P-020-1",
+         "codes": [
+          "ca-qc:P-020-1",
+          "ca-qc:P-020-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-QC:P-020-1",
+         "CA-QC:P-020-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_QC_Canada_Quebec/inverted_triangle/CA-QC-P-020-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/CA-QC_road_sign_P-020-1.svg"
+        },
+        {
+         "file": "CA_QC_Canada_Quebec/inverted_triangle/CA-QC-P-020-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CA-QC_road_sign_P-020-2.svg"
+        }
+       ]
+      },
+      "chile": {
+       "countryCode": "cl",
+       "languages": {
+        "es": {
+         "code": "cl:RPI-1",
+         "codes": [
+          "cl:RPI-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CL:RPI-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CL_Chile/inverted_triangle/CL-RPI-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/CL_road_sign_RPI-1.svg"
+        }
+       ]
+      },
+      "china": {
+       "countryCode": "cn",
+       "languages": {
+        "zh": {
+         "code": "cn:Jin2",
+         "codes": [
+          "cn:Jin2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CN:Jin2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CN_China/inverted_triangle/CN-Jin2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/CN_road_sign_%E7%A6%81_2.svg"
+        }
+       ]
+      },
+      "colombia": {
+       "countryCode": "co",
+       "languages": {
+        "es": {
+         "code": "co:SR-02",
+         "codes": [
+          "co:SR-02"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CO:SR-02"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CO_Colombia/inverted_triangle/CO-SR-02.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Colombia_road_sign_SR-02.svg"
+        },
+        {
+         "file": "CO_Colombia/inverted_triangle/CO-SR-02_old.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Colombia_road_sign_SR-02_%28old%29.svg"
+        }
+       ]
+      },
+      "hong_kong": {
+       "countryCode": "hk",
+       "languages": {
+        "zh": {
+         "code": "hk:102",
+         "codes": [
+          "hk:102",
+          "hk:401"
+         ],
+         "text": null,
+         "description": null
+        },
+        "en": {
+         "code": "hk:102",
+         "codes": [
+          "hk:102",
+          "hk:401"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "HK:102",
+         "HK:401"
+        ]
+       },
+       "sources": [
+        {
+         "file": "HK_Hong Kong/inverted_triangle/HK-102.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/HK_traffic_sign_102.svg"
+        },
+        {
+         "file": "HK_Hong Kong/inverted_triangle/HK-401.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HK_traffic_sign_401.svg"
+        }
+       ]
+      },
+      "indonesia": {
+       "countryCode": "id",
+       "languages": {
+        "id": {
+         "code": "id:1b",
+         "codes": [
+          "id:1b"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ID:1b"
+        ]
+       },
+       "sources": [
+        {
+         "file": "ID_Indonesia/inverted_triangle/ID-1b_Prohibitory.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Indonesia_road_sign_%28Prohibitory%29_1b.svg"
+        }
+       ]
+      },
+      "israel": {
+       "countryCode": "il",
+       "languages": {
+        "he": {
+         "code": "il:301",
+         "codes": [
+          "il:301"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ar": {
+         "code": "il:301",
+         "codes": [
+          "il:301"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IL:301"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IL_Israel/inverted_triangle/IL-301.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Israel_road_sign_301.svg"
+        }
+       ]
+      },
+      "india": {
+       "countryCode": "in",
+       "languages": {
+        "hi": {
+         "code": "in:I-I-2",
+         "codes": [
+          "in:I-I-2"
+         ],
+         "text": null,
+         "description": null
+        },
+        "en": {
+         "code": "in:I-I-2",
+         "codes": [
+          "in:I-I-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IN:I-I-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IN_India/inverted_triangle/IN-I-I-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Indian_Road_Sign_I-I-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "iran": {
+       "countryCode": "ir",
+       "languages": {
+        "fa": {
+         "code": "ir:3-2",
+         "codes": [
+          "ir:3-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IR:3-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IR_Iran/inverted_triangle/IR-3-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/IR_road_sign_3-2.svg"
+        }
+       ]
+      },
+      "japan": {
+       "countryCode": "jp",
+       "languages": {
+        "ja": {
+         "code": "jp:329-2",
+         "codes": [
+          "jp:329-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "JP:329-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "JP_Japan/inverted_triangle/JP-329-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Japan_road_sign_329-2.svg"
+        }
+       ]
+      },
+      "south_korea": {
+       "countryCode": "kr",
+       "languages": {
+        "ko": {
+         "code": "kr:228",
+         "codes": [
+          "kr:228",
+          "kr:522"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "KR:228",
+         "KR:522"
+        ]
+       },
+       "sources": [
+        {
+         "file": "KR_South Korea/inverted_triangle/KR-228.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/KR_road_sign_228.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "KR_South Korea/other/KR-522.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Korea_Traffic_Safety_Sign_-_Road_Mark_-_522_Yield.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "mauritius": {
+       "countryCode": "mu",
+       "languages": {
+        "en": {
+         "code": "mu:Regulatory_Give_Way",
+         "codes": [
+          "mu:Regulatory_Give_Way"
+         ],
+         "text": "Regulatory Sign Give Way Sign",
+         "description": null
+        },
+        "fr": {
+         "code": "mu:Regulatory_Give_Way",
+         "codes": [
+          "mu:Regulatory_Give_Way"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "MU:Regulatory_Give_Way"
+        ]
+       },
+       "sources": [
+        {
+         "file": "MU_Mauritius/inverted_triangle/MU-Regulatory_Give_Way.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mauritius_Road_Signs_-_Regulatory_Sign_-_Give_Way_Sign.svg"
+        }
+       ]
+      },
+      "mexico": {
+       "countryCode": "mx",
+       "languages": {
+        "es": {
+         "code": "mx:SR-7",
+         "codes": [
+          "mx:SR-7",
+          "mx:SR-7A"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "MX:SR-7",
+         "MX:SR-7A"
+        ]
+       },
+       "sources": [
+        {
+         "file": "MX_Mexico/inverted_triangle/MX-SR-7.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/MX_road_sign_SR-7.svg"
+        },
+        {
+         "file": "MX_Mexico/inverted_triangle/MX-SR-7A.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/MX_road_sign_SR-7A.svg"
+        }
+       ]
+      },
+      "malaysia": {
+       "countryCode": "my",
+       "languages": {
+        "ms": {
+         "code": "my:RP13",
+         "codes": [
+          "my:RP13"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "MY:RP13"
+        ]
+       },
+       "sources": [
+        {
+         "file": "MY_Malaysia/other/MY-RP13.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Malaysia_road_sign_RP13.svg"
+        }
+       ]
+      },
+      "nepal": {
+       "countryCode": "np",
+       "languages": {
+        "ne": {
+         "code": "np:A2",
+         "codes": [
+          "np:A2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "NP:A2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "NP_Nepal/inverted_triangle/NP-A2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nepal_road_sign_A2.svg"
+        }
+       ]
+      },
+      "new_zealand": {
+       "countryCode": "nz",
+       "languages": {
+        "en": {
+         "code": "nz:R2-2",
+         "codes": [
+          "nz:R2-2",
+          "nz:R2-2F",
+          "nz:R2-3",
+          "nz:R2-3F"
+         ],
+         "text": null,
+         "description": null
+        },
+        "mi": {
+         "code": "nz:R2-2",
+         "codes": [
+          "nz:R2-2",
+          "nz:R2-2F",
+          "nz:R2-3",
+          "nz:R2-3F"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "NZ:R2-2",
+         "NZ:R2-2F",
+         "NZ:R2-3",
+         "NZ:R2-3F"
+        ]
+       },
+       "sources": [
+        {
+         "file": "NZ_New Zealand/inverted_triangle/NZ-R2-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/New_Zealand_road_sign_R2-2.svg"
+        },
+        {
+         "file": "NZ_New Zealand/other/NZ-R2-2_until1987.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/New_Zealand_road_sign_R2-2_%28%E2%80%931987%29.svg"
+        },
+        {
+         "file": "NZ_New Zealand/inverted_triangle/NZ-R2-2F.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/New_Zealand_road_sign_R2-2F.svg"
+        },
+        {
+         "file": "NZ_New Zealand/inverted_triangle/NZ-R2-3.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/New_Zealand_road_sign_R2-3.svg"
+        },
+        {
+         "file": "NZ_New Zealand/inverted_triangle/NZ-R2-3F.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/New_Zealand_road_sign_R2-3F.svg"
+        }
+       ]
+      },
+      "philippines": {
+       "countryCode": "ph",
+       "languages": {
+        "en": {
+         "code": "ph:R1-2",
+         "codes": [
+          "ph:R1-2"
+         ],
+         "text": null,
+         "description": null
+        },
+        "tl": {
+         "code": "ph:R1-2",
+         "codes": [
+          "ph:R1-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PH:R1-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "PH_Philippines/inverted_triangle/PH-R1-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Philippines_road_sign_R1-2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "pakistan": {
+       "countryCode": "pk",
+       "languages": {
+        "ur": {
+         "code": "pk:R-02",
+         "codes": [
+          "pk:R-02"
+         ],
+         "text": null,
+         "description": null
+        },
+        "en": {
+         "code": "pk:R-02",
+         "codes": [
+          "pk:R-02"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PK:R-02"
+        ]
+       },
+       "sources": [
+        {
+         "file": "PK_Pakistan/inverted_triangle/PK-R-02.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pakistan_road_sign_R-02.svg"
+        }
+       ]
+      },
+      "thailand": {
+       "countryCode": "th",
+       "languages": {
+        "th": {
+         "code": "th:b-2",
+         "codes": [
+          "th:b-2",
+          "th:b-2-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "TH:b-2",
+         "TH:b-2-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "TH_Thailand/inverted_triangle/TH-b-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Thailand_road_sign_%E0%B8%9A-2.svg"
+        },
+        {
+         "file": "TH_Thailand/inverted_triangle/TH-b-2-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Thailand_road_sign_%E0%B8%9A-2-1.svg"
+        },
+        {
+         "file": "TH_Thailand/rectangle/TH-b-2-1_For_bicycle_lane.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Thailand_road_sign_%E0%B8%9A-2-1_%28For_bicycle_lane%29.svg"
+        }
+       ]
+      },
+      "united_states": {
+       "countryCode": "us",
+       "languages": {
+        "en": {
+         "code": "us:R1-2",
+         "codes": [
+          "us:R1-2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "US:R1-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "US_United States/inverted_triangle/US-R1-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/MUTCD_R1-2.svg"
+        }
+       ]
+      },
+      "south_africa": {
+       "countryCode": "za",
+       "languages": {
+        "en": {
+         "code": "za:R1.2",
+         "codes": [
+          "za:R1.2",
+          "za:R2",
+          "za:R2.1",
+          "za:R2.2",
+          "za:W415"
+         ],
+         "text": null,
+         "description": null
+        },
+        "af": {
+         "code": "za:R1.2",
+         "codes": [
+          "za:R1.2",
+          "za:R2",
+          "za:R2.1",
+          "za:R2.2",
+          "za:W415"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ZA:R1.2",
+         "ZA:R2",
+         "ZA:R2.1",
+         "ZA:R2.2",
+         "ZA:W415"
+        ]
+       },
+       "sources": [
+        {
+         "file": "ZA_South Africa/inverted_triangle/ZA-R1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/SADC_road_sign_R1.2.svg"
+        },
+        {
+         "file": "ZA_South Africa/inverted_triangle/ZA-R2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SADC_road_sign_R2.svg"
+        },
+        {
+         "file": "ZA_South Africa/inverted_triangle/ZA-R2.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/SADC_road_sign_R2.1.svg"
+        },
+        {
+         "file": "ZA_South Africa/inverted_triangle/ZA-R2.1_Equestrians.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/SADC_road_sign_R2.1_%28Equestrians%29.svg"
+        },
+        {
+         "file": "ZA_South Africa/inverted_triangle/ZA-R2.1_Pedestrians_and_Equestrians.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SADC_road_sign_R2.1_%28Pedestrians_and_Equestrians%29.svg"
+        },
+        {
+         "file": "ZA_South Africa/inverted_triangle/ZA-R2.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/SADC_road_sign_R2.2.svg"
+        },
+        {
+         "file": "ZA_South Africa/other/ZA-W415.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/SADC_road_sign_W415.svg"
+        }
+       ]
+      },
+      "zimbabwe": {
+       "countryCode": "zw",
+       "languages": {
+        "en": {
+         "code": "zw:R1.2",
+         "codes": [
+          "zw:R1.2",
+          "zw:R2",
+          "zw:R2.1",
+          "zw:R2.2",
+          "zw:W415"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ZW:R1.2",
+         "ZW:R2",
+         "ZW:R2.1",
+         "ZW:R2.2",
+         "ZW:W415"
+        ]
+       },
+       "sources": [
+        {
+         "file": "ZW_Zimbabwe/inverted_triangle/ZW-R1.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/SADC_road_sign_R1.2.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/inverted_triangle/ZW-R2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SADC_road_sign_R2.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/inverted_triangle/ZW-R2.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/SADC_road_sign_R2.1.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/inverted_triangle/ZW-R2.1_Equestrians.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/SADC_road_sign_R2.1_%28Equestrians%29.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/inverted_triangle/ZW-R2.1_Pedestrians_and_Equestrians.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SADC_road_sign_R2.1_%28Pedestrians_and_Equestrians%29.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/inverted_triangle/ZW-R2.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/SADC_road_sign_R2.2.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/other/ZW-W415.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/SADC_road_sign_W415.svg"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "shape": "inverted_triangle",
+     "background_color": "yellow",
+     "border_color": "red",
+     "symbol_color": null,
+     "band": "none",
+     "band_color": null,
+     "prohibition_bar": null,
+     "bar_continuity": null,
+     "model": null,
+     "legacyModel": null,
+     "versions": [
+      "2006",
+      "2023"
+     ],
+     "legacyReferences": [
+      "VIENNA:B,1"
+     ],
+     "mirrored": false,
+     "wikidata": "QXXXXXXX",
+     "toBeAdded": true,
+     "jurisdictions": {
+      "finland": {
+       "countryCode": "fi",
+       "languages": {
+        "fi": {
+         "code": "fi:B5",
+         "codes": [
+          "fi:B5",
+          "fi:B5+H5",
+          "fi:B5+H4-A",
+          "ax:Fo1"
+         ],
+         "text": null,
+         "description": null
+        },
+        "sv": {
+         "code": "fi:B5",
+         "codes": [
+          "fi:B5",
+          "fi:B5+H5",
+          "fi:B5+H4-A",
+          "ax:Fo1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "FI:B5",
+         "FI:B5+H5",
+         "FI:B5+H4-A",
+         "AX:Fo1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "FI_Finland/inverted_triangle/FI-B5+H5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Finland_road_sign_B5_%2B_H5.svg"
+        },
+        {
+         "file": "FI_Finland/inverted_triangle/FI-B5+H4-A.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Finland_road_sign_B5_%2B_H4-A.svg"
+        },
+        {
+         "file": "FI_Finland/inverted_triangle/AX-Fo1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/AX_road_sign_F%C3%B61.svg"
+        }
+       ]
+      },
+      "poland": {
+       "countryCode": "pl",
+       "languages": {
+        "pl": {
+         "code": "pl:A7",
+         "codes": [
+          "pl:A7"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PL:A-7"
+        ]
+       }
+      },
+      "sweden": {
+       "countryCode": "se",
+       "languages": {
+        "sv": {
+         "code": "se:B1",
+         "codes": [
+          "se:B1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "SE:B1"
+        ]
+       }
+      },
+      "greece": {
+       "countryCode": "gr",
+       "languages": {
+        "el": {
+         "code": "gr:R-1",
+         "codes": [
+          "gr:R-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "GR:R-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "GR_Greece/inverted_triangle/GR-R-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Traffic_Sign_GR_-_KOK_2009_-_R-1.svg"
+        },
+        {
+         "file": "GR_Greece/inverted_triangle/GR-R-1_old.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Traffic_Sign_GR_-_Old_-_%CE%A1-1.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-1_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Traffic_Sign_GR_-_Temporary_-_R-1.svg"
+        }
+       ]
+      },
+      "iceland": {
+       "countryCode": "is",
+       "languages": {
+        "is": {
+         "code": "is:A06.11",
+         "codes": [
+          "is:A06.11"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IS:A06.11"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IS_Iceland/inverted_triangle/IS-A06.11.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Iceland_road_sign_A06.11.svg"
+        }
+       ]
+      },
+      "united_states": {
+       "countryCode": "us",
+       "languages": {
+        "en": {
+         "code": "us:Yield",
+         "codes": [
+          "us:Yield"
+         ],
+         "text": "Yield",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "US:Yield"
+        ]
+       },
+       "sources": [
+        {
+         "file": "US_United States/inverted_triangle/US-Yield_v2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/United_States_sign_-_Yield_%28v2%29.svg"
+        },
+        {
+         "file": "US_United States/inverted_triangle/US-Yield_v3.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/United_States_sign_-_Yield_%28v3%29.svg"
+        },
+        {
+         "file": "US_United States/other/US-Yield_v1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/United_States_sign_-_Yield_%28v1%29.svg"
+        }
+       ]
+      },
+      "vietnam": {
+       "countryCode": "vn",
+       "languages": {
+        "vi": {
+         "code": "vn:W208",
+         "codes": [
+          "vn:W208"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "VN:W208"
+        ]
+       },
+       "sources": [
+        {
+         "file": "VN_Vietnam/inverted_triangle/VN-W208.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vietnam_road_sign_W208.svg"
+        }
+       ]
+      }
+     }
+    }
+   ],
+   "additional": {
+    "bottom": [
+     {
+      "index": 1,
+      "reference": [
+       "VIENNA:H-01.1",
+       "VIENNA:H-08.1"
+      ]
+     }
+    ]
+   }
+  },
+  "osm": {
+   "traffic_sign_generic": "give_way",
+   "implied_tags": {
+    "highway": "give_way"
+   }
+  },
+  "relatedSigns": [
+   {
+    "reference": "DB:VIENNA-A20",
+    "name": {
+     "en": "Give Way Ahead"
+    },
+    "description": {
+     "en": "Sign A20 warns drivers that they are approaching an intersection where they will be controlled by sign B1 and will be required to slow down and give way to all other traffic. The symbol shall consist of the outline of sign B1 ."
+    },
+    "shape": null,
+    "background": null,
+    "border": null,
+    "mirrored": false,
+    "wikidata": "QXXXXXXX",
+    "toBeAdded": false,
+    "jurisdictions": {
+     "belgium": {
+      "countryCode": "be",
+      "languages": {
+       "fr": {
+        "code": "be:B3",
+        "codes": [
+         "be:B3"
+        ],
+        "text": null,
+        "description": null
+       },
+       "nl": {
+        "code": "be:B3",
+        "codes": [
+         "be:B3"
+        ],
+        "text": null,
+        "description": null
+       },
+       "de": {
+        "code": "be:B3",
+        "codes": [
+         "be:B3"
+        ],
+        "text": null,
+        "description": null
+       }
+      },
+      "additional": {
+       "bottom": []
+      },
+      "osm": {
+       "traffic_sign": [
+        "BE:B3"
+       ]
+      }
+     },
+     "france": {
+      "countryCode": "fr",
+      "languages": {
+       "fr": {
+        "code": "fr:AB3b",
+        "codes": [
+         "fr:AB3b"
+        ],
+        "text": null,
+        "description": null
+       }
+      },
+      "additional": {
+       "bottom": []
+      },
+      "osm": {
+       "traffic_sign": [
+        "FR:AB3b"
+       ]
+      }
+     },
+     "hungary": {
+      "countryCode": "hu",
+      "languages": {
+       "hu": {
+        "code": "hu:B-001",
+        "codes": [
+         "hu:B-001"
+        ],
+        "text": null,
+        "description": null
+       }
+      },
+      "additional": {
+       "bottom": []
+      },
+      "osm": {
+       "traffic_sign": [
+        "HU:B-001"
+       ]
+      }
+     },
+     "poland": {
+      "countryCode": "pl",
+      "languages": {
+       "pl": {
+        "code": "pl:A7",
+        "codes": [
+         "pl:A7"
+        ],
+        "text": null,
+        "description": null
+       }
+      },
+      "additional": {
+       "bottom": []
+      },
+      "osm": {
+       "traffic_sign": [
+        "PL:A-7"
+       ]
+      }
+     },
+     "romania": {
+      "countryCode": "ro",
+      "languages": {
+       "ro": {
+        "code": "ro:B01",
+        "codes": [
+         "ro:B01"
+        ],
+        "text": null,
+        "description": null
+       }
+      },
+      "additional": {
+       "bottom": []
+      },
+      "osm": {
+       "traffic_sign": [
+        "RO:B01"
+       ]
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
+  "reference": "VIENNA:C-14.1",
+  "category": "C",
+  "categoryName": "Prohibitory and restrictive signs",
+  "legacyReferences": [
+   "VIENNA:C,14"
+  ],
+  "wikidata": "QXXXXXXX",
+  "name": {
+   "en": "Maximum speed limit",
+   "fr": "Limitation de vitesse",
+   "de": "Zulässige Höchstgeschwindigkeit"
+  },
+  "description": {
+   "en": "C-14.1 notifies that the figure indicated on the sign is the permitted maximum speed. The figure shall be provided in the unit of measurement most commonly used to express the speed of vehicles in the country concerned. That unit of measurement may be shown on the sign after or below the figure. If shown, “km” (for Kilometres) or \"m\" (for Miles) shall be used as appropriate. To indicate a speed limit applicable only to vehicles of a permissible maximum mass exceeding a given figure, an inscription comprising that figure shall be placed on an additional panel below the sign in accordance with Article 8, paragraph 4 of this Convention."
+  },
+  "note": "Renamed: 2006 \"Maximum speed limited to the figure indicated\".",
+  "symbolMayBeReversed": false,
+  "officialSign": {
+   "designs": [
+    {
+     "shape": "circle",
+     "background_color": "white",
+     "border_color": "red",
+     "symbol_color": "black",
+     "band": "none",
+     "band_color": null,
+     "prohibition_bar": null,
+     "bar_continuity": null,
+     "model": null,
+     "legacyModel": null,
+     "versions": [
+      "2006",
+      "2023"
+     ],
+     "legacyReferences": [
+      "VIENNA:C,14"
+     ],
+     "mirrored": false,
+     "wikidata": "QXXXXXXX",
+     "toBeAdded": true,
+     "jurisdictions": {
+      "austria": {
+       "countryCode": "at",
+       "languages": {
+        "de": {
+         "code": "at:078",
+         "codes": [
+          "at:078",
+          "at:Vorschriftszeichen-10a"
+         ],
+         "text": "Zulässige Höchstgeschwindigkeit",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "AT:078",
+         "AT:Vorschriftszeichen-10a"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          30
+         ]
+        }
+       },
+       "sources": [
+        {
+         "file": "AT_Austria/circle/AT-Vorschriftszeichen-10a.svg",
+         "url": null
+        },
+        {
+         "file": "AT_Austria/circle/AT-Vorschriftszeichen-10a_alt.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vorschriftszeichen_10a_alt.svg"
+        }
+       ]
+      },
+      "belgium": {
+       "countryCode": "be",
+       "languages": {
+        "fr": {
+         "code": "be:C43",
+         "codes": [
+          "be:C43",
+          "be:C43_50"
+         ],
+         "text": "Limitation de vitesse",
+         "description": null
+        },
+        "nl": {
+         "code": "be:C43",
+         "codes": [
+          "be:C43",
+          "be:C43_50"
+         ],
+         "text": null,
+         "description": null
+        },
+        "de": {
+         "code": "be:C43",
+         "codes": [
+          "be:C43",
+          "be:C43_50"
+         ],
+         "text": "Zulässige Höchstgeschwindigkeit",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BE:C43_50"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          50
+         ]
+        }
+       }
+      },
+      "bulgaria": {
+       "countryCode": "bg",
+       "languages": {
+        "bg": {
+         "code": "bg:V26",
+         "codes": [
+          "bg:V26",
+          "bg:V26(50)",
+          "bg:V26(60)",
+          "bg:V26(80)"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BG:V26(50)",
+         "BG:V26(60)",
+         "BG:V26(80)"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          50,
+          60,
+          80
+         ]
+        }
+       }
+      },
+      "czechia": {
+       "countryCode": "cz",
+       "languages": {
+        "cs": {
+         "code": "cz:III-20a",
+         "codes": [
+          "cz:III-20a"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CZ:III-20a"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          80
+         ]
+        }
+       }
+      },
+      "denmark": {
+       "countryCode": "dk",
+       "languages": {
+        "da": {
+         "code": "dk:C55",
+         "codes": [
+          "dk:C55",
+          "dk:15"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "DK:C55",
+         "DK:15"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          60
+         ]
+        }
+       },
+       "sources": [
+        {
+         "file": "DK_Denmark/rectangle/DK-15.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DK_road_sign_15_%281932%29.svg"
+        }
+       ]
+      },
+      "estonia": {
+       "countryCode": "ee",
+       "languages": {
+        "et": {
+         "code": "ee:351",
+         "codes": [
+          "ee:351",
+          "ee:351(30)"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "EE:351(30)"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          30
+         ]
+        }
+       }
+      },
+      "france": {
+       "countryCode": "fr",
+       "languages": {
+        "fr": {
+         "code": "fr:B14",
+         "codes": [
+          "fr:B14",
+          "fr:B14_110",
+          "fr:B14_130",
+          "fr:B14_30",
+          "fr:B14_50",
+          "fr:B14_70",
+          "fr:B14_90"
+         ],
+         "text": "Limitation de vitesse",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "FR:B14_110",
+         "FR:B14_130",
+         "FR:B14_30",
+         "FR:B14_50",
+         "FR:B14_70",
+         "FR:B14_90"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          30,
+          50,
+          70,
+          90,
+          110,
+          130
+         ]
+        }
+       }
+      },
+      "germany": {
+       "countryCode": "de",
+       "languages": {
+        "de": {
+         "code": "de:274",
+         "codes": [
+          "de:274",
+          "de:274-10",
+          "de:274-100",
+          "de:274-110",
+          "de:274-120",
+          "de:274-130",
+          "de:274-20",
+          "de:274-30",
+          "de:274-40",
+          "de:274-5",
+          "de:274-50",
+          "de:274-60",
+          "de:274-70",
+          "de:274-80",
+          "de:274-90",
+          "de:274-55",
+          "de:Bild-21"
+         ],
+         "text": "Zulässige Höchstgeschwindigkeit",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "DE:274-10",
+         "DE:274-100",
+         "DE:274-110",
+         "DE:274-120",
+         "DE:274-130",
+         "DE:274-20",
+         "DE:274-30",
+         "DE:274-40",
+         "DE:274-5",
+         "DE:274-50",
+         "DE:274-60",
+         "DE:274-70",
+         "DE:274-80",
+         "DE:274-90",
+         "DE:274-55",
+         "DE:Bild-21"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          5,
+          10,
+          20,
+          30,
+          40,
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130
+         ]
+        }
+       },
+       "sources": [
+        {
+         "file": "DE_Germany/circle/DE-274-55.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Zeichen_274-55.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "DE_Germany/circle/DE-Bild-21.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bild_21_-_Verbot_der_%C3%9Cberschreitung_bestimmter_Fahrgeschwindigkeiten_-_z.B._30_km%2C_40_km_usw._je_Stunde%2C_StVO_1956.svg"
+        }
+       ]
+      },
+      "latvia": {
+       "countryCode": "lv",
+       "languages": {
+        "lv": {
+         "code": "lv:323",
+         "codes": [
+          "lv:323"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "LV:323"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          50
+         ]
+        }
+       }
+      },
+      "lithuania": {
+       "countryCode": "lt",
+       "languages": {
+        "lt": {
+         "code": "lt:329",
+         "codes": [
+          "lt:329"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "LT:329"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          60
+         ]
+        }
+       }
+      },
+      "netherlands": {
+       "countryCode": "nl",
+       "languages": {
+        "nl": {
+         "code": "nl:A1",
+         "codes": [
+          "nl:A1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "NL:A1"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          50
+         ]
+        }
+       }
+      },
+      "portugal": {
+       "countryCode": "pt",
+       "languages": {
+        "pt": {
+         "code": "pt:C13",
+         "codes": [
+          "pt:C13",
+          "pt:C13-50",
+          "pt:C13-40"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PT:C13-50",
+         "PT:C13-40"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          50
+         ]
+        }
+       },
+       "sources": [
+        {
+         "file": "PT_Portugal/circle/PT-C13-40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Portugal_road_sign_C13-40.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "slovakia": {
+       "countryCode": "sk",
+       "languages": {
+        "sk": {
+         "code": "sk:253",
+         "codes": [
+          "sk:253",
+          "sk:253-10",
+          "sk:253-100",
+          "sk:253-110",
+          "sk:253-120",
+          "sk:253-130",
+          "sk:253-140",
+          "sk:253-20",
+          "sk:253-30",
+          "sk:253-40",
+          "sk:253-50",
+          "sk:253-60",
+          "sk:253-70",
+          "sk:253-80",
+          "sk:253-90"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "SK:253-10",
+         "SK:253-100",
+         "SK:253-110",
+         "SK:253-120",
+         "SK:253-130",
+         "SK:253-140",
+         "SK:253-20",
+         "SK:253-30",
+         "SK:253-40",
+         "SK:253-50",
+         "SK:253-60",
+         "SK:253-70",
+         "SK:253-80",
+         "SK:253-90"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          10,
+          20,
+          30,
+          40,
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120,
+          130,
+          140
+         ]
+        }
+       }
+      },
+      "spain": {
+       "countryCode": "es",
+       "languages": {
+        "es": {
+         "code": "es:R-301",
+         "codes": [
+          "es:R-301",
+          "es:R-301-10",
+          "es:R-301-100",
+          "es:R-301-110",
+          "es:R-301-120",
+          "es:R-301-20",
+          "es:R-301-30",
+          "es:R-301-40",
+          "es:R-301-50",
+          "es:R-301-60",
+          "es:R-301-70",
+          "es:R-301-80",
+          "es:R-301-90",
+          "es:TR-301-100",
+          "es:TR-301-20",
+          "es:TR-301-30",
+          "es:TR-301-40",
+          "es:TR-301-50",
+          "es:TR-301-60",
+          "es:TR-301-70",
+          "es:TR-301-80",
+          "es:TR-301-90"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ES:R-301-10",
+         "ES:R-301-100",
+         "ES:R-301-110",
+         "ES:R-301-120",
+         "ES:R-301-20",
+         "ES:R-301-30",
+         "ES:R-301-40",
+         "ES:R-301-50",
+         "ES:R-301-60",
+         "ES:R-301-70",
+         "ES:R-301-80",
+         "ES:R-301-90",
+         "ES:TR-301-100",
+         "ES:TR-301-20",
+         "ES:TR-301-30",
+         "ES:TR-301-40",
+         "ES:TR-301-50",
+         "ES:TR-301-60",
+         "ES:TR-301-70",
+         "ES:TR-301-80",
+         "ES:TR-301-90"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          10,
+          20,
+          30,
+          40,
+          50,
+          60,
+          70,
+          80,
+          90,
+          100,
+          110,
+          120
+         ]
+        }
+       }
+      },
+      "belarus": {
+       "countryCode": "by",
+       "languages": {
+        "be": {
+         "code": "by:3.24.1",
+         "codes": [
+          "by:3.24.1"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ru": {
+         "code": "by:3.24.1",
+         "codes": [
+          "by:3.24.1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BY:3.24.1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BY_Belarus/circle/BY-3.24.1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/RU_road_sign_3.24-50.svg"
+        }
+       ]
+      },
+      "russia": {
+       "countryCode": "ru",
+       "languages": {
+        "ru": {
+         "code": "ru:3.24-50",
+         "codes": [
+          "ru:3.24-50"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "RU:3.24-50"
+        ]
+       },
+       "sources": [
+        {
+         "file": "RU_Russia/circle/RU-3.24-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/RU_road_sign_3.24-50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "bosnia_and_herzegovina": {
+       "countryCode": "ba",
+       "languages": {
+        "bs": {
+         "code": "ba:II-34-60",
+         "codes": [
+          "ba:II-34-60"
+         ],
+         "text": null,
+         "description": null
+        },
+        "hr": {
+         "code": "ba:II-34-60",
+         "codes": [
+          "ba:II-34-60"
+         ],
+         "text": null,
+         "description": null
+        },
+        "sr": {
+         "code": "ba:II-34-60",
+         "codes": [
+          "ba:II-34-60"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BA:II-34-60"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BA_Bosnia and Herzegovina/circle/BA-II-34-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/BA_road_sign_II-34-60.svg"
+        }
+       ]
+      },
+      "croatia": {
+       "countryCode": "hr",
+       "languages": {
+        "hr": {
+         "code": "hr:B30",
+         "codes": [
+          "hr:B30"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "HR:B30"
+        ]
+       },
+       "sources": [
+        {
+         "file": "HR_Croatia/circle/HR-B30_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HR_road_sign_B30_%2850%29.svg"
+        }
+       ]
+      },
+      "ireland": {
+       "countryCode": "ie",
+       "languages": {
+        "en": {
+         "code": "ie:RUS-043",
+         "codes": [
+          "ie:RUS-043"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ga": {
+         "code": "ie:RUS-043",
+         "codes": [
+          "ie:RUS-043"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IE:RUS-043"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IE_Ireland/circle/IE-RUS-043.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/IE_road_sign_RUS-043.svg"
+        }
+       ]
+      },
+      "italy": {
+       "countryCode": "it",
+       "languages": {
+        "it": {
+         "code": "it:limite_di_velocita_50",
+         "codes": [
+          "it:limite_di_velocita_50",
+          "it:limitazione_di_velocita"
+         ],
+         "text": "limite di velocita 50",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IT:limite_di_velocita_50",
+         "IT:limitazione_di_velocita"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IT_Italy, San Marino, Vatican City/circle/IT-limite_di_velocita_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Italian_traffic_signs_-_limite_di_velocit%C3%A0_50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "IT_Italy, San Marino, Vatican City/circle/IT-limitazione_di_velocita.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Segnale_stradale_italiano_1932_-_limitazione_di_velocit%C3%A0.svg"
+        }
+       ]
+      },
+      "luxembourg": {
+       "countryCode": "lu",
+       "languages": {
+        "lb": {
+         "code": "lu:C14",
+         "codes": [
+          "lu:C14"
+         ],
+         "text": null,
+         "description": null
+        },
+        "fr": {
+         "code": "lu:C14",
+         "codes": [
+          "lu:C14"
+         ],
+         "text": null,
+         "description": null
+        },
+        "de": {
+         "code": "lu:C14",
+         "codes": [
+          "lu:C14"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "LU:C14"
+        ]
+       },
+       "sources": [
+        {
+         "file": "LU_Luxembourg/circle/LU-C14_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Luxembourg_road_sign_C%2C14_%2850%29.svg"
+        }
+       ]
+      },
+      "norway": {
+       "countryCode": "no",
+       "languages": {
+        "no": {
+         "code": "no:362.50",
+         "codes": [
+          "no:362.50",
+          "no:362.60"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "NO:362.50",
+         "NO:362.60"
+        ]
+       },
+       "sources": [
+        {
+         "file": "NO_Norway/circle/NO-362.50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/NO_road_sign_362.50.svg"
+        },
+        {
+         "file": "NO_Norway/circle/NO-362.60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/NO_road_sign_362.60.svg"
+        }
+       ]
+      },
+      "poland": {
+       "countryCode": "pl",
+       "languages": {
+        "pl": {
+         "code": "pl:B-33-50",
+         "codes": [
+          "pl:B-33-50"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PL:B-33-50"
+        ]
+       },
+       "sources": [
+        {
+         "file": "PL_Poland/circle/PL-B-33-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/PL_road_sign_B-33-50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "romania": {
+       "countryCode": "ro",
+       "languages": {
+        "ro": {
+         "code": "ro:C29",
+         "codes": [
+          "ro:C29",
+          "ro:C30a"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "RO:C29",
+         "RO:C30a"
+        ]
+       },
+       "sources": [
+        {
+         "file": "RO_Romania/circle/RO-C29_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/RO_road_sign_C29_%2850%29.svg"
+        },
+        {
+         "file": "RO_Romania/circle/RO-C30a.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/RO_road_sign_C30a.svg"
+        }
+       ]
+      },
+      "serbia": {
+       "countryCode": "rs",
+       "languages": {
+        "sr": {
+         "code": "rs:II-30-40",
+         "codes": [
+          "rs:II-30-40"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "RS:II-30-40"
+        ]
+       },
+       "sources": [
+        {
+         "file": "RS_Serbia/circle/RS-II-30-40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Serbia_road_sign_II-30-40.svg"
+        }
+       ]
+      },
+      "slovenia": {
+       "countryCode": "si",
+       "languages": {
+        "sl": {
+         "code": "si:II-30",
+         "codes": [
+          "si:II-30"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "SI:II-30"
+        ]
+       },
+       "sources": [
+        {
+         "file": "SI_Slovenia/circle/SI-II-30_40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Slovenia_road_sign_II-30_%2840%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "switzerland": {
+       "countryCode": "ch",
+       "languages": {
+        "de": {
+         "code": "ch:Vorschriftssignal-Hochstgeschwindigkeit",
+         "codes": [
+          "ch:Vorschriftssignal-Hochstgeschwindigkeit"
+         ],
+         "text": "Vorschriftssignal-Hochstgeschwindigkeit",
+         "description": null
+        },
+        "fr": {
+         "code": "ch:Vorschriftssignal-Hochstgeschwindigkeit",
+         "codes": [
+          "ch:Vorschriftssignal-Hochstgeschwindigkeit"
+         ],
+         "text": null,
+         "description": null
+        },
+        "it": {
+         "code": "ch:Vorschriftssignal-Hochstgeschwindigkeit",
+         "codes": [
+          "ch:Vorschriftssignal-Hochstgeschwindigkeit"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CH:Vorschriftssignal-Hochstgeschwindigkeit"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CH_Switzerland, Liechtenstein/circle/CH-Vorschriftssignal-Hochstgeschwindigkeit.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/CH-Vorschriftssignal-H%C3%B6chstgeschwindigkeit.svg"
+        }
+       ]
+      },
+      "turkey": {
+       "countryCode": "tr",
+       "languages": {
+        "tr": {
+         "code": "tr:TT-29-50",
+         "codes": [
+          "tr:TT-29-50"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "TR:TT-29-50"
+        ]
+       },
+       "sources": [
+        {
+         "file": "TR_Turkey/circle/TR-TT-29-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Turkey_road_sign_TT-29-50.svg"
+        }
+       ]
+      },
+      "ukraine": {
+       "countryCode": "ua",
+       "languages": {
+        "uk": {
+         "code": "ua:3.29-050",
+         "codes": [
+          "ua:3.29-050"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "UA:3.29-050"
+        ]
+       },
+       "sources": [
+        {
+         "file": "UA_Ukraine/circle/UA-3.29-050.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/UA_road_sign_3.29-050.svg"
+        }
+       ]
+      },
+      "united_kingdom": {
+       "countryCode": "gb",
+       "languages": {
+        "en": {
+         "code": "gb:670V50",
+         "codes": [
+          "gb:670V50",
+          "gb:670V20",
+          "gb:670V30",
+          "gb:670V40",
+          "gb:670V60",
+          "gb:pre-Worboys-Speed_Limit"
+         ],
+         "text": "pre-Worboys-Speed Limit",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "GB:670V50",
+         "GB:670V20",
+         "GB:670V30",
+         "GB:670V40",
+         "GB:670V60",
+         "GB:pre-Worboys-Speed_Limit"
+        ]
+       },
+       "sources": [
+        {
+         "file": "GB_United Kingdom/circle/GB-670V50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/UK_traffic_sign_670V50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "GB_United Kingdom/circle/GB-670V20.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/UK_traffic_sign_670V20.svg"
+        },
+        {
+         "file": "GB_United Kingdom/circle/GB-670V20_Bermuda.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/UK_traffic_sign_670V20_%28Bermuda%29.svg"
+        },
+        {
+         "file": "GB_United Kingdom/circle/GB-670V30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/UK_traffic_sign_670V30.svg"
+        },
+        {
+         "file": "GB_United Kingdom/circle/GB-670V40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/UK_traffic_sign_670V40.svg"
+        },
+        {
+         "file": "GB_United Kingdom/circle/GB-670V60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/UK_traffic_sign_670V60.svg"
+        },
+        {
+         "file": "GB_United Kingdom/circle/GB-pre-Worboys-Speed_Limit.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pre-Worboy_-_Speed_Limit_-_1944.svg"
+        }
+       ]
+      },
+      "argentina": {
+       "countryCode": "ar",
+       "languages": {
+        "es": {
+         "code": "ar:R-15",
+         "codes": [
+          "ar:R-15"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "AR:R-15"
+        ]
+       },
+       "sources": [
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_10.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Argentina_MSV_2017_road_sign_R-15_%2810%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_100.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Argentina_MSV_2017_road_sign_R-15_%28100%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_110.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Argentina_MSV_2017_road_sign_R-15_%28110%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_120.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Argentina_MSV_2017_road_sign_R-15_%28120%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_130.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Argentina_MSV_2017_road_sign_R-15_%28130%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_15.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Argentina_MSV_2017_road_sign_R-15_%2815%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_20.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Argentina_MSV_2017_road_sign_R-15_%2820%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_25.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Argentina_MSV_2017_road_sign_R-15_%2825%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Argentina_MSV_2017_road_sign_R-15_%2830%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_35.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Argentina_MSV_2017_road_sign_R-15_%2835%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Argentina_MSV_2017_road_sign_R-15_%2840%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_45.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Argentina_MSV_2017_road_sign_R-15_%2845%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Argentina_MSV_2017_road_sign_R-15_%285%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Argentina_MSV_2017_road_sign_R-15_%2850%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Argentina_MSV_2017_road_sign_R-15_%2860%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_70.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Argentina_MSV_2017_road_sign_R-15_%2870%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Argentina_MSV_2017_road_sign_R-15_%2880%29.svg"
+        },
+        {
+         "file": "AR_Argentina/circle/AR-R-15_MSV_2017_90.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Argentina_MSV_2017_road_sign_R-15_%2890%29.svg"
+        }
+       ]
+      },
+      "brazil": {
+       "countryCode": "br",
+       "languages": {
+        "pt": {
+         "code": "br:09",
+         "codes": [
+          "br:09",
+          "br:R-19"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BR:09",
+         "BR:R-19"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BR_Brazil/circle/BR-09.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/1941_Brazil_road_sign_09.svg"
+        },
+        {
+         "file": "BR_Brazil/circle/BR-R-19.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1999_Brazil_road_sign_R-19.svg"
+        },
+        {
+         "file": "BR_Brazil/circle/BR-R-19_80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Brasil_R-19_%2880%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "botswana": {
+       "countryCode": "bw",
+       "languages": {
+        "en": {
+         "code": "bw:R201-5",
+         "codes": [
+          "bw:R201-5",
+          "bw:R201-10",
+          "bw:R201-20",
+          "bw:R201-30",
+          "bw:R201-40",
+          "bw:R201-50",
+          "bw:R201-60",
+          "bw:R201-70",
+          "bw:R201-75",
+          "bw:R201-80",
+          "bw:R201-90",
+          "bw:R201-100",
+          "bw:R201-120",
+          "bw:R201-120-R511"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BW:R201-5",
+         "BW:R201-10",
+         "BW:R201-20",
+         "BW:R201-30",
+         "BW:R201-40",
+         "BW:R201-50",
+         "BW:R201-60",
+         "BW:R201-70",
+         "BW:R201-75",
+         "BW:R201-80",
+         "BW:R201-90",
+         "BW:R201-100",
+         "BW:R201-120",
+         "BW:R201-120-R511"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BW_Botswana/circle/BW-R201-5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/SADC_road_sign_R201-5.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-10.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/SADC_road_sign_R201-10.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-20.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SADC_road_sign_R201-20.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/SADC_road_sign_R201-30.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/SADC_road_sign_R201-40.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/SADC_road_sign_R201-50.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/SADC_road_sign_R201-60.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-70.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/SADC_road_sign_R201-70.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-75.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/SADC_road_sign_R201-75.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SADC_road_sign_R201-80.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-90.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SADC_road_sign_R201-90.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-100.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/SADC_road_sign_R201-100.svg"
+        },
+        {
+         "file": "BW_Botswana/circle/BW-R201-120.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/SADC_road_sign_R201-120.svg"
+        },
+        {
+         "file": "BW_Botswana/rectangle/BW-R201-120-R511.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/SADC_road_sign_R201-120-R511.svg"
+        }
+       ]
+      },
+      "chile": {
+       "countryCode": "cl",
+       "languages": {
+        "es": {
+         "code": "cl:RR-1-050",
+         "codes": [
+          "cl:RR-1-050"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CL:RR-1-050"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CL_Chile/circle/CL-RR-1-050.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/CL_road_sign_RR-1-050.svg"
+        }
+       ]
+      },
+      "china": {
+       "countryCode": "cn",
+       "languages": {
+        "zh": {
+         "code": "cn:Jin38",
+         "codes": [
+          "cn:Jin38",
+          "cn:Jin39-60"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CN:Jin38",
+         "CN:Jin39-60"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CN_China/circle/CN-Jin38_40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/China_road_sign_%E7%A6%81_38_%2840%29.svg"
+        },
+        {
+         "file": "CN_China/circle/CN-Jin39-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/CN_road_sign_%E7%A6%81_39-60.svg"
+        }
+       ]
+      },
+      "colombia": {
+       "countryCode": "co",
+       "languages": {
+        "es": {
+         "code": "co:SR-30-60",
+         "codes": [
+          "co:SR-30-60",
+          "co:SR-30B"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CO:SR-30-60",
+         "CO:SR-30B"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CO_Colombia/circle/CO-SR-30-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Colombia_road_sign_SR-30-60.svg"
+        },
+        {
+         "file": "CO_Colombia/circle/CO-SR-30B.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Colombia_road_sign_SR-30B.svg"
+        }
+       ]
+      },
+      "cyprus": {
+       "countryCode": "cy",
+       "languages": {
+        "el": {
+         "code": "cy:maximum_speed",
+         "codes": [
+          "cy:maximum_speed"
+         ],
+         "text": "maximum speed",
+         "description": null
+        },
+        "tr": {
+         "code": "cy:maximum_speed",
+         "codes": [
+          "cy:maximum_speed"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CY:maximum_speed"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CY_Cyprus/circle/CY-maximum_speed.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cyprus_road_sign_maximum_speed.svg"
+        }
+       ]
+      },
+      "greece": {
+       "countryCode": "gr",
+       "languages": {
+        "el": {
+         "code": "gr:R-32",
+         "codes": [
+          "gr:R-32",
+          "gr:P-32gG",
+          "gr:R-32.1",
+          "gr:R-32.2",
+          "gr:R-32.3",
+          "gr:R-32.4",
+          "gr:R-32.5",
+          "gr:R-32.6",
+          "gr:R-32.7",
+          "gr:R-32.8"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "GR:R-32",
+         "GR:P-32gG",
+         "GR:R-32.1",
+         "GR:R-32.2",
+         "GR:R-32.3",
+         "GR:R-32.4",
+         "GR:R-32.5",
+         "GR:R-32.6",
+         "GR:R-32.7",
+         "GR:R-32.8"
+        ]
+       },
+       "sources": [
+        {
+         "file": "GR_Greece/circle/GR-R-32.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Traffic_Sign_GR_-_KOK_2009_-_R-32_-_80_kph.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-P-32gG.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Traffic_Sign_GR_-_KOK_2009_-_P-32gG.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.1_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Traffic_Sign_GR_-_Temporary_-_R-32.1.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.2_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Traffic_Sign_GR_-_Temporary_-_R-32.2.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.3_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Traffic_Sign_GR_-_Temporary_-_R-32.3.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.4_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Traffic_Sign_GR_-_Temporary_-_R-32.4.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.5_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Traffic_Sign_GR_-_Temporary_-_R-32.5.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.6_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Traffic_Sign_GR_-_Temporary_-_R-32.6.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.7_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Traffic_Sign_GR_-_Temporary_-_R-32.7.svg"
+        },
+        {
+         "file": "GR_Greece/square/GR-R-32.8_Temporary.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Traffic_Sign_GR_-_Temporary_-_R-32.8.svg"
+        }
+       ]
+      },
+      "hong_kong": {
+       "countryCode": "hk",
+       "languages": {
+        "zh": {
+         "code": "hk:174",
+         "codes": [
+          "hk:174"
+         ],
+         "text": null,
+         "description": null
+        },
+        "en": {
+         "code": "hk:174",
+         "codes": [
+          "hk:174"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "HK:174"
+        ]
+       },
+       "sources": [
+        {
+         "file": "HK_Hong Kong/circle/HK-174.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/HK_traffic_sign_174.svg"
+        }
+       ]
+      },
+      "hungary": {
+       "countryCode": "hu",
+       "languages": {
+        "hu": {
+         "code": "hu:C-033-30",
+         "codes": [
+          "hu:C-033-30"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "HU:C-033-30"
+        ]
+       },
+       "sources": [
+        {
+         "file": "HU_Hungary/circle/HU-C-033-30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hungary_road_sign_C-033-30.svg"
+        }
+       ]
+      },
+      "indonesia": {
+       "countryCode": "id",
+       "languages": {
+        "id": {
+         "code": "id:larangan-4h",
+         "codes": [
+          "id:larangan-4h"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ID:larangan-4h"
+        ]
+       },
+       "sources": [
+        {
+         "file": "ID_Indonesia/circle/ID-larangan-4h_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/ID_Rambu_larangan_4h_%2850%29.svg"
+        },
+        {
+         "file": "ID_Indonesia/circle/ID-larangan-4h_80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/ID_Rambu_larangan_4h_%2880%29.svg"
+        }
+       ]
+      },
+      "israel": {
+       "countryCode": "il",
+       "languages": {
+        "he": {
+         "code": "il:4f26-50",
+         "codes": [
+          "il:4f26-50",
+          "il:426-50"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ar": {
+         "code": "il:4f26-50",
+         "codes": [
+          "il:4f26-50",
+          "il:426-50"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IL:4f26-50",
+         "IL:426-50"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IL_Israel/circle/IL-4f26-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Israel_road_sign_4%D7%A426-50.svg"
+        },
+        {
+         "file": "IL_Israel/circle/IL-426-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Israel_road_sign_426-50.svg"
+        }
+       ]
+      },
+      "india": {
+       "countryCode": "in",
+       "languages": {
+        "hi": {
+         "code": "in:2.17",
+         "codes": [
+          "in:2.17",
+          "in:I-IV-6"
+         ],
+         "text": null,
+         "description": null
+        },
+        "en": {
+         "code": "in:2.17",
+         "codes": [
+          "in:2.17",
+          "in:I-IV-6"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IN:2.17",
+         "IN:I-IV-6"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IN_India/circle/IN-2.17.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1977_India_road_sign_2.17.svg"
+        },
+        {
+         "file": "IN_India/other/IN-2.17_1950s_Complete_assembly.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1950s_India_road_sign_2.17_%28Complete_assembly%29.svg"
+        },
+        {
+         "file": "IN_India/rectangle/IN-2.17_1950s.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/1950s_India_road_sign_2.17.svg"
+        },
+        {
+         "file": "IN_India/circle/IN-I-IV-6.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Indian_Road_Sign_I-IV-6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "iran": {
+       "countryCode": "ir",
+       "languages": {
+        "fa": {
+         "code": "ir:4-1",
+         "codes": [
+          "ir:4-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IR:4-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IR_Iran/circle/IR-4-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IR_road_sign_4-1.svg"
+        }
+       ]
+      },
+      "japan": {
+       "countryCode": "jp",
+       "languages": {
+        "ja": {
+         "code": "jp:1.02",
+         "codes": [
+          "jp:1.02",
+          "jp:321",
+          "jp:323",
+          "jp:401"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "JP:1.02",
+         "JP:321",
+         "JP:323",
+         "JP:401"
+        ]
+       },
+       "sources": [
+        {
+         "file": "JP_Japan/circle/JP-1.02.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Japan_road_sign_1.02_%281942-1950%29.svg"
+        },
+        {
+         "file": "JP_Japan/rectangle/JP-321.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/1960_JP_Road_sign_321.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_10.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Japan_road_sign_323_%2810%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_100.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Japan_road_sign_323_%28100%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_20.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Japan_road_sign_323_%2820%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Japan_road_sign_323_%2830%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Japan_road_sign_323_%2840%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Japan_road_sign_323_%2850%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Japan_road_sign_323_%2860%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_70.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Japan_road_sign_323_%2870%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Japan_road_sign_323_%2880%29.svg"
+        },
+        {
+         "file": "JP_Japan/circle/JP-323_90.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Japan_road_sign_323_%2890%29.svg"
+        },
+        {
+         "file": "JP_Japan/rectangle/JP-323.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/1960_JP_Road_sign_323.svg"
+        },
+        {
+         "file": "JP_Japan/rectangle/JP-401.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/1950_JP_Road_sign_401.svg"
+        }
+       ]
+      },
+      "south_korea": {
+       "countryCode": "kr",
+       "languages": {
+        "ko": {
+         "code": "kr:224-50",
+         "codes": [
+          "kr:224-50",
+          "kr:518",
+          "kr:517",
+          "kr:Maximum_Speed_Limit_30kph_1",
+          "kr:Maximum_Speed_Limit_40kph_1",
+          "kr:Maximum_Speed_Limit_60kph_1",
+          "kr:Maximum_Speed_Limit_80kph_1"
+         ],
+         "text": "Maximum Speed Limit 30kph 1",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "KR:224-50",
+         "KR:518",
+         "KR:517",
+         "KR:Maximum_Speed_Limit_30kph_1",
+         "KR:Maximum_Speed_Limit_40kph_1",
+         "KR:Maximum_Speed_Limit_60kph_1",
+         "KR:Maximum_Speed_Limit_80kph_1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "KR_South Korea/circle/KR-224-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/KR_road_sign_224-50.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "KR_South Korea/circle/KR-518.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Korea_Traffic_Safety_Sign_-_Road_Mark_-_518_Speed_Limit_Children.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "KR_South Korea/rectangle/KR-517.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Korea_Traffic_Safety_Sign_-_Road_Mark_-_517_Speed_Limit.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+         "file": "KR_South Korea/other/KR-Maximum_Speed_Limit_30kph_1.jpg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Korean_Sign_-_Maximum_Speed_Limit_30kph_1.jpg"
+        },
+        {
+         "file": "KR_South Korea/circle/KR-Maximum_Speed_Limit_40kph_1.jpg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Korean_Sign_-_Maximum_Speed_Limit_40kph_1.jpg"
+        },
+        {
+         "file": "KR_South Korea/rectangle/KR-Maximum_Speed_Limit_60kph_1.jpg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Korean_Sign_-_Maximum_Speed_Limit_60kph_1.jpg"
+        },
+        {
+         "file": "KR_South Korea/rectangle/KR-Maximum_Speed_Limit_80kph_1.jpg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Korean_Sign_-_Maximum_Speed_Limit_80kph_1.jpg"
+        }
+       ]
+      },
+      "sri_lanka": {
+       "countryCode": "lk",
+       "languages": {
+        "si": {
+         "code": "lk:RSS-05",
+         "codes": [
+          "lk:RSS-05",
+          "lk:RSS-06",
+          "lk:RSS-07",
+          "lk:RSS-08"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ta": {
+         "code": "lk:RSS-05",
+         "codes": [
+          "lk:RSS-05",
+          "lk:RSS-06",
+          "lk:RSS-07",
+          "lk:RSS-08"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "LK:RSS-05",
+         "LK:RSS-06",
+         "LK:RSS-07",
+         "LK:RSS-08"
+        ]
+       },
+       "sources": [
+        {
+         "file": "LK_Sri Lanka/circle/LK-RSS-05.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/LK_road_sign_RSS-05.svg"
+        },
+        {
+         "file": "LK_Sri Lanka/circle/LK-RSS-06.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/LK_road_sign_RSS-06.svg"
+        },
+        {
+         "file": "LK_Sri Lanka/circle/LK-RSS-07.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/LK_road_sign_RSS-07.svg"
+        },
+        {
+         "file": "LK_Sri Lanka/circle/LK-RSS-08.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/LK_road_sign_RSS-08.svg"
+        }
+       ]
+      },
+      "malta": {
+       "countryCode": "mt",
+       "languages": {
+        "mt": {
+         "code": "mt:II.D1",
+         "codes": [
+          "mt:II.D1"
+         ],
+         "text": null,
+         "description": null
+        },
+        "en": {
+         "code": "mt:II.D1",
+         "codes": [
+          "mt:II.D1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "MT:II.D1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "MT_Malta/circle/MT-II.D1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Maltese_road_sign_II.D1.svg"
+        }
+       ]
+      },
+      "mauritius": {
+       "countryCode": "mu",
+       "languages": {
+        "en": {
+         "code": "mu:Prohibitory_Speed_limit_50",
+         "codes": [
+          "mu:Prohibitory_Speed_limit_50"
+         ],
+         "text": "Prohibitory Sign Speed limit 50",
+         "description": null
+        },
+        "fr": {
+         "code": "mu:Prohibitory_Speed_limit_50",
+         "codes": [
+          "mu:Prohibitory_Speed_limit_50"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "MU:Prohibitory_Speed_limit_50"
+        ]
+       },
+       "sources": [
+        {
+         "file": "MU_Mauritius/circle/MU-Prohibitory_Speed_limit_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mauritius_Road_Signs_-_Prohibitory_Sign_-_Speed_limit_50.svg"
+        }
+       ]
+      },
+      "malaysia": {
+       "countryCode": "my",
+       "languages": {
+        "ms": {
+         "code": "my:RP7-60",
+         "codes": [
+          "my:RP7-60",
+          "my:RP7a-60"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "MY:RP7-60",
+         "MY:RP7a-60"
+        ]
+       },
+       "sources": [
+        {
+         "file": "MY_Malaysia/circle/MY-RP7-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Malaysia_road_sign_RP7-60.svg"
+        },
+        {
+         "file": "MY_Malaysia/circle/MY-RP7a-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Malaysia_road_sign_RP7a-60.svg"
+        }
+       ]
+      },
+      "pakistan": {
+       "countryCode": "pk",
+       "languages": {
+        "ur": {
+         "code": "pk:R-25",
+         "codes": [
+          "pk:R-25"
+         ],
+         "text": null,
+         "description": null
+        },
+        "en": {
+         "code": "pk:R-25",
+         "codes": [
+          "pk:R-25"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "PK:R-25"
+        ]
+       },
+       "sources": [
+        {
+         "file": "PK_Pakistan/circle/PK-R-25.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pakistan_road_sign_R-25.svg"
+        }
+       ]
+      },
+      "thailand": {
+       "countryCode": "th",
+       "languages": {
+        "th": {
+         "code": "th:b-32-10",
+         "codes": [
+          "th:b-32-10",
+          "th:b-32-20",
+          "th:b-32-25",
+          "th:b-32-30",
+          "th:b-32-40",
+          "th:b-32-45",
+          "th:b-32-50",
+          "th:b-32-60",
+          "th:b-32-70",
+          "th:b-32-80",
+          "th:b-32-90",
+          "th:b-32-100",
+          "th:b-32-110",
+          "th:b-32-120",
+          "th:Speed_limit-1",
+          "th:Speed_limit-2"
+         ],
+         "text": "Speed limit-1",
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "TH:b-32-10",
+         "TH:b-32-20",
+         "TH:b-32-25",
+         "TH:b-32-30",
+         "TH:b-32-40",
+         "TH:b-32-45",
+         "TH:b-32-50",
+         "TH:b-32-60",
+         "TH:b-32-70",
+         "TH:b-32-80",
+         "TH:b-32-90",
+         "TH:b-32-100",
+         "TH:b-32-110",
+         "TH:b-32-120",
+         "TH:Speed_limit-1",
+         "TH:Speed_limit-2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "TH_Thailand/circle/TH-b-32-10.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Thailand_road_sign_%E0%B8%9A-32-10.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-20.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Thailand_road_sign_%E0%B8%9A-32-20.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-25.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Thailand_road_sign_%E0%B8%9A-32-25.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Thailand_road_sign_%E0%B8%9A-32-30.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Thailand_road_sign_%E0%B8%9A-32-40.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-45.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Thailand_road_sign_%E0%B8%9A-32-45.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Thailand_road_sign_%E0%B8%9A-32-50.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-50_old.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/TH_road_sign_%E0%B8%9A-32-50_%28old%29.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Thailand_road_sign_%E0%B8%9A-32-60.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-70.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Thailand_road_sign_%E0%B8%9A-32-70.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Thailand_road_sign_%E0%B8%9A-32-80.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-90.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Thailand_road_sign_%E0%B8%9A-32-90.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-100.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Thailand_road_sign_%E0%B8%9A-32-100.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-110.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thailand_road_sign_%E0%B8%9A-32-110.svg"
+        },
+        {
+         "file": "TH_Thailand/circle/TH-b-32-120.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Thailand_road_sign_%E0%B8%9A-32-120.svg"
+        },
+        {
+         "file": "TH_Thailand/rectangle/TH-Speed_limit-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Thailand_road_sign_Speed_limit-1.svg"
+        },
+        {
+         "file": "TH_Thailand/rectangle/TH-Speed_limit-2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Thailand_road_sign_Speed_limit-2.svg"
+        }
+       ]
+      },
+      "south_africa": {
+       "countryCode": "za",
+       "languages": {
+        "en": {
+         "code": "za:R201-5",
+         "codes": [
+          "za:R201-5",
+          "za:R201-10",
+          "za:R201-20",
+          "za:R201-30",
+          "za:R201-40",
+          "za:R201-50",
+          "za:R201-60",
+          "za:R201-70",
+          "za:R201-75",
+          "za:R201-80",
+          "za:R201-90",
+          "za:R201-100",
+          "za:R201-120",
+          "za:R201-120-R511"
+         ],
+         "text": null,
+         "description": null
+        },
+        "af": {
+         "code": "za:R201-5",
+         "codes": [
+          "za:R201-5",
+          "za:R201-10",
+          "za:R201-20",
+          "za:R201-30",
+          "za:R201-40",
+          "za:R201-50",
+          "za:R201-60",
+          "za:R201-70",
+          "za:R201-75",
+          "za:R201-80",
+          "za:R201-90",
+          "za:R201-100",
+          "za:R201-120",
+          "za:R201-120-R511"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ZA:R201-5",
+         "ZA:R201-10",
+         "ZA:R201-20",
+         "ZA:R201-30",
+         "ZA:R201-40",
+         "ZA:R201-50",
+         "ZA:R201-60",
+         "ZA:R201-70",
+         "ZA:R201-75",
+         "ZA:R201-80",
+         "ZA:R201-90",
+         "ZA:R201-100",
+         "ZA:R201-120",
+         "ZA:R201-120-R511"
+        ]
+       },
+       "sources": [
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/SADC_road_sign_R201-5.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-10.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/SADC_road_sign_R201-10.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-20.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SADC_road_sign_R201-20.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/SADC_road_sign_R201-30.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/SADC_road_sign_R201-40.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/SADC_road_sign_R201-50.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/SADC_road_sign_R201-60.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-70.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/SADC_road_sign_R201-70.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-75.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/SADC_road_sign_R201-75.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SADC_road_sign_R201-80.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-90.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SADC_road_sign_R201-90.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-100.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/SADC_road_sign_R201-100.svg"
+        },
+        {
+         "file": "ZA_South Africa/circle/ZA-R201-120.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/SADC_road_sign_R201-120.svg"
+        },
+        {
+         "file": "ZA_South Africa/rectangle/ZA-R201-120-R511.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/SADC_road_sign_R201-120-R511.svg"
+        }
+       ]
+      },
+      "zimbabwe": {
+       "countryCode": "zw",
+       "languages": {
+        "en": {
+         "code": "zw:R201-5",
+         "codes": [
+          "zw:R201-5",
+          "zw:R201-10",
+          "zw:R201-20",
+          "zw:R201-30",
+          "zw:R201-40",
+          "zw:R201-50",
+          "zw:R201-60",
+          "zw:R201-70",
+          "zw:R201-75",
+          "zw:R201-80",
+          "zw:R201-90",
+          "zw:R201-100",
+          "zw:R201-120",
+          "zw:R201-120-R511"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "ZW:R201-5",
+         "ZW:R201-10",
+         "ZW:R201-20",
+         "ZW:R201-30",
+         "ZW:R201-40",
+         "ZW:R201-50",
+         "ZW:R201-60",
+         "ZW:R201-70",
+         "ZW:R201-75",
+         "ZW:R201-80",
+         "ZW:R201-90",
+         "ZW:R201-100",
+         "ZW:R201-120",
+         "ZW:R201-120-R511"
+        ]
+       },
+       "sources": [
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/SADC_road_sign_R201-5.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-10.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/SADC_road_sign_R201-10.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-20.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SADC_road_sign_R201-20.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-30.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/SADC_road_sign_R201-30.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/SADC_road_sign_R201-40.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/SADC_road_sign_R201-50.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/SADC_road_sign_R201-60.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-70.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/SADC_road_sign_R201-70.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-75.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/SADC_road_sign_R201-75.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-80.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SADC_road_sign_R201-80.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-90.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SADC_road_sign_R201-90.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-100.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/SADC_road_sign_R201-100.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/circle/ZW-R201-120.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/SADC_road_sign_R201-120.svg"
+        },
+        {
+         "file": "ZW_Zimbabwe/rectangle/ZW-R201-120-R511.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/SADC_road_sign_R201-120-R511.svg"
+        }
+       ]
+      },
+      "australia": {
+       "countryCode": "au",
+       "languages": {
+        "en": {
+         "code": "au:R4-1+R4-201",
+         "codes": [
+          "au:R4-1+R4-201"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "AU:R4-1+R4-201"
+        ]
+       },
+       "sources": [
+        {
+         "file": "AU_Australia/rectangle/AU-R4-1+R4-201_40.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Australia_road_sign_R4-1_%2840%29_%2B_R4-201.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+       ]
+      },
+      "canada": {
+       "countryCode": "ca-qc",
+       "languages": {
+        "en": {
+         "code": "ca-qc:P-070-2-50",
+         "codes": [
+          "ca-qc:P-070-2-50",
+          "ca-bc:R-004-050",
+          "ca-on:Rb-001-050"
+         ],
+         "text": null,
+         "description": null
+        },
+        "fr": {
+         "code": "ca-qc:P-070-2-50",
+         "codes": [
+          "ca-qc:P-070-2-50",
+          "ca-bc:R-004-050",
+          "ca-on:Rb-001-050"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-QC:P-070-2-50",
+         "CA-BC:R-004-050",
+         "CA-ON:Rb-001-050"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_Canada/rectangle/CA-QC-P-070-2-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/CA-QC_road_sign_P-070-2-50.svg"
+        },
+        {
+         "file": "CA_Canada/rectangle/CA-BC-R-004-050.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/CA-BC_road_sign_R-004-050.svg"
+        },
+        {
+         "file": "CA_Canada/rectangle/CA-ON-Rb-001-050.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/CA-ON_road_sign_Rb-001-050.svg"
+        }
+       ]
+      },
+      "canada_british_columbia": {
+       "countryCode": "ca-bc",
+       "languages": {
+        "en": {
+         "code": "ca-bc:R-004-050",
+         "codes": [
+          "ca-bc:R-004-050"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-BC:R-004-050"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_BC_Canada_British Columbia/rectangle/CA-BC-R-004-050.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/CA-BC_road_sign_R-004-050.svg"
+        }
+       ]
+      },
+      "canada_ontario": {
+       "countryCode": "ca-on",
+       "languages": {
+        "en": {
+         "code": "ca-on:Rb-001-050",
+         "codes": [
+          "ca-on:Rb-001-050"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-ON:Rb-001-050"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_ON_Canada_Ontario/rectangle/CA-ON-Rb-001-050.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/CA-ON_road_sign_Rb-001-050.svg"
+        }
+       ]
+      },
+      "canada_quebec": {
+       "countryCode": "ca-qc",
+       "languages": {
+        "fr": {
+         "code": "ca-qc:P-070-2-50",
+         "codes": [
+          "ca-qc:P-070-2-50"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CA-QC:P-070-2-50"
+        ]
+       },
+       "sources": [
+        {
+         "file": "CA_QC_Canada_Quebec/rectangle/CA-QC-P-070-2-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/CA-QC_road_sign_P-070-2-50.svg"
+        }
+       ]
+      },
+      "singapore": {
+       "countryCode": "sg",
+       "languages": {
+        "en": {
+         "code": "sg:Prohibitory_Speed_limit_50",
+         "codes": [
+          "sg:Prohibitory_Speed_limit_50"
+         ],
+         "text": "Prohibitory Speed limit 50",
+         "description": null
+        },
+        "ms": {
+         "code": "sg:Prohibitory_Speed_limit_50",
+         "codes": [
+          "sg:Prohibitory_Speed_limit_50"
+         ],
+         "text": null,
+         "description": null
+        },
+        "zh": {
+         "code": "sg:Prohibitory_Speed_limit_50",
+         "codes": [
+          "sg:Prohibitory_Speed_limit_50"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ta": {
+         "code": "sg:Prohibitory_Speed_limit_50",
+         "codes": [
+          "sg:Prohibitory_Speed_limit_50"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "SG:Prohibitory_Speed_limit_50"
+        ]
+       },
+       "sources": [
+        {
+         "file": "SG_Singapore/square/SG-Prohibitory_Speed_limit_50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg"
+        }
+       ]
+      },
+      "united_states": {
+       "countryCode": "us",
+       "languages": {
+        "en": {
+         "code": "us:R2-1",
+         "codes": [
+          "us:R2-1"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "US:R2-1"
+        ]
+       },
+       "sources": [
+        {
+         "file": "US_United States/rectangle/US-R2-1.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/MUTCD_R2-1.svg"
+        },
+        {
+         "file": "US_United States/rectangle/US-R2-1_metric.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/MUTCD_R2-1_METRIC.svg"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "shape": "circle",
+     "background_color": "white",
+     "border_color": "red",
+     "symbol_color": "dark blue",
+     "band": "none",
+     "band_color": null,
+     "prohibition_bar": null,
+     "bar_continuity": null,
+     "model": null,
+     "legacyModel": null,
+     "versions": [
+      "2006",
+      "2023"
+     ],
+     "legacyReferences": [
+      "VIENNA:C,14"
+     ],
+     "mirrored": false,
+     "wikidata": "QXXXXXXX",
+     "toBeAdded": true,
+     "jurisdictions": {}
+    },
+    {
+     "shape": "circle",
+     "background_color": "yellow",
+     "border_color": "red",
+     "symbol_color": "black",
+     "band": "none",
+     "band_color": null,
+     "prohibition_bar": null,
+     "bar_continuity": null,
+     "model": null,
+     "legacyModel": null,
+     "versions": [
+      "2006",
+      "2023"
+     ],
+     "legacyReferences": [
+      "VIENNA:C,14"
+     ],
+     "mirrored": false,
+     "wikidata": "QXXXXXXX",
+     "toBeAdded": true,
+     "jurisdictions": {
+      "finland": {
+       "countryCode": "fi",
+       "languages": {
+        "fi": {
+         "code": "fi:C32",
+         "codes": [
+          "fi:C32_8",
+          "fi:C32_9",
+          "fi:C32_2",
+          "fi:C32_3",
+          "fi:C32_4",
+          "fi:C32_blanko",
+          "fi:C32",
+          "fi:C32_6",
+          "fi:C32_7",
+          "fi:C32-50",
+          "fi:C32-60",
+          "ax:F30"
+         ],
+         "text": null,
+         "description": null
+        },
+        "sv": {
+         "code": "fi:C32",
+         "codes": [
+          "fi:C32_8",
+          "fi:C32_9",
+          "fi:C32_2",
+          "fi:C32_3",
+          "fi:C32_4",
+          "fi:C32_blanko",
+          "fi:C32",
+          "fi:C32_6",
+          "fi:C32_7",
+          "fi:C32-50",
+          "fi:C32-60",
+          "ax:F30"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "FI:C32",
+         "FI:C32_2",
+         "FI:C32_3",
+         "FI:C32_4",
+         "FI:C32_6",
+         "FI:C32_7",
+         "FI:C32_8",
+         "FI:C32_9",
+         "FI:C32_blanko",
+         "FI:C32-50",
+         "FI:C32-60",
+         "AX:F30"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          20,
+          30,
+          40,
+          50,
+          60,
+          70,
+          80,
+          100,
+          120
+         ]
+        }
+       },
+       "sources": [
+        {
+         "file": "FI_Finland/circle/FI-C32-50.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Finland_road_sign_C32-50.svg"
+        },
+        {
+         "file": "FI_Finland/circle/FI-C32-60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Finland_road_sign_C32-60.svg"
+        },
+        {
+         "file": "FI_Finland/circle/AX-F30.png",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%C3%85land_road_sign_F30.png"
+        }
+       ]
+      },
+      "sweden": {
+       "countryCode": "se",
+       "languages": {
+        "sv": {
+         "code": "se:C31-9",
+         "codes": [
+          "se:C31-9",
+          "se:C31-5",
+          "se:C31-7"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "SE:C31-9",
+         "SE:C31-5",
+         "SE:C31-7"
+        ]
+       },
+       "parameters": {
+        "maxspeed": {
+         "type": "number",
+         "unit": "km/h",
+         "description": "Maximum speed shown on the sign.",
+         "values": [
+          90
+         ]
+        }
+       },
+       "sources": [
+        {
+         "file": "SE_Sweden/circle/SE-C31-5.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Sweden_road_sign_C31-5.svg"
+        },
+        {
+         "file": "SE_Sweden/circle/SE-C31-7.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sweden_road_sign_C31-7.svg"
+        }
+       ]
+      },
+      "iceland": {
+       "countryCode": "is",
+       "languages": {
+        "is": {
+         "code": "is:B26.60",
+         "codes": [
+          "is:B26.60"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "IS:B26.60"
+        ]
+       },
+       "sources": [
+        {
+         "file": "IS_Iceland/circle/IS-B26.60.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Iceland_road_sign_B26.60.svg"
+        }
+       ]
+      },
+      "belarus": {
+       "countryCode": "by",
+       "languages": {
+        "be": {
+         "code": "by:3.24.2",
+         "codes": [
+          "by:3.24.2"
+         ],
+         "text": null,
+         "description": null
+        },
+        "ru": {
+         "code": "by:3.24.2",
+         "codes": [
+          "by:3.24.2"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "BY:3.24.2"
+        ]
+       },
+       "sources": [
+        {
+         "file": "BY_Belarus/circle/BY-3.24.2.svg",
+         "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BY_road_sign_3.24.2.svg"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "shape": "circle",
+     "background_color": "yellow",
+     "border_color": "red",
+     "symbol_color": "dark blue",
+     "band": "none",
+     "band_color": null,
+     "prohibition_bar": null,
+     "bar_continuity": null,
+     "model": null,
+     "legacyModel": null,
+     "versions": [
+      "2006",
+      "2023"
+     ],
+     "legacyReferences": [
+      "VIENNA:C,14"
+     ],
+     "mirrored": false,
+     "wikidata": "QXXXXXXX",
+     "toBeAdded": true,
+     "jurisdictions": {}
+    }
+   ],
+   "additional": {
+    "bottom": []
+   }
+  },
+  "osm": {
+   "traffic_sign_generic": "maxspeed",
+   "implied_tags": {
+    "maxspeed": "*"
+   }
+  },
+  "relatedSigns": []
+ },
+ {
+  "reference": "OTHER:A27",
+  "category": "OTHER-A",
+  "legacyReferences": [],
+  "wikidata": "QXXXXXXX",
+  "name": {
+   "en": "Persons on personal transporters"
+  },
+  "description": {
+   "en": "Persons on personal transporters"
+  },
+  "note": "National sign without a Vienna 2023 equivalent.",
+  "officialSign": {
+   "designs": [
+    {
+     "shape": null,
+     "background_color": null,
+     "border_color": null,
+     "symbol_color": null,
+     "versions": [],
+     "legacyReferences": [],
+     "mirrored": false,
+     "wikidata": "QXXXXXXX",
+     "toBeAdded": true,
+     "jurisdictions": {
+      "czechia": {
+       "countryCode": "cz",
+       "languages": {
+        "cs": {
+         "code": "cz:I-12c",
+         "codes": [
+          "cz:I-12c"
+         ],
+         "text": null,
+         "description": null
+        }
+       },
+       "additional": {
+        "bottom": []
+       },
+       "osm": {
+        "traffic_sign": [
+         "CZ:I-12c"
+        ]
+       }
+      }
+     }
+    }
+   ],
+   "additional": {
+    "bottom": []
+   }
+  },
+  "relatedSigns": []
+ }
+]

@@ -1,0 +1,309 @@
+{
+  "country_code": "MX",
+  "country": "Mexico",
+  "images": [
+    {
+      "filename": "g_other_information_signs/other/MX-145D-150D.svg",
+      "iso": "MX",
+      "id": "145D-150D",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mexico_road_sign_145D-150D.svg",
+      "kept_from": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/424-Mexico_road_sign_145D-150D.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/424-Mexico_road_sign_145D-150D.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mexico_road_sign_145D-150D.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-20251028145806_bus.png",
+      "iso": "MX",
+      "id": "20251028145806",
+      "description": null,
+      "variants": [
+        "bus"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mexico_bus_sign_20251028145806.png",
+      "kept_from": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/360-Mexico_bus_sign_20251028145806.png",
+      "sources": [
+        {
+          "file": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/360-Mexico_bus_sign_20251028145806.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mexico_bus_sign_20251028145806.png"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-SIST-A.svg",
+      "iso": "MX",
+      "id": "SIST-A",
+      "description": "SIST-A",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/MX_road_sign_SIST-A.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/430-MX_road_sign_SIST-A.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/430-MX_road_sign_SIST-A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/MX_road_sign_SIST-A.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-SIST-B.svg",
+      "iso": "MX",
+      "id": "SIST-B",
+      "description": "SIST-B",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/MX_road_sign_SIST-B.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/431-MX_road_sign_SIST-B.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/431-MX_road_sign_SIST-B.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/MX_road_sign_SIST-B.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-SIST-C_Exclusive.svg",
+      "iso": "MX",
+      "id": "SIST-C",
+      "description": "SIST-C",
+      "variants": [
+        "Exclusive"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/MX_road_sign_SIST-C_%28Exclusive%29.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/433-MX_road_sign_SIST-C_(Exclusive).svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/433-MX_road_sign_SIST-C_(Exclusive).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/MX_road_sign_SIST-C_%28Exclusive%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-SIST-C_Priority.svg",
+      "iso": "MX",
+      "id": "SIST-C",
+      "description": "SIST-C",
+      "variants": [
+        "Priority"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/MX_road_sign_SIST-C_%28Priority%29.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/432-MX_road_sign_SIST-C_(Priority).svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/432-MX_road_sign_SIST-C_(Priority).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/MX_road_sign_SIST-C_%28Priority%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/MX-SIST-D1.svg",
+      "iso": "MX",
+      "id": "SIST-D1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/MX_road_sign_SIST-D1.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/434-MX_road_sign_SIST-D1.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/434-MX_road_sign_SIST-D1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/MX_road_sign_SIST-D1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-SIST-D2.svg",
+      "iso": "MX",
+      "id": "SIST-D2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/MX_road_sign_SIST-D2.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/435-MX_road_sign_SIST-D2.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/435-MX_road_sign_SIST-D2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/MX_road_sign_SIST-D2.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/MX-SIST-D3.svg",
+      "iso": "MX",
+      "id": "SIST-D3",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/MX_road_sign_SIST-D3.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/436-MX_road_sign_SIST-D3.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/436-MX_road_sign_SIST-D3.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/MX_road_sign_SIST-D3.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/MX-SIST-D4.svg",
+      "iso": "MX",
+      "id": "SIST-D4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MX_road_sign_SIST-D4.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/437-MX_road_sign_SIST-D4.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/437-MX_road_sign_SIST-D4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MX_road_sign_SIST-D4.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/MX-SIST-D5.svg",
+      "iso": "MX",
+      "id": "SIST-D5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/MX_road_sign_SIST-D5.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/438-MX_road_sign_SIST-D5.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/438-MX_road_sign_SIST-D5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/MX_road_sign_SIST-D5.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/MX-SIST-D6.svg",
+      "iso": "MX",
+      "id": "SIST-D6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/MX_road_sign_SIST-D6.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/439-MX_road_sign_SIST-D6.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/439-MX_road_sign_SIST-D6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/MX_road_sign_SIST-D6.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/MX-SIST-D7.svg",
+      "iso": "MX",
+      "id": "SIST-D7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/MX_road_sign_SIST-D7.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/440-MX_road_sign_SIST-D7.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/440-MX_road_sign_SIST-D7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/MX_road_sign_SIST-D7.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-SIS_Radio.svg",
+      "iso": "MX",
+      "id": "SIS_Radio",
+      "description": "SIS_Radio",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MX_road_sign_SIS_Radio.svg",
+      "kept_from": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/357-MX_road_sign_SIS_Radio.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wiki_commons/01-commons_Road_signs_in_Mexico/357-MX_road_sign_SIS_Radio.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MX_road_sign_SIS_Radio.svg"
+        },
+        {
+          "file": "MX_Mexico/wikipedia/01-es_Señales_de_tráfico_en_México/353-MX_road_sign_SIS_Radio.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MX_road_sign_SIS_Radio.svg"
+        },
+        {
+          "file": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/339-MX_road_sign_SIS_Radio.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MX_road_sign_SIS_Radio.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/other/MX-ceda_adelante.svg",
+      "iso": "MX",
+      "id": "ceda_adelante",
+      "description": "ceda_adelante",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mexico_road_sign_ceda_adelante.svg",
+      "kept_from": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/385-Mexico_road_sign_ceda_adelante.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/385-Mexico_road_sign_ceda_adelante.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mexico_road_sign_ceda_adelante.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "e_special_regulation_signs/other/MX-estacionamiento.svg",
+      "iso": "MX",
+      "id": "estacionamiento",
+      "description": "estacionamiento",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mexico_road_sign_estacionamiento.svg",
+      "kept_from": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/354-Mexico_road_sign_estacionamiento.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/354-Mexico_road_sign_estacionamiento.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mexico_road_sign_estacionamiento.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/MX-no_motos.svg",
+      "iso": "MX",
+      "id": "no_motos",
+      "description": "no_motos",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mexico_road_sign_no_motos.svg",
+      "kept_from": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/417-Mexico_road_sign_no_motos.svg",
+      "sources": [
+        {
+          "file": "MX_Mexico/wikipedia_en/01-en_Road_signs_in_Mexico/417-Mexico_road_sign_no_motos.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mexico_road_sign_no_motos.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1062.66mm"
+   height="1062.66mm"
+   viewBox="0 0 1062.66 1062.66"
+   version="1.1"
+   id="svg16"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="New_Zealand_road_sign_W16-2_(–1987).svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.15881828"
+     inkscape:cx="3367.8234"
+     inkscape:cy="1690.2462"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,765.65986)">
+    <rect
+       style="fill:#fddc04;fill-opacity:1;stroke:none;stroke-width:0.639399"
+       id="rect18"
+       width="750"
+       height="750"
+       x="166.40344"
+       y="-164.98923"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.596771"
+       id="rect20"
+       width="700"
+       height="700"
+       x="191.40343"
+       y="-139.98923"
+       transform="rotate(-45)" />
+    <path
+       id="path1077"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 518.82995,-509.33022 -6.49987,575.000027 38.00029,-1e-5 -6.50041,-575.000017 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path875"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 176.00002,-359.33011 -50.00001,199.9997 h 58 l 41.00001,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path917"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 266.00001,-359.33011 -40,199.9997 h 58 l 31,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path919"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 356.00001,-359.33011 -30,199.9997 h 58 l 21,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path921"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 446.00001,-359.33011 -20,199.9997 h 58 l 7,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path925"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 886.66014,-359.33011 50.00001,199.9997 h -58 l -41.00001,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path927"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 796.66015,-359.33011 40,199.9997 h -58 l -31,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path929"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 706.66015,-359.33011 30,199.9997 h -58 l -21,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path931"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 616.66015,-359.33011 20,199.9997 h -58 l -7,-199.99971 z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

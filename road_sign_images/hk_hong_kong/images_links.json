@@ -1,0 +1,3789 @@
+{
+  "country_code": "HK",
+  "country": "Hong Kong",
+  "images": [
+    {
+      "filename": "b_priority_signs/vienna/HK-101.svg",
+      "iso": "HK",
+      "id": "101",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/HK_traffic_sign_101.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/067-HK_traffic_sign_101.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/067-HK_traffic_sign_101.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/HK_traffic_sign_101.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/HK-102.svg",
+      "iso": "HK",
+      "id": "102",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/HK_traffic_sign_102.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/066-HK_traffic_sign_102.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/066-HK_traffic_sign_102.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/HK_traffic_sign_102.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.964
+    },
+    {
+      "filename": "b_priority_signs/other/HK-103.svg",
+      "iso": "HK",
+      "id": "103",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/HK_traffic_sign_103.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/174-HK_traffic_sign_103.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/174-HK_traffic_sign_103.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/HK_traffic_sign_103.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/HK-104.svg",
+      "iso": "HK",
+      "id": "104",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/HK_traffic_sign_104.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/175-HK_traffic_sign_104.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/175-HK_traffic_sign_104.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/HK_traffic_sign_104.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "b_priority_signs/other/HK-105.svg",
+      "iso": "HK",
+      "id": "105",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HK_traffic_sign_105.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/076-HK_traffic_sign_105.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/076-HK_traffic_sign_105.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HK_traffic_sign_105.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-106.svg",
+      "iso": "HK",
+      "id": "106",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/HK_traffic_sign_106.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/068-HK_traffic_sign_106.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/068-HK_traffic_sign_106.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/HK_traffic_sign_106.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993,
+      "replaced_versions": [
+        {
+          "filename": "circle/HK-106_1973-1984.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hong_Kong_road_sign_106_%281973%E2%80%931984%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-107-L.svg",
+      "iso": "HK",
+      "id": "107-L",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hong_Kong_road_sign_107_L_%281973%E2%80%931984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/229-Hong_Kong_road_sign_107_L_(1973–1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/229-Hong_Kong_road_sign_107_L_(1973–1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hong_Kong_road_sign_107_L_%281973%E2%80%931984%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-107.svg",
+      "iso": "HK",
+      "id": "107",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HK_traffic_sign_107.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/070-HK_traffic_sign_107.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/070-HK_traffic_sign_107.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HK_traffic_sign_107.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-108-L.svg",
+      "iso": "HK",
+      "id": "108-L",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hong_Kong_road_sign_108_L_%281973%E2%80%931984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/228-Hong_Kong_road_sign_108_L_(1973–1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/228-Hong_Kong_road_sign_108_L_(1973–1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hong_Kong_road_sign_108_L_%281973%E2%80%931984%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-109-L.svg",
+      "iso": "HK",
+      "id": "109-L",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hong_Kong_road_sign_109_L_%281973%E2%80%931984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/230-Hong_Kong_road_sign_109_L_(1973–1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/230-Hong_Kong_road_sign_109_L_(1973–1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hong_Kong_road_sign_109_L_%281973%E2%80%931984%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-109.svg",
+      "iso": "HK",
+      "id": "109",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/HK_traffic_sign_109.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/069-HK_traffic_sign_109.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/069-HK_traffic_sign_109.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/HK_traffic_sign_109.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-110.svg",
+      "iso": "HK",
+      "id": "110",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HK_traffic_sign_110.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/167-HK_traffic_sign_110.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/167-HK_traffic_sign_110.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HK_traffic_sign_110.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-111.svg",
+      "iso": "HK",
+      "id": "111",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/HK_traffic_sign_111.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/071-HK_traffic_sign_111.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/071-HK_traffic_sign_111.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/HK_traffic_sign_111.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-113.svg",
+      "iso": "HK",
+      "id": "113",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/HK_traffic_sign_113.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/188-HK_traffic_sign_113.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/188-HK_traffic_sign_113.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/HK_traffic_sign_113.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-114.svg",
+      "iso": "HK",
+      "id": "114",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HK_traffic_sign_114.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/097-HK_traffic_sign_114.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/097-HK_traffic_sign_114.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HK_traffic_sign_114.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-115.svg",
+      "iso": "HK",
+      "id": "115",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/HK_traffic_sign_115.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/074-HK_traffic_sign_115.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/074-HK_traffic_sign_115.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/HK_traffic_sign_115.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-116.svg",
+      "iso": "HK",
+      "id": "116",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/HK_traffic_sign_116.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/098-HK_traffic_sign_116.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/098-HK_traffic_sign_116.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/HK_traffic_sign_116.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-117.svg",
+      "iso": "HK",
+      "id": "117",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HK_traffic_sign_117.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/099-HK_traffic_sign_117.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/099-HK_traffic_sign_117.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HK_traffic_sign_117.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-118.svg",
+      "iso": "HK",
+      "id": "118",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/HK_traffic_sign_118.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/102-HK_traffic_sign_118.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/102-HK_traffic_sign_118.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/HK_traffic_sign_118.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-119.svg",
+      "iso": "HK",
+      "id": "119",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HK_traffic_sign_119.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/103-HK_traffic_sign_119.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/103-HK_traffic_sign_119.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HK_traffic_sign_119.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-120.svg",
+      "iso": "HK",
+      "id": "120",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/HK_traffic_sign_120.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/104-HK_traffic_sign_120.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/104-HK_traffic_sign_120.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/HK_traffic_sign_120.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HK-121.svg",
+      "iso": "HK",
+      "id": "121",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/HK_traffic_sign_121.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/133-HK_traffic_sign_121.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/133-HK_traffic_sign_121.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/HK_traffic_sign_121.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-122-L.svg",
+      "iso": "HK",
+      "id": "122-L",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hong_Kong_road_sign_122_L_%281973%E2%80%931984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/232-Hong_Kong_road_sign_122_L_(1973–1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/232-Hong_Kong_road_sign_122_L_(1973–1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hong_Kong_road_sign_122_L_%281973%E2%80%931984%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-123-L.svg",
+      "iso": "HK",
+      "id": "123-L",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hong_Kong_road_sign_123_L_%281973%E2%80%931984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/233-Hong_Kong_road_sign_123_L_(1973–1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/233-Hong_Kong_road_sign_123_L_(1973–1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hong_Kong_road_sign_123_L_%281973%E2%80%931984%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HK-126.svg",
+      "iso": "HK",
+      "id": "126",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HK_traffic_sign_126.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/134-HK_traffic_sign_126.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/134-HK_traffic_sign_126.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HK_traffic_sign_126.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-129.svg",
+      "iso": "HK",
+      "id": "129",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HK_traffic_sign_129.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/135-HK_traffic_sign_129.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/135-HK_traffic_sign_129.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/HK_traffic_sign_129.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-130.svg",
+      "iso": "HK",
+      "id": "130",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hong_Kong_road_sign_130.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/152-Hong_Kong_road_sign_130.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/105-HK_traffic_sign_130.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HK_traffic_sign_130.svg"
+        },
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/152-Hong_Kong_road_sign_130.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hong_Kong_road_sign_130.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-130A.svg",
+      "iso": "HK",
+      "id": "130A",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hong_Kong_road_sign_130A.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/153-Hong_Kong_road_sign_130A.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/153-Hong_Kong_road_sign_130A.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hong_Kong_road_sign_130A.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-131.svg",
+      "iso": "HK",
+      "id": "131",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/HK_traffic_sign_131.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/106-HK_traffic_sign_131.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/106-HK_traffic_sign_131.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/HK_traffic_sign_131.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-133.svg",
+      "iso": "HK",
+      "id": "133",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HK_traffic_sign_133.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/107-HK_traffic_sign_133.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/107-HK_traffic_sign_133.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HK_traffic_sign_133.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-134.svg",
+      "iso": "HK",
+      "id": "134",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HK_traffic_sign_134.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/108-HK_traffic_sign_134.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/108-HK_traffic_sign_134.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HK_traffic_sign_134.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-135.svg",
+      "iso": "HK",
+      "id": "135",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/HK_traffic_sign_135.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/109-HK_traffic_sign_135.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/109-HK_traffic_sign_135.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/HK_traffic_sign_135.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-136.svg",
+      "iso": "HK",
+      "id": "136",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/HK_traffic_sign_136.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/110-HK_traffic_sign_136.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/110-HK_traffic_sign_136.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/HK_traffic_sign_136.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-136_old.svg",
+      "iso": "HK",
+      "id": "136",
+      "description": null,
+      "variants": [
+        "old"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hong_Kong_road_sign_136_%28Historic%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/234-Hong_Kong_road_sign_136_(Historic).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/234-Hong_Kong_road_sign_136_(Historic).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hong_Kong_road_sign_136_%28Historic%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-137.svg",
+      "iso": "HK",
+      "id": "137",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/HK_traffic_sign_137.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/111-HK_traffic_sign_137.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/111-HK_traffic_sign_137.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/HK_traffic_sign_137.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-138.svg",
+      "iso": "HK",
+      "id": "138",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/HK_traffic_sign_138.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/112-HK_traffic_sign_138.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/112-HK_traffic_sign_138.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/HK_traffic_sign_138.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-139.svg",
+      "iso": "HK",
+      "id": "139",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HK_traffic_sign_139.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/113-HK_traffic_sign_139.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/113-HK_traffic_sign_139.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HK_traffic_sign_139.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996,
+      "replaced_versions": [
+        {
+          "filename": "rectangle/HK-139_1973-1984.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hong_Kong_road_sign_139_%281973%E2%80%931984%29.svg"
+        }
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-141.svg",
+      "iso": "HK",
+      "id": "141",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/HK_traffic_sign_141.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/114-HK_traffic_sign_141.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/114-HK_traffic_sign_141.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/HK_traffic_sign_141.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-147.svg",
+      "iso": "HK",
+      "id": "147",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hong_Kong_road_sign_147.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/178-Hong_Kong_road_sign_147.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/178-Hong_Kong_road_sign_147.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hong_Kong_road_sign_147.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-147_obsolete.svg",
+      "iso": "HK",
+      "id": "147",
+      "description": null,
+      "variants": [
+        "obsolete"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/HK_traffic_sign_147_%28obsolete%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/115-HK_traffic_sign_147_(obsolete).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/115-HK_traffic_sign_147_(obsolete).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/HK_traffic_sign_147_%28obsolete%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-159.svg",
+      "iso": "HK",
+      "id": "159",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/HK_traffic_sign_159.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/116-HK_traffic_sign_159.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/116-HK_traffic_sign_159.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/HK_traffic_sign_159.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-164.svg",
+      "iso": "HK",
+      "id": "164",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hong_Kong_road_sign_164.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/132-Hong_Kong_road_sign_164.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/117-HK_traffic_sign_164.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HK_traffic_sign_164.svg"
+        },
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/132-Hong_Kong_road_sign_164.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hong_Kong_road_sign_164.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-168.svg",
+      "iso": "HK",
+      "id": "168",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/HK_traffic_sign_168.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/118-HK_traffic_sign_168.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/118-HK_traffic_sign_168.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/HK_traffic_sign_168.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/HK-173.svg",
+      "iso": "HK",
+      "id": "173",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hong_Kong_road_sign_173.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/120-Hong_Kong_road_sign_173.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/120-Hong_Kong_road_sign_173.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hong_Kong_road_sign_173.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-174.svg",
+      "iso": "HK",
+      "id": "174",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/HK_traffic_sign_174.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/119-HK_traffic_sign_174.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/119-HK_traffic_sign_174.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/HK_traffic_sign_174.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-180.svg",
+      "iso": "HK",
+      "id": "180",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/HK_traffic_sign_180.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/079-HK_traffic_sign_180.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/079-HK_traffic_sign_180.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/HK_traffic_sign_180.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-181.svg",
+      "iso": "HK",
+      "id": "181",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HK_traffic_sign_181.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/080-HK_traffic_sign_181.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/080-HK_traffic_sign_181.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HK_traffic_sign_181.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.986
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/HK-182.svg",
+      "iso": "HK",
+      "id": "182",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/HK_traffic_sign_182.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/075-HK_traffic_sign_182.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/075-HK_traffic_sign_182.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/HK_traffic_sign_182.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-183.svg",
+      "iso": "HK",
+      "id": "183",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/HK_traffic_sign_183.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/072-HK_traffic_sign_183.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/072-HK_traffic_sign_183.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/HK_traffic_sign_183.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-205.svg",
+      "iso": "HK",
+      "id": "205",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/HK_road_sign_205_%281973-1984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/225-HK_road_sign_205_(1973-1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/225-HK_road_sign_205_(1973-1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/HK_road_sign_205_%281973-1984%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "sd_unclassified/other/HK-210-L.svg",
+      "iso": "HK",
+      "id": "210-L",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hong_Kong_road_sign_210_L.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/013-Hong_Kong_road_sign_210_L.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/013-Hong_Kong_road_sign_210_L.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hong_Kong_road_sign_210_L.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.773
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-2131.svg",
+      "iso": "HK",
+      "id": "2131",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HK_traffic_sign_2131.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/089-HK_traffic_sign_2131.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/089-HK_traffic_sign_2131.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HK_traffic_sign_2131.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-2133.svg",
+      "iso": "HK",
+      "id": "2133",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HK_traffic_sign_2133.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/090-HK_traffic_sign_2133.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/090-HK_traffic_sign_2133.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/HK_traffic_sign_2133.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-2137.svg",
+      "iso": "HK",
+      "id": "2137",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/HK_traffic_sign_2137.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/092-HK_traffic_sign_2137.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/092-HK_traffic_sign_2137.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/HK_traffic_sign_2137.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-2139.svg",
+      "iso": "HK",
+      "id": "2139",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/HK_traffic_sign_2139.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/093-HK_traffic_sign_2139.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/093-HK_traffic_sign_2139.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/HK_traffic_sign_2139.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-2140.svg",
+      "iso": "HK",
+      "id": "2140",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/HK_traffic_sign_2140.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/094-HK_traffic_sign_2140.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/094-HK_traffic_sign_2140.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/HK_traffic_sign_2140.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/HK-2148.svg",
+      "iso": "HK",
+      "id": "2148",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/HK_traffic_sign_2148.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/095-HK_traffic_sign_2148.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/095-HK_traffic_sign_2148.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/HK_traffic_sign_2148.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-216.svg",
+      "iso": "HK",
+      "id": "216",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HK_traffic_sign_216.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/154-HK_traffic_sign_216.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/154-HK_traffic_sign_216.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/HK_traffic_sign_216.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-217.svg",
+      "iso": "HK",
+      "id": "217",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hong_Kong_road_sign_217_%281973-1984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/226-Hong_Kong_road_sign_217_(1973-1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/226-Hong_Kong_road_sign_217_(1973-1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hong_Kong_road_sign_217_%281973-1984%29.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "sd_unclassified/other/HK-219.svg",
+      "iso": "HK",
+      "id": "219",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/HK_traffic_sign_219.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/184-HK_traffic_sign_219.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/184-HK_traffic_sign_219.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/HK_traffic_sign_219.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-220.svg",
+      "iso": "HK",
+      "id": "220",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/HK_traffic_sign_220.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/180-HK_traffic_sign_220.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/180-HK_traffic_sign_220.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/HK_traffic_sign_220.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-2200.svg",
+      "iso": "HK",
+      "id": "2200",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/HK_traffic_sign_2200.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/101-HK_traffic_sign_2200.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/101-HK_traffic_sign_2200.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/HK_traffic_sign_2200.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-2201.svg",
+      "iso": "HK",
+      "id": "2201",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/HK_traffic_sign_2201.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/100-HK_traffic_sign_2201.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/100-HK_traffic_sign_2201.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/HK_traffic_sign_2201.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-221.svg",
+      "iso": "HK",
+      "id": "221",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/HK_traffic_sign_221.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/158-HK_traffic_sign_221.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/158-HK_traffic_sign_221.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/HK_traffic_sign_221.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-222.svg",
+      "iso": "HK",
+      "id": "222",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HK_traffic_sign_222.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/156-HK_traffic_sign_222.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/156-HK_traffic_sign_222.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HK_traffic_sign_222.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-223.svg",
+      "iso": "HK",
+      "id": "223",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/HK_traffic_sign_223.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/157-HK_traffic_sign_223.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/157-HK_traffic_sign_223.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/HK_traffic_sign_223.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-2230.svg",
+      "iso": "HK",
+      "id": "2230",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HK_traffic_sign_2230.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/091-HK_traffic_sign_2230.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/091-HK_traffic_sign_2230.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HK_traffic_sign_2230.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-224.svg",
+      "iso": "HK",
+      "id": "224",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/HK_traffic_sign_224.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/159-HK_traffic_sign_224.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/159-HK_traffic_sign_224.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/HK_traffic_sign_224.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-225.svg",
+      "iso": "HK",
+      "id": "225",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/HK_traffic_sign_225.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/155-HK_traffic_sign_225.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/155-HK_traffic_sign_225.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/HK_traffic_sign_225.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/other/HK-227.svg",
+      "iso": "HK",
+      "id": "227",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/HK_traffic_sign_227.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/081-HK_traffic_sign_227.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/081-HK_traffic_sign_227.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/HK_traffic_sign_227.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.986
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-228.svg",
+      "iso": "HK",
+      "id": "228",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/HK_traffic_sign_228.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/082-HK_traffic_sign_228.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/082-HK_traffic_sign_228.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/HK_traffic_sign_228.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-247.svg",
+      "iso": "HK",
+      "id": "247",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hong_Kong_road_sign_247.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/172-Hong_Kong_road_sign_247.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/172-Hong_Kong_road_sign_247.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hong_Kong_road_sign_247.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-248.svg",
+      "iso": "HK",
+      "id": "248",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hong_Kong_road_sign_248.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/171-Hong_Kong_road_sign_248.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/171-Hong_Kong_road_sign_248.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hong_Kong_road_sign_248.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "sd_unclassified/other/HK-2624-1.svg",
+      "iso": "HK",
+      "id": "2624-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HK_traffic_sign_2624%E2%80%931.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/137-HK_traffic_sign_2624–1.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/137-HK_traffic_sign_2624–1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HK_traffic_sign_2624%E2%80%931.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-2624-2.svg",
+      "iso": "HK",
+      "id": "2624-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/HK_traffic_sign_2624%E2%80%932.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/136-HK_traffic_sign_2624–2.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/136-HK_traffic_sign_2624–2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/HK_traffic_sign_2624%E2%80%932.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-265.svg",
+      "iso": "HK",
+      "id": "265",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hong_Kong_road_sign_265.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/049-Hong_Kong_road_sign_265.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/049-Hong_Kong_road_sign_265.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hong_Kong_road_sign_265.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-269.svg",
+      "iso": "HK",
+      "id": "269",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/HK_traffic_sign_269.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/078-HK_traffic_sign_269.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/078-HK_traffic_sign_269.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/HK_traffic_sign_269.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-270.svg",
+      "iso": "HK",
+      "id": "270",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/HK_traffic_sign_270.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/138-HK_traffic_sign_270.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/138-HK_traffic_sign_270.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/HK_traffic_sign_270.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.994
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-280.svg",
+      "iso": "HK",
+      "id": "280",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/HK_traffic_sign_280.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/140-HK_traffic_sign_280.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/140-HK_traffic_sign_280.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/HK_traffic_sign_280.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-281.svg",
+      "iso": "HK",
+      "id": "281",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/HK_traffic_sign_281.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/141-HK_traffic_sign_281.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/141-HK_traffic_sign_281.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/HK_traffic_sign_281.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HK-282.svg",
+      "iso": "HK",
+      "id": "282",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/HK_traffic_sign_282.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/142-HK_traffic_sign_282.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/142-HK_traffic_sign_282.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/HK_traffic_sign_282.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-283.svg",
+      "iso": "HK",
+      "id": "283",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HK_traffic_sign_283.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/143-HK_traffic_sign_283.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/143-HK_traffic_sign_283.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HK_traffic_sign_283.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-284.svg",
+      "iso": "HK",
+      "id": "284",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HK_traffic_sign_284.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/144-HK_traffic_sign_284.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/144-HK_traffic_sign_284.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HK_traffic_sign_284.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/HK-286.svg",
+      "iso": "HK",
+      "id": "286",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HK_traffic_sign_286.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/073-HK_traffic_sign_286.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/073-HK_traffic_sign_286.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HK_traffic_sign_286.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.992
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-302.svg",
+      "iso": "HK",
+      "id": "302",
+      "description": null,
+      "variants": [
+        "1973-1984"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hong_Kong_road_sign_302_%281973%E2%80%931984%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/231-Hong_Kong_road_sign_302_(1973–1984).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/231-Hong_Kong_road_sign_302_(1973–1984).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hong_Kong_road_sign_302_%281973%E2%80%931984%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993,
+      "valid_years": "1973-1984"
+    },
+    {
+      "filename": "sd_unclassified/other/HK-312.svg",
+      "iso": "HK",
+      "id": "312",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hong_Kong_road_sign_312.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/213-Hong_Kong_road_sign_312.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/213-Hong_Kong_road_sign_312.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hong_Kong_road_sign_312.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-322.svg",
+      "iso": "HK",
+      "id": "322",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/HK_traffic_sign_322.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/150-HK_traffic_sign_322.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/150-HK_traffic_sign_322.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/HK_traffic_sign_322.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-323.svg",
+      "iso": "HK",
+      "id": "323",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/HK_traffic_sign_323.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/151-HK_traffic_sign_323.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/151-HK_traffic_sign_323.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/HK_traffic_sign_323.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-324.svg",
+      "iso": "HK",
+      "id": "324",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/HK_traffic_sign_324.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/147-HK_traffic_sign_324.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/147-HK_traffic_sign_324.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/HK_traffic_sign_324.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-329.svg",
+      "iso": "HK",
+      "id": "329",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/HK_traffic_sign_329.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/148-HK_traffic_sign_329.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/148-HK_traffic_sign_329.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/HK_traffic_sign_329.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-333.svg",
+      "iso": "HK",
+      "id": "333",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/HK_traffic_sign_333.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/083-HK_traffic_sign_333.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/083-HK_traffic_sign_333.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/HK_traffic_sign_333.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-353.svg",
+      "iso": "HK",
+      "id": "353",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HK_traffic_sign_353.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/145-HK_traffic_sign_353.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/145-HK_traffic_sign_353.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/HK_traffic_sign_353.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-354.svg",
+      "iso": "HK",
+      "id": "354",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HK_traffic_sign_354.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/146-HK_traffic_sign_354.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/146-HK_traffic_sign_354.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HK_traffic_sign_354.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-371.svg",
+      "iso": "HK",
+      "id": "371",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HK_traffic_sign_371.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/216-HK_traffic_sign_371.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/216-HK_traffic_sign_371.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HK_traffic_sign_371.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/HK-3714.svg",
+      "iso": "HK",
+      "id": "3714",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HK_traffic_sign_3714.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/127-HK_traffic_sign_3714.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/127-HK_traffic_sign_3714.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HK_traffic_sign_3714.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-375.svg",
+      "iso": "HK",
+      "id": "375",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/HK_traffic_sign_375.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/077-HK_traffic_sign_375.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/077-HK_traffic_sign_375.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/HK_traffic_sign_375.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/HK-401.svg",
+      "iso": "HK",
+      "id": "401",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HK_traffic_sign_401.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/003-HK_traffic_sign_401.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/003-HK_traffic_sign_401.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/HK_traffic_sign_401.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-402.svg",
+      "iso": "HK",
+      "id": "402",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HK_traffic_sign_402.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/029-HK_traffic_sign_402.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/029-HK_traffic_sign_402.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/HK_traffic_sign_402.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-404.svg",
+      "iso": "HK",
+      "id": "404",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HK_traffic_sign_404.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/030-HK_traffic_sign_404.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/030-HK_traffic_sign_404.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HK_traffic_sign_404.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-406.svg",
+      "iso": "HK",
+      "id": "406",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/HK_traffic_sign_406.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/008-HK_traffic_sign_406.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/008-HK_traffic_sign_406.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/HK_traffic_sign_406.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-407.svg",
+      "iso": "HK",
+      "id": "407",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/HK_traffic_sign_407.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/057-HK_traffic_sign_407.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/057-HK_traffic_sign_407.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/HK_traffic_sign_407.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-408.svg",
+      "iso": "HK",
+      "id": "408",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HK_traffic_sign_408.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/056-HK_traffic_sign_408.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/056-HK_traffic_sign_408.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HK_traffic_sign_408.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-409.svg",
+      "iso": "HK",
+      "id": "409",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/HK_traffic_sign_409.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/014-HK_traffic_sign_409.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/014-HK_traffic_sign_409.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/HK_traffic_sign_409.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-410.svg",
+      "iso": "HK",
+      "id": "410",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HK_traffic_sign_410.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/006-HK_traffic_sign_410.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/006-HK_traffic_sign_410.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/HK_traffic_sign_410.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-412.svg",
+      "iso": "HK",
+      "id": "412",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/HK_traffic_sign_412.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/007-HK_traffic_sign_412.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/007-HK_traffic_sign_412.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/HK_traffic_sign_412.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-415.svg",
+      "iso": "HK",
+      "id": "415",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/HK_traffic_sign_415.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/011-HK_traffic_sign_415.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/011-HK_traffic_sign_415.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/HK_traffic_sign_415.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-416.svg",
+      "iso": "HK",
+      "id": "416",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/HK_traffic_sign_416.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/010-HK_traffic_sign_416.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/010-HK_traffic_sign_416.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/HK_traffic_sign_416.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-417.svg",
+      "iso": "HK",
+      "id": "417",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/HK_traffic_sign_417.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/169-HK_traffic_sign_417.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/169-HK_traffic_sign_417.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/HK_traffic_sign_417.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-418.svg",
+      "iso": "HK",
+      "id": "418",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/HK_traffic_sign_418.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/025-HK_traffic_sign_418.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/025-HK_traffic_sign_418.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/HK_traffic_sign_418.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-419.svg",
+      "iso": "HK",
+      "id": "419",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HK_traffic_sign_419.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/028-HK_traffic_sign_419.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/028-HK_traffic_sign_419.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HK_traffic_sign_419.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-421.svg",
+      "iso": "HK",
+      "id": "421",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HK_traffic_sign_421.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/027-HK_traffic_sign_421.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/027-HK_traffic_sign_421.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HK_traffic_sign_421.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-423.svg",
+      "iso": "HK",
+      "id": "423",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/HK_traffic_sign_423.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/026-HK_traffic_sign_423.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/026-HK_traffic_sign_423.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/HK_traffic_sign_423.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-425.svg",
+      "iso": "HK",
+      "id": "425",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HK_traffic_sign_425.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/009-HK_traffic_sign_425.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/009-HK_traffic_sign_425.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HK_traffic_sign_425.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-428.svg",
+      "iso": "HK",
+      "id": "428",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/HK_traffic_sign_428.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/016-HK_traffic_sign_428.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/016-HK_traffic_sign_428.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/HK_traffic_sign_428.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "h_additional_panels/other/HK-430.svg",
+      "iso": "HK",
+      "id": "430",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hong_Kong_road_sign_430.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/096-Hong_Kong_road_sign_430.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/015-HK_traffic_sign_430.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/HK_traffic_sign_430.svg"
+        },
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/096-Hong_Kong_road_sign_430.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hong_Kong_road_sign_430.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998,
+      "also_used_in": [
+        "GB_United Kingdom"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/HK-433.svg",
+      "iso": "HK",
+      "id": "433",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hong_Kong_road_sign_433.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/129-Hong_Kong_road_sign_433.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/129-Hong_Kong_road_sign_433.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hong_Kong_road_sign_433.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-434.svg",
+      "iso": "HK",
+      "id": "434",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/HK_traffic_sign_434.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/054-HK_traffic_sign_434.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/054-HK_traffic_sign_434.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/HK_traffic_sign_434.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-442.svg",
+      "iso": "HK",
+      "id": "442",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HK_traffic_sign_442.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/036-HK_traffic_sign_442.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/036-HK_traffic_sign_442.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HK_traffic_sign_442.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-460.svg",
+      "iso": "HK",
+      "id": "460",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HK_traffic_sign_460.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/050-HK_traffic_sign_460.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/050-HK_traffic_sign_460.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HK_traffic_sign_460.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-461.svg",
+      "iso": "HK",
+      "id": "461",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/HK_traffic_sign_461.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/037-HK_traffic_sign_461.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/037-HK_traffic_sign_461.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/HK_traffic_sign_461.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-462.svg",
+      "iso": "HK",
+      "id": "462",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/HK_traffic_sign_462.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/032-HK_traffic_sign_462.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/032-HK_traffic_sign_462.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/HK_traffic_sign_462.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-463.svg",
+      "iso": "HK",
+      "id": "463",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/HK_traffic_sign_463.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/038-HK_traffic_sign_463.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/038-HK_traffic_sign_463.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/HK_traffic_sign_463.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-464.svg",
+      "iso": "HK",
+      "id": "464",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HK_traffic_sign_464.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/040-HK_traffic_sign_464.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/040-HK_traffic_sign_464.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HK_traffic_sign_464.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-465.svg",
+      "iso": "HK",
+      "id": "465",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/HK_traffic_sign_465.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/041-HK_traffic_sign_465.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/041-HK_traffic_sign_465.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/HK_traffic_sign_465.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-466.svg",
+      "iso": "HK",
+      "id": "466",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/HK_traffic_sign_466.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/034-HK_traffic_sign_466.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/034-HK_traffic_sign_466.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/HK_traffic_sign_466.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-467.svg",
+      "iso": "HK",
+      "id": "467",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HK_traffic_sign_467.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/031-HK_traffic_sign_467.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/031-HK_traffic_sign_467.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HK_traffic_sign_467.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-468.svg",
+      "iso": "HK",
+      "id": "468",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HK_traffic_sign_468.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/053-HK_traffic_sign_468.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/053-HK_traffic_sign_468.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/HK_traffic_sign_468.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-469.svg",
+      "iso": "HK",
+      "id": "469",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/HK_traffic_sign_469.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/035-HK_traffic_sign_469.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/035-HK_traffic_sign_469.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/HK_traffic_sign_469.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HK-470.svg",
+      "iso": "HK",
+      "id": "470",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HK_traffic_sign_470.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/043-HK_traffic_sign_470.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/043-HK_traffic_sign_470.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/HK_traffic_sign_470.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/HK-471.svg",
+      "iso": "HK",
+      "id": "471",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/HK_traffic_sign_471.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/045-HK_traffic_sign_471.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/045-HK_traffic_sign_471.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/HK_traffic_sign_471.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HK-479.svg",
+      "iso": "HK",
+      "id": "479",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HK_traffic_sign_479.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/044-HK_traffic_sign_479.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/044-HK_traffic_sign_479.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HK_traffic_sign_479.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-481.svg",
+      "iso": "HK",
+      "id": "481",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/HK_traffic_sign_481.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/046-HK_traffic_sign_481.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/046-HK_traffic_sign_481.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/HK_traffic_sign_481.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-484.svg",
+      "iso": "HK",
+      "id": "484",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HK_traffic_sign_484.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/021-HK_traffic_sign_484.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/021-HK_traffic_sign_484.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HK_traffic_sign_484.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/HK-485.svg",
+      "iso": "HK",
+      "id": "485",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_traffic_sign_485.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/022-HK_traffic_sign_485.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/022-HK_traffic_sign_485.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_traffic_sign_485.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-487.svg",
+      "iso": "HK",
+      "id": "487",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/HK_traffic_sign_487.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/039-HK_traffic_sign_487.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/039-HK_traffic_sign_487.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/HK_traffic_sign_487.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-488.svg",
+      "iso": "HK",
+      "id": "488",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/HK_traffic_sign_488.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/187-HK_traffic_sign_488.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/187-HK_traffic_sign_488.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/HK_traffic_sign_488.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-489.svg",
+      "iso": "HK",
+      "id": "489",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/HK_traffic_sign_489.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/186-HK_traffic_sign_489.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/186-HK_traffic_sign_489.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/HK_traffic_sign_489.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-490.svg",
+      "iso": "HK",
+      "id": "490",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/HK_traffic_sign_490.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/190-HK_traffic_sign_490.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/190-HK_traffic_sign_490.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/HK_traffic_sign_490.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-491.svg",
+      "iso": "HK",
+      "id": "491",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/HK_traffic_sign_491.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/165-HK_traffic_sign_491.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/165-HK_traffic_sign_491.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/HK_traffic_sign_491.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-492.svg",
+      "iso": "HK",
+      "id": "492",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/HK_traffic_sign_492.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/161-HK_traffic_sign_492.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/161-HK_traffic_sign_492.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/HK_traffic_sign_492.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-493.svg",
+      "iso": "HK",
+      "id": "493",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/HK_traffic_sign_493.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/164-HK_traffic_sign_493.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/164-HK_traffic_sign_493.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/HK_traffic_sign_493.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-495.svg",
+      "iso": "HK",
+      "id": "495",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HK_traffic_sign_495.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/162-HK_traffic_sign_495.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/162-HK_traffic_sign_495.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/HK_traffic_sign_495.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-498.svg",
+      "iso": "HK",
+      "id": "498",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HK_traffic_sign_498.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/163-HK_traffic_sign_498.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/163-HK_traffic_sign_498.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HK_traffic_sign_498.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-499.svg",
+      "iso": "HK",
+      "id": "499",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HK_traffic_sign_499.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/160-HK_traffic_sign_499.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/160-HK_traffic_sign_499.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HK_traffic_sign_499.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "sd_unclassified/other/HK-500.svg",
+      "iso": "HK",
+      "id": "500",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hong_Kong_road_sign_500.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/206-Hong_Kong_road_sign_500.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/206-Hong_Kong_road_sign_500.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hong_Kong_road_sign_500.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.919
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-501.svg",
+      "iso": "HK",
+      "id": "501",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/HK_traffic_sign_501.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/166-HK_traffic_sign_501.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/166-HK_traffic_sign_501.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/HK_traffic_sign_501.svg"
+        },
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/205-Hong_Kong_road_sign_501.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hong_Kong_road_sign_501.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "sd_unclassified/other/HK-503.svg",
+      "iso": "HK",
+      "id": "503",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hong_Kong_road_sign_503.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/181-Hong_Kong_road_sign_503.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/181-Hong_Kong_road_sign_503.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hong_Kong_road_sign_503.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.942
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-504.gif",
+      "iso": "HK",
+      "id": "504",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hong_Kong_road_sign_504.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/195-Hong_Kong_road_sign_504.gif",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/195-Hong_Kong_road_sign_504.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hong_Kong_road_sign_504.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.936
+    },
+    {
+      "filename": "sd_unclassified/other/HK-505.svg",
+      "iso": "HK",
+      "id": "505",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/HK_traffic_sign_505.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/177-HK_traffic_sign_505.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/177-HK_traffic_sign_505.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/HK_traffic_sign_505.svg"
+        },
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/193-Hong_Kong_road_sign_505.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hong_Kong_road_sign_505.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/HK-506.svg",
+      "iso": "HK",
+      "id": "506",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HK_traffic_sign_506.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/176-HK_traffic_sign_506.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/176-HK_traffic_sign_506.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HK_traffic_sign_506.svg"
+        },
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/192-Hong_Kong_road_sign_506.gif",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Hong_Kong_road_sign_506.gif"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-507.svg",
+      "iso": "HK",
+      "id": "507",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hong_Kong_road_sign_507.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/194-Hong_Kong_road_sign_507.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/189-HK_traffic_sign_507.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_traffic_sign_507.svg"
+        },
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/194-Hong_Kong_road_sign_507.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hong_Kong_road_sign_507.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-508.svg",
+      "iso": "HK",
+      "id": "508",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/HK_traffic_sign_508.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/179-HK_traffic_sign_508.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/179-HK_traffic_sign_508.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/HK_traffic_sign_508.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-509.svg",
+      "iso": "HK",
+      "id": "509",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HK_traffic_sign_509.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/173-HK_traffic_sign_509.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/173-HK_traffic_sign_509.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/HK_traffic_sign_509.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/HK-510.svg",
+      "iso": "HK",
+      "id": "510",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HK_traffic_sign_510.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/185-HK_traffic_sign_510.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/185-HK_traffic_sign_510.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/HK_traffic_sign_510.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/HK-511.svg",
+      "iso": "HK",
+      "id": "511",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/HK_traffic_sign_511.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/182-HK_traffic_sign_511.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/182-HK_traffic_sign_511.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/HK_traffic_sign_511.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-513.svg",
+      "iso": "HK",
+      "id": "513",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/HK_traffic_sign_513.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/183-HK_traffic_sign_513.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/183-HK_traffic_sign_513.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/HK_traffic_sign_513.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-515.svg",
+      "iso": "HK",
+      "id": "515",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/HK_traffic_sign_515.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/065-HK_traffic_sign_515.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/065-HK_traffic_sign_515.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/HK_traffic_sign_515.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-519.svg",
+      "iso": "HK",
+      "id": "519",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HK_traffic_sign_519.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/042-HK_traffic_sign_519.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/042-HK_traffic_sign_519.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HK_traffic_sign_519.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-520.svg",
+      "iso": "HK",
+      "id": "520",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HK_traffic_sign_520.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/051-HK_traffic_sign_520.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/051-HK_traffic_sign_520.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HK_traffic_sign_520.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-524.svg",
+      "iso": "HK",
+      "id": "524",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/HK_traffic_sign_524.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/047-HK_traffic_sign_524.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/047-HK_traffic_sign_524.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/HK_traffic_sign_524.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-527.svg",
+      "iso": "HK",
+      "id": "527",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HK_traffic_sign_527.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/048-HK_traffic_sign_527.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/048-HK_traffic_sign_527.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HK_traffic_sign_527.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-539.svg",
+      "iso": "HK",
+      "id": "539",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/HK_traffic_sign_539.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/055-HK_traffic_sign_539.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/055-HK_traffic_sign_539.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/HK_traffic_sign_539.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-558.svg",
+      "iso": "HK",
+      "id": "558",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/HK_traffic_sign_558.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/023-HK_traffic_sign_558.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/023-HK_traffic_sign_558.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/HK_traffic_sign_558.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "sd_unclassified/other/HK-569.svg",
+      "iso": "HK",
+      "id": "569",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/HK_traffic_sign_569.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/149-HK_traffic_sign_569.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/149-HK_traffic_sign_569.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/HK_traffic_sign_569.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-577.svg",
+      "iso": "HK",
+      "id": "577",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HK_traffic_sign_577.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/052-HK_traffic_sign_577.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/052-HK_traffic_sign_577.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HK_traffic_sign_577.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "sd_unclassified/other/HK-581.svg",
+      "iso": "HK",
+      "id": "581",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/HK_traffic_sign_581.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/058-HK_traffic_sign_581.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/058-HK_traffic_sign_581.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/HK_traffic_sign_581.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-582.svg",
+      "iso": "HK",
+      "id": "582",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/HK_traffic_sign_582.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/059-HK_traffic_sign_582.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/059-HK_traffic_sign_582.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/HK_traffic_sign_582.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-584.svg",
+      "iso": "HK",
+      "id": "584",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HK_traffic_sign_584.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/024-HK_traffic_sign_584.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/024-HK_traffic_sign_584.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HK_traffic_sign_584.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.96
+    },
+    {
+      "filename": "a_danger_warning_signs/other/HK-585.svg",
+      "iso": "HK",
+      "id": "585",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HK_traffic_sign_585.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/033-HK_traffic_sign_585.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/033-HK_traffic_sign_585.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HK_traffic_sign_585.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-601.svg",
+      "iso": "HK",
+      "id": "601",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/HK_traffic_sign_601.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/218-HK_traffic_sign_601.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/218-HK_traffic_sign_601.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/HK_traffic_sign_601.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/HK-602.svg",
+      "iso": "HK",
+      "id": "602",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HK_traffic_sign_602.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/168-HK_traffic_sign_602.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/168-HK_traffic_sign_602.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HK_traffic_sign_602.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-603.svg",
+      "iso": "HK",
+      "id": "603",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HK_traffic_sign_603.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/214-HK_traffic_sign_603.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/214-HK_traffic_sign_603.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HK_traffic_sign_603.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-604.svg",
+      "iso": "HK",
+      "id": "604",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/HK_traffic_sign_604.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/217-HK_traffic_sign_604.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/217-HK_traffic_sign_604.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/HK_traffic_sign_604.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HK-605.svg",
+      "iso": "HK",
+      "id": "605",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/HK_traffic_sign_605.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/210-HK_traffic_sign_605.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/210-HK_traffic_sign_605.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/HK_traffic_sign_605.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-606.svg",
+      "iso": "HK",
+      "id": "606",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/HK_traffic_sign_606.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/211-HK_traffic_sign_606.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/211-HK_traffic_sign_606.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/HK_traffic_sign_606.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/HK-607.svg",
+      "iso": "HK",
+      "id": "607",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/HK_traffic_sign_607.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/212-HK_traffic_sign_607.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/212-HK_traffic_sign_607.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/HK_traffic_sign_607.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-611.svg",
+      "iso": "HK",
+      "id": "611",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HK_traffic_sign_611.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/222-HK_traffic_sign_611.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/222-HK_traffic_sign_611.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HK_traffic_sign_611.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-612.svg",
+      "iso": "HK",
+      "id": "612",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HK_traffic_sign_612.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/221-HK_traffic_sign_612.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/221-HK_traffic_sign_612.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HK_traffic_sign_612.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/other/HK-613.svg",
+      "iso": "HK",
+      "id": "613",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/HK_traffic_sign_613.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/220-HK_traffic_sign_613.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/220-HK_traffic_sign_613.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/HK_traffic_sign_613.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/HK-615.svg",
+      "iso": "HK",
+      "id": "615",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HK_traffic_sign_615.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/207-HK_traffic_sign_615.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/207-HK_traffic_sign_615.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HK_traffic_sign_615.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/HK-616.svg",
+      "iso": "HK",
+      "id": "616",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HK_traffic_sign_616.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/208-HK_traffic_sign_616.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/208-HK_traffic_sign_616.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/HK_traffic_sign_616.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/HK-617.svg",
+      "iso": "HK",
+      "id": "617",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/HK_traffic_sign_617.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/209-HK_traffic_sign_617.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/209-HK_traffic_sign_617.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/HK_traffic_sign_617.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-620.svg",
+      "iso": "HK",
+      "id": "620",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HK_traffic_sign_620.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/215-HK_traffic_sign_620.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/215-HK_traffic_sign_620.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HK_traffic_sign_620.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-621.svg",
+      "iso": "HK",
+      "id": "621",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/HK_traffic_sign_621.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/219-HK_traffic_sign_621.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/219-HK_traffic_sign_621.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/HK_traffic_sign_621.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/HK-628.svg",
+      "iso": "HK",
+      "id": "628",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/HK_traffic_sign_628.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/204-HK_traffic_sign_628.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/204-HK_traffic_sign_628.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/HK_traffic_sign_628.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.907
+    },
+    {
+      "filename": "h_additional_panels/other/HK-704.svg",
+      "iso": "HK",
+      "id": "704",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HK_traffic_sign_704.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/124-HK_traffic_sign_704.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/124-HK_traffic_sign_704.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HK_traffic_sign_704.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-707.svg",
+      "iso": "HK",
+      "id": "707",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/HK_traffic_sign_707.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/088-HK_traffic_sign_707.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/088-HK_traffic_sign_707.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/HK_traffic_sign_707.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/HK-708.svg",
+      "iso": "HK",
+      "id": "708",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HK_traffic_sign_708.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/125-HK_traffic_sign_708.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/125-HK_traffic_sign_708.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HK_traffic_sign_708.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-711.svg",
+      "iso": "HK",
+      "id": "711",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/HK_traffic_sign_711.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/121-HK_traffic_sign_711.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/121-HK_traffic_sign_711.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/HK_traffic_sign_711.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-712.svg",
+      "iso": "HK",
+      "id": "712",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HK_traffic_sign_712.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/122-HK_traffic_sign_712.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/122-HK_traffic_sign_712.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HK_traffic_sign_712.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/HK-714_obsolete.svg",
+      "iso": "HK",
+      "id": "714",
+      "description": null,
+      "variants": [
+        "obsolete"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/HK_traffic_sign_714_%28obsolete%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/126-HK_traffic_sign_714_(obsolete).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/126-HK_traffic_sign_714_(obsolete).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/HK_traffic_sign_714_%28obsolete%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-734.svg",
+      "iso": "HK",
+      "id": "734",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HK_traffic_sign_734.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/085-HK_traffic_sign_734.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/085-HK_traffic_sign_734.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HK_traffic_sign_734.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-735.svg",
+      "iso": "HK",
+      "id": "735",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/HK_traffic_sign_735.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/086-HK_traffic_sign_735.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/086-HK_traffic_sign_735.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/HK_traffic_sign_735.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/HK-736.svg",
+      "iso": "HK",
+      "id": "736",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/HK_traffic_sign_736.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/084-HK_traffic_sign_736.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/084-HK_traffic_sign_736.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/HK_traffic_sign_736.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-737.svg",
+      "iso": "HK",
+      "id": "737",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/HK_traffic_sign_737.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/012-HK_traffic_sign_737.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/012-HK_traffic_sign_737.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/HK_traffic_sign_737.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-738.svg",
+      "iso": "HK",
+      "id": "738",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HK_traffic_sign_738.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/020-HK_traffic_sign_738.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/020-HK_traffic_sign_738.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HK_traffic_sign_738.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-740.svg",
+      "iso": "HK",
+      "id": "740",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HK_traffic_sign_740.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/061-HK_traffic_sign_740.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/061-HK_traffic_sign_740.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HK_traffic_sign_740.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/HK-741.svg",
+      "iso": "HK",
+      "id": "741",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/HK_traffic_sign_741.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/062-HK_traffic_sign_741.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/062-HK_traffic_sign_741.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/HK_traffic_sign_741.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/HK-743.svg",
+      "iso": "HK",
+      "id": "743",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/HK_traffic_sign_743.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/191-HK_traffic_sign_743.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/191-HK_traffic_sign_743.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/HK_traffic_sign_743.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-752.svg",
+      "iso": "HK",
+      "id": "752",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/HK_traffic_sign_752.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/170-HK_traffic_sign_752.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/170-HK_traffic_sign_752.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/HK_traffic_sign_752.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-767.svg",
+      "iso": "HK",
+      "id": "767",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HK_traffic_sign_767.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/131-HK_traffic_sign_767.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/131-HK_traffic_sign_767.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HK_traffic_sign_767.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-772.svg",
+      "iso": "HK",
+      "id": "772",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/HK_traffic_sign_772.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/063-HK_traffic_sign_772.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/063-HK_traffic_sign_772.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/HK_traffic_sign_772.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-780.svg",
+      "iso": "HK",
+      "id": "780",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HK_traffic_sign_780.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/064-HK_traffic_sign_780.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/064-HK_traffic_sign_780.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/HK_traffic_sign_780.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-785.svg",
+      "iso": "HK",
+      "id": "785",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/HK_traffic_sign_785.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/130-HK_traffic_sign_785.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/130-HK_traffic_sign_785.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/HK_traffic_sign_785.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/other/HK-797.svg",
+      "iso": "HK",
+      "id": "797",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/HK_traffic_sign_797.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/005-HK_traffic_sign_797.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/005-HK_traffic_sign_797.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/HK_traffic_sign_797.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "b_priority_signs/other/HK-798.svg",
+      "iso": "HK",
+      "id": "798",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HK_traffic_sign_798.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/004-HK_traffic_sign_798.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/004-HK_traffic_sign_798.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/HK_traffic_sign_798.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/HK-801.svg",
+      "iso": "HK",
+      "id": "801",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HK_traffic_sign_801.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/018-HK_traffic_sign_801.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/018-HK_traffic_sign_801.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HK_traffic_sign_801.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-806.svg",
+      "iso": "HK",
+      "id": "806",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/HK_traffic_sign_806.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/017-HK_traffic_sign_806.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/017-HK_traffic_sign_806.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/HK_traffic_sign_806.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-807.svg",
+      "iso": "HK",
+      "id": "807",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/HK_traffic_sign_807.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/019-HK_traffic_sign_807.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/019-HK_traffic_sign_807.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/HK_traffic_sign_807.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/HK-810.svg",
+      "iso": "HK",
+      "id": "810",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HK_traffic_sign_810.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/060-HK_traffic_sign_810.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/060-HK_traffic_sign_810.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HK_traffic_sign_810.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/HK-814.svg",
+      "iso": "HK",
+      "id": "814",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/HK_traffic_sign_814.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/087-HK_traffic_sign_814.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/087-HK_traffic_sign_814.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/HK_traffic_sign_814.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/HK-820.svg",
+      "iso": "HK",
+      "id": "820",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/HK_traffic_sign_820.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/139-HK_traffic_sign_820.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/139-HK_traffic_sign_820.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/HK_traffic_sign_820.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/HK-834.svg",
+      "iso": "HK",
+      "id": "834",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HK_traffic_sign_834.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/123-HK_traffic_sign_834.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/123-HK_traffic_sign_834.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HK_traffic_sign_834.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/HK-897_obsolete.svg",
+      "iso": "HK",
+      "id": "897",
+      "description": null,
+      "variants": [
+        "obsolete"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/HK_traffic_sign_897_%28obsolete%29.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/128-HK_traffic_sign_897_(obsolete).svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/128-HK_traffic_sign_897_(obsolete).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/HK_traffic_sign_897_%28obsolete%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/HK-Gascoigne_Road.svg",
+      "iso": "HK",
+      "id": "Gascoigne_Road",
+      "description": "Gascoigne_Road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_street_sign-Gascoigne_Road.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/223-HK_street_sign-Gascoigne_Road.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/223-HK_street_sign-Gascoigne_Road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_street_sign-Gascoigne_Road.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/HK-Route1.svg",
+      "iso": "HK",
+      "id": "Route1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/HK_Route1.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/196-HK_Route1.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/196-HK_Route1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/HK_Route1.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.844
+    },
+    {
+      "filename": "h_additional_panels/other/HK-Wan_King_Path.svg",
+      "iso": "HK",
+      "id": "Wan_King_Path",
+      "description": "Wan_King_Path",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/HK_street_sign-Wan_King_Path.svg",
+      "kept_from": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/224-HK_street_sign-Wan_King_Path.svg",
+      "sources": [
+        {
+          "file": "HK_Hong Kong/wikipedia_en/01-en_Road_signs_in_Hong_Kong/224-HK_street_sign-Wan_King_Path.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/HK_street_sign-Wan_King_Path.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/HK-426.svg",
+      "iso": "HK",
+      "id": "426",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/HK_traffic_sign_426.svg",
+      "kept_from": "GB_United Kingdom/wikipedia_en/01-en_Road_signs_in_the_United_Kingdom/401-HK_traffic_sign_426.svg",
+      "sources": [
+        {
+          "file": "GB_United Kingdom/wikipedia_en/01-en_Road_signs_in_the_United_Kingdom/401-HK_traffic_sign_426.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/HK_traffic_sign_426.svg"
+        }
+      ],
+      "shape": "triangle",
+      "also_used_in": [
+        "GB_United Kingdom"
+      ]
+    }
+  ]
+}

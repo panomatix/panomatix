@@ -1,0 +1,4159 @@
+{
+  "country_code": "EE",
+  "country": "Estonia",
+  "images": [
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-111.svg",
+      "iso": "EE",
+      "id": "111",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Estonia_road_sign_111.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/003-Estonia_road_sign_111.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/003-Estonia_road_sign_111.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Estonia_road_sign_111.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-112.svg",
+      "iso": "EE",
+      "id": "112",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Estonia_road_sign_112.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/004-Estonia_road_sign_112.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/004-Estonia_road_sign_112.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Estonia_road_sign_112.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-121.svg",
+      "iso": "EE",
+      "id": "121",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Estonia_road_sign_121.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/005-Estonia_road_sign_121.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/005-Estonia_road_sign_121.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Estonia_road_sign_121.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.527
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-122.svg",
+      "iso": "EE",
+      "id": "122",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Estonia_road_sign_122.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/006-Estonia_road_sign_122.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/006-Estonia_road_sign_122.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Estonia_road_sign_122.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.531
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-123.svg",
+      "iso": "EE",
+      "id": "123",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estonia_road_sign_123.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/007-Estonia_road_sign_123.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/007-Estonia_road_sign_123.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estonia_road_sign_123.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-124.svg",
+      "iso": "EE",
+      "id": "124",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Estonia_road_sign_124.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/008-Estonia_road_sign_124.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/008-Estonia_road_sign_124.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Estonia_road_sign_124.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-125.svg",
+      "iso": "EE",
+      "id": "125",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_125.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/009-Estonia_road_sign_125.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/009-Estonia_road_sign_125.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_125.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-131.svg",
+      "iso": "EE",
+      "id": "131",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Estonia_road_sign_131.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/010-Estonia_road_sign_131.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/010-Estonia_road_sign_131.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Estonia_road_sign_131.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-132.svg",
+      "iso": "EE",
+      "id": "132",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Estonia_road_sign_132.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/011-Estonia_road_sign_132.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/011-Estonia_road_sign_132.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Estonia_road_sign_132.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-133a.svg",
+      "iso": "EE",
+      "id": "133a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Estonia_road_sign_133a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/012-Estonia_road_sign_133a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/012-Estonia_road_sign_133a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Estonia_road_sign_133a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-134a.svg",
+      "iso": "EE",
+      "id": "134a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Estonia_road_sign_134a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/013-Estonia_road_sign_134a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/013-Estonia_road_sign_134a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Estonia_road_sign_134a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-135a.svg",
+      "iso": "EE",
+      "id": "135a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_135a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/014-Estonia_road_sign_135a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/014-Estonia_road_sign_135a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_135a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-136.svg",
+      "iso": "EE",
+      "id": "136",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_136.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/015-Estonia_road_sign_136.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/015-Estonia_road_sign_136.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_136.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-137.svg",
+      "iso": "EE",
+      "id": "137",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Estonia_road_sign_137.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/016-Estonia_road_sign_137.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/016-Estonia_road_sign_137.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Estonia_road_sign_137.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-138.svg",
+      "iso": "EE",
+      "id": "138",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Estonia_road_sign_138.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/017-Estonia_road_sign_138.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/017-Estonia_road_sign_138.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Estonia_road_sign_138.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-141.svg",
+      "iso": "EE",
+      "id": "141",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Estonia_road_sign_141.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/020-Estonia_road_sign_141.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/020-Estonia_road_sign_141.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Estonia_road_sign_141.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-142.svg",
+      "iso": "EE",
+      "id": "142",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_142.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/018-Estonia_road_sign_142.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/018-Estonia_road_sign_142.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_142.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-143.svg",
+      "iso": "EE",
+      "id": "143",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Estonia_road_sign_143.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/021-Estonia_road_sign_143.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/021-Estonia_road_sign_143.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Estonia_road_sign_143.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-144.svg",
+      "iso": "EE",
+      "id": "144",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Estonia_road_sign_144.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/019-Estonia_road_sign_144.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/019-Estonia_road_sign_144.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Estonia_road_sign_144.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-145.svg",
+      "iso": "EE",
+      "id": "145",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Estonia_road_sign_145.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/022-Estonia_road_sign_145.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/022-Estonia_road_sign_145.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Estonia_road_sign_145.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-146.svg",
+      "iso": "EE",
+      "id": "146",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Estonia_road_sign_146.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/023-Estonia_road_sign_146.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/023-Estonia_road_sign_146.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Estonia_road_sign_146.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-151.svg",
+      "iso": "EE",
+      "id": "151",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Estonia_road_sign_151.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/024-Estonia_road_sign_151.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/024-Estonia_road_sign_151.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Estonia_road_sign_151.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-152.svg",
+      "iso": "EE",
+      "id": "152",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Estonia_road_sign_152.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/025-Estonia_road_sign_152.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/025-Estonia_road_sign_152.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Estonia_road_sign_152.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-153.svg",
+      "iso": "EE",
+      "id": "153",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Estonia_road_sign_153.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/026-Estonia_road_sign_153.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/026-Estonia_road_sign_153.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Estonia_road_sign_153.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-154.svg",
+      "iso": "EE",
+      "id": "154",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Estonia_road_sign_154.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/027-Estonia_road_sign_154.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/027-Estonia_road_sign_154.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Estonia_road_sign_154.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-155.svg",
+      "iso": "EE",
+      "id": "155",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Estonia_road_sign_155.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/028-Estonia_road_sign_155.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/028-Estonia_road_sign_155.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Estonia_road_sign_155.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-156.svg",
+      "iso": "EE",
+      "id": "156",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Estonia_road_sign_156.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/029-Estonia_road_sign_156.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/029-Estonia_road_sign_156.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Estonia_road_sign_156.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-157a.svg",
+      "iso": "EE",
+      "id": "157a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Estonia_road_sign_157a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/030-Estonia_road_sign_157a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/030-Estonia_road_sign_157a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Estonia_road_sign_157a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-158.svg",
+      "iso": "EE",
+      "id": "158",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Estonia_road_sign_158.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/031-Estonia_road_sign_158.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/031-Estonia_road_sign_158.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Estonia_road_sign_158.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-159.svg",
+      "iso": "EE",
+      "id": "159",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_159.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/050-Estonia_road_sign_159.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/050-Estonia_road_sign_159.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_159.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-161.svg",
+      "iso": "EE",
+      "id": "161",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Estonia_road_sign_161.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/032-Estonia_road_sign_161.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/032-Estonia_road_sign_161.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Estonia_road_sign_161.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-162.svg",
+      "iso": "EE",
+      "id": "162",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Estonia_road_sign_162.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/033-Estonia_road_sign_162.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/033-Estonia_road_sign_162.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Estonia_road_sign_162.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-163.svg",
+      "iso": "EE",
+      "id": "163",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Estonia_road_sign_163.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/034-Estonia_road_sign_163.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/034-Estonia_road_sign_163.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Estonia_road_sign_163.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-164.svg",
+      "iso": "EE",
+      "id": "164",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Estonia_road_sign_164.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/035-Estonia_road_sign_164.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/035-Estonia_road_sign_164.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Estonia_road_sign_164.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-165.svg",
+      "iso": "EE",
+      "id": "165",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Estonia_road_sign_165.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/036-Estonia_road_sign_165.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/036-Estonia_road_sign_165.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Estonia_road_sign_165.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-166.svg",
+      "iso": "EE",
+      "id": "166",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Estonia_road_sign_166.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/037-Estonia_road_sign_166.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/037-Estonia_road_sign_166.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Estonia_road_sign_166.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-171.svg",
+      "iso": "EE",
+      "id": "171",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Estonia_road_sign_171.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/038-Estonia_road_sign_171.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/038-Estonia_road_sign_171.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Estonia_road_sign_171.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-172.svg",
+      "iso": "EE",
+      "id": "172",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Estonia_road_sign_172.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/039-Estonia_road_sign_172.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/039-Estonia_road_sign_172.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Estonia_road_sign_172.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-173a.svg",
+      "iso": "EE",
+      "id": "173a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Estonia_road_sign_173a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/040-Estonia_road_sign_173a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/040-Estonia_road_sign_173a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Estonia_road_sign_173a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-173b.svg",
+      "iso": "EE",
+      "id": "173b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Estonia_road_sign_173b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/041-Estonia_road_sign_173b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/041-Estonia_road_sign_173b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Estonia_road_sign_173b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-174.svg",
+      "iso": "EE",
+      "id": "174",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Estonia_road_sign_174.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/042-Estonia_road_sign_174.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/042-Estonia_road_sign_174.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Estonia_road_sign_174.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-175.svg",
+      "iso": "EE",
+      "id": "175",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Estonia_road_sign_175.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/043-Estonia_road_sign_175.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/043-Estonia_road_sign_175.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Estonia_road_sign_175.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-176.svg",
+      "iso": "EE",
+      "id": "176",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Estonia_road_sign_176.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/044-Estonia_road_sign_176.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/044-Estonia_road_sign_176.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Estonia_road_sign_176.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-177a.svg",
+      "iso": "EE",
+      "id": "177a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Estonia_road_sign_177a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/045-Estonia_road_sign_177a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/045-Estonia_road_sign_177a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Estonia_road_sign_177a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-177b.svg",
+      "iso": "EE",
+      "id": "177b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_177b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/046-Estonia_road_sign_177b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/046-Estonia_road_sign_177b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_177b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-178a.svg",
+      "iso": "EE",
+      "id": "178a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Estonia_road_sign_178a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/047-Estonia_road_sign_178a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/047-Estonia_road_sign_178a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Estonia_road_sign_178a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-178b.svg",
+      "iso": "EE",
+      "id": "178b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Estonia_road_sign_178b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/048-Estonia_road_sign_178b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/048-Estonia_road_sign_178b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Estonia_road_sign_178b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/other/EE-178c.svg",
+      "iso": "EE",
+      "id": "178c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Estonia_road_sign_178c.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/049-Estonia_road_sign_178c.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/049-Estonia_road_sign_178c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Estonia_road_sign_178c.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-181.svg",
+      "iso": "EE",
+      "id": "181",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Estonia_road_sign_181.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/051-Estonia_road_sign_181.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/051-Estonia_road_sign_181.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Estonia_road_sign_181.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-182.svg",
+      "iso": "EE",
+      "id": "182",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Estonia_road_sign_182.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/052-Estonia_road_sign_182.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/052-Estonia_road_sign_182.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Estonia_road_sign_182.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-183.svg",
+      "iso": "EE",
+      "id": "183",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Estonia_road_sign_183.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/053-Estonia_road_sign_183.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/053-Estonia_road_sign_183.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Estonia_road_sign_183.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-184.svg",
+      "iso": "EE",
+      "id": "184",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Estonia_road_sign_184.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/054-Estonia_road_sign_184.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/054-Estonia_road_sign_184.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Estonia_road_sign_184.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.945
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-185.svg",
+      "iso": "EE",
+      "id": "185",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Estonia_road_sign_185.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/055-Estonia_road_sign_185.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/055-Estonia_road_sign_185.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Estonia_road_sign_185.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-186.svg",
+      "iso": "EE",
+      "id": "186",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Estonia_road_sign_186.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/056-Estonia_road_sign_186.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/056-Estonia_road_sign_186.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Estonia_road_sign_186.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.944
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/EE-187.svg",
+      "iso": "EE",
+      "id": "187",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Estonia_road_sign_187.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/057-Estonia_road_sign_187.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/057-Estonia_road_sign_187.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Estonia_road_sign_187.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.922
+    },
+    {
+      "filename": "b_priority_signs/vienna/EE-211.svg",
+      "iso": "EE",
+      "id": "211",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Estonia_road_sign_211.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/058-Estonia_road_sign_211.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/058-Estonia_road_sign_211.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Estonia_road_sign_211.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.982
+    },
+    {
+      "filename": "b_priority_signs/vienna/EE-212.svg",
+      "iso": "EE",
+      "id": "212",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Estonia_road_sign_212.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/059-Estonia_road_sign_212.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/059-Estonia_road_sign_212.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Estonia_road_sign_212.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.982
+    },
+    {
+      "filename": "b_priority_signs/vienna/EE-221.svg",
+      "iso": "EE",
+      "id": "221",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Estonia_road_sign_221.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/060-Estonia_road_sign_221.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/060-Estonia_road_sign_221.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Estonia_road_sign_221.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.943
+    },
+    {
+      "filename": "b_priority_signs/vienna/EE-222.svg",
+      "iso": "EE",
+      "id": "222",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Estonia_road_sign_222.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/061-Estonia_road_sign_222.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/061-Estonia_road_sign_222.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Estonia_road_sign_222.svg"
+        }
+      ],
+      "shape": "octagon",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/EE-231.svg",
+      "iso": "EE",
+      "id": "231",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Estonia_road_sign_231.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/062-Estonia_road_sign_231.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/062-Estonia_road_sign_231.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Estonia_road_sign_231.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "b_priority_signs/vienna/EE-232.svg",
+      "iso": "EE",
+      "id": "232",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_232.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/063-Estonia_road_sign_232.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/063-Estonia_road_sign_232.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_232.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-311a.svg",
+      "iso": "EE",
+      "id": "311a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Estonia_road_sign_311a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/065-Estonia_road_sign_311a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/065-Estonia_road_sign_311a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Estonia_road_sign_311a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-312.svg",
+      "iso": "EE",
+      "id": "312",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Estonia_road_sign_312.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/066-Estonia_road_sign_312.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/066-Estonia_road_sign_312.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Estonia_road_sign_312.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-313a.svg",
+      "iso": "EE",
+      "id": "313a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Estonia_road_sign_313a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/069-Estonia_road_sign_313a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/069-Estonia_road_sign_313a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Estonia_road_sign_313a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-313b.svg",
+      "iso": "EE",
+      "id": "313b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Estonia_road_sign_313b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/068-Estonia_road_sign_313b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/068-Estonia_road_sign_313b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Estonia_road_sign_313b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-314a.svg",
+      "iso": "EE",
+      "id": "314a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Estonia_road_sign_314a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/067-Estonia_road_sign_314a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/067-Estonia_road_sign_314a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Estonia_road_sign_314a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-314b.svg",
+      "iso": "EE",
+      "id": "314b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Estonia_road_sign_314b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/070-Estonia_road_sign_314b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/070-Estonia_road_sign_314b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Estonia_road_sign_314b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-316.svg",
+      "iso": "EE",
+      "id": "316",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Estonia_road_sign_316.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/071-Estonia_road_sign_316.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/071-Estonia_road_sign_316.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Estonia_road_sign_316.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-317.svg",
+      "iso": "EE",
+      "id": "317",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Estonia_road_sign_317.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/072-Estonia_road_sign_317.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/072-Estonia_road_sign_317.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Estonia_road_sign_317.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-319.svg",
+      "iso": "EE",
+      "id": "319",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Estonia_road_sign_319.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/073-Estonia_road_sign_319.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/073-Estonia_road_sign_319.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Estonia_road_sign_319.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-321.svg",
+      "iso": "EE",
+      "id": "321",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Estonia_road_sign_321.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/074-Estonia_road_sign_321.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/074-Estonia_road_sign_321.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Estonia_road_sign_321.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-322.svg",
+      "iso": "EE",
+      "id": "322",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Estonia_road_sign_322.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/075-Estonia_road_sign_322.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/075-Estonia_road_sign_322.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Estonia_road_sign_322.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-323.svg",
+      "iso": "EE",
+      "id": "323",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Estonia_road_sign_323.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/076-Estonia_road_sign_323.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/076-Estonia_road_sign_323.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Estonia_road_sign_323.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-324.svg",
+      "iso": "EE",
+      "id": "324",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Estonia_road_sign_324.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/077-Estonia_road_sign_324.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/077-Estonia_road_sign_324.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Estonia_road_sign_324.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-331.svg",
+      "iso": "EE",
+      "id": "331",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Estonia_road_sign_331.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/064-Estonia_road_sign_331.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/064-Estonia_road_sign_331.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Estonia_road_sign_331.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-332.svg",
+      "iso": "EE",
+      "id": "332",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Estonia_road_sign_332.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/078-Estonia_road_sign_332.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/078-Estonia_road_sign_332.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Estonia_road_sign_332.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-333.svg",
+      "iso": "EE",
+      "id": "333",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Estonia_road_sign_333.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/079-Estonia_road_sign_333.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/079-Estonia_road_sign_333.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Estonia_road_sign_333.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-334.svg",
+      "iso": "EE",
+      "id": "334",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Estonia_road_sign_334.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/080-Estonia_road_sign_334.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/080-Estonia_road_sign_334.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Estonia_road_sign_334.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-335.svg",
+      "iso": "EE",
+      "id": "335",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Estonia_road_sign_335.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/081-Estonia_road_sign_335.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/081-Estonia_road_sign_335.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Estonia_road_sign_335.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-336a.svg",
+      "iso": "EE",
+      "id": "336a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Estonia_road_sign_336a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/082-Estonia_road_sign_336a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/082-Estonia_road_sign_336a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Estonia_road_sign_336a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-336b.svg",
+      "iso": "EE",
+      "id": "336b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Estonia_road_sign_336b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/083-Estonia_road_sign_336b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/083-Estonia_road_sign_336b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Estonia_road_sign_336b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-341.svg",
+      "iso": "EE",
+      "id": "341",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Estonia_road_sign_341.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/089-Estonia_road_sign_341.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/089-Estonia_road_sign_341.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Estonia_road_sign_341.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-342a.svg",
+      "iso": "EE",
+      "id": "342a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Estonia_road_sign_342a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/084-Estonia_road_sign_342a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/084-Estonia_road_sign_342a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Estonia_road_sign_342a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-342b.svg",
+      "iso": "EE",
+      "id": "342b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_342b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/085-Estonia_road_sign_342b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/085-Estonia_road_sign_342b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_342b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-343.svg",
+      "iso": "EE",
+      "id": "343",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Estonia_road_sign_343.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/086-Estonia_road_sign_343.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/086-Estonia_road_sign_343.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Estonia_road_sign_343.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-344.svg",
+      "iso": "EE",
+      "id": "344",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Estonia_road_sign_344.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/087-Estonia_road_sign_344.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/087-Estonia_road_sign_344.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Estonia_road_sign_344.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-345.svg",
+      "iso": "EE",
+      "id": "345",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Estonia_road_sign_345.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/088-Estonia_road_sign_345.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/088-Estonia_road_sign_345.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Estonia_road_sign_345.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-351_30.svg",
+      "iso": "EE",
+      "id": "351",
+      "description": null,
+      "variants": [
+        "30"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_351%2830%29.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/100-Estonia_road_sign_351(30).svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/100-Estonia_road_sign_351(30).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_351%2830%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-352.svg",
+      "iso": "EE",
+      "id": "352",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Estonia_road_sign_352.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/090-Estonia_road_sign_352.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/090-Estonia_road_sign_352.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Estonia_road_sign_352.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-353.svg",
+      "iso": "EE",
+      "id": "353",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Estonia_road_sign_353.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/091-Estonia_road_sign_353.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/091-Estonia_road_sign_353.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Estonia_road_sign_353.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-354.svg",
+      "iso": "EE",
+      "id": "354",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_354.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/092-Estonia_road_sign_354.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/092-Estonia_road_sign_354.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_354.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-355.svg",
+      "iso": "EE",
+      "id": "355",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Estonia_road_sign_355.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/093-Estonia_road_sign_355.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/093-Estonia_road_sign_355.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Estonia_road_sign_355.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-361.svg",
+      "iso": "EE",
+      "id": "361",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_361.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/094-Estonia_road_sign_361.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/094-Estonia_road_sign_361.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_361.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-362.svg",
+      "iso": "EE",
+      "id": "362",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Estonia_road_sign_362.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/095-Estonia_road_sign_362.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/095-Estonia_road_sign_362.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Estonia_road_sign_362.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-363.svg",
+      "iso": "EE",
+      "id": "363",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Estonia_road_sign_363.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/096-Estonia_road_sign_363.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/096-Estonia_road_sign_363.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Estonia_road_sign_363.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-364.svg",
+      "iso": "EE",
+      "id": "364",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Estonia_road_sign_364.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/097-Estonia_road_sign_364.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/097-Estonia_road_sign_364.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Estonia_road_sign_364.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-371_30.svg",
+      "iso": "EE",
+      "id": "371",
+      "description": null,
+      "variants": [
+        "30"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Estonia_road_sign_371%2830%29.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/101-Estonia_road_sign_371(30).svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/101-Estonia_road_sign_371(30).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Estonia_road_sign_371%2830%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-372.svg",
+      "iso": "EE",
+      "id": "372",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Estonia_road_sign_372.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/098-Estonia_road_sign_372.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/098-Estonia_road_sign_372.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Estonia_road_sign_372.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-373.svg",
+      "iso": "EE",
+      "id": "373",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Estonia_road_sign_373.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/099-Estonia_road_sign_373.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/099-Estonia_road_sign_373.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Estonia_road_sign_373.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/EE-376.svg",
+      "iso": "EE",
+      "id": "376",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Estonia_road_sign_376.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/102-Estonia_road_sign_376.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/102-Estonia_road_sign_376.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Estonia_road_sign_376.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-382.png",
+      "iso": "EE",
+      "id": "382",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/EE_traffic_sign-382.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/103-EE_traffic_sign-382.png",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/103-EE_traffic_sign-382.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/EE_traffic_sign-382.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-383.svg",
+      "iso": "EE",
+      "id": "383",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Estonia_road_sign_383.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/104-Estonia_road_sign_383.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/104-Estonia_road_sign_383.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Estonia_road_sign_383.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-384.png",
+      "iso": "EE",
+      "id": "384",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/EE_traffic_sign-384.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/106-EE_traffic_sign-384.png",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/106-EE_traffic_sign-384.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/EE_traffic_sign-384.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/EE-386.svg",
+      "iso": "EE",
+      "id": "386",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Estonia_road_sign_386.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/126-Estonia_road_sign_386.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/126-Estonia_road_sign_386.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Estonia_road_sign_386.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-392.png",
+      "iso": "EE",
+      "id": "392",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/EE_traffic_sign-392.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/105-EE_traffic_sign-392.png",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/105-EE_traffic_sign-392.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/EE_traffic_sign-392.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-394.png",
+      "iso": "EE",
+      "id": "394",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/EE_traffic_sign-394.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/107-EE_traffic_sign-394.png",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/107-EE_traffic_sign-394.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/EE_traffic_sign-394.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-411.svg",
+      "iso": "EE",
+      "id": "411",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Estonia_road_sign_411.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/108-Estonia_road_sign_411.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/108-Estonia_road_sign_411.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Estonia_road_sign_411.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-412.svg",
+      "iso": "EE",
+      "id": "412",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Estonia_road_sign_412.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/109-Estonia_road_sign_412.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/109-Estonia_road_sign_412.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Estonia_road_sign_412.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-413.svg",
+      "iso": "EE",
+      "id": "413",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Estonia_road_sign_413.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/110-Estonia_road_sign_413.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/110-Estonia_road_sign_413.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Estonia_road_sign_413.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-416.svg",
+      "iso": "EE",
+      "id": "416",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Estonia_road_sign_416.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/111-Estonia_road_sign_416.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/111-Estonia_road_sign_416.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Estonia_road_sign_416.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-418.svg",
+      "iso": "EE",
+      "id": "418",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Estonia_road_sign_418.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/112-Estonia_road_sign_418.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/112-Estonia_road_sign_418.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Estonia_road_sign_418.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-421.svg",
+      "iso": "EE",
+      "id": "421",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estonia_road_sign_421.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/113-Estonia_road_sign_421.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/113-Estonia_road_sign_421.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estonia_road_sign_421.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-423.svg",
+      "iso": "EE",
+      "id": "423",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Estonia_road_sign_423.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/114-Estonia_road_sign_423.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/114-Estonia_road_sign_423.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Estonia_road_sign_423.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-424.svg",
+      "iso": "EE",
+      "id": "424",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Estonia_road_sign_424.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/115-Estonia_road_sign_424.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/115-Estonia_road_sign_424.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Estonia_road_sign_424.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-431.svg",
+      "iso": "EE",
+      "id": "431",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Estonia_road_sign_431.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/116-Estonia_road_sign_431.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/116-Estonia_road_sign_431.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Estonia_road_sign_431.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-432.svg",
+      "iso": "EE",
+      "id": "432",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Estonia_road_sign_432.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/117-Estonia_road_sign_432.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/117-Estonia_road_sign_432.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Estonia_road_sign_432.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-433.svg",
+      "iso": "EE",
+      "id": "433",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Estonia_road_sign_433.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/118-Estonia_road_sign_433.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/118-Estonia_road_sign_433.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Estonia_road_sign_433.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/EE-434.svg",
+      "iso": "EE",
+      "id": "434",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Estonia_road_sign_434.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/119-Estonia_road_sign_434.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/119-Estonia_road_sign_434.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Estonia_road_sign_434.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-435.svg",
+      "iso": "EE",
+      "id": "435",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Estonia_road_sign_435.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/120-Estonia_road_sign_435.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/120-Estonia_road_sign_435.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Estonia_road_sign_435.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-436.svg",
+      "iso": "EE",
+      "id": "436",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Estonia_road_sign_436.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/121-Estonia_road_sign_436.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/121-Estonia_road_sign_436.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Estonia_road_sign_436.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/EE-437.svg",
+      "iso": "EE",
+      "id": "437",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Estonia_road_sign_437.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/122-Estonia_road_sign_437.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/122-Estonia_road_sign_437.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Estonia_road_sign_437.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-438.svg",
+      "iso": "EE",
+      "id": "438",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Estonia_road_sign_438.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/123-Estonia_road_sign_438.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/123-Estonia_road_sign_438.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Estonia_road_sign_438.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-451_30.svg",
+      "iso": "EE",
+      "id": "451",
+      "description": null,
+      "variants": [
+        "30"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Estonia_road_sign_451%2830%29.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/124-Estonia_road_sign_451(30).svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/124-Estonia_road_sign_451(30).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Estonia_road_sign_451%2830%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.985
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-452_30.svg",
+      "iso": "EE",
+      "id": "452",
+      "description": null,
+      "variants": [
+        "30"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Estonia_road_sign_452%2830%29.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/125-Estonia_road_sign_452(30).svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/125-Estonia_road_sign_452(30).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Estonia_road_sign_452%2830%29.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.985
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/EE-461a.svg",
+      "iso": "EE",
+      "id": "461a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Estonia_road_sign_461a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/127-Estonia_road_sign_461a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/127-Estonia_road_sign_461a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Estonia_road_sign_461a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-511.svg",
+      "iso": "EE",
+      "id": "511",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Estonia_road_sign_511.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/128-Estonia_road_sign_511.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/128-Estonia_road_sign_511.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Estonia_road_sign_511.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-512.svg",
+      "iso": "EE",
+      "id": "512",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Estonia_road_sign_512.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/129-Estonia_road_sign_512.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/129-Estonia_road_sign_512.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Estonia_road_sign_512.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-521.svg",
+      "iso": "EE",
+      "id": "521",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Estonia_road_sign_521.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/130-Estonia_road_sign_521.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/130-Estonia_road_sign_521.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Estonia_road_sign_521.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-522.svg",
+      "iso": "EE",
+      "id": "522",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Estonia_road_sign_522.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/132-Estonia_road_sign_522.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/132-Estonia_road_sign_522.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Estonia_road_sign_522.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-523.svg",
+      "iso": "EE",
+      "id": "523",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Estonia_road_sign_523.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/131-Estonia_road_sign_523.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/131-Estonia_road_sign_523.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Estonia_road_sign_523.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "d_mandatory_signs/other/EE-525a.svg",
+      "iso": "EE",
+      "id": "525a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Estonia_road_sign_525a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/133-Estonia_road_sign_525a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/133-Estonia_road_sign_525a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Estonia_road_sign_525a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/EE-526a.svg",
+      "iso": "EE",
+      "id": "526a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estonia_road_sign_526a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/134-Estonia_road_sign_526a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/134-Estonia_road_sign_526a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estonia_road_sign_526a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-527a.svg",
+      "iso": "EE",
+      "id": "527a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Estonia_road_sign_527a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/135-Estonia_road_sign_527a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/135-Estonia_road_sign_527a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Estonia_road_sign_527a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-528a.svg",
+      "iso": "EE",
+      "id": "528a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_528a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/138-Estonia_road_sign_528a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/138-Estonia_road_sign_528a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_528a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-529a.svg",
+      "iso": "EE",
+      "id": "529a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Estonia_road_sign_529a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/136-Estonia_road_sign_529a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/136-Estonia_road_sign_529a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Estonia_road_sign_529a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-529c.svg",
+      "iso": "EE",
+      "id": "529c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Estonia_road_sign_529c.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/137-Estonia_road_sign_529c.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/137-Estonia_road_sign_529c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Estonia_road_sign_529c.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-531s1.svg",
+      "iso": "EE",
+      "id": "531s1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Estonia_road_sign_531s1.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/139-Estonia_road_sign_531s1.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/139-Estonia_road_sign_531s1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Estonia_road_sign_531s1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-532as.svg",
+      "iso": "EE",
+      "id": "532as",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Estonia_road_sign_532as.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/140-Estonia_road_sign_532as.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/140-Estonia_road_sign_532as.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Estonia_road_sign_532as.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-535s.svg",
+      "iso": "EE",
+      "id": "535s",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Estonia_road_sign_535s.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/141-Estonia_road_sign_535s.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/141-Estonia_road_sign_535s.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Estonia_road_sign_535s.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-536as.svg",
+      "iso": "EE",
+      "id": "536as",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estonia_road_sign_536as.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/142-Estonia_road_sign_536as.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/142-Estonia_road_sign_536as.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estonia_road_sign_536as.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-537as.svg",
+      "iso": "EE",
+      "id": "537as",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Estonia_road_sign_537as.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/143-Estonia_road_sign_537as.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/143-Estonia_road_sign_537as.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Estonia_road_sign_537as.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-541a.svg",
+      "iso": "EE",
+      "id": "541a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Estonia_road_sign_541a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/144-Estonia_road_sign_541a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/144-Estonia_road_sign_541a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Estonia_road_sign_541a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-541b.svg",
+      "iso": "EE",
+      "id": "541b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Estonia_road_sign_541b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/145-Estonia_road_sign_541b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/145-Estonia_road_sign_541b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Estonia_road_sign_541b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-544.svg",
+      "iso": "EE",
+      "id": "544",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Estonia_road_sign_544.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/146-Estonia_road_sign_544.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/146-Estonia_road_sign_544.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Estonia_road_sign_544.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-545a.svg",
+      "iso": "EE",
+      "id": "545a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Estonia_road_sign_545a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/147-Estonia_road_sign_545a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/147-Estonia_road_sign_545a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Estonia_road_sign_545a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-547a.svg",
+      "iso": "EE",
+      "id": "547a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Estonia_road_sign_547a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/148-Estonia_road_sign_547a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/148-Estonia_road_sign_547a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Estonia_road_sign_547a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-549.svg",
+      "iso": "EE",
+      "id": "549",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Estonia_road_sign_549.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/149-Estonia_road_sign_549.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/149-Estonia_road_sign_549.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Estonia_road_sign_549.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-551.svg",
+      "iso": "EE",
+      "id": "551",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Estonia_road_sign_551.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/150-Estonia_road_sign_551.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/150-Estonia_road_sign_551.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Estonia_road_sign_551.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/EE-552a.svg",
+      "iso": "EE",
+      "id": "552a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Estonia_road_sign_552a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/151-Estonia_road_sign_552a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/151-Estonia_road_sign_552a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Estonia_road_sign_552a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-555.svg",
+      "iso": "EE",
+      "id": "555",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Estonia_road_sign_555.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/152-Estonia_road_sign_555.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/152-Estonia_road_sign_555.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Estonia_road_sign_555.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/EE-556_70.svg",
+      "iso": "EE",
+      "id": "556",
+      "description": null,
+      "variants": [
+        "70"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_556%2870%29.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/153-Estonia_road_sign_556(70).svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/153-Estonia_road_sign_556(70).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_556%2870%29.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-558.svg",
+      "iso": "EE",
+      "id": "558",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Estonia_road_sign_558.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/154-Estonia_road_sign_558.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/154-Estonia_road_sign_558.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Estonia_road_sign_558.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-561.svg",
+      "iso": "EE",
+      "id": "561",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Estonia_road_sign_561.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/155-Estonia_road_sign_561.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/155-Estonia_road_sign_561.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Estonia_road_sign_561.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-562.svg",
+      "iso": "EE",
+      "id": "562",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Estonia_road_sign_562.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/156-Estonia_road_sign_562.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/156-Estonia_road_sign_562.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Estonia_road_sign_562.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-563.svg",
+      "iso": "EE",
+      "id": "563",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Estonia_road_sign_563.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/157-Estonia_road_sign_563.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/157-Estonia_road_sign_563.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Estonia_road_sign_563.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-571.svg",
+      "iso": "EE",
+      "id": "571",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Estonia_road_sign_571.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/158-Estonia_road_sign_571.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/158-Estonia_road_sign_571.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Estonia_road_sign_571.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-571a.svg",
+      "iso": "EE",
+      "id": "571a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_571a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/159-Estonia_road_sign_571a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/159-Estonia_road_sign_571a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Estonia_road_sign_571a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-572.svg",
+      "iso": "EE",
+      "id": "572",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Estonia_road_sign_572.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/160-Estonia_road_sign_572.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/160-Estonia_road_sign_572.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Estonia_road_sign_572.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-572a.svg",
+      "iso": "EE",
+      "id": "572a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_572a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/161-Estonia_road_sign_572a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/161-Estonia_road_sign_572a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Estonia_road_sign_572a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-573.svg",
+      "iso": "EE",
+      "id": "573",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Estonia_road_sign_573.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/162-Estonia_road_sign_573.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/162-Estonia_road_sign_573.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Estonia_road_sign_573.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-574.svg",
+      "iso": "EE",
+      "id": "574",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Estonia_road_sign_574.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/163-Estonia_road_sign_574.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/163-Estonia_road_sign_574.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Estonia_road_sign_574.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-575a.svg",
+      "iso": "EE",
+      "id": "575a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Estonia_road_sign_575a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/164-Estonia_road_sign_575a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/164-Estonia_road_sign_575a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Estonia_road_sign_575a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-581.svg",
+      "iso": "EE",
+      "id": "581",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Estonia_road_sign_581.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/165-Estonia_road_sign_581.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/165-Estonia_road_sign_581.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Estonia_road_sign_581.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/EE-582.svg",
+      "iso": "EE",
+      "id": "582",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Estonia_road_sign_582.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/166-Estonia_road_sign_582.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/166-Estonia_road_sign_582.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Estonia_road_sign_582.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-591.svg",
+      "iso": "EE",
+      "id": "591",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Estonia_road_sign_591.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/167-Estonia_road_sign_591.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/167-Estonia_road_sign_591.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Estonia_road_sign_591.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "g_other_information_signs/vienna/EE-592b.svg",
+      "iso": "EE",
+      "id": "592b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Estonia_road_sign_592b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/168-Estonia_road_sign_592b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/168-Estonia_road_sign_592b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Estonia_road_sign_592b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-611.svg",
+      "iso": "EE",
+      "id": "611",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Estonia_road_sign_611.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/169-Estonia_road_sign_611.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/169-Estonia_road_sign_611.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Estonia_road_sign_611.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-621.svg",
+      "iso": "EE",
+      "id": "621",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Estonia_road_sign_621.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/170-Estonia_road_sign_621.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/170-Estonia_road_sign_621.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Estonia_road_sign_621.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-621c.svg",
+      "iso": "EE",
+      "id": "621c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_621c.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/171-Estonia_road_sign_621c.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/171-Estonia_road_sign_621c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_621c.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-622.svg",
+      "iso": "EE",
+      "id": "622",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Estonia_road_sign_622.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/172-Estonia_road_sign_622.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/172-Estonia_road_sign_622.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Estonia_road_sign_622.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-623b.svg",
+      "iso": "EE",
+      "id": "623b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Estonia_road_sign_623b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/173-Estonia_road_sign_623b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/173-Estonia_road_sign_623b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Estonia_road_sign_623b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/EE-634.svg",
+      "iso": "EE",
+      "id": "634",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Estonia_road_sign_634.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/174-Estonia_road_sign_634.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/174-Estonia_road_sign_634.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Estonia_road_sign_634.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-645.svg",
+      "iso": "EE",
+      "id": "645",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Estonia_road_sign_645.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/175-Estonia_road_sign_645.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/175-Estonia_road_sign_645.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Estonia_road_sign_645.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-651.svg",
+      "iso": "EE",
+      "id": "651",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Estonia_road_sign_651.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/176-Estonia_road_sign_651.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/176-Estonia_road_sign_651.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Estonia_road_sign_651.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-652a.svg",
+      "iso": "EE",
+      "id": "652a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Estonia_road_sign_652a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/177-Estonia_road_sign_652a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/177-Estonia_road_sign_652a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Estonia_road_sign_652a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-652b.svg",
+      "iso": "EE",
+      "id": "652b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_652b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/178-Estonia_road_sign_652b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/178-Estonia_road_sign_652b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_652b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/EE-652d.svg",
+      "iso": "EE",
+      "id": "652d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_652d.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/179-Estonia_road_sign_652d.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/179-Estonia_road_sign_652d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estonia_road_sign_652d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-661a.svg",
+      "iso": "EE",
+      "id": "661a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Estonia_road_sign_661a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/180-Estonia_road_sign_661a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/180-Estonia_road_sign_661a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Estonia_road_sign_661a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-661c.svg",
+      "iso": "EE",
+      "id": "661c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Estonia_road_sign_661c.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/181-Estonia_road_sign_661c.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/181-Estonia_road_sign_661c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Estonia_road_sign_661c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/EE-661e.svg",
+      "iso": "EE",
+      "id": "661e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_661e.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/182-Estonia_road_sign_661e.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/182-Estonia_road_sign_661e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Estonia_road_sign_661e.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/EE-671a.svg",
+      "iso": "EE",
+      "id": "671a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Estonia_road_sign_671a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/183-Estonia_road_sign_671a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/183-Estonia_road_sign_671a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Estonia_road_sign_671a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-672.svg",
+      "iso": "EE",
+      "id": "672",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Estonia_road_sign_672.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/184-Estonia_road_sign_672.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/184-Estonia_road_sign_672.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Estonia_road_sign_672.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/EE-673.svg",
+      "iso": "EE",
+      "id": "673",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Estonia_road_sign_673.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/185-Estonia_road_sign_673.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/185-Estonia_road_sign_673.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Estonia_road_sign_673.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-677a.svg",
+      "iso": "EE",
+      "id": "677a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Estonia_road_sign_677a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/186-Estonia_road_sign_677a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/186-Estonia_road_sign_677a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Estonia_road_sign_677a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/EE-677c.svg",
+      "iso": "EE",
+      "id": "677c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Estonia_road_sign_677c.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/187-Estonia_road_sign_677c.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/187-Estonia_road_sign_677c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Estonia_road_sign_677c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/EE-677e.svg",
+      "iso": "EE",
+      "id": "677e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Estonia_road_sign_677e.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/188-Estonia_road_sign_677e.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/188-Estonia_road_sign_677e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Estonia_road_sign_677e.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/EE-679a.svg",
+      "iso": "EE",
+      "id": "679a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Estonia_road_sign_679a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/189-Estonia_road_sign_679a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/189-Estonia_road_sign_679a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Estonia_road_sign_679a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-679b.svg",
+      "iso": "EE",
+      "id": "679b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Estonia_road_sign_679b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/190-Estonia_road_sign_679b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/190-Estonia_road_sign_679b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Estonia_road_sign_679b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-679c.svg",
+      "iso": "EE",
+      "id": "679c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Estonia_road_sign_679c.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/191-Estonia_road_sign_679c.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/191-Estonia_road_sign_679c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Estonia_road_sign_679c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-681.svg",
+      "iso": "EE",
+      "id": "681",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Estonia_road_sign_681.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/192-Estonia_road_sign_681.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/192-Estonia_road_sign_681.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Estonia_road_sign_681.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.683
+    },
+    {
+      "filename": "h_additional_panels/other/EE-682.svg",
+      "iso": "EE",
+      "id": "682",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Estonia_road_sign_682.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/193-Estonia_road_sign_682.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/193-Estonia_road_sign_682.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Estonia_road_sign_682.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.683
+    },
+    {
+      "filename": "sd_unclassified/other/EE-683.svg",
+      "iso": "EE",
+      "id": "683",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Estonia_road_sign_683.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/194-Estonia_road_sign_683.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/194-Estonia_road_sign_683.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Estonia_road_sign_683.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.901
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-711.svg",
+      "iso": "EE",
+      "id": "711",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estonia_road_sign_711.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/195-Estonia_road_sign_711.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/195-Estonia_road_sign_711.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estonia_road_sign_711.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-712.svg",
+      "iso": "EE",
+      "id": "712",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Estonia_road_sign_712.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/196-Estonia_road_sign_712.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/196-Estonia_road_sign_712.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Estonia_road_sign_712.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-713.svg",
+      "iso": "EE",
+      "id": "713",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Estonia_road_sign_713.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/197-Estonia_road_sign_713.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/197-Estonia_road_sign_713.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Estonia_road_sign_713.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-714.svg",
+      "iso": "EE",
+      "id": "714",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Estonia_road_sign_714.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/198-Estonia_road_sign_714.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/198-Estonia_road_sign_714.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Estonia_road_sign_714.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-717.svg",
+      "iso": "EE",
+      "id": "717",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Estonia_road_sign_717.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/199-Estonia_road_sign_717.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/199-Estonia_road_sign_717.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Estonia_road_sign_717.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-718.svg",
+      "iso": "EE",
+      "id": "718",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Estonia_road_sign_718.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/200-Estonia_road_sign_718.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/200-Estonia_road_sign_718.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Estonia_road_sign_718.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-719.svg",
+      "iso": "EE",
+      "id": "719",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Estonia_road_sign_719.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/201-Estonia_road_sign_719.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/201-Estonia_road_sign_719.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Estonia_road_sign_719.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-721a.svg",
+      "iso": "EE",
+      "id": "721a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Estonia_road_sign_721a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/202-Estonia_road_sign_721a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/202-Estonia_road_sign_721a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Estonia_road_sign_721a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-721e.svg",
+      "iso": "EE",
+      "id": "721e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Estonia_road_sign_721e.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/203-Estonia_road_sign_721e.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/203-Estonia_road_sign_721e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Estonia_road_sign_721e.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-722.svg",
+      "iso": "EE",
+      "id": "722",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Estonia_road_sign_722.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/204-Estonia_road_sign_722.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/204-Estonia_road_sign_722.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Estonia_road_sign_722.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-723a.svg",
+      "iso": "EE",
+      "id": "723a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Estonia_road_sign_723a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/205-Estonia_road_sign_723a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/205-Estonia_road_sign_723a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Estonia_road_sign_723a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-723b.svg",
+      "iso": "EE",
+      "id": "723b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Estonia_road_sign_723b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/206-Estonia_road_sign_723b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/206-Estonia_road_sign_723b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Estonia_road_sign_723b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-724a.svg",
+      "iso": "EE",
+      "id": "724a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Estonia_road_sign_724a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/207-Estonia_road_sign_724a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/207-Estonia_road_sign_724a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Estonia_road_sign_724a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-725.svg",
+      "iso": "EE",
+      "id": "725",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Estonia_road_sign_725.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/208-Estonia_road_sign_725.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/208-Estonia_road_sign_725.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Estonia_road_sign_725.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-726.svg",
+      "iso": "EE",
+      "id": "726",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Estonia_road_sign_726.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/209-Estonia_road_sign_726.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/209-Estonia_road_sign_726.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Estonia_road_sign_726.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-727.svg",
+      "iso": "EE",
+      "id": "727",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Estonia_road_sign_727.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/210-Estonia_road_sign_727.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/210-Estonia_road_sign_727.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Estonia_road_sign_727.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-728a.svg",
+      "iso": "EE",
+      "id": "728a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Estonia_road_sign_728a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/211-Estonia_road_sign_728a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/211-Estonia_road_sign_728a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Estonia_road_sign_728a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-728b.svg",
+      "iso": "EE",
+      "id": "728b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Estonia_road_sign_728b.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/212-Estonia_road_sign_728b.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/212-Estonia_road_sign_728b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Estonia_road_sign_728b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-731.svg",
+      "iso": "EE",
+      "id": "731",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Estonia_road_sign_731.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/213-Estonia_road_sign_731.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/213-Estonia_road_sign_731.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Estonia_road_sign_731.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-732.svg",
+      "iso": "EE",
+      "id": "732",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Estonia_road_sign_732.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/214-Estonia_road_sign_732.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/214-Estonia_road_sign_732.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Estonia_road_sign_732.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-733.svg",
+      "iso": "EE",
+      "id": "733",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estonia_road_sign_733.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/215-Estonia_road_sign_733.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/215-Estonia_road_sign_733.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estonia_road_sign_733.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/EE-734.svg",
+      "iso": "EE",
+      "id": "734",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Estonia_road_sign_734.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/216-Estonia_road_sign_734.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/216-Estonia_road_sign_734.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Estonia_road_sign_734.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-741.svg",
+      "iso": "EE",
+      "id": "741",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Estonia_road_sign_741.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/217-Estonia_road_sign_741.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/217-Estonia_road_sign_741.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Estonia_road_sign_741.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-742a.svg",
+      "iso": "EE",
+      "id": "742a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Estonia_road_sign_742a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/218-Estonia_road_sign_742a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/218-Estonia_road_sign_742a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Estonia_road_sign_742a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-743.svg",
+      "iso": "EE",
+      "id": "743",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Estonia_road_sign_743.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/219-Estonia_road_sign_743.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/219-Estonia_road_sign_743.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Estonia_road_sign_743.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-744.svg",
+      "iso": "EE",
+      "id": "744",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Estonia_road_sign_744.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/220-Estonia_road_sign_744.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/220-Estonia_road_sign_744.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Estonia_road_sign_744.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-745.svg",
+      "iso": "EE",
+      "id": "745",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Estonia_road_sign_745.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/221-Estonia_road_sign_745.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/221-Estonia_road_sign_745.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Estonia_road_sign_745.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-751.svg",
+      "iso": "EE",
+      "id": "751",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Estonia_road_sign_751.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/222-Estonia_road_sign_751.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/222-Estonia_road_sign_751.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Estonia_road_sign_751.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-752.svg",
+      "iso": "EE",
+      "id": "752",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Estonia_road_sign_752.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/223-Estonia_road_sign_752.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/223-Estonia_road_sign_752.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Estonia_road_sign_752.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/EE-753.svg",
+      "iso": "EE",
+      "id": "753",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Estonia_road_sign_753.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/224-Estonia_road_sign_753.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/224-Estonia_road_sign_753.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Estonia_road_sign_753.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-754.svg",
+      "iso": "EE",
+      "id": "754",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Estonia_road_sign_754.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/225-Estonia_road_sign_754.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/225-Estonia_road_sign_754.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Estonia_road_sign_754.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/EE-762.svg",
+      "iso": "EE",
+      "id": "762",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estonia_road_sign_762.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/226-Estonia_road_sign_762.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/226-Estonia_road_sign_762.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estonia_road_sign_762.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/vienna/EE-811.svg",
+      "iso": "EE",
+      "id": "811",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_811.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/227-Estonia_road_sign_811.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/227-Estonia_road_sign_811.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estonia_road_sign_811.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-816.svg",
+      "iso": "EE",
+      "id": "816",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Estonia_road_sign_816.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/230-Estonia_road_sign_816.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/230-Estonia_road_sign_816.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Estonia_road_sign_816.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-821.svg",
+      "iso": "EE",
+      "id": "821",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Estonia_road_sign_821.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/228-Estonia_road_sign_821.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/228-Estonia_road_sign_821.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Estonia_road_sign_821.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-834.svg",
+      "iso": "EE",
+      "id": "834",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Estonia_road_sign_834.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/231-Estonia_road_sign_834.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/231-Estonia_road_sign_834.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Estonia_road_sign_834.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-844.svg",
+      "iso": "EE",
+      "id": "844",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Estonia_road_sign_844.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/229-Estonia_road_sign_844.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/229-Estonia_road_sign_844.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Estonia_road_sign_844.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-874.svg",
+      "iso": "EE",
+      "id": "874",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Estonia_road_sign_874.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/234-Estonia_road_sign_874.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/234-Estonia_road_sign_874.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Estonia_road_sign_874.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-881.svg",
+      "iso": "EE",
+      "id": "881",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Estonia_road_sign_881.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/233-Estonia_road_sign_881.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/233-Estonia_road_sign_881.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Estonia_road_sign_881.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-888.svg",
+      "iso": "EE",
+      "id": "888",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Estonia_road_sign_888.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/236-Estonia_road_sign_888.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/236-Estonia_road_sign_888.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Estonia_road_sign_888.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-889.svg",
+      "iso": "EE",
+      "id": "889",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Estonia_road_sign_889.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/232-Estonia_road_sign_889.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/232-Estonia_road_sign_889.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Estonia_road_sign_889.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/EE-891a.svg",
+      "iso": "EE",
+      "id": "891a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Estonia_road_sign_891a.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/235-Estonia_road_sign_891a.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/235-Estonia_road_sign_891a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Estonia_road_sign_891a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "_non_identifies/2015_tram_tracks_replacement_in_Tallinn_011.jpg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2015_tram_tracks_replacement_in_Tallinn_011.JPG",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/002-2015_tram_tracks_replacement_in_Tallinn_011.JPG",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/002-2015_tram_tracks_replacement_in_Tallinn_011.JPG",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2015_tram_tracks_replacement_in_Tallinn_011.JPG"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Ambox_current_red_Asia_Australia.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/001-Ambox_current_red_Asia_Australia.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/001-Ambox_current_red_Asia_Australia.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Autoroute_icone.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Autoroute_icone.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/268-Autoroute_icone.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/268-Autoroute_icone.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Autoroute_icone.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Nuvola_apps_ksysv_square.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nuvola_apps_ksysv_square.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/267-Nuvola_apps_ksysv_square.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/267-Nuvola_apps_ksysv_square.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nuvola_apps_ksysv_square.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Road_sign_2ba01.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Road_sign_2ba01.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/251-Road_sign_2ba01.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/251-Road_sign_2ba01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Road_sign_2ba01.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Road_sign_2ba04.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Road_sign_2ba04.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/258-Road_sign_2ba04.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/258-Road_sign_2ba04.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Road_sign_2ba04.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Road_sign_2ba05.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Road_sign_2ba05.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/257-Road_sign_2ba05.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/257-Road_sign_2ba05.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Road_sign_2ba05.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Road_sign_2ba07.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Road_sign_2ba07.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/256-Road_sign_2ba07.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/256-Road_sign_2ba07.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Road_sign_2ba07.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Road_sign_2baa06.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Road_sign_2baa06.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/255-Road_sign_2baa06.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/255-Road_sign_2baa06.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Road_sign_2baa06.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Road_sign_4ba01.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Road_sign_4ba01.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/245-Road_sign_4ba01.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/245-Road_sign_4ba01.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Road_sign_4ba01.svg"
+        }
+      ]
+    },
+    {
+      "filename": "_non_identifies/Symbol_category_class.svg",
+      "iso": null,
+      "id": null,
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg",
+      "kept_from": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/266-Symbol_category_class.svg",
+      "sources": [
+        {
+          "file": "EE_Estonia/wikipedia_en/01-en_Road_signs_in_Estonia/266-Symbol_category_class.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg"
+        }
+      ]
+    }
+  ]
+}

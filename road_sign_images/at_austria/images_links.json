@@ -1,0 +1,3850 @@
+{
+  "country_code": "AT",
+  "country": "Austria",
+  "images": [
+    {
+      "filename": "sd_unclassified/other/AT-ADR33.png",
+      "iso": "AT",
+      "id": "ADR33",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/ADR33_UN1203.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/190-ADR33_UN1203.png",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/190-ADR33_UN1203.png",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/ADR33_UN1203.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-15.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-15",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gefahrenzeichen_15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/039-Gefahrenzeichen_15.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/039-Gefahrenzeichen_15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gefahrenzeichen_15.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/047-Gefahrenzeichen_15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gefahrenzeichen_15.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/043-Gefahrenzeichen_15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gefahrenzeichen_15.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/047-Gefahrenzeichen_15.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gefahrenzeichen_15.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-6a.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gefahrenzeichen_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/011-Gefahrenzeichen_6a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/011-Gefahrenzeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gefahrenzeichen_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/013-Gefahrenzeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gefahrenzeichen_6a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/012-Gefahrenzeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gefahrenzeichen_6a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/013-Gefahrenzeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gefahrenzeichen_6a.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.935
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-6b.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gefahrenzeichen_6b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/012-Gefahrenzeichen_6b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/012-Gefahrenzeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gefahrenzeichen_6b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/014-Gefahrenzeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gefahrenzeichen_6b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/013-Gefahrenzeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gefahrenzeichen_6b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/014-Gefahrenzeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gefahrenzeichen_6b.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.937
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Gefahrenzeichen-6c_III_links_mit_6a.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6c_III_links_mit_6a",
+      "description": "III_links_mit_6a",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gefahrenzeichen_6c_III_links_mit_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/019-Gefahrenzeichen_6c_III_links_mit_6a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/019-Gefahrenzeichen_6c_III_links_mit_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gefahrenzeichen_6c_III_links_mit_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/239-Gefahrenzeichen_6c_III_links_mit_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gefahrenzeichen_6c_III_links_mit_6a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Gefahrenzeichen-6c_III_links_mit_6b.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6c_III_links_mit_6b",
+      "description": "III_links_mit_6b",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gefahrenzeichen_6c_III_links_mit_6b.svg",
+      "kept_from": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/021-Gefahrenzeichen_6c_III_links_mit_6b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/021-Gefahrenzeichen_6c_III_links_mit_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gefahrenzeichen_6c_III_links_mit_6b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-6d.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gefahrenzeichen_6d.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/021-Gefahrenzeichen_6d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/021-Gefahrenzeichen_6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gefahrenzeichen_6d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/022-Gefahrenzeichen_6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gefahrenzeichen_6d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/024-Gefahrenzeichen_6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Gefahrenzeichen_6d.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.487
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-6d_Tafel.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6d_Tafel",
+      "description": "Tafel",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gefahrenzeichen_6d_Tafel.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/021-Gefahrenzeichen_6d_Tafel.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/021-Gefahrenzeichen_6d_Tafel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gefahrenzeichen_6d_Tafel.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/025-Gefahrenzeichen_6d_Tafel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gefahrenzeichen_6d_Tafel.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/020-Gefahrenzeichen_6d_Tafel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gefahrenzeichen_6d_Tafel.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/026-Gefahrenzeichen_6d_Tafel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gefahrenzeichen_6d_Tafel.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Gefahrenzeichen-6d_doppelt.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6d_doppelt",
+      "description": "doppelt",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gefahrenzeichen_6d_doppelt.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/022-Gefahrenzeichen_6d_doppelt.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/022-Gefahrenzeichen_6d_doppelt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gefahrenzeichen_6d_doppelt.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/023-Gefahrenzeichen_6d_doppelt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gefahrenzeichen_6d_doppelt.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/025-Gefahrenzeichen_6d_doppelt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gefahrenzeichen_6d_doppelt.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.554
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-6d_doppelt_Tafel.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6d_doppelt_Tafel",
+      "description": "doppelt_Tafel",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gefahrenzeichen_6d_doppelt_Tafel.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/026-Gefahrenzeichen_6d_doppelt_Tafel.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/026-Gefahrenzeichen_6d_doppelt_Tafel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gefahrenzeichen_6d_doppelt_Tafel.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/021-Gefahrenzeichen_6d_doppelt_Tafel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gefahrenzeichen_6d_doppelt_Tafel.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/027-Gefahrenzeichen_6d_doppelt_Tafel.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gefahrenzeichen_6d_doppelt_Tafel.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-6d_doppelt_liegend.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6d_doppelt_liegend",
+      "description": "doppelt_liegend",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gefahrenzeichen_6d_doppelt_liegend.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/024-Gefahrenzeichen_6d_doppelt_liegend.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/024-Gefahrenzeichen_6d_doppelt_liegend.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gefahrenzeichen_6d_doppelt_liegend.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/025-Gefahrenzeichen_6d_doppelt_liegend.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gefahrenzeichen_6d_doppelt_liegend.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/029-Gefahrenzeichen_6d_doppelt_liegend.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gefahrenzeichen_6d_doppelt_liegend.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.573
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Gefahrenzeichen-6d_liegend.svg",
+      "iso": "AT",
+      "id": "Gefahrenzeichen-6d_liegend",
+      "description": "liegend",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gefahrenzeichen_6d_liegend.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/023-Gefahrenzeichen_6d_liegend.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/023-Gefahrenzeichen_6d_liegend.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gefahrenzeichen_6d_liegend.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/024-Gefahrenzeichen_6d_liegend.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gefahrenzeichen_6d_liegend.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/028-Gefahrenzeichen_6d_liegend.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gefahrenzeichen_6d_liegend.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.465
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Hinweiszeichen-10a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-10a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hinweiszeichen_10a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/148-Hinweiszeichen_10a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/148-Hinweiszeichen_10a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hinweiszeichen_10a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/150-Hinweiszeichen_10a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hinweiszeichen_10a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/146-Hinweiszeichen_10a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hinweiszeichen_10a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/151-Hinweiszeichen_10a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hinweiszeichen_10a.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.725
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AT-Hinweiszeichen-12.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-12",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hinweiszeichen_12.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/150-Hinweiszeichen_12.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/150-Hinweiszeichen_12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hinweiszeichen_12.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/152-Hinweiszeichen_12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hinweiszeichen_12.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/148-Hinweiszeichen_12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hinweiszeichen_12.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/153-Hinweiszeichen_12.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hinweiszeichen_12.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AT-Hinweiszeichen-13b_mit_Nr_rechts-1.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13b_mit_Nr_rechts-1",
+      "description": "mit_Nr_rechts-1",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hinweiszeichen_13b_mit_Nr._rechts-1.svg",
+      "kept_from": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/158-Hinweiszeichen_13b_mit_Nr._rechts-1.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/158-Hinweiszeichen_13b_mit_Nr._rechts-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hinweiszeichen_13b_mit_Nr._rechts-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "h_additional_panels/other/AT-Hinweiszeichen-13c.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13c",
+      "description": "links",
+      "variants": [
+        "2010"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hinweiszeichen_13c_links_%282010%29.svg",
+      "kept_from": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/154-Hinweiszeichen_13c_links_(2010).svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/154-Hinweiszeichen_13c_links_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hinweiszeichen_13c_links_%282010%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997,
+      "valid_years": "2010"
+    },
+    {
+      "filename": "h_additional_panels/other/AT-Hinweiszeichen-13c_geradeaus.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13c_geradeaus",
+      "description": "geradeaus",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hinweiszeichen_13c_geradeaus.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/160-Hinweiszeichen_13c_geradeaus.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/160-Hinweiszeichen_13c_geradeaus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hinweiszeichen_13c_geradeaus.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "h_additional_panels/other/AT-Hinweiszeichen-13c_links.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13c_links",
+      "description": "links",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_13c_links.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/159-Hinweiszeichen_13c_links.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/159-Hinweiszeichen_13c_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_13c_links.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/159-Hinweiszeichen_13c_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_13c_links.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "h_additional_panels/other/AT-Hinweiszeichen-13c_rechts.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13c_rechts",
+      "description": "rechts",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hinweiszeichen_13c_rechts.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/158-Hinweiszeichen_13c_rechts.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/158-Hinweiszeichen_13c_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hinweiszeichen_13c_rechts.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "g_other_information_signs/other/AT-Hinweiszeichen-13d.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13d",
+      "description": "links",
+      "variants": [
+        "2010"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hinweiszeichen_13d_links_%282010%29.svg",
+      "kept_from": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/155-Hinweiszeichen_13d_links_(2010).svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/155-Hinweiszeichen_13d_links_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hinweiszeichen_13d_links_%282010%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996,
+      "valid_years": "2010"
+    },
+    {
+      "filename": "g_other_information_signs/other/AT-Hinweiszeichen-13d_geradeaus.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13d_geradeaus",
+      "description": "geradeaus",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hinweiszeichen_13d_geradeaus.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/163-Hinweiszeichen_13d_geradeaus.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/163-Hinweiszeichen_13d_geradeaus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hinweiszeichen_13d_geradeaus.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "g_other_information_signs/other/AT-Hinweiszeichen-13d_links.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13d_links",
+      "description": "links",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hinweiszeichen_13d_links.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/162-Hinweiszeichen_13d_links.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/162-Hinweiszeichen_13d_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hinweiszeichen_13d_links.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/160-Hinweiszeichen_13d_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hinweiszeichen_13d_links.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "g_other_information_signs/other/AT-Hinweiszeichen-13d_rechts.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-13d_rechts",
+      "description": "rechts",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hinweiszeichen_13d_rechts.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/161-Hinweiszeichen_13d_rechts.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/161-Hinweiszeichen_13d_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hinweiszeichen_13d_rechts.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.996
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-15a-a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15a-a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15a-a.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/167-Hinweiszeichen_15a-a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/167-Hinweiszeichen_15a-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15a-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/159-Hinweiszeichen_15a-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15a-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/164-Hinweiszeichen_15a-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15a-a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-15a-b.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15a-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hinweiszeichen_15a-b.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/168-Hinweiszeichen_15a-b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/168-Hinweiszeichen_15a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hinweiszeichen_15a-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/160-Hinweiszeichen_15a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hinweiszeichen_15a-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/165-Hinweiszeichen_15a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hinweiszeichen_15a-b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/AT-Hinweiszeichen-15a-c.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15a-c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_15a-c.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/169-Hinweiszeichen_15a-c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/169-Hinweiszeichen_15a-c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_15a-c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/161-Hinweiszeichen_15a-c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_15a-c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/166-Hinweiszeichen_15a-c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_15a-c.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-15a-d.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15a-d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Hinweiszeichen_15a-d.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/170-Hinweiszeichen_15a-d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/170-Hinweiszeichen_15a-d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Hinweiszeichen_15a-d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/162-Hinweiszeichen_15a-d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Hinweiszeichen_15a-d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/167-Hinweiszeichen_15a-d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Hinweiszeichen_15a-d.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-15b-a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15b-a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hinweiszeichen_15b-a.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/171-Hinweiszeichen_15b-a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/171-Hinweiszeichen_15b-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hinweiszeichen_15b-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/163-Hinweiszeichen_15b-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hinweiszeichen_15b-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/168-Hinweiszeichen_15b-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hinweiszeichen_15b-a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-15b-b_hoch.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15b-b_hoch",
+      "description": "hoch",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15b-b_hoch.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/172-Hinweiszeichen_15b-b_hoch.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/172-Hinweiszeichen_15b-b_hoch.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15b-b_hoch.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/164-Hinweiszeichen_15b-b_hoch.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15b-b_hoch.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/169-Hinweiszeichen_15b-b_hoch.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hinweiszeichen_15b-b_hoch.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-15b-b_quer.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15b-b_quer",
+      "description": "quer",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hinweiszeichen_15b-b_quer.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/173-Hinweiszeichen_15b-b_quer.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/173-Hinweiszeichen_15b-b_quer.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hinweiszeichen_15b-b_quer.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/165-Hinweiszeichen_15b-b_quer.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hinweiszeichen_15b-b_quer.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/170-Hinweiszeichen_15b-b_quer.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hinweiszeichen_15b-b_quer.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-15c.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-15c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_15c.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/174-Hinweiszeichen_15c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/174-Hinweiszeichen_15c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_15c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/166-Hinweiszeichen_15c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_15c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/171-Hinweiszeichen_15c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_15c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-16a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-16a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hinweiszeichen_16a.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/175-Hinweiszeichen_16a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/175-Hinweiszeichen_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hinweiszeichen_16a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/167-Hinweiszeichen_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hinweiszeichen_16a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/172-Hinweiszeichen_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hinweiszeichen_16a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-16b_geradeaus.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-16b_geradeaus",
+      "description": "geradeaus",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hinweiszeichen_16b_geradeaus.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/176-Hinweiszeichen_16b_geradeaus.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/176-Hinweiszeichen_16b_geradeaus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hinweiszeichen_16b_geradeaus.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/168-Hinweiszeichen_16b_geradeaus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hinweiszeichen_16b_geradeaus.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/174-Hinweiszeichen_16b_geradeaus.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hinweiszeichen_16b_geradeaus.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-16b_rechts.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-16b_rechts",
+      "description": "rechts",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hinweiszeichen_16b_rechts.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/177-Hinweiszeichen_16b_rechts.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/177-Hinweiszeichen_16b_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hinweiszeichen_16b_rechts.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/212-Hinweiszeichen_16b_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hinweiszeichen_16b_rechts.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/173-Hinweiszeichen_16b_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hinweiszeichen_16b_rechts.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-16b_rechts_LKW.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-16b_rechts_LKW",
+      "description": "rechts_LKW",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hinweiszeichen_16b_rechts_LKW.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/178-Hinweiszeichen_16b_rechts_LKW.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/178-Hinweiszeichen_16b_rechts_LKW.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hinweiszeichen_16b_rechts_LKW.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/211-Hinweiszeichen_16b_rechts_LKW.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hinweiszeichen_16b_rechts_LKW.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/175-Hinweiszeichen_16b_rechts_LKW.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hinweiszeichen_16b_rechts_LKW.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-16c-a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-16c-a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hinweiszeichen_16c-a.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/179-Hinweiszeichen_16c-a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/179-Hinweiszeichen_16c-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hinweiszeichen_16c-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/169-Hinweiszeichen_16c-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hinweiszeichen_16c-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/176-Hinweiszeichen_16c-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hinweiszeichen_16c-a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-16c-b.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-16c-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hinweiszeichen_16c-b.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/180-Hinweiszeichen_16c-b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/180-Hinweiszeichen_16c-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hinweiszeichen_16c-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/170-Hinweiszeichen_16c-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hinweiszeichen_16c-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/177-Hinweiszeichen_16c-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hinweiszeichen_16c-b.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/other/AT-Hinweiszeichen-18.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hinweiszeichen_18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/153-Hinweiszeichen_18.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/153-Hinweiszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hinweiszeichen_18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/183-Hinweiszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hinweiszeichen_18.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/173-Hinweiszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hinweiszeichen_18.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/180-Hinweiszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Hinweiszeichen_18.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AT-Hinweiszeichen-19.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-19",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hinweiszeichen_19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/154-Hinweiszeichen_19.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/154-Hinweiszeichen_19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hinweiszeichen_19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/184-Hinweiszeichen_19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hinweiszeichen_19.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/174-Hinweiszeichen_19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hinweiszeichen_19.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/181-Hinweiszeichen_19.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hinweiszeichen_19.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AT-Hinweiszeichen-1a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-1a",
+      "description": null,
+      "variants": [
+        "2010"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hinweiszeichen_1a_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/121-Hinweiszeichen_1a_(2010).svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/121-Hinweiszeichen_1a_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hinweiszeichen_1a_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/116-Hinweiszeichen_1a_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hinweiszeichen_1a_%282010%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999,
+      "valid_years": "2010",
+      "replaced_versions": [
+        {
+          "filename": "square/AT-Hinweiszeichen-1a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hinweiszeichen_1a.svg"
+        }
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-20.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-20",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hinweiszeichen_20.svg",
+      "kept_from": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/214-Hinweiszeichen_20.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/214-Hinweiszeichen_20.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hinweiszeichen_20.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-21.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hinweiszeichen_21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/155-Hinweiszeichen_21.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/155-Hinweiszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hinweiszeichen_21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/185-Hinweiszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hinweiszeichen_21.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/175-Hinweiszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hinweiszeichen_21.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/182-Hinweiszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hinweiszeichen_21.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.925
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-22.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hinweiszeichen_22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/156-Hinweiszeichen_22.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/156-Hinweiszeichen_22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hinweiszeichen_22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/AT-Hinweiszeichen-23.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-23",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hinweiszeichen_23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/157-Hinweiszeichen_23.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/157-Hinweiszeichen_23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hinweiszeichen_23.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/187-Hinweiszeichen_23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hinweiszeichen_23.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/177-Hinweiszeichen_23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hinweiszeichen_23.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/184-Hinweiszeichen_23.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hinweiszeichen_23.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-23a_grrrg.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-23a_grrrg",
+      "description": "grrrg",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hinweiszeichen_23a_grrrg.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/188-Hinweiszeichen_23a_grrrg.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/188-Hinweiszeichen_23a_grrrg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hinweiszeichen_23a_grrrg.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/179-Hinweiszeichen_23a_grrrg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hinweiszeichen_23a_grrrg.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/185-Hinweiszeichen_23a_grrrg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hinweiszeichen_23a_grrrg.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.892
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-23a_rllg.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-23a_rllg",
+      "description": "rllg",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hinweiszeichen_23a_rllg.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/189-Hinweiszeichen_23a_rllg.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/189-Hinweiszeichen_23a_rllg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hinweiszeichen_23a_rllg.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/178-Hinweiszeichen_23a_rllg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hinweiszeichen_23a_rllg.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/186-Hinweiszeichen_23a_rllg.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hinweiszeichen_23a_rllg.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-23b-1+2-1.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-23b-1+2-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hinweiszeichen_23b_1%2B2-1.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/191-Hinweiszeichen_23b_1+2-1.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/191-Hinweiszeichen_23b_1+2-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hinweiszeichen_23b_1%2B2-1.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/180-Hinweiszeichen_23b_1+2-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hinweiszeichen_23b_1%2B2-1.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/187-Hinweiszeichen_23b_1+2-1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hinweiszeichen_23b_1%2B2-1.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-23b-1+2.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-23b-1+2",
+      "description": "in_m",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_23b_1%2B2_in_..._m.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/190-Hinweiszeichen_23b_1+2_in_..._m.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/190-Hinweiszeichen_23b_1+2_in_..._m.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_23b_1%2B2_in_..._m.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/181-Hinweiszeichen_23b_1+2_in_..._m.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_23b_1%2B2_in_..._m.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/188-Hinweiszeichen_23b_1+2_in_..._m.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_23b_1%2B2_in_..._m.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-23c.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-23c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hinweiszeichen_23c.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/192-Hinweiszeichen_23c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/192-Hinweiszeichen_23c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hinweiszeichen_23c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/182-Hinweiszeichen_23c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hinweiszeichen_23c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/189-Hinweiszeichen_23c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Hinweiszeichen_23c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/other/AT-Hinweiszeichen-24.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-24",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Hinweiszeichen_24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/158-Hinweiszeichen_24.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/158-Hinweiszeichen_24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Hinweiszeichen_24.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/193-Hinweiszeichen_24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Hinweiszeichen_24.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/183-Hinweiszeichen_24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Hinweiszeichen_24.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/190-Hinweiszeichen_24.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Hinweiszeichen_24.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Hinweiszeichen-25.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-25",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hinweiszeichen_25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/159-Hinweiszeichen_25.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/159-Hinweiszeichen_25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hinweiszeichen_25.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/194-Hinweiszeichen_25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hinweiszeichen_25.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/184-Hinweiszeichen_25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hinweiszeichen_25.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/191-Hinweiszeichen_25.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hinweiszeichen_25.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-26.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-26",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hinweiszeichen_26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/160-Hinweiszeichen_26.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/160-Hinweiszeichen_26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hinweiszeichen_26.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/185-Hinweiszeichen_26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hinweiszeichen_26.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/192-Hinweiszeichen_26.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hinweiszeichen_26.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-26a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-26a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hinweiszeichen_26a.svg",
+      "kept_from": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/186-Hinweiszeichen_26a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/186-Hinweiszeichen_26a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Hinweiszeichen_26a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AT-Hinweiszeichen-27.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-27",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/162-Hinweiszeichen_27.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/162-Hinweiszeichen_27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_27.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/187-Hinweiszeichen_27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_27.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/193-Hinweiszeichen_27.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hinweiszeichen_27.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AT-Hinweiszeichen-28a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-28a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hinweiszeichen_28a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/163-Hinweiszeichen_28a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/163-Hinweiszeichen_28a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hinweiszeichen_28a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/188-Hinweiszeichen_28a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hinweiszeichen_28a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/194-Hinweiszeichen_28a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hinweiszeichen_28a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AT-Hinweiszeichen-28b.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-28b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hinweiszeichen_28b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/164-Hinweiszeichen_28b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/164-Hinweiszeichen_28b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hinweiszeichen_28b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/189-Hinweiszeichen_28b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hinweiszeichen_28b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/195-Hinweiszeichen_28b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hinweiszeichen_28b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-2.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-2",
+      "description": null,
+      "variants": [
+        "2010"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hinweiszeichen_2_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/125-Hinweiszeichen_2_(2010).svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/125-Hinweiszeichen_2_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hinweiszeichen_2_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/119-Hinweiszeichen_2_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hinweiszeichen_2_%282010%29.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998,
+      "valid_years": "2010",
+      "replaced_versions": [
+        {
+          "filename": "square/AT-Hinweiszeichen-2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hinweiszeichen_2.svg"
+        }
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AT-Hinweiszeichen-4.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-4",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hinweiszeichen_4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/131-Hinweiszeichen_4.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/131-Hinweiszeichen_4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hinweiszeichen_4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/133-Hinweiszeichen_4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hinweiszeichen_4.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/126-Hinweiszeichen_4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hinweiszeichen_4.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/132-Hinweiszeichen_4.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hinweiszeichen_4.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-4a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hinweiszeichen_4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/132-Hinweiszeichen_4a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/132-Hinweiszeichen_4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hinweiszeichen_4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/134-Hinweiszeichen_4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hinweiszeichen_4a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/127-Hinweiszeichen_4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hinweiszeichen_4a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/AT-Hinweiszeichen-5.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-5",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hinweiszeichen_5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/133-Hinweiszeichen_5.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/133-Hinweiszeichen_5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hinweiszeichen_5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/135-Hinweiszeichen_5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hinweiszeichen_5.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/128-Hinweiszeichen_5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hinweiszeichen_5.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/133-Hinweiszeichen_5.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hinweiszeichen_5.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/AT-Hinweiszeichen-6.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-6",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hinweiszeichen_6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/134-Hinweiszeichen_6.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/134-Hinweiszeichen_6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hinweiszeichen_6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/136-Hinweiszeichen_6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hinweiszeichen_6.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/129-Hinweiszeichen_6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hinweiszeichen_6.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/134-Hinweiszeichen_6.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hinweiszeichen_6.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-6a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-6a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hinweiszeichen_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/135-Hinweiszeichen_6a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/135-Hinweiszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hinweiszeichen_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/137-Hinweiszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hinweiszeichen_6a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/130-Hinweiszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hinweiszeichen_6a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/135-Hinweiszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hinweiszeichen_6a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Hinweiszeichen-7.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-7",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hinweiszeichen_7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/136-Hinweiszeichen_7.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/136-Hinweiszeichen_7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hinweiszeichen_7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/138-Hinweiszeichen_7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hinweiszeichen_7.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/131-Hinweiszeichen_7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hinweiszeichen_7.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/136-Hinweiszeichen_7.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hinweiszeichen_7.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/AT-Hinweiszeichen-7a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_7a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/137-Hinweiszeichen_7a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/137-Hinweiszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_7a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/139-Hinweiszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_7a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/132-Hinweiszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_7a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/137-Hinweiszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinweiszeichen_7a.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AT-Hinweiszeichen-8a.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-8a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hinweiszeichen_8a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/138-Hinweiszeichen_8a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/138-Hinweiszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hinweiszeichen_8a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/140-Hinweiszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hinweiszeichen_8a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/133-Hinweiszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hinweiszeichen_8a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/138-Hinweiszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hinweiszeichen_8a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AT-Hinweiszeichen-8b.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-8b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Hinweiszeichen_8b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/139-Hinweiszeichen_8b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/139-Hinweiszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Hinweiszeichen_8b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/141-Hinweiszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Hinweiszeichen_8b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/134-Hinweiszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Hinweiszeichen_8b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/139-Hinweiszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Hinweiszeichen_8b.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AT-Hinweiszeichen-8c.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-8c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hinweiszeichen_8c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/140-Hinweiszeichen_8c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/140-Hinweiszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hinweiszeichen_8c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/142-Hinweiszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hinweiszeichen_8c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/135-Hinweiszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hinweiszeichen_8c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/140-Hinweiszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hinweiszeichen_8c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AT-Hinweiszeichen-8d.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-8d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hinweiszeichen_8d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/141-Hinweiszeichen_8d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/141-Hinweiszeichen_8d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hinweiszeichen_8d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/143-Hinweiszeichen_8d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hinweiszeichen_8d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/136-Hinweiszeichen_8d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hinweiszeichen_8d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/141-Hinweiszeichen_8d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hinweiszeichen_8d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-9c.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-9c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_9c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/143-Hinweiszeichen_9c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/143-Hinweiszeichen_9c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_9c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/146-Hinweiszeichen_9c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_9c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/139-Hinweiszeichen_9c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_9c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/144-Hinweiszeichen_9c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hinweiszeichen_9c.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/AT-Hinweiszeichen-9d.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-9d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hinweiszeichen_9d.svg",
+      "kept_from": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/147-Hinweiszeichen_9d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/147-Hinweiszeichen_9d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hinweiszeichen_9d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/140-Hinweiszeichen_9d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hinweiszeichen_9d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/145-Hinweiszeichen_9d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hinweiszeichen_9d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-9e.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-9e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hinweiszeichen_9e.svg",
+      "kept_from": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/148-Hinweiszeichen_9e.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/148-Hinweiszeichen_9e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hinweiszeichen_9e.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-9e_new.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-9e_new",
+      "description": "new",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_9e_new.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/144-Hinweiszeichen_9e_new.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/144-Hinweiszeichen_9e_new.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_9e_new.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/141-Hinweiszeichen_9e_new.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_9e_new.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/146-Hinweiszeichen_9e_new.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hinweiszeichen_9e_new.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Hinweiszeichen-9f.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-9f",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hinweiszeichen_9f.svg",
+      "kept_from": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/142-Hinweiszeichen_9f.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/142-Hinweiszeichen_9f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hinweiszeichen_9f.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/147-Hinweiszeichen_9f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hinweiszeichen_9f.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/AT-Hinweiszeichen-9g.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-9g",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hinweiszeichen_9g.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/145-Hinweiszeichen_9g.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/145-Hinweiszeichen_9g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hinweiszeichen_9g.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/143-Hinweiszeichen_9g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hinweiszeichen_9g.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-1.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-1",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vorschriftszeichen_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/041-Vorschriftszeichen_1.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/041-Vorschriftszeichen_1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vorschriftszeichen_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/049-Vorschriftszeichen_1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vorschriftszeichen_1.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/045-Vorschriftszeichen_1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vorschriftszeichen_1.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/049-Vorschriftszeichen_1.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vorschriftszeichen_1.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-10a_alt.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-10a",
+      "description": null,
+      "variants": [
+        "alt"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vorschriftszeichen_10a_alt.svg",
+      "kept_from": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/245-Vorschriftszeichen_10a_alt.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/245-Vorschriftszeichen_10a_alt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vorschriftszeichen_10a_alt.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-11.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-11",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vorschriftszeichen_11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/077-Vorschriftszeichen_11.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/077-Vorschriftszeichen_11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vorschriftszeichen_11.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/081-Vorschriftszeichen_11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vorschriftszeichen_11.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/074-Vorschriftszeichen_11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vorschriftszeichen_11.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/079-Vorschriftszeichen_11.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vorschriftszeichen_11.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-13a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-13a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_13a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/081-Vorschriftszeichen_13a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/081-Vorschriftszeichen_13a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_13a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/085-Vorschriftszeichen_13a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_13a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/078-Vorschriftszeichen_13a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_13a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/083-Vorschriftszeichen_13a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_13a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-13b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-13b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vorschriftszeichen_13b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/082-Vorschriftszeichen_13b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/082-Vorschriftszeichen_13b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vorschriftszeichen_13b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/086-Vorschriftszeichen_13b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vorschriftszeichen_13b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/079-Vorschriftszeichen_13b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vorschriftszeichen_13b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/084-Vorschriftszeichen_13b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vorschriftszeichen_13b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-13c-a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-13c-a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vorschriftszeichen_13c-a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/083-Vorschriftszeichen_13c-a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/083-Vorschriftszeichen_13c-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vorschriftszeichen_13c-a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/087-Vorschriftszeichen_13c-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vorschriftszeichen_13c-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/080-Vorschriftszeichen_13c-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vorschriftszeichen_13c-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/085-Vorschriftszeichen_13c-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vorschriftszeichen_13c-a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-13c-b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-13c-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vorschriftszeichen_13c-b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/084-Vorschriftszeichen_13c-b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/084-Vorschriftszeichen_13c-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vorschriftszeichen_13c-b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/088-Vorschriftszeichen_13c-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vorschriftszeichen_13c-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/081-Vorschriftszeichen_13c-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vorschriftszeichen_13c-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/086-Vorschriftszeichen_13c-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vorschriftszeichen_13c-b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-13e.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-13e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Vorschriftszeichen_13e.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/086-Vorschriftszeichen_13e.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/086-Vorschriftszeichen_13e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Vorschriftszeichen_13e.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/090-Vorschriftszeichen_13e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Vorschriftszeichen_13e.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/083-Vorschriftszeichen_13e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Vorschriftszeichen_13e.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/088-Vorschriftszeichen_13e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Vorschriftszeichen_13e.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-14.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-14",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Vorschriftszeichen_14.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/087-Vorschriftszeichen_14.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/087-Vorschriftszeichen_14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Vorschriftszeichen_14.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/091-Vorschriftszeichen_14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Vorschriftszeichen_14.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/084-Vorschriftszeichen_14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Vorschriftszeichen_14.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/089-Vorschriftszeichen_14.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Vorschriftszeichen_14.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AT-Vorschriftszeichen-14a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-14a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Vorschriftszeichen_14a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/088-Vorschriftszeichen_14a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/088-Vorschriftszeichen_14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Vorschriftszeichen_14a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/092-Vorschriftszeichen_14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Vorschriftszeichen_14a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/085-Vorschriftszeichen_14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Vorschriftszeichen_14a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/090-Vorschriftszeichen_14a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Vorschriftszeichen_14a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-14b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-14b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vorschriftszeichen_14b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/089-Vorschriftszeichen_14b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/089-Vorschriftszeichen_14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vorschriftszeichen_14b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/093-Vorschriftszeichen_14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vorschriftszeichen_14b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/086-Vorschriftszeichen_14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vorschriftszeichen_14b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/091-Vorschriftszeichen_14b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vorschriftszeichen_14b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.991
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_gerade.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_gerade",
+      "description": "gerade",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vorschriftszeichen_15_gerade.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/092-Vorschriftszeichen_15_gerade.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/092-Vorschriftszeichen_15_gerade.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vorschriftszeichen_15_gerade.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/096-Vorschriftszeichen_15_gerade.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vorschriftszeichen_15_gerade.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/089-Vorschriftszeichen_15_gerade.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vorschriftszeichen_15_gerade.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/094-Vorschriftszeichen_15_gerade.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vorschriftszeichen_15_gerade.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_gerade_links.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_gerade_links",
+      "description": "gerade_links",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vorschriftszeichen_15_gerade_links.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/095-Vorschriftszeichen_15_gerade_links.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/095-Vorschriftszeichen_15_gerade_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vorschriftszeichen_15_gerade_links.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/099-Vorschriftszeichen_15_gerade_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vorschriftszeichen_15_gerade_links.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/092-Vorschriftszeichen_15_gerade_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vorschriftszeichen_15_gerade_links.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/097-Vorschriftszeichen_15_gerade_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vorschriftszeichen_15_gerade_links.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_gerade_rechts.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_gerade_rechts",
+      "description": "gerade_rechts",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vorschriftszeichen_15_gerade_rechts.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/096-Vorschriftszeichen_15_gerade_rechts.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/096-Vorschriftszeichen_15_gerade_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vorschriftszeichen_15_gerade_rechts.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/100-Vorschriftszeichen_15_gerade_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vorschriftszeichen_15_gerade_rechts.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/093-Vorschriftszeichen_15_gerade_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vorschriftszeichen_15_gerade_rechts.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/098-Vorschriftszeichen_15_gerade_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vorschriftszeichen_15_gerade_rechts.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-15_links.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_links",
+      "description": "links",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vorschriftszeichen_15_links.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/090-Vorschriftszeichen_15_links.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/090-Vorschriftszeichen_15_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vorschriftszeichen_15_links.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/094-Vorschriftszeichen_15_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vorschriftszeichen_15_links.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/087-Vorschriftszeichen_15_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vorschriftszeichen_15_links.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/092-Vorschriftszeichen_15_links.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vorschriftszeichen_15_links.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_links_abb.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_links_abb",
+      "description": "links_abb",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Vorschriftszeichen_15_links_abb.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/093-Vorschriftszeichen_15_links_abb.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/093-Vorschriftszeichen_15_links_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Vorschriftszeichen_15_links_abb.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/097-Vorschriftszeichen_15_links_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Vorschriftszeichen_15_links_abb.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/090-Vorschriftszeichen_15_links_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Vorschriftszeichen_15_links_abb.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/095-Vorschriftszeichen_15_links_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Vorschriftszeichen_15_links_abb.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-15_links_geneigt.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_links_geneigt",
+      "description": "links_geneigt",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vorschriftszeichen_15_links_geneigt.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/098-Vorschriftszeichen_15_links_geneigt.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/098-Vorschriftszeichen_15_links_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vorschriftszeichen_15_links_geneigt.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/102-Vorschriftszeichen_15_links_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vorschriftszeichen_15_links_geneigt.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/095-Vorschriftszeichen_15_links_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vorschriftszeichen_15_links_geneigt.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/100-Vorschriftszeichen_15_links_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vorschriftszeichen_15_links_geneigt.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_links_rechts.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_links_rechts",
+      "description": "links_rechts",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vorschriftszeichen_15_links_rechts.svg",
+      "kept_from": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/094-Vorschriftszeichen_15_links_rechts.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/094-Vorschriftszeichen_15_links_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vorschriftszeichen_15_links_rechts.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/099-Vorschriftszeichen_15_links_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vorschriftszeichen_15_links_rechts.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_rechts.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_rechts",
+      "description": "rechts",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vorschriftszeichen_15_rechts.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/091-Vorschriftszeichen_15_rechts.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/091-Vorschriftszeichen_15_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vorschriftszeichen_15_rechts.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/095-Vorschriftszeichen_15_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vorschriftszeichen_15_rechts.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/088-Vorschriftszeichen_15_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vorschriftszeichen_15_rechts.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/093-Vorschriftszeichen_15_rechts.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vorschriftszeichen_15_rechts.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_rechts_abb.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_rechts_abb",
+      "description": "rechts_abb",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vorschriftszeichen_15_rechts_abb.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/094-Vorschriftszeichen_15_rechts_abb.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/094-Vorschriftszeichen_15_rechts_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vorschriftszeichen_15_rechts_abb.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/098-Vorschriftszeichen_15_rechts_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vorschriftszeichen_15_rechts_abb.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/091-Vorschriftszeichen_15_rechts_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vorschriftszeichen_15_rechts_abb.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/096-Vorschriftszeichen_15_rechts_abb.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vorschriftszeichen_15_rechts_abb.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15_rechts_geneigt.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15_rechts_geneigt",
+      "description": "rechts_geneigt",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vorschriftszeichen_15_rechts_geneigt.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/100-Vorschriftszeichen_15_rechts_geneigt.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/100-Vorschriftszeichen_15_rechts_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vorschriftszeichen_15_rechts_geneigt.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/103-Vorschriftszeichen_15_rechts_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vorschriftszeichen_15_rechts_geneigt.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/096-Vorschriftszeichen_15_rechts_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vorschriftszeichen_15_rechts_geneigt.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/101-Vorschriftszeichen_15_rechts_geneigt.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vorschriftszeichen_15_rechts_geneigt.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-15a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-15a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vorschriftszeichen_15a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/101-Vorschriftszeichen_15a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/101-Vorschriftszeichen_15a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vorschriftszeichen_15a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/104-Vorschriftszeichen_15a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vorschriftszeichen_15a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/097-Vorschriftszeichen_15a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vorschriftszeichen_15a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/102-Vorschriftszeichen_15a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vorschriftszeichen_15a.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-16.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-16",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_16.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/102-Vorschriftszeichen_16.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/102-Vorschriftszeichen_16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_16.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/105-Vorschriftszeichen_16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_16.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/098-Vorschriftszeichen_16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_16.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/103-Vorschriftszeichen_16.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_16.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-16a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-16a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vorschriftszeichen_16a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/103-Vorschriftszeichen_16a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/103-Vorschriftszeichen_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vorschriftszeichen_16a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/106-Vorschriftszeichen_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vorschriftszeichen_16a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/099-Vorschriftszeichen_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vorschriftszeichen_16a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/104-Vorschriftszeichen_16a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vorschriftszeichen_16a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-17.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-17",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vorschriftszeichen_17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/104-Vorschriftszeichen_17.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/104-Vorschriftszeichen_17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vorschriftszeichen_17.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/107-Vorschriftszeichen_17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vorschriftszeichen_17.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/100-Vorschriftszeichen_17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vorschriftszeichen_17.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/105-Vorschriftszeichen_17.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vorschriftszeichen_17.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-17a-a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-17a-a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vorschriftszeichen_17a-a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/106-Vorschriftszeichen_17a-a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/106-Vorschriftszeichen_17a-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vorschriftszeichen_17a-a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/108-Vorschriftszeichen_17a-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vorschriftszeichen_17a-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/101-Vorschriftszeichen_17a-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vorschriftszeichen_17a-a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/106-Vorschriftszeichen_17a-a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vorschriftszeichen_17a-a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-17a-b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-17a-b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vorschriftszeichen_17a-b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/108-Vorschriftszeichen_17a-b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/108-Vorschriftszeichen_17a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vorschriftszeichen_17a-b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/109-Vorschriftszeichen_17a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vorschriftszeichen_17a-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/102-Vorschriftszeichen_17a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vorschriftszeichen_17a-b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/107-Vorschriftszeichen_17a-b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vorschriftszeichen_17a-b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-17a-c.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-17a-c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vorschriftszeichen_17a-c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/107-Vorschriftszeichen_17a-c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/107-Vorschriftszeichen_17a-c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vorschriftszeichen_17a-c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/110-Vorschriftszeichen_17a-c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vorschriftszeichen_17a-c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/103-Vorschriftszeichen_17a-c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vorschriftszeichen_17a-c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/108-Vorschriftszeichen_17a-c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vorschriftszeichen_17a-c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-17a-d.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-17a-d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vorschriftszeichen_17a-d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/109-Vorschriftszeichen_17a-d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/109-Vorschriftszeichen_17a-d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vorschriftszeichen_17a-d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/111-Vorschriftszeichen_17a-d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vorschriftszeichen_17a-d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/104-Vorschriftszeichen_17a-d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vorschriftszeichen_17a-d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/109-Vorschriftszeichen_17a-d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vorschriftszeichen_17a-d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-17b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-17b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vorschriftszeichen_17b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/110-Vorschriftszeichen_17b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/110-Vorschriftszeichen_17b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vorschriftszeichen_17b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/112-Vorschriftszeichen_17b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vorschriftszeichen_17b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/105-Vorschriftszeichen_17b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vorschriftszeichen_17b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/110-Vorschriftszeichen_17b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Vorschriftszeichen_17b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/AT-Vorschriftszeichen-17c.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-17c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vorschriftszeichen_17c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/105-Vorschriftszeichen_17c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/105-Vorschriftszeichen_17c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vorschriftszeichen_17c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/113-Vorschriftszeichen_17c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vorschriftszeichen_17c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/106-Vorschriftszeichen_17c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vorschriftszeichen_17c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/111-Vorschriftszeichen_17c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vorschriftszeichen_17c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-18.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-18",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vorschriftszeichen_18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/111-Vorschriftszeichen_18.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/111-Vorschriftszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vorschriftszeichen_18.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/208-Vorschriftszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vorschriftszeichen_18.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/213-Vorschriftszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vorschriftszeichen_18.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/112-Vorschriftszeichen_18.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vorschriftszeichen_18.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-2.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-2",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/042-Vorschriftszeichen_2.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/042-Vorschriftszeichen_2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/050-Vorschriftszeichen_2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_2.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/046-Vorschriftszeichen_2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_2.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/050-Vorschriftszeichen_2.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vorschriftszeichen_2.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-21.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-21",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vorschriftszeichen_21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/114-Vorschriftszeichen_21.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/114-Vorschriftszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vorschriftszeichen_21.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/116-Vorschriftszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vorschriftszeichen_21.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/109-Vorschriftszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vorschriftszeichen_21.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/115-Vorschriftszeichen_21.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Vorschriftszeichen_21.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-22.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-22",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vorschriftszeichen_22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/115-Vorschriftszeichen_22.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/115-Vorschriftszeichen_22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vorschriftszeichen_22.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/117-Vorschriftszeichen_22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vorschriftszeichen_22.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/110-Vorschriftszeichen_22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vorschriftszeichen_22.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/116-Vorschriftszeichen_22.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vorschriftszeichen_22.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-22a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-22a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vorschriftszeichen_22a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/116-Vorschriftszeichen_22a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/116-Vorschriftszeichen_22a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vorschriftszeichen_22a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/118-Vorschriftszeichen_22a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vorschriftszeichen_22a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/111-Vorschriftszeichen_22a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vorschriftszeichen_22a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/117-Vorschriftszeichen_22a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vorschriftszeichen_22a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-3a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-3a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vorschriftszeichen_3a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/044-Vorschriftszeichen_3a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/044-Vorschriftszeichen_3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vorschriftszeichen_3a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/051-Vorschriftszeichen_3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vorschriftszeichen_3a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/047-Vorschriftszeichen_3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vorschriftszeichen_3a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/051-Vorschriftszeichen_3a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vorschriftszeichen_3a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-3b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-3b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_3b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/045-Vorschriftszeichen_3b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/045-Vorschriftszeichen_3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_3b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/052-Vorschriftszeichen_3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_3b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/048-Vorschriftszeichen_3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_3b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/052-Vorschriftszeichen_3b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_3b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-3c.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-3c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vorschriftszeichen_3c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/046-Vorschriftszeichen_3c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/046-Vorschriftszeichen_3c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vorschriftszeichen_3c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/053-Vorschriftszeichen_3c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vorschriftszeichen_3c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/049-Vorschriftszeichen_3c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vorschriftszeichen_3c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/053-Vorschriftszeichen_3c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vorschriftszeichen_3c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-4a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-4a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vorschriftszeichen_4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/047-Vorschriftszeichen_4a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/047-Vorschriftszeichen_4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vorschriftszeichen_4a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/054-Vorschriftszeichen_4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vorschriftszeichen_4a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/002-Vorschriftszeichen_4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vorschriftszeichen_4a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/054-Vorschriftszeichen_4a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vorschriftszeichen_4a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-4b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-4b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vorschriftszeichen_4b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/048-Vorschriftszeichen_4b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/048-Vorschriftszeichen_4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vorschriftszeichen_4b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/055-Vorschriftszeichen_4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vorschriftszeichen_4b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/050-Vorschriftszeichen_4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vorschriftszeichen_4b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/055-Vorschriftszeichen_4b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vorschriftszeichen_4b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-4c.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-4c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vorschriftszeichen_4c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/049-Vorschriftszeichen_4c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/049-Vorschriftszeichen_4c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vorschriftszeichen_4c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/056-Vorschriftszeichen_4c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vorschriftszeichen_4c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/051-Vorschriftszeichen_4c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vorschriftszeichen_4c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/056-Vorschriftszeichen_4c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vorschriftszeichen_4c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Vorschriftszeichen-4d.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-4d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vorschriftszeichen_4d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/050-Vorschriftszeichen_4d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/050-Vorschriftszeichen_4d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vorschriftszeichen_4d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/057-Vorschriftszeichen_4d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vorschriftszeichen_4d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/052-Vorschriftszeichen_4d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vorschriftszeichen_4d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/057-Vorschriftszeichen_4d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vorschriftszeichen_4d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-6a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-6a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vorschriftszeichen_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/052-Vorschriftszeichen_6a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/052-Vorschriftszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vorschriftszeichen_6a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/059-Vorschriftszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vorschriftszeichen_6a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/054-Vorschriftszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vorschriftszeichen_6a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/059-Vorschriftszeichen_6a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vorschriftszeichen_6a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-6b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-6b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vorschriftszeichen_6b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/053-Vorschriftszeichen_6b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/053-Vorschriftszeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vorschriftszeichen_6b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/060-Vorschriftszeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vorschriftszeichen_6b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/055-Vorschriftszeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vorschriftszeichen_6b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/060-Vorschriftszeichen_6b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vorschriftszeichen_6b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-6c.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-6c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vorschriftszeichen_6c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/054-Vorschriftszeichen_6c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/054-Vorschriftszeichen_6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vorschriftszeichen_6c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/061-Vorschriftszeichen_6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vorschriftszeichen_6c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/056-Vorschriftszeichen_6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vorschriftszeichen_6c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/061-Vorschriftszeichen_6c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vorschriftszeichen_6c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-6d.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-6d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vorschriftszeichen_6d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/055-Vorschriftszeichen_6d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/055-Vorschriftszeichen_6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vorschriftszeichen_6d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/062-Vorschriftszeichen_6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vorschriftszeichen_6d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/057-Vorschriftszeichen_6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vorschriftszeichen_6d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/062-Vorschriftszeichen_6d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vorschriftszeichen_6d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-6d_Gewicht.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-6d_Gewicht",
+      "description": "Gewicht",
+      "variants": [
+        "2010"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vorschriftszeichen_6d_Gewicht_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/056-Vorschriftszeichen_6d_Gewicht_(2010).svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/056-Vorschriftszeichen_6d_Gewicht_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vorschriftszeichen_6d_Gewicht_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "2010"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-6d_Lange.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-6d_Lange",
+      "description": "Lange",
+      "variants": [
+        "2010"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vorschriftszeichen_6d_L%C3%A4nge_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/057-Vorschriftszeichen_6d_Länge_(2010).svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/057-Vorschriftszeichen_6d_Länge_(2010).svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vorschriftszeichen_6d_L%C3%A4nge_%282010%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "valid_years": "2010"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-7a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-7a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vorschriftszeichen_7a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/058-Vorschriftszeichen_7a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/058-Vorschriftszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vorschriftszeichen_7a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/063-Vorschriftszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vorschriftszeichen_7a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/058-Vorschriftszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vorschriftszeichen_7a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/063-Vorschriftszeichen_7a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vorschriftszeichen_7a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-7b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-7b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Vorschriftszeichen_7b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/061-Vorschriftszeichen_7b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/061-Vorschriftszeichen_7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Vorschriftszeichen_7b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/066-Vorschriftszeichen_7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Vorschriftszeichen_7b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/061-Vorschriftszeichen_7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Vorschriftszeichen_7b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/066-Vorschriftszeichen_7b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Vorschriftszeichen_7b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-7c.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-7c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vorschriftszeichen_7c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/062-Vorschriftszeichen_7c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/062-Vorschriftszeichen_7c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vorschriftszeichen_7c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/067-Vorschriftszeichen_7c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vorschriftszeichen_7c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/062-Vorschriftszeichen_7c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vorschriftszeichen_7c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/067-Vorschriftszeichen_7c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vorschriftszeichen_7c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-7d.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-7d",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_7d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/064-Vorschriftszeichen_7d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/064-Vorschriftszeichen_7d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_7d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/212-Vorschriftszeichen_7d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vorschriftszeichen_7d.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-7e.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-7e",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Vorschriftszeichen_7e.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/063-Vorschriftszeichen_7e.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/063-Vorschriftszeichen_7e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Vorschriftszeichen_7e.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/068-Vorschriftszeichen_7e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Vorschriftszeichen_7e.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/063-Vorschriftszeichen_7e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Vorschriftszeichen_7e.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/068-Vorschriftszeichen_7e.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Vorschriftszeichen_7e.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-7f.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-7f",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vorschriftszeichen_7f.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/065-Vorschriftszeichen_7f.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/065-Vorschriftszeichen_7f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vorschriftszeichen_7f.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/069-Vorschriftszeichen_7f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vorschriftszeichen_7f.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/064-Vorschriftszeichen_7f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vorschriftszeichen_7f.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/069-Vorschriftszeichen_7f.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vorschriftszeichen_7f.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/AT-Vorschriftszeichen-8a.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-8a",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vorschriftszeichen_8a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/068-Vorschriftszeichen_8a.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/068-Vorschriftszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vorschriftszeichen_8a.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/072-Vorschriftszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vorschriftszeichen_8a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/065-Vorschriftszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vorschriftszeichen_8a.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/070-Vorschriftszeichen_8a.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vorschriftszeichen_8a.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-8b.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-8b",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vorschriftszeichen_8b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/069-Vorschriftszeichen_8b.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/069-Vorschriftszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vorschriftszeichen_8b.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/073-Vorschriftszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vorschriftszeichen_8b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/066-Vorschriftszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vorschriftszeichen_8b.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/071-Vorschriftszeichen_8b.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vorschriftszeichen_8b.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-8c.svg",
+      "iso": "AT",
+      "id": "Vorschriftszeichen-8c",
+      "description": null,
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vorschriftszeichen_8c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/070-Vorschriftszeichen_8c.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/070-Vorschriftszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vorschriftszeichen_8c.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wiki_commons/01-commons_Road_signs_in_Austria/074-Vorschriftszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vorschriftszeichen_8c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/067-Vorschriftszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vorschriftszeichen_8c.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/072-Vorschriftszeichen_8c.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vorschriftszeichen_8c.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 1.0,
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Zusatztafel-d.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-d",
+      "description": "Zusatztafel-d",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zusatztafel_d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/168-Zusatztafel_d.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/168-Zusatztafel_d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zusatztafel_d.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/193-Zusatztafel_d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zusatztafel_d.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/198-Zusatztafel_d.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zusatztafel_d.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Zusatztafel-g.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-g",
+      "description": "Zusatztafel-g",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zusatztafel_g.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/171-Zusatztafel_g.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/171-Zusatztafel_g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zusatztafel_g.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/196-Zusatztafel_g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zusatztafel_g.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/201-Zusatztafel_g.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zusatztafel_g.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Zusatztafel-h.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-h",
+      "description": "Zusatztafel-h",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Zusatztafel_h.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/172-Zusatztafel_h.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/172-Zusatztafel_h.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Zusatztafel_h.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/197-Zusatztafel_h.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Zusatztafel_h.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/202-Zusatztafel_h.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Zusatztafel_h.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Zusatztafel-i.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-i",
+      "description": "Zusatztafel-i",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zusatztafel_i.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/173-Zusatztafel_i.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/173-Zusatztafel_i.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zusatztafel_i.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/198-Zusatztafel_i.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zusatztafel_i.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/203-Zusatztafel_i.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zusatztafel_i.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/AT-Zusatztafel-j.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-j",
+      "description": "Zusatztafel-j",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zusatztafel_j.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/174-Zusatztafel_j.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/174-Zusatztafel_j.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zusatztafel_j.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/199-Zusatztafel_j.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zusatztafel_j.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/204-Zusatztafel_j.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zusatztafel_j.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Zusatztafel-k.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-k",
+      "description": "Zusatztafel-k",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Zusatztafel_k.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/175-Zusatztafel_k.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/175-Zusatztafel_k.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Zusatztafel_k.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/200-Zusatztafel_k.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Zusatztafel_k.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/205-Zusatztafel_k.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Zusatztafel_k.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Zusatztafel-l.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-l",
+      "description": "Zusatztafel-l",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Zusatztafel_l.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/176-Zusatztafel_l.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/176-Zusatztafel_l.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Zusatztafel_l.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/201-Zusatztafel_l.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Zusatztafel_l.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/206-Zusatztafel_l.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Zusatztafel_l.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "h_additional_panels/other/AT-Zusatztafel-m.svg",
+      "iso": "AT",
+      "id": "Zusatztafel-m",
+      "description": "Zusatztafel-m",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zusatztafel_m.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "kept_from": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/177-Zusatztafel_m.svg",
+      "sources": [
+        {
+          "file": "AT_Austria/osm_wiki/01-DE_Verkehrszeichen_in_Österreich/177-Zusatztafel_m.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zusatztafel_m.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        },
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/202-Zusatztafel_m.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zusatztafel_m.svg"
+        },
+        {
+          "file": "AT_Austria/wikipedia_en/01-en_Road_signs_in_Austria/207-Zusatztafel_m.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zusatztafel_m.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/AT-Zusatztafel-n.png",
+      "iso": "AT",
+      "id": "Zusatztafel-n",
+      "description": "Zusatztafel-n",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/de/8/84/Zusatztafel_n.png",
+      "kept_from": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/203-Zusatztafel_n.png",
+      "sources": [
+        {
+          "file": "AT_Austria/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_Österreich/203-Zusatztafel_n.png",
+          "url": "https://upload.wikimedia.org/wikipedia/de/8/84/Zusatztafel_n.png"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.989
+    },
+    {
+      "filename": "e_special_regulation_signs/other/AT-Hinweiszeichen-Wasserschutzgebiet_BStMI.svg",
+      "iso": "AT",
+      "id": "Hinweiszeichen-Wasserschutzgebiet_BStMI",
+      "description": "Hinweiszeichen-Wasserschutzgebiet_BStMI",
+      "variants": [
+        "2016"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Hinweiszeichen_Wasserschutzgebiet%2C_BStMI_2016.svg",
+      "kept_from": "DE_Germany/wiki_commons/01-commons_Road_signs_of_Germany/445-Hinweiszeichen_Wasserschutzgebiet,_BStMI_2016.svg",
+      "sources": [
+        {
+          "file": "DE_Germany/wiki_commons/01-commons_Road_signs_of_Germany/445-Hinweiszeichen_Wasserschutzgebiet,_BStMI_2016.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Hinweiszeichen_Wasserschutzgebiet%2C_BStMI_2016.svg"
+        },
+        {
+          "file": "DE_Germany/wikipedia/01-de_Bildtafel_der_Verkehrszeichen_in_der_Bundesrepu/1106-Hinweiszeichen_Wasserschutzgebiet,_BStMI_2016.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Hinweiszeichen_Wasserschutzgebiet%2C_BStMI_2016.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "also_used_in": [
+        "DE_Germany"
+      ],
+      "valid_years": "2016"
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/AT-Vorschriftszeichen-10a.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "a_danger_warning_signs/other/AT-Vorschriftszeichen-11a.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-19.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "d_mandatory_signs/other/AT-Vorschriftszeichen-19a.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-9a.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-9b.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-9c.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/AT-Vorschriftszeichen-9d.svg",
+      "also_used_in": [
+        "IR_Iran"
+      ]
+    }
+  ]
+}

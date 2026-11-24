@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   style="overflow:visible;enable-background:new 0 0 333.3334961 1000;"
+   viewBox="0 0 333.3334961 1000"
+   height="1000"
+   width="333.3334961"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata6847"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs6845" />
+<path
+   id="path6834"
+   d="M0,957.6669922C0,981.0683594,18.9384766,1000,42.3330078,1000  h248.6665039c23.3691406,0,42.3339844-18.9316406,42.3339844-42.3330078V42.3334961  C333.3334961,18.96875,314.3686523,0,290.9995117,0H42.3330078C18.9384766,0,0,18.96875,0,42.3334961V957.6669922z"
+   style="fill-rule:evenodd;clip-rule:evenodd;fill:#fed55a;fill-opacity:1" />
+<polyline
+   id="polyline6836"
+   points="1.6923828,420.5766602 331.668457,750.7890625   331.668457,908.2753906 1.6923828,577.78125 1.6923828,420.5766602 "
+   style="fill-rule:evenodd;clip-rule:evenodd;" />
+<polyline
+   id="polyline6838"
+   points="1.6923828,105.890625 331.668457,436.0991211   331.668457,593.6425781 1.6923828,263.0361328 1.6923828,105.890625 "
+   style="fill-rule:evenodd;clip-rule:evenodd;" />
+<polyline
+   id="polyline6840"
+   points="211.3286133,1.6894531 331.668457,123.7270508   331.668457,280.8725586 56.1054688,1.6894531 211.3286133,1.6894531 "
+   style="fill-rule:evenodd;clip-rule:evenodd;" />
+<polyline
+   id="polyline6842"
+   points="265.2905273,998.3076172 109.2783203,998.3076172   1.6923828,886.0341797 1.6923828,735.8027344 265.2905273,998.3076172 "
+   style="fill-rule:evenodd;clip-rule:evenodd;" />
+</svg>

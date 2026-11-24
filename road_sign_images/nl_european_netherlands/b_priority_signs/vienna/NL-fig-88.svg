@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="Nederlandse_Wegenverkeersregeling_1941_figuur_88" width="824" height="824"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <g id="groep"
+     transform="rotate(45,220.804,491.196)" >
+    <path id="wit_bord_met_zwarte_bies"
+       style="fill:#f7fbf5;stroke:#2a2d2f;stroke-width:20"
+       d="M 30,10 A 20,20 0,0,0 10,30 L 10,570 A 20,20 0,0,0 30,590 L 570,590 A 20,20 0,0,0 590,570 L 590,30 A 20,20 0,0,0 570,10 Z" />
+    <rect id="vlak_oranje"
+       style="fill:#e15501"
+       x="120"
+       y="120"
+       width="360"
+       height="360" />
+  </g>
+</svg>

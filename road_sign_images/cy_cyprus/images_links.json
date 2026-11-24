@@ -1,0 +1,1274 @@
+{
+  "country_code": "CY",
+  "country": "Cyprus",
+  "images": [
+    {
+      "filename": "f_information_facilities_or_service_signs/vienna/CY-SOS.svg",
+      "iso": "CY",
+      "id": "SOS",
+      "description": "SOS",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cyprus_road_sign_SOS.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/173-Cyprus_road_sign_SOS.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/173-Cyprus_road_sign_SOS.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cyprus_road_sign_SOS.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "sd_unclassified/other/CY-bend_warning.svg",
+      "iso": "CY",
+      "id": "bend",
+      "description": "bend",
+      "variants": [
+        "warning"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cyprus_warning_road_sign_bend.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/059-Cyprus_warning_road_sign_bend.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/059-Cyprus_warning_road_sign_bend.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cyprus_warning_road_sign_bend.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/CY-bus_stop.svg",
+      "iso": "CY",
+      "id": "bus_stop",
+      "description": "bus_stop",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cyprus_road_sign_bus_stop.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/164-Cyprus_road_sign_bus_stop.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/164-Cyprus_road_sign_bus_stop.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cyprus_road_sign_bus_stop.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "a_danger_warning_signs/vienna/CY-child_warning.svg",
+      "iso": "CY",
+      "id": "child",
+      "description": "child",
+      "variants": [
+        "warning"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cyprus_warning_road_sign_child.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/012-Cyprus_warning_road_sign_child.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/012-Cyprus_warning_road_sign_child.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cyprus_warning_road_sign_child.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "e_special_regulation_signs/other/CY-confirm.svg",
+      "iso": "CY",
+      "id": "confirm",
+      "description": "confirm",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cyprus_road_sign_confirm.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/181-Cyprus_road_sign_confirm.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/181-Cyprus_road_sign_confirm.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cyprus_road_sign_confirm.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-cross_guided.svg",
+      "iso": "CY",
+      "id": "cross_guided",
+      "description": "cross_guided",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cyprus_road_sign_cross_guided.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/104-Cyprus_road_sign_cross_guided.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/104-Cyprus_road_sign_cross_guided.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cyprus_road_sign_cross_guided.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.972
+    },
+    {
+      "filename": "a_danger_warning_signs/other/CY-crossroads_warning.svg",
+      "iso": "CY",
+      "id": "crossroads",
+      "description": "crossroads",
+      "variants": [
+        "warning"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cyprus_warning_road_sign_crossroads.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/057-Cyprus_warning_road_sign_crossroads.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/057-Cyprus_warning_road_sign_crossroads.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cyprus_warning_road_sign_crossroads.svg"
+        }
+      ],
+      "shape": "triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "g_other_information_signs/vienna/CY-cul_de_sac.svg",
+      "iso": "CY",
+      "id": "cul_de_sac",
+      "description": "cul_de_sac",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cyprus_road_sign_cul_de_sac.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/170-Cyprus_road_sign_cul_de_sac.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/170-Cyprus_road_sign_cul_de_sac.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cyprus_road_sign_cul_de_sac.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/CY-cul_de_sac_ahead_left.svg",
+      "iso": "CY",
+      "id": "cul_de_sac_ahead_left",
+      "description": "cul_de_sac_ahead_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cyprus_road_sign_cul_de_sac_ahead_left.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/171-Cyprus_road_sign_cul_de_sac_ahead_left.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/171-Cyprus_road_sign_cul_de_sac_ahead_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cyprus_road_sign_cul_de_sac_ahead_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "g_other_information_signs/vienna/CY-cul_de_sac_ahead_right.svg",
+      "iso": "CY",
+      "id": "cul_de_sac_ahead_right",
+      "description": "cul_de_sac_ahead_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cyprus_road_sign_cul_de_sac_ahead_right.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/172-Cyprus_road_sign_cul_de_sac_ahead_right.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/172-Cyprus_road_sign_cul_de_sac_ahead_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cyprus_road_sign_cul_de_sac_ahead_right.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-customs.svg",
+      "iso": "CY",
+      "id": "customs",
+      "description": "customs",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cyprus_road_sign_customs.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/072-Cyprus_road_sign_customs.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/072-Cyprus_road_sign_customs.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cyprus_road_sign_customs.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "e_special_regulation_signs/other/CY-destinations_blue.svg",
+      "iso": "CY",
+      "id": "destinations_blue",
+      "description": "destinations_blue",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cyprus_road_sign_destinations_blue.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/143-Cyprus_road_sign_destinations_blue.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/143-Cyprus_road_sign_destinations_blue.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cyprus_road_sign_destinations_blue.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.884
+    },
+    {
+      "filename": "e_special_regulation_signs/other/CY-destinations_road_crossing.svg",
+      "iso": "CY",
+      "id": "destinations_road_crossing",
+      "description": "destinations_road_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cyprus_road_sign_destinations_road_crossing.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/142-Cyprus_road_sign_destinations_road_crossing.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/142-Cyprus_road_sign_destinations_road_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cyprus_road_sign_destinations_road_crossing.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "h_additional_panels/other/CY-destinations_white.svg",
+      "iso": "CY",
+      "id": "destinations_white",
+      "description": "destinations_white",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cyprus_road_sign_destinations_white.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/144-Cyprus_road_sign_destinations_white.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/144-Cyprus_road_sign_destinations_white.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cyprus_road_sign_destinations_white.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.957
+    },
+    {
+      "filename": "sd_unclassified/other/CY-drive_on_the_left.svg",
+      "iso": "CY",
+      "id": "drive_on_the_left",
+      "description": "drive_on_the_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cyprus_road_sign_drive_on_the_left.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/177-Cyprus_road_sign_drive_on_the_left.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/177-Cyprus_road_sign_drive_on_the_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cyprus_road_sign_drive_on_the_left.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.893
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-end_maximum_speed.svg",
+      "iso": "CY",
+      "id": "end_maximum_speed",
+      "description": "end_maximum_speed",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cyprus_road_sign_end_maximum_speed.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/086-Cyprus_road_sign_end_maximum_speed.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/086-Cyprus_road_sign_end_maximum_speed.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cyprus_road_sign_end_maximum_speed.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-end_no_overpass.svg",
+      "iso": "CY",
+      "id": "end_no_overpass",
+      "description": "end_no_overpass",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cyprus_road_sign_end_no_overpass.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/089-Cyprus_road_sign_end_no_overpass.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/089-Cyprus_road_sign_end_no_overpass.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cyprus_road_sign_end_no_overpass.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-end_no_parking_zone.svg",
+      "iso": "CY",
+      "id": "end_no_parking_zone",
+      "description": "end_no_parking_zone",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cyprus_road_sign_end_no_parking_zone.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/110-Cyprus_road_sign_end_no_parking_zone.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/110-Cyprus_road_sign_end_no_parking_zone.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cyprus_road_sign_end_no_parking_zone.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/CY-end_priority_road.svg",
+      "iso": "CY",
+      "id": "end_priority_road",
+      "description": "end_priority_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cyprus_road_sign_end_priority_road.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/101-Cyprus_road_sign_end_priority_road.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/101-Cyprus_road_sign_end_priority_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cyprus_road_sign_end_priority_road.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.985
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/CY-end_road_for_motorvehicles.svg",
+      "iso": "CY",
+      "id": "end_road_for_motorvehicles",
+      "description": "end_road_for_motorvehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cyprus_road_sign_end_road_for_motorvehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/175-Cyprus_road_sign_end_road_for_motorvehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/175-Cyprus_road_sign_end_road_for_motorvehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cyprus_road_sign_end_road_for_motorvehicles.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-general_limits.svg",
+      "iso": "CY",
+      "id": "general_limits",
+      "description": "general_limits",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cyprus_road_sign_general_limits.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/179-Cyprus_road_sign_general_limits.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/179-Cyprus_road_sign_general_limits.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cyprus_road_sign_general_limits.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "b_priority_signs/vienna/CY-give_way.svg",
+      "iso": "CY",
+      "id": "give_way",
+      "description": "give_way",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cyprus_road_sign_give_way.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/103-Cyprus_road_sign_give_way.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/103-Cyprus_road_sign_give_way.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cyprus_road_sign_give_way.svg"
+        }
+      ],
+      "shape": "inverted_triangle",
+      "shape_score": 0.963
+    },
+    {
+      "filename": "d_mandatory_signs/other/CY-horse_street.svg",
+      "iso": "CY",
+      "id": "horse_street",
+      "description": "horse_street",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cyprus_road_sign_horse_street.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/126-Cyprus_road_sign_horse_street.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/126-Cyprus_road_sign_horse_street.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cyprus_road_sign_horse_street.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/CY-humped_crossing.svg",
+      "iso": "CY",
+      "id": "humped_crossing",
+      "description": "humped_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cyprus_road_sign_humped_crossing.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/133-Cyprus_road_sign_humped_crossing.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/133-Cyprus_road_sign_humped_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cyprus_road_sign_humped_crossing.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-humped_pellcan_crossing.svg",
+      "iso": "CY",
+      "id": "humped_pellcan_crossing",
+      "description": "humped_pellcan_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cyprus_road_sign_humped_pellcan_crossing.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/134-Cyprus_road_sign_humped_pellcan_crossing.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/134-Cyprus_road_sign_humped_pellcan_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cyprus_road_sign_humped_pellcan_crossing.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-mandatory_chains.svg",
+      "iso": "CY",
+      "id": "mandatory_chains",
+      "description": "mandatory_chains",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cyprus_road_sign_mandatory_chains.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/125-Cyprus_road_sign_mandatory_chains.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/125-Cyprus_road_sign_mandatory_chains.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cyprus_road_sign_mandatory_chains.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/CY-mandatory_go_or_left.svg",
+      "iso": "CY",
+      "id": "mandatory_go_or_left",
+      "description": "mandatory_go_or_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cyprus_road_sign_mandatory_go_or_left.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/127-Cyprus_road_sign_mandatory_go_or_left.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/127-Cyprus_road_sign_mandatory_go_or_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cyprus_road_sign_mandatory_go_or_left.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/CY-mandatory_go_or_right.svg",
+      "iso": "CY",
+      "id": "mandatory_go_or_right",
+      "description": "mandatory_go_or_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cyprus_road_sign_mandatory_go_or_right.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/128-Cyprus_road_sign_mandatory_go_or_right.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/128-Cyprus_road_sign_mandatory_go_or_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cyprus_road_sign_mandatory_go_or_right.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/CY-mandatory_go_streight.svg",
+      "iso": "CY",
+      "id": "mandatory_go_streight",
+      "description": "mandatory_go_streight",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cyprus_road_sign_mandatory_go_streight.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/111-Cyprus_road_sign_mandatory_go_streight.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/111-Cyprus_road_sign_mandatory_go_streight.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cyprus_road_sign_mandatory_go_streight.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.993
+    },
+    {
+      "filename": "d_mandatory_signs/vienna/CY-mandatory_left_or_right.svg",
+      "iso": "CY",
+      "id": "mandatory_left_or_right",
+      "description": "mandatory_left_or_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cyprus_road_sign_mandatory_left_or_right.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/129-Cyprus_road_sign_mandatory_left_or_right.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/129-Cyprus_road_sign_mandatory_left_or_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cyprus_road_sign_mandatory_left_or_right.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "d_mandatory_signs/other/CY-mandatory_pedestrian_way.svg",
+      "iso": "CY",
+      "id": "mandatory_pedestrian_way",
+      "description": "mandatory_pedestrian_way",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cyprus_road_sign_mandatory_pedestrian_way.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/130-Cyprus_road_sign_mandatory_pedestrian_way.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/130-Cyprus_road_sign_mandatory_pedestrian_way.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cyprus_road_sign_mandatory_pedestrian_way.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-maximum_heavy.svg",
+      "iso": "CY",
+      "id": "maximum_heavy",
+      "description": "maximum_heavy",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cyprus_road_sign_maximum_heavy.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/095-Cyprus_road_sign_maximum_heavy.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/095-Cyprus_road_sign_maximum_heavy.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cyprus_road_sign_maximum_heavy.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-maximum_height.svg",
+      "iso": "CY",
+      "id": "maximum_height",
+      "description": "maximum_height",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cyprus_road_sign_maximum_height.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/078-Cyprus_road_sign_maximum_height.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/078-Cyprus_road_sign_maximum_height.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cyprus_road_sign_maximum_height.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-maximum_large.svg",
+      "iso": "CY",
+      "id": "maximum_large",
+      "description": "maximum_large",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cyprus_road_sign_maximum_large.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/077-Cyprus_road_sign_maximum_large.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/077-Cyprus_road_sign_maximum_large.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cyprus_road_sign_maximum_large.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-maximum_lenght.svg",
+      "iso": "CY",
+      "id": "maximum_lenght",
+      "description": "maximum_lenght",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cyprus_road_sign_maximum_lenght.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/093-Cyprus_road_sign_maximum_lenght.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/093-Cyprus_road_sign_maximum_lenght.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cyprus_road_sign_maximum_lenght.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-maximum_single_weight.svg",
+      "iso": "CY",
+      "id": "maximum_single_weight",
+      "description": "maximum_single_weight",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cyprus_road_sign_maximum_single_weight.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/091-Cyprus_road_sign_maximum_single_weight.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/091-Cyprus_road_sign_maximum_single_weight.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cyprus_road_sign_maximum_single_weight.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-maximum_speed.svg",
+      "iso": "CY",
+      "id": "maximum_speed",
+      "description": "maximum_speed",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cyprus_road_sign_maximum_speed.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/085-Cyprus_road_sign_maximum_speed.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/085-Cyprus_road_sign_maximum_speed.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cyprus_road_sign_maximum_speed.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-minimum_distance.svg",
+      "iso": "CY",
+      "id": "minimum_distance",
+      "description": "minimum_distance",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Cyprus_road_sign_minimum_distance.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/073-Cyprus_road_sign_minimum_distance.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/073-Cyprus_road_sign_minimum_distance.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Cyprus_road_sign_minimum_distance.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/CY-next_destinations.svg",
+      "iso": "CY",
+      "id": "next_destinations",
+      "description": "next_destinations",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Cyprus_road_sign_next_destinations.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/141-Cyprus_road_sign_next_destinations.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/141-Cyprus_road_sign_next_destinations.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Cyprus_road_sign_next_destinations.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_agricle_vehicles.svg",
+      "iso": "CY",
+      "id": "no_agricle_vehicles",
+      "description": "no_agricle_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cyprus_road_sign_no_agricle_vehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/068-Cyprus_road_sign_no_agricle_vehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/068-Cyprus_road_sign_no_agricle_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cyprus_road_sign_no_agricle_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_animal_vehicles.svg",
+      "iso": "CY",
+      "id": "no_animal_vehicles",
+      "description": "no_animal_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cyprus_road_sign_no_animal_vehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/069-Cyprus_road_sign_no_animal_vehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/069-Cyprus_road_sign_no_animal_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cyprus_road_sign_no_animal_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-no_hand_vehicles.svg",
+      "iso": "CY",
+      "id": "no_hand_vehicles",
+      "description": "no_hand_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cyprus_road_sign_no_hand_vehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/063-Cyprus_road_sign_no_hand_vehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/063-Cyprus_road_sign_no_hand_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cyprus_road_sign_no_hand_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_heavy_vehicles.svg",
+      "iso": "CY",
+      "id": "no_heavy_vehicles",
+      "description": "no_heavy_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cyprus_road_sign_no_heavy_vehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/080-Cyprus_road_sign_no_heavy_vehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/080-Cyprus_road_sign_no_heavy_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cyprus_road_sign_no_heavy_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_horn.svg",
+      "iso": "CY",
+      "id": "no_horn",
+      "description": "no_horn",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cyprus_road_sign_no_horn.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/071-Cyprus_road_sign_no_horn.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/071-Cyprus_road_sign_no_horn.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cyprus_road_sign_no_horn.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.995
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_men.svg",
+      "iso": "CY",
+      "id": "no_men",
+      "description": "no_men",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cyprus_road_sign_no_men.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/066-Cyprus_road_sign_no_men.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/066-Cyprus_road_sign_no_men.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cyprus_road_sign_no_men.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_mopeds.svg",
+      "iso": "CY",
+      "id": "no_mopeds",
+      "description": "no_mopeds",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Cyprus_road_sign_no_mopeds.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/065-Cyprus_road_sign_no_mopeds.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/065-Cyprus_road_sign_no_mopeds.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Cyprus_road_sign_no_mopeds.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_motor_vehicles.svg",
+      "iso": "CY",
+      "id": "no_motor_vehicles",
+      "description": "no_motor_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cyprus_road_sign_no_motor_vehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/067-Cyprus_road_sign_no_motor_vehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/067-Cyprus_road_sign_no_motor_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cyprus_road_sign_no_motor_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_motorcycles.svg",
+      "iso": "CY",
+      "id": "no_motorcycles",
+      "description": "no_motorcycles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cyprus_road_sign_no_motorcycles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/064-Cyprus_road_sign_no_motorcycles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/064-Cyprus_road_sign_no_motorcycles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cyprus_road_sign_no_motorcycles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_overpass_heavy_vehicles.svg",
+      "iso": "CY",
+      "id": "no_overpass_heavy_vehicles",
+      "description": "no_overpass_heavy_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cyprus_road_sign_no_overpass_heavy_vehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/090-Cyprus_road_sign_no_overpass_heavy_vehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/090-Cyprus_road_sign_no_overpass_heavy_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cyprus_road_sign_no_overpass_heavy_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_park_impares.svg",
+      "iso": "CY",
+      "id": "no_park_impares",
+      "description": "no_park_impares",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cyprus_road_sign_no_park_impares.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/107-Cyprus_road_sign_no_park_impares.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/107-Cyprus_road_sign_no_park_impares.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cyprus_road_sign_no_park_impares.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/vienna/CY-no_park_pares.svg",
+      "iso": "CY",
+      "id": "no_park_pares",
+      "description": "no_park_pares",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cyprus_road_sign_no_park_pares.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/108-Cyprus_road_sign_no_park_pares.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/108-Cyprus_road_sign_no_park_pares.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cyprus_road_sign_no_park_pares.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-no_parking_zone.svg",
+      "iso": "CY",
+      "id": "no_parking_zone",
+      "description": "no_parking_zone",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cyprus_road_sign_no_parking_zone.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/109-Cyprus_road_sign_no_parking_zone.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/109-Cyprus_road_sign_no_parking_zone.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cyprus_road_sign_no_parking_zone.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-no_water_heavy_vehicles.svg",
+      "iso": "CY",
+      "id": "no_water_heavy_vehicles",
+      "description": "no_water_heavy_vehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cyprus_road_sign_no_water_heavy_vehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/094-Cyprus_road_sign_no_water_heavy_vehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/094-Cyprus_road_sign_no_water_heavy_vehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cyprus_road_sign_no_water_heavy_vehicles.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-obstacle.svg",
+      "iso": "CY",
+      "id": "obstacle",
+      "description": "obstacle",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Cyprus_road_sign_obstacle.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/060-Cyprus_road_sign_obstacle.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/060-Cyprus_road_sign_obstacle.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Cyprus_road_sign_obstacle.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.956
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-obstacle_left_warning.svg",
+      "iso": "CY",
+      "id": "obstacle_left",
+      "description": "obstacle_left",
+      "variants": [
+        "warning"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cyprus_warning_road_sign_obstacle_left.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/061-Cyprus_warning_road_sign_obstacle_left.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/061-Cyprus_warning_road_sign_obstacle_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cyprus_warning_road_sign_obstacle_left.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.971
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-obstacle_right_warning.svg",
+      "iso": "CY",
+      "id": "obstacle_right",
+      "description": "obstacle_right",
+      "variants": [
+        "warning"
+      ],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cyprus_warning_road_sign_obstacle_right.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/062-Cyprus_warning_road_sign_obstacle_right.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/062-Cyprus_warning_road_sign_obstacle_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cyprus_warning_road_sign_obstacle_right.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.971
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/CY-one_way_lateral_road.svg",
+      "iso": "CY",
+      "id": "one_way_lateral_road",
+      "description": "one_way_lateral_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cyprus_road_sign_one_way_lateral_road.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/120-Cyprus_road_sign_one_way_lateral_road.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/120-Cyprus_road_sign_one_way_lateral_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cyprus_road_sign_one_way_lateral_road.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.998
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/CY-one_way_road.svg",
+      "iso": "CY",
+      "id": "one_way_road",
+      "description": "one_way_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cyprus_road_sign_one_way_road.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/119-Cyprus_road_sign_one_way_road.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/119-Cyprus_road_sign_one_way_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cyprus_road_sign_one_way_road.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/CY-parking.svg",
+      "iso": "CY",
+      "id": "parking",
+      "description": "parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cyprus_road_sign_parking.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/169-Cyprus_road_sign_parking.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/169-Cyprus_road_sign_parking.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cyprus_road_sign_parking.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/vienna/CY-pedonal_crossing.svg",
+      "iso": "CY",
+      "id": "pedonal_crossing",
+      "description": "pedonal_crossing",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cyprus_road_sign_pedonal_crossing.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/168-Cyprus_road_sign_pedonal_crossing.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/168-Cyprus_road_sign_pedonal_crossing.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cyprus_road_sign_pedonal_crossing.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-police.svg",
+      "iso": "CY",
+      "id": "police",
+      "description": "police",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cyprus_road_sign_police.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/098-Cyprus_road_sign_police.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/098-Cyprus_road_sign_police.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cyprus_road_sign_police.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "b_priority_signs/vienna/CY-priority_road.svg",
+      "iso": "CY",
+      "id": "priority_road",
+      "description": "priority_road",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cyprus_road_sign_priority_road.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/100-Cyprus_road_sign_priority_road.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/100-Cyprus_road_sign_priority_road.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cyprus_road_sign_priority_road.svg"
+        }
+      ],
+      "shape": "diamond",
+      "shape_score": 0.986
+    },
+    {
+      "filename": "sd_unclassified/other/CY-road_bump_30.svg",
+      "iso": "CY",
+      "id": "road_bump_30",
+      "description": "road_bump_30",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cyprus_road_sign_road_bump_30.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/132-Cyprus_road_sign_road_bump_30.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/132-Cyprus_road_sign_road_bump_30.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cyprus_road_sign_road_bump_30.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.792
+    },
+    {
+      "filename": "sd_unclassified/other/CY-road_bump_50.svg",
+      "iso": "CY",
+      "id": "road_bump_50",
+      "description": "road_bump_50",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cyprus_road_sign_road_bump_50.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/131-Cyprus_road_sign_road_bump_50.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/131-Cyprus_road_sign_road_bump_50.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cyprus_road_sign_road_bump_50.svg"
+        }
+      ],
+      "shape": "other",
+      "shape_score": 0.792
+    },
+    {
+      "filename": "f_information_facilities_or_service_signs/other/CY-road_for_motorvehicles.svg",
+      "iso": "CY",
+      "id": "road_for_motorvehicles",
+      "description": "road_for_motorvehicles",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cyprus_road_sign_road_for_motorvehicles.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/174-Cyprus_road_sign_road_for_motorvehicles.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/174-Cyprus_road_sign_road_for_motorvehicles.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cyprus_road_sign_road_for_motorvehicles.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-road_humps.svg",
+      "iso": "CY",
+      "id": "road_humps",
+      "description": "road_humps",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cyprus_road_sign_road_humps.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/137-Cyprus_road_sign_road_humps.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/137-Cyprus_road_sign_road_humps.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cyprus_road_sign_road_humps.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-road_humps_left.svg",
+      "iso": "CY",
+      "id": "road_humps_left",
+      "description": "road_humps_left",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cyprus_road_sign_road_humps_left.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/138-Cyprus_road_sign_road_humps_left.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/138-Cyprus_road_sign_road_humps_left.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cyprus_road_sign_road_humps_left.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-road_humps_right.svg",
+      "iso": "CY",
+      "id": "road_humps_right",
+      "description": "road_humps_right",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Cyprus_road_sign_road_humps_right.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/136-Cyprus_road_sign_road_humps_right.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/136-Cyprus_road_sign_road_humps_right.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Cyprus_road_sign_road_humps_right.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/CY-roundabound_destinations.svg",
+      "iso": "CY",
+      "id": "roundabound_destinations",
+      "description": "roundabound_destinations",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cyprus_road_sign_roundabound_destinations.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/180-Cyprus_road_sign_roundabound_destinations.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/180-Cyprus_road_sign_roundabound_destinations.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cyprus_road_sign_roundabound_destinations.svg"
+        }
+      ],
+      "shape": "square",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-school.svg",
+      "iso": "CY",
+      "id": "school",
+      "description": "school",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cyprus_road_sign_school.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/135-Cyprus_road_sign_school.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/135-Cyprus_road_sign_school.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cyprus_road_sign_school.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "e_special_regulation_signs/other/CY-taxi_parking.svg",
+      "iso": "CY",
+      "id": "taxi_parking",
+      "description": "taxi_parking",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cyprus_road_sign_taxi_parking.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/121-Cyprus_road_sign_taxi_parking.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/121-Cyprus_road_sign_taxi_parking.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cyprus_road_sign_taxi_parking.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "c_prohibitory_and_restrictive_signs/other/CY-toll_post.svg",
+      "iso": "CY",
+      "id": "toll_post",
+      "description": "toll_post",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cyprus_road_sign_toll_post.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/070-Cyprus_road_sign_toll_post.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/070-Cyprus_road_sign_toll_post.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cyprus_road_sign_toll_post.svg"
+        }
+      ],
+      "shape": "circle",
+      "shape_score": 0.997
+    },
+    {
+      "filename": "sd_unclassified/other/CY-transitability.svg",
+      "iso": "CY",
+      "id": "transitability",
+      "description": "transitability",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cyprus_road_sign_transitability.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/176-Cyprus_road_sign_transitability.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/176-Cyprus_road_sign_transitability.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cyprus_road_sign_transitability.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    },
+    {
+      "filename": "sd_unclassified/other/CY-vehicles_exit.svg",
+      "iso": "CY",
+      "id": "vehicles_exit",
+      "description": "vehicles_exit",
+      "variants": [],
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cyprus_road_sign_vehicles_exit.svg",
+      "kept_from": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/178-Cyprus_road_sign_vehicles_exit.svg",
+      "sources": [
+        {
+          "file": "CY_Cyprus/wikipedia/01-it_Segnaletica_stradale_a_Cipro/178-Cyprus_road_sign_vehicles_exit.svg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cyprus_road_sign_vehicles_exit.svg"
+        }
+      ],
+      "shape": "rectangle",
+      "shape_score": 0.999
+    }
+  ]
+}

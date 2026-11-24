@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="700.14893"
+   height="700.14893"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="LT road sign 410 (1).svg"
+   inkscape:export-filename="LT road sign 410a.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="700.14893"
+       height="700.14893"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <title
+     id="title1">4.3 Круговое движение</title>
+  <defs
+     id="defs1">
+    <style
+       id="style1">.a{fill:#fff}</style>
+  </defs>
+  <path
+     class="a"
+     d="M 508.75783,39.235942 A 349,349 0 0 1 457.66431,682.07622 349,349 0 0 1 242.48463,18.072716 346.716,346.716 0 0 1 508.75783,39.235942 Z"
+     id="path1" />
+  <path
+     d="M 191.84579,660.02234 A 348.092,348.092 0 0 1 375.22358,2.8937305 348.09043,348.09043 0 0 1 324.92536,697.25521 345.82,345.82 0 0 1 191.84579,660.02234 m -0.90935,1.78132 C 363.10001,749.69331 573.91399,681.37609 661.80366,509.2125 749.69331,337.04893 681.37609,126.23495 509.2125,38.345282 337.04893,-49.54437 126.23495,18.772851 38.345282,190.93644 -49.54437,363.10001 18.772851,573.91399 190.93644,661.80366 Z"
+     id="path2"
+     style="fill:#cccccc;fill-opacity:1;stroke-width:1;stroke-dasharray:none" />
+  <circle
+     cx="-470.96741"
+     cy="-152.62361"
+     r="330"
+     style="fill:#1061e2;fill-opacity:1"
+     id="circle2"
+     transform="rotate(-152.95565)" />
+  <path
+     class="a"
+     d="m 376.37343,167.01547 113.52898,-5.86157 68.23193,-3.52134 -23.76159,46.54562 c 52.49932,66.40102 66.7687,158.55571 31.00595,240.09054 L 502.87255,412.35927 A 164.77,164.77 0 0 0 497.6164,276.17871 L 475.38255,319.73173 391.48706,190.32627 Z M 178.39074,418.82817 116.54978,323.4401 79.38476,266.11014 131.5757,263.4157 C 162.83143,184.74926 235.50396,126.31445 323.99732,116.51849 l 3.61852,70.08694 a 164.77,164.77 0 0 0 -115.30812,72.6417 l 48.83438,-2.52171 -70.12122,137.35767 z m 317.06851,45.55161 -51.68804,101.24963 -31.06689,60.8513 -28.42934,-43.85117 C 300.51992,594.89494 213.578,561.17507 160.84738,489.43622 l 58.88763,-38.1775 a 164.77,164.77 0 0 0 120.56339,63.53839 l -26.60053,-41.0313 154.0167,-7.9522 z"
+     id="path3" />
+</svg>

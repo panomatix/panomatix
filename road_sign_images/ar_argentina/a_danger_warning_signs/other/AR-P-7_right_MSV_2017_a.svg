@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="216.01218mm"
+   height="216.01218mm"
+   viewBox="0 0 216.01218 216.01218"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Argentina MSV 2017 road sign P-7(a)-right.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.34351061"
+     inkscape:cx="601.81961"
+     inkscape:cy="413.993"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.7080796e-8,-80.987824)">
+    <g
+       transform="translate(2.8006235,35.752944)"
+       id="layer1-5"
+       inkscape:label="Livello 1">
+      <g
+         transform="rotate(-45,86.416008,236.92836)"
+         id="g4949">
+        <g
+           id="g4944">
+          <rect
+             ry="10.583333"
+             rx="10.583333"
+             y="111.66359"
+             x="79.503082"
+             height="158.75"
+             width="158.75"
+             id="rect4929"
+             style="opacity:1;fill:#faed2d;fill-opacity:1;fill-rule:nonzero;stroke:#faed2d;stroke-width:0.25616124;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.39999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             ry="5.2916665"
+             rx="5.2916665"
+             y="117.09219"
+             x="84.657806"
+             height="148.16667"
+             width="148.16667"
+             id="rect4940"
+             style="opacity:1;fill:#faed2d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5276897;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:28.39999962;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.20959358px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 91.888904,241.06812 H 69.161047 v -36.68539 c 0.625731,-5.48743 1.219015,-10.97131 5.414803,-16.85548 2.55466,-3.74783 4.937713,-6.71073 9.686163,-10.90646 6.815769,-6.19679 15.895677,-11.73625 25.321277,-17.33077 -3.75277,-3.92006 -5.54302,-5.93898 -7.30693,-8.52813 -1.47256,-2.27813 -0.28834,-5.94891 4.0277,-6.02167 h 44.75045 c 3.859,0.0195 5.10304,2.90099 3.45116,6.40671 l -17.9232,36.15149 c -2.08676,4.00914 -5.95202,4.8872 -8.40729,1.19333 -2.10195,-3.69312 -4.29429,-7.39632 -5.54992,-11.79472 l -17.61812,10.60139 c -5.847572,4.15136 -12.879367,12.09085 -13.194498,20.82143 z"
+       id="path4810"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc" />
+  </g>
+</svg>

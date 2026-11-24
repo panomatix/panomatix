@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="China_road_sign_警_21.svg"
+   viewBox="0 0 175.84599 155.51936"
+   height="155.51936"
+   width="175.84599"
+   id="svg2257"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata2263">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2261" />
+  <sodipodi:namedview
+     inkscape:current-layer="g2265"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="98.641394"
+     inkscape:cx="98.905494"
+     inkscape:zoom="3.7864428"
+     showgrid="false"
+     id="namedview2259"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="false" />
+  <g
+     transform="translate(-6.8968214,0.63157982)"
+     id="g2265"
+     inkscape:label="Image"
+     inkscape:groupmode="layer">
+    <path
+       id="path1574"
+       d="M 181.1988,140.06348 103.25194,4.4972603 c -1.73523,-3.0181285 -4.950848,-4.87884012 -8.431991,-4.87884012 -3.481157,0 -6.696737,1.86071162 -8.431973,4.87884012 L 8.441062,140.06348 c -1.7303558,3.00943 -1.725494,6.71327 0.012493,9.7188 1.738122,3.00553 4.94693,4.85551 8.419324,4.85551 H 172.76667 c 3.47144,0 6.68023,-1.84998 8.41836,-4.85551 1.73914,-3.00553 1.74398,-6.70937 0.0141,-9.7188 z"
+       fill="#ffee33"
+       style="opacity:1;fill:#ffee33;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path1576"
+       d="M 172.76682,151.71987 H 16.873046 c -2.430677,0 -4.676557,-1.29564 -5.893347,-3.39852 -1.2167912,-2.10386 -1.2206886,-4.69699 -0.0089,-6.80378 L 88.91764,5.9513852 c 1.214877,-2.1125888 3.465593,-3.4150255 5.902123,-3.4150255 2.436508,0 4.687216,1.3024367 5.902107,3.4150255 L 178.66874,141.51757 c 1.21092,2.10679 1.20803,4.69992 -0.0124,6.80378 -1.21582,2.10288 -3.46172,3.39852 -5.89236,3.39852 z M 28.642205,138.10261 H 160.99863 L 94.819949,23.004031 Z"
+       style="opacity:1;stroke-width:0.972658" />
+    <path
+       id="rect1181"
+       style="fill:#000000;stroke:none;stroke-width:2.09944;stroke-linecap:round;fill-opacity:1"
+       d="m 94.819961,89.885624 c -4.76432,0 -9.529031,1.8259 -13.179691,5.476554 L 66.32386,110.67858 H 48.20472 v 16.53906 h 35.67383 v -13.97851 c 0,-6.06098 4.88043,-10.93946 10.941411,-10.93946 6.060959,0 10.939439,4.87848 10.939439,10.93946 v 13.97851 h 35.67578 V 110.67858 H 123.31409 L 107.99963,95.362178 c -3.65066,-3.650654 -8.415359,-5.476554 -13.179669,-5.476554 z"
+       sodipodi:nodetypes="ssccccssscccccs"
+       inkscape:label="path1578" />
+  </g>
+</svg>
