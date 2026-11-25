@@ -1,6 +1,6 @@
 // Country comparison table: one row per sign, one column per country, filterable by category and countries.
 import { countries, get, session, vocab } from '../api.js';
-import { openCountryEditor } from './country.js';
+import { openUnitEditor } from './unit.js';
 import { debounce, h, signHref, toast } from '../dom.js';
 import { t, tn } from '../i18n.js';
 import { displayName } from './list.js';
@@ -168,7 +168,8 @@ export async function viewCompare() {
         const edit = (e) => {
           if (!session.user) return; // visitors follow the link to the sign page
           e.preventDefault();
-          openCountryEditor(r.reference, c.key, { onSaved: () => load({ keepScroll: true }) }).catch((err) => toast(err.message, 'error'));
+          // the national sign of this country under its design (a new one goes to design 1 and can be moved later)
+          openUnitEditor(r.reference, `d${cell ? cell.design - 1 : 0}`, c.key, { onSaved: () => load({ keepScroll: true }) }).catch((err) => toast(err.message, 'error'));
         };
         if (!cell) {
           return session.user

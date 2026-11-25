@@ -32,7 +32,7 @@ function designSummary(ctx, design, index) {
 }
 
 /** Languages and country code this jurisdiction usually has elsewhere in the database. */
-function suggestions(ctx, jur) {
+export function suggestions(ctx, jur) {
   const refs = ctx.db.prepare('SELECT DISTINCT reference FROM sign_codes WHERE jurisdiction=? LIMIT 40').all(jur).map((r) => r.reference);
   const langs = new Map();
   const ccs = new Map();

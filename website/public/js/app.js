@@ -6,7 +6,6 @@ import { viewAccount, viewLogin, viewRegister, viewUsers } from './views/auth.js
 import { viewApiDocs } from './views/apidocs.js';
 import { viewChanges, viewHistory } from './views/history.js';
 import { viewCompare } from './views/compare.js';
-import { viewPrint } from './views/print.js';
 import { viewEditor } from './views/editor.js';
 import { viewList } from './views/list.js';
 import { viewSign } from './views/sign.js';
@@ -26,7 +25,6 @@ const routes = [
   [/^\/sign\/([^/]+)\/edit$/, (m) => viewEditor(decodeURIComponent(m[1])), 'signs'],
   [/^\/sign\/([^/]+)\/history$/, (m) => viewHistory(decodeURIComponent(m[1])), 'signs'],
   [/^\/compare$/, () => viewCompare(), 'compare'],
-  [/^\/print$/, () => viewPrint(), ''],
   [/^\/changes$/, () => viewChanges(), 'changes'],
   [/^\/login$/, () => viewLogin(), ''],
   [/^\/register$/, () => viewRegister(), ''],

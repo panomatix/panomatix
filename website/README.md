@@ -1,9 +1,15 @@
 # Panomatix website
 
 Collaborative editor and REST API for `full_database.json`. Anyone can create an account (email + password)
-and edit every field of a sign — designs, national codes, languages, parameters, OSM tags, sources and the
-additional panels (*panonceaux*) above, below, left or right of the sign. Every change is versioned and can
-be reverted.
+and edit every field of a sign. Every change is versioned and can be reverted.
+
+A sign page shows the sign and its ID (the rest behind **More information**), then its designs and its related
+signs as tabs. Each tab lists the national signs as tiles with three actions: **Info**, **Move** (to another
+design, related sign or sign — codes, texts and panels move along) and **Edit** (that national sign only: code,
+image, texts, parameters, OSM tags, sources and its additional panels). Panels (*panonceaux*) are picked from
+the country's own panels or the Convention's, and each one is checked: it must exist and belong to that country
+or to the Convention (otherwise the save is refused); a panel outside category H, or not in the Convention's list
+for the sign, is flagged as a warning. The full JSON editor stays available for everything else.
 
 - **Back end:** Node.js ≥ 24.7, no npm dependency — `node:http`, `node:sqlite`, `node:crypto` (argon2id).
 - **Front end:** plain HTML, CSS and JavaScript modules, no build step, served by the same process.
@@ -50,6 +56,8 @@ Full list on the site at `#/api`. Main points:
 |---|---|
 | Read | `GET /api/v1/signs?q=&category=&country=&kind=&page=`, `GET /api/v1/signs/{reference}` |
 | Write | `POST /api/v1/signs`, `PUT /api/v1/signs/{reference}` with the `version` you edited (409 on concurrent edit) |
+| One national sign | `GET`/`PUT`/`DELETE /api/v1/signs/{reference}/units/{loc}/{country}` (`loc` = `d0`, `d1`… for a design, `r0`… for a related sign), `POST …/move` `{version, to: {reference?, loc}}` |
+| Panels | `GET /api/v1/panels?country=fr&q=` (panels that country's signs can carry), `POST /api/v1/panels/check` (ok / warning / error per panel; errors refuse the save) |
 | History | `GET …/revisions`, `GET …/revisions/{v}`, `POST …/revert` (moderators) |
 | Check | `POST /api/v1/validate` — dry run, returns `[{path, message}]` |
 | Images | `POST /api/v1/images` (multipart: `file`, `code`) — stored in `road_sign_images/<country>/<category>/<vienna|other>/` |

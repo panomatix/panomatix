@@ -28,6 +28,14 @@ const ENDPOINTS = [
     ['GET', '/api/v1/codes?q=', 'Autocomplete of national codes and references.'],
     ['GET', '/api/v1/export', 'Whole database in the full_database.json format.'],
   ]],
+  ['National signs and panels', [
+    ['GET', '/api/v1/signs/{reference}/units/{loc}/{country}', 'One national sign: loc = d<n> (design n, from 0) or r<n> (related sign n). Returns its data (a template if absent), the places it can move to, the Convention panels and the panel checks.'],
+    ['PUT', '/api/v1/signs/{reference}/units/{loc}/{country}', '{version, data, comment?} — create or replace that national sign only. 422 invalid_panels if a panel cannot be added.'],
+    ['DELETE', '/api/v1/signs/{reference}/units/{loc}/{country}', '{version, comment?} — remove it.'],
+    ['POST', '/api/v1/signs/{reference}/units/{loc}/{country}/move', '{version, to: {reference?, loc}, comment?} — move it to another design or related sign, of this sign or another. 409 if the country is already there.'],
+    ['GET', '/api/v1/panels?country=fr&q=', 'Panels a national sign of that country can carry: its national panels (H / OTHER-H) and the Convention ones (H).'],
+    ['POST', '/api/v1/panels/check', '{reference, country_code, additional} → {ok, checks: [{position, slot, reference, level: ok|warning|error, message}]}. No write.'],
+  ]],
   ['Images', [
     ['GET', '/api/v1/images?code=fr:B14', 'Images of a national code.'],
     ['POST', '/api/v1/images', 'multipart/form-data: file (SVG, PNG, JPEG, GIF, WebP ≤ 5 MB) + code. Filed next to the sign that owns the code.'],

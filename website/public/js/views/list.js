@@ -2,7 +2,6 @@
 import { countries, get, vocab } from '../api.js';
 import { debounce, h, signHref } from '../dom.js';
 import { lang, t, tn } from '../i18n.js';
-import { printHref } from './print.js';
 
 const KIND_LABEL = { vienna: 'Vienna Convention', other: 'National only', all: 'All signs' }; // translated at render; Vienna is the default
 
@@ -31,7 +30,6 @@ export async function viewList() {
   const state = readQuery();
   const results = h('div.results', { 'aria-live': 'polite' });
   const countLine = h('p.muted');
-  const pdfBtn = h('a.btn', { href: '#/print' }, `⤓ ${t('Export to PDF')}`);
 
   const catNames = voc.categoryNames;
   const catLabel = (c) => {
@@ -62,7 +60,6 @@ export async function viewList() {
   let reqId = 0;
   async function load() {
     writeQuery(state);
-    pdfBtn.href = printHref({ q: state.q, category: state.category, country: state.country, kind: state.kind });
     const id = ++reqId;
     const params = new URLSearchParams({ page: state.page, per_page: 48 });
     for (const k of ['q', 'category', 'country']) if (state[k]) params.set(k, state[k]);
@@ -112,7 +109,7 @@ export async function viewList() {
       h('h1', {}, t('Road signs of the world')),
       h('p', {}, t('Every sign of the Vienna Convention mapped to its national equivalents, designs and OpenStreetMap tags — edited by the community.'))),
     h('form.filters', { role: 'search', onsubmit: (e) => { e.preventDefault(); onFilter(); } }, q, category, country, kind),
-    h('div.row.between', {}, countLine, pdfBtn),
+    h('div.row.between', {}, countLine),
     results);
 }
 

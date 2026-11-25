@@ -285,16 +285,6 @@ describe('signs', () => {
     assert.ok(arr.every((e) => validateEntry(e).length === 0));
   });
 
-  test('print export: full entries with images, filters', async () => {
-    const c = new Client();
-    const v = (await c.req('GET', '/api/v1/print?kind=vienna')).data;
-    assert.deepEqual(v.items.map((i) => i.reference), ['VIENNA:B-01.1', 'VIENNA:C-14.1']);
-    assert.equal(v.items[0].images['be:B1'], '/media/be_belgium/b_priority_signs/vienna/BE-B1.svg');
-    assert.ok(v.items[0].data.officialSign.designs.length > 0);
-    assert.equal((await c.req('GET', '/api/v1/print?ref=OTHER%3AA27')).data.items.length, 1);
-    assert.equal((await c.req('GET', '/api/v1/print?kind=bogus')).status, 400);
-  });
-
   test('form posts are refused (JSON only)', async () => {
     const r = await new Client().req('POST', '/api/v1/auth/login', 'email=a&password=b', { 'Content-Type': 'application/x-www-form-urlencoded' });
     assert.equal(r.status, 415);
@@ -347,5 +337,91 @@ describe('images and static files', () => {
     assert.equal(r.status, 200);
     assert.match(r.headers.get('content-security-policy'), /script-src 'self'/);
     assert.equal(r.headers.get('x-frame-options'), 'DENY');
+  });
+});
+
+describe('national signs (units) and additional panels', () => {
+  const unit = (ref, loc, jur) => `/api/v1/signs/${encodeURIComponent(ref)}/units/${loc}/${jur}`;
+  const be = (code) => ({ countryCode: 'be', languages: { fr: { code, codes: [code], text: null, description: null } }, additional: { top: [], bottom: [] }, osm: { traffic_sign: [] } });
+  let c;
+
+  test('read a unit: data, places it can go, Convention panels', async () => {
+    c = new Client();
+    await c.req('POST', '/api/v1/auth/register', { email: 'una@example.org', display_name: 'Una', password: 'una long password' });
+    const v = (await c.req('GET', unit('VIENNA:B-01.1', 'd0', 'belgium'))).data;
+    assert.equal(v.exists, true);
+    assert.equal(v.data.countryCode, 'be');
+    assert.deepEqual(v.locations.map((l) => l.loc), ['d0', 'd1', 'r0']);
+    assert.deepEqual(v.convention_panels.bottom[0].reference, ['VIENNA:H-01.1', 'VIENNA:H-08.1']);
+    const empty = (await c.req('GET', unit('VIENNA:B-01.1', 'd1', 'belgium'))).data;
+    assert.equal(empty.exists, false);
+    assert.equal((await c.req('GET', unit('VIENNA:B-01.1', 'd9', 'belgium'))).status, 404);
+    assert.equal((await c.req('GET', unit('VIENNA:B-01.1', 'x1', 'belgium'))).status, 400);
+  });
+
+  test('panels: list per country, checks, refused on save when invalid', async () => {
+    const panel = structuredClone(fixture.find((x) => x.reference === 'OTHER:A27'));
+    Object.assign(panel, { reference: 'OTHER:HTEST', category: 'OTHER-H', name: { en: 'Distance panel' } });
+    panel.officialSign.designs[0].jurisdictions = { belgium: be('be:M2') };
+    assert.equal((await c.req('POST', '/api/v1/signs', { data: panel })).status, 201);
+
+    const list = (await c.req('GET', '/api/v1/panels?country=be')).data.items;
+    assert.ok(list.some((p) => p.value === 'be:M2' && p.national));
+    assert.ok(!(await c.req('GET', '/api/v1/panels?country=fr')).data.items.some((p) => p.value === 'be:M2'));
+
+    const chk = (await c.req('POST', '/api/v1/panels/check', {
+      reference: 'VIENNA:B-01.1', country_code: 'be', additional: { bottom: [{ index: 1, reference: ['be:M2', 'be:NOPE', 'fr:B14'] }] },
+    })).data;
+    assert.equal(chk.ok, false);
+    assert.deepEqual(chk.checks.map((x) => x.level), ['warning', 'error', 'error']); // be:M2 not in the Convention's list for B-01.1
+    assert.match(chk.checks[2].message, /another country/);
+
+    const v = (await c.req('GET', unit('VIENNA:B-01.1', 'd0', 'belgium'))).data;
+    const data = structuredClone(v.data);
+    data.additional.bottom = [{ index: 1, reference: ['be:NOPE'] }];
+    const bad = await c.req('PUT', unit('VIENNA:B-01.1', 'd0', 'belgium'), { version: v.version, data });
+    assert.equal(bad.status, 422);
+    assert.equal(bad.data.error.code, 'invalid_panels');
+    assert.match(bad.data.error.details[0].path, /designs\[0\]\.jurisdictions\.belgium\.additional\.bottom\[0\]\.reference\[0\]/);
+
+    data.additional.bottom = [{ index: 1, reference: ['be:M2'] }];
+    const ok = await c.req('PUT', unit('VIENNA:B-01.1', 'd0', 'belgium'), { version: v.version, data });
+    assert.equal(ok.status, 200);
+    assert.deepEqual(ok.data.data.additional.bottom[0].reference, ['be:M2']);
+    assert.equal(ok.data.panel_checks[0].level, 'warning');
+    assert.equal((await c.req('PUT', unit('VIENNA:B-01.1', 'd0', 'belgium'), { version: v.version, data })).status, 409, 'stale version');
+    assert.equal((await new Client().req('PUT', unit('VIENNA:B-01.1', 'd0', 'belgium'), { version: ok.data.version, data })).status, 401);
+  });
+
+  test('move a unit within the sign, to a related sign and to another sign; remove it', async () => {
+    let v = (await c.req('GET', unit('VIENNA:B-01.1', 'd0', 'belgium'))).data;
+    let r = await c.req('POST', `${unit('VIENNA:B-01.1', 'd0', 'belgium')}/move`, { version: v.version, to: { loc: 'd1' } });
+    assert.equal(r.status, 200);
+    assert.equal(r.data.target.exists, true);
+    assert.equal(r.data.target.data.additional.bottom[0].reference[0], 'be:M2', 'panels move with the sign');
+    assert.equal((await c.req('GET', unit('VIENNA:B-01.1', 'd0', 'belgium'))).data.exists, false);
+    assert.equal((await c.req('POST', `${unit('VIENNA:B-01.1', 'd1', 'belgium')}/move`, { version: r.data.version, to: { loc: 'd1' } })).status, 400);
+    // a country already present at the target is refused
+    assert.equal((await c.req('POST', `${unit('VIENNA:B-01.1', 'd1', 'belgium')}/move`, { version: r.data.version, to: { reference: 'VIENNA:C-14.1', loc: 'd0' } })).status, 409);
+
+    // the related sign already has a Belgian sign
+    assert.equal((await c.req('POST', `${unit('VIENNA:B-01.1', 'd1', 'belgium')}/move`, { version: r.data.version, to: { loc: 'r0' } })).status, 409);
+    const nor = await c.req('POST', `${unit('VIENNA:B-01.1', 'd0', 'norway')}/move`, { version: r.data.version, to: { loc: 'r0' } });
+    assert.equal(nor.status, 200);
+    v = (await sign(c, 'VIENNA:B-01.1')).data;
+    assert.ok(v.data.relatedSigns[0].jurisdictions.norway);
+    assert.ok(!v.data.officialSign.designs[0].jurisdictions.norway);
+
+    r = await c.req('POST', `${unit('VIENNA:B-01.1', 'd1', 'belgium')}/move`, { version: v.version, to: { reference: 'VIENNA:C-14.1', loc: 'd2' } });
+    assert.equal(r.status, 200);
+    assert.ok((await sign(c, 'VIENNA:C-14.1')).data.data.officialSign.designs[2].jurisdictions.belgium);
+    assert.ok(!(await sign(c, 'VIENNA:B-01.1')).data.data.officialSign.designs[1].jurisdictions.belgium);
+    const hist = (await c.req('GET', '/api/v1/signs/VIENNA%3AC-14.1/revisions')).data.revisions[0];
+    assert.match(hist.comment, /moved from VIENNA:B-01\.1/);
+
+    const t = (await sign(c, 'VIENNA:C-14.1')).data;
+    const del = await c.req('DELETE', unit('VIENNA:C-14.1', 'd2', 'belgium'), { version: t.version });
+    assert.equal(del.status, 200);
+    assert.ok(!(await sign(c, 'VIENNA:C-14.1')).data.data.officialSign.designs[2].jurisdictions.belgium);
   });
 });

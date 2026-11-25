@@ -5,9 +5,9 @@ import { ImageIndex, ViennaIndex, registerImageRoutes, registerViennaMediaRoute 
 import { registerAuthRoutes } from './routes/auth.js';
 import { registerCompareRoutes } from './routes/compare.js';
 import { registerCountryRoutes } from './routes/countries.js';
-import { registerPrintRoutes } from './routes/print.js';
 import { registerMetaRoutes } from './routes/meta.js';
 import { registerSignRoutes } from './routes/signs.js';
+import { registerUnitRoutes } from './routes/units.js';
 import { ApiError, authenticate, enforceCsrf } from './security.js';
 
 export function knownCountryCodes(db) {
@@ -24,7 +24,7 @@ export function createApp({ config, db }) {
   registerMetaRoutes(router);
   registerCompareRoutes(router);
   registerCountryRoutes(router);
-  registerPrintRoutes(router);
+  registerUnitRoutes(router);
   registerImageRoutes(router);
   registerViennaMediaRoute(router);
 

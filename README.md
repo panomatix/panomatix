@@ -24,7 +24,7 @@ VIENNA:C-14.1  Maximum speed limit
 | `vienna_convention_images/` | Official illustrations of the Vienna Convention signs (2026 amendment), named after the design they show — see [Official images](#official-images). |
 | `Conv_road_signs_2006v_EN.pdf`, `ECE-TRANS-WP1-2023-2-Rev2e.pdf` | Sources: the 2006 consolidated Convention and the 2023 revision (ECE/TRANS/WP.1/2023/2/Rev.2). |
 | `fetch_wikipedia_captions.py` | Collects the English captions of the sign pictures on the Wikipedia "Road signs in …" pages, used to link national signs to Vienna signs by meaning (see [How it is built](#how-it-is-built)). |
-| `website/` | Collaborative editor and REST API (browsing, country comparison, PDF export, accounts, history, image uploads) — see [`website/README.md`](website/README.md). |
+| `website/` | Collaborative editor and REST API (browsing, country comparison, accounts, history, image uploads) — see [`website/README.md`](website/README.md). |
 
 ## Browsing the database
 
@@ -38,8 +38,7 @@ npm run dev             # http://127.0.0.1:8080
 
 Each sign page shows the official Vienna models, every design with the countries that use it, their codes,
 texts, parameters, additional panels and OSM tags, with the national pictures from `road_sign_images/`.
-"Compare countries" lays the signs out as a sign × country table, and any selection can be exported as a
-PDF. Edits made on the site are written back with `npm run export`; review the diff, then commit.
+"Compare countries" lays the signs out as a sign × country table. Edits made on the site are written back with `npm run export`; review the diff, then commit.
 
 ## Official images
 
