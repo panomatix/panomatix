@@ -53,7 +53,7 @@ function fullSign(ctx, row) {
     updated_by: userName(ctx.db, row.updated_by),
     data,
     images: imagesForEntry(ctx.images, data),
-    vienna_images: ctx.vienna.get(row.reference),
+    vienna_images: ctx.vienna.get(row.reference, data),
   };
 }
 

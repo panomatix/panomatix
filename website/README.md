@@ -77,7 +77,7 @@ Scripts sign in with `{"mode": "token"}` and send `Authorization: Bearer <token>
 | `PANOMATIX_PORT` / `PANOMATIX_HOST` | `8080` / `127.0.0.1` | listen address |
 | `PANOMATIX_DB` | `website/data/panomatix.sqlite3` | database file (back it up: `sqlite3 … ".backup x"`) |
 | `PANOMATIX_IMAGES_DIR` | `../road_sign_images` | national sign images |
-| `PANOMATIX_VIENNA_IMAGES_DIR` | `../vienna_convention_images` | official Vienna Convention illustrations |
+| `PANOMATIX_VIENNA_IMAGES_DIR` | `../vienna_convention_images` | official Vienna Convention illustrations, named after the design labels they show (`A-01.1_triangle_white_red_black.svg`) and shown on the matching design |
 | `PANOMATIX_ENV` | `production` | `development` allows non-Secure cookies |
 | `PANOMATIX_TRUST_PROXY` | `0` | `1` behind nginx/Caddy to read `X-Forwarded-For` |
 | `PANOMATIX_REGISTRATION_OPEN` | `1` | `0` closes sign-ups |

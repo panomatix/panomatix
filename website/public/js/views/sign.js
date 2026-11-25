@@ -81,10 +81,20 @@ export function jurisdictionsView(jurs, imgs, onEdit = null) {
   }));
 }
 
-export function designCard(d, i, imgs, onEdit = null) {
+/** Short text of the labels an official image carries: "triangle · white · red · black". */
+function labelsText(l) {
+  return [l.shape, l.background_color, l.border_color && t('border {c}', { c: l.border_color }), l.symbol_color && t('symbol {c}', { c: l.symbol_color }),
+    l.band && l.band !== 'none' ? `${l.band}${l.band_color ? ` (${l.band_color})` : ''}` : null,
+    l.prohibition_bar ? `${l.prohibition_bar}${l.bar_continuity ? ` (${l.bar_continuity})` : ''}` : null]
+    .filter(Boolean).map((x) => x.replace(/_/g, ' ')).join(' · ');
+}
+
+export function designCard(d, i, imgs, onEdit = null, official = []) {
   const props = ['shape', 'background_color', 'border_color', 'symbol_color', 'band', 'band_color', 'prohibition_bar', 'bar_continuity', 'model', 'legacyModel'];
-  return h('article.design', {},
-    h('header', {}, h('h4', {}, t('Design {n}', { n: i + 1 })),
+  return h('article.design', { id: `design-${i + 1}` },
+    h('header', {},
+      official.length ? h('div.design-official', {}, official.map((im) => h('img', { src: im.url, alt: im.name, title: t('Official model (Vienna Convention)'), loading: 'lazy' }))) : null,
+      h('h4', {}, t('Design {n}', { n: i + 1 })),
       h('div.chips', {}, props.filter((p) => d[p] !== undefined && d[p] !== null && d[p] !== 'none').map((p) => h('span.chip', { title: p }, `${p.replace(/_/g, ' ')}: ${d[p]}`)))),
     h('div.kvs', {},
       kv('Versions', d.versions.join(', ') || '—'),
@@ -154,10 +164,13 @@ export async function viewSign(ref) {
       h('div.official', {}, s.vienna_images.map((im) => h('figure', {},
         h('img', { src: im.url, alt: im.name, loading: 'lazy' }),
         h('figcaption', {},
-          h('strong', {}, im.variant ? im.variant : t('Main model')),
+          h('span.small', {}, labelsText(im.labels)),
+          im.designs.length
+            ? h('span.small', {}, im.designs.map((n, k) => [k ? ', ' : '', h('a', { href: `#design-${n + 1}`, onclick: (e) => { e.preventDefault(); document.getElementById(`design-${n + 1}`)?.scrollIntoView({ behavior: 'smooth' }); } }, t('Design {n}', { n: n + 1 }))]))
+            : h('span.badge.warn', { title: t('No design of this sign carries these labels in the database.') }, t('no matching design')),
           im.commons ? h('a.small', { href: `https://commons.wikimedia.org/wiki/${encodeURIComponent(im.commons.replace(/ /g, '_'))}`, target: '_blank', rel: 'noopener noreferrer' }, 'Commons') : null,
           im.license ? h('span.muted.small', {}, im.license) : null)))),
-      h('p.small.muted', {}, t('Variants: V1, V2… = other permitted colours; -1, -2, -a… = other permitted models or symbols.'))) : null,
+      h('p.small.muted', {}, t('Each official model is named after the labels of the design it shows, and is shown again on that design below.'))) : null,
     h('section.box', {},
       h('h2', {}, t('General')),
       h('div.grid2', {},
@@ -179,7 +192,7 @@ export async function viewSign(ref) {
           type: 'button',
           onclick: async () => pickCountryThenEdit(ref, usedCountries, await countries(), { onSaved: reopen }),
         }, `+ ${t('Add a country')}`) : null),
-      d.officialSign.designs.map((x, i) => designCard(x, i, s.images, onEdit))),
+      d.officialSign.designs.map((x, i) => designCard(x, i, s.images, onEdit, (s.vienna_images ?? []).filter((im) => im.designs.includes(i))))),
     d.relatedSigns?.length ? h('section', {},
       h('h2', {}, t('Related signs ({n})', { n: d.relatedSigns.length })),
       d.relatedSigns.map((r) => h('article.design', {},

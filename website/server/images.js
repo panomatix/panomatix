@@ -205,7 +205,36 @@ export function registerImageRoutes(router) {
 
 // --- official Vienna Convention illustrations (vienna_convention_images/) -------------------------
 
-/** reference ("VIENNA:A-01.1") -> [{rel, name, variant, url, license, artist, commons}] ; base image first. */
+/** Design labels that name an official image, in file-name order (see vienna_convention_images/images_links.json). */
+export const DESIGN_LABELS = ['shape', 'background_color', 'border_color', 'symbol_color', 'band', 'band_color', 'prohibition_bar', 'bar_continuity'];
+const BANDS = new Set(['single-band', 'parallel-lines']);
+const BARS = new Set(['with-bar', 'without-bar']);
+const CONTINUITY = new Set(['continuous', 'interrupted']);
+/** A label value as written in a file name: spaces and underscores become "-", null becomes "none". */
+const token = (v) => (v === null || v === undefined ? 'none' : String(v).replace(/[ _]/g, '-'));
+/** Key comparing an image with a design: the file-name form of every label, "none" band and null band alike. */
+export const labelsKey = (l) => DESIGN_LABELS.map((k) => token(k === 'band' && !l[k] ? 'none' : l[k])).join('|');
+
+/** "A-01.1_triangle_white_red_dark-blue_2.svg" -> {number, labels, index}; null if the name does not follow the scheme. */
+export function parseViennaName(file) {
+  const m = /^([A-H]-\d{2}\.\d+)_(.+?)(?:_(\d+))?\.svg$/i.exec(file);
+  if (!m) return null;
+  const t = m[2].split('_');
+  if (t.length < 4) return null;
+  const val = (x) => (x === 'none' ? null : x);
+  const labels = { shape: val(t[0].replace(/-/g, '_')), background_color: val(t[1].replace(/-/g, ' ')), border_color: val(t[2].replace(/-/g, ' ')),
+    symbol_color: val(t[3].replace(/-/g, ' ')), band: 'none', band_color: null, prohibition_bar: null, bar_continuity: null };
+  for (let i = 4; i < t.length; i += 1) {
+    if (BANDS.has(t[i])) { labels.band = t[i].replace(/-/g, '_'); labels.band_color = val((t[i + 1] ?? 'none').replace(/-/g, ' ')); i += 1; }
+    else if (BARS.has(t[i])) {
+      labels.prohibition_bar = t[i].replace(/-/g, '_');
+      if (CONTINUITY.has(t[i + 1])) { labels.bar_continuity = t[i + 1]; i += 1; }
+    } else return null;
+  }
+  return { number: m[1].toUpperCase(), labels, index: m[3] ? Number(m[3]) : 1 };
+}
+
+/** reference ("VIENNA:A-01.1") -> official images, each tied to the designs of the entry that carry the same labels. */
 export class ViennaIndex {
   constructor(root) {
     this.root = path.resolve(root);
@@ -218,33 +247,44 @@ export class ViennaIndex {
     let manifest = [];
     try {
       manifest = JSON.parse(fs.readFileSync(path.join(this.root, 'images_links.json'), 'utf8')).images ?? [];
-    } catch { /* manifest written at the end of the download; fall back to the files */ }
+    } catch { /* no manifest: the file names carry the labels */ }
     const meta = new Map(manifest.map((m) => [m.file, m]));
     for (const dir of fs.readdirSync(this.root, { withFileTypes: true })) {
       if (!dir.isDirectory()) continue;
       for (const f of fs.readdirSync(path.join(this.root, dir.name))) {
-        if (path.extname(f).toLowerCase() !== '.svg') continue;
+        const parsed = parseViennaName(f);
+        if (!parsed) continue;
         const rel = `${dir.name}/${f}`;
-        const m = /^([A-H]-\d{2}\.\d+)(.*)\.svg$/i.exec(f);
-        if (!m) continue;
-        const ref = `VIENNA:${m[1]}`;
         const info = meta.get(rel) ?? {};
-        const list = this.byRef.get(info.reference ?? ref) ?? [];
+        const reference = info.reference ?? `VIENNA:${parsed.number}`;
+        const labels = info.labels ?? parsed.labels;
+        const list = this.byRef.get(reference) ?? [];
         list.push({
-          rel, name: f, variant: m[2].replace(/^[-_]/, '') || null,
+          name: f, labels, key: labelsKey(labels), index: parsed.index,
           url: `/vienna-media/${rel.split('/').map(encodeURIComponent).join('/')}`,
-          license: info.license ?? null, artist: info.artist ?? null, commons: info.commons_title ?? null,
+          commons: info.commons_title ?? null, commonsFile: info.commons_file ?? null, license: info.license ?? null, artist: info.artist ?? null,
         });
-        this.byRef.set(info.reference ?? ref, list);
+        this.byRef.set(reference, list);
       }
     }
-    // base image first, then colour variants (-V1…), then alternative models (-1, -2, -a…)
-    const rank = (v) => (v === null ? '0' : /^V\d+$/.test(v) ? `1${v}` : `2${v}`);
-    for (const list of this.byRef.values()) list.sort((a, b) => rank(a.variant).localeCompare(rank(b.variant), 'en', { numeric: true }));
+    // Commons order: main model first, then its colour variants (-V1…), then the other models (-1, -2…).
+    const rank = (im) => {
+      if (!im.commonsFile) return `000.000.${String(im.index).padStart(3, '0')}`;
+      const v = im.commonsFile.replace(/\.svg$/i, '').replace(/^[A-H]-\d{2}\.\d+-?/i, '');
+      const model = /^V\d+$/.test(v) || !v ? '' : v.split('-')[0];
+      const colour = /V(\d+)$/.exec(v)?.[1] ?? '0';
+      return `${model.padStart(3, '0')}.${colour.padStart(3, '0')}.${String(im.index).padStart(3, '0')}`;
+    };
+    for (const list of this.byRef.values()) list.sort((a, b) => rank(a).localeCompare(rank(b)) || a.name.localeCompare(b.name));
   }
 
-  get(reference) {
-    return (this.byRef.get(reference) ?? []).map(({ rel, ...rest }) => rest);
+  /** Official images of a sign; with the entry, `designs` lists the indexes of officialSign.designs[] each image shows. */
+  get(reference, entry = null) {
+    const designs = entry?.officialSign?.designs ?? [];
+    const keys = designs.map(labelsKey);
+    return (this.byRef.get(reference) ?? []).map(({ key, commonsFile, ...rest }) => ({
+      ...rest, commonsFile, designs: keys.flatMap((k, i) => (k === key ? [i] : [])),
+    }));
   }
 
   main(reference) {

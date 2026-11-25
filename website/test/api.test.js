@@ -23,7 +23,7 @@ before(async () => {
   fs.writeFileSync(path.join(imagesDir, 'be_belgium', 'b_priority_signs', 'vienna', 'BE-B1.svg'), '<svg xmlns="http://www.w3.org/2000/svg"/>');
   const viennaDir = path.join(tmp, 'vienna');
   fs.mkdirSync(path.join(viennaDir, 'b_priority_signs'), { recursive: true });
-  for (const f of ['B-01.1.svg', 'B-01.1-V1.svg']) fs.writeFileSync(path.join(viennaDir, 'b_priority_signs', f), '<svg xmlns="http://www.w3.org/2000/svg"/>');
+  for (const f of ['B-01.1_inverted-triangle_white_red_none.svg', 'B-01.1_inverted-triangle_yellow_red_none.svg', 'B-01.1_circle_green_none_white.svg', 'B-01.1-old-name.svg']) fs.writeFileSync(path.join(viennaDir, 'b_priority_signs', f), '<svg xmlns="http://www.w3.org/2000/svg"/>');
   db = openDatabase(path.join(tmp, 'test.sqlite3'));
   const ts = now();
   for (const e of fixture) {
@@ -321,8 +321,14 @@ describe('images and static files', () => {
   });
   test('official Vienna models: listed on the sign, used as thumbnail, served sandboxed', async () => {
     const s = (await sign(new Client(), 'VIENNA:B-01.1')).data;
-    assert.deepEqual(s.vienna_images.map((i) => i.name), ['B-01.1.svg', 'B-01.1-V1.svg']);
-    assert.equal(s.vienna_images[1].variant, 'V1');
+    // named after the design labels of full_database.json; files that do not follow the scheme are ignored
+    assert.deepEqual(s.vienna_images.map((i) => i.name).sort(),
+      ['B-01.1_circle_green_none_white.svg', 'B-01.1_inverted-triangle_white_red_none.svg', 'B-01.1_inverted-triangle_yellow_red_none.svg']);
+    const byName = Object.fromEntries(s.vienna_images.map((i) => [i.name, i]));
+    assert.deepEqual(byName['B-01.1_inverted-triangle_white_red_none.svg'].designs, [0]);
+    assert.deepEqual(byName['B-01.1_inverted-triangle_yellow_red_none.svg'].designs, [1]);
+    assert.deepEqual(byName['B-01.1_circle_green_none_white.svg'].designs, []);
+    assert.equal(byName['B-01.1_inverted-triangle_yellow_red_none.svg'].labels.background_color, 'yellow');
     const list = (await new Client().req('GET', '/api/v1/signs?q=give%20way')).data;
     assert.equal(list.items[0].thumbnail.official, true);
     const img = await fetch(base + s.vienna_images[0].url);
