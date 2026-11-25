@@ -1,7 +1,7 @@
 // One national sign ("unit"): what ONE country shows under ONE design or related sign of a sign.
 // Three actions, each in a dialog: Info (read), Move (to another design / related sign / sign), Edit (incl. panels).
 import { ApiError, api, get, post, put, del, signPath, vocab } from '../api.js';
-import { block, confirmDialog, debounce, h, signHref, toast } from '../dom.js';
+import { block, confirmDialog, debounce, h, signHref, toast, add as addTo, fill } from '../dom.js';
 import { t } from '../i18n.js';
 import { bool, field, listEditor, mapEditor, strList, sub, text } from '../widgets.js';
 import { languageEditor, parameterEditor, showErrors } from './editor.js';
@@ -10,22 +10,7 @@ import { displayName } from './list.js';
 export const pretty = (key) => key.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 const LANG_KEY = '^[a-z]{2,3}(-[A-Za-z0-9]{1,8})*$';
 const POS = [['top', 'Above the sign'], ['bottom', 'Below the sign'], ['left', 'Left of the sign'], ['right', 'Right of the sign']];
-const CSS_COLOR = {
-  white: '#fff', black: '#111', red: '#d52b1e', blue: '#1f5fbf', 'dark blue': '#123a7a', yellow: '#f6c400', orange: '#f28c00',
-  green: '#1f8a4c', brown: '#7a4a26', grey: '#8a8d8f', 'light grey': '#c8cbcd', 'dark grey': '#4b4f52', purple: '#6a3d9a', dark: '#222',
-};
 const unitPath = (ref, loc, jur) => `${signPath(ref)}/units/${encodeURIComponent(loc)}/${encodeURIComponent(jur)}`;
-
-/** A tiny drawing of a design when no picture exists. */
-export function swatch(p, cls = '') {
-  const el = h('span', { class: `swatch shape-${p.shape ?? 'square'} ${cls}` });
-  // set through CSSOM: inline style attributes are blocked by the Content-Security-Policy
-  el.style.setProperty('--sw-bg', CSS_COLOR[p.background_color] ?? '#eee');
-  el.style.setProperty('--sw-bd', CSS_COLOR[p.border_color] ?? CSS_COLOR[p.border] ?? '#bbb');
-  if (p.symbol_color && CSS_COLOR[p.symbol_color]) el.style.setProperty('--sw-sy', CSS_COLOR[p.symbol_color]);
-  el.title = [p.shape, p.background_color, p.border_color && `${t('border')} ${p.border_color}`, p.symbol_color && `${t('symbol')} ${p.symbol_color}`].filter(Boolean).join(' · ');
-  return el;
-}
 
 export const codesOf = (jur) => [...new Set(Object.values(jur.languages ?? {}).flatMap((l) => l.codes ?? []))];
 export const mainCode = (jur) => Object.values(jur.languages ?? {}).find((l) => l.code)?.code ?? '';
@@ -36,7 +21,7 @@ export const locLabel = (l) => (l.kind === 'design' ? t('Design {n}', { n: Numbe
 function modal(cls, title, ...content) {
   const dlg = h(`dialog.${cls}`, { 'aria-label': title });
   const close = () => { dlg.close(); dlg.remove(); };
-  dlg.append(h('header.modal-head', {}, h('h2', {}, title), h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: close }, '×')), ...content);
+  addTo(dlg, h('header.modal-head', {}, h('h2', {}, title), h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: close }, '×')), ...content);
   dlg.addEventListener('cancel', (e) => { e.preventDefault(); close(); });
   dlg.addEventListener('click', (e) => { if (e.target === dlg) close(); });
   document.body.append(dlg);
@@ -118,7 +103,7 @@ function locationCard(l, { current, taken, onPick }) {
     type: 'button', class: `loc-card${current ? ' current' : ''}`, disabled: current || taken, onclick: onPick,
     title: current ? t('It is here now') : taken ? t('This country already has a national sign there') : '',
   },
-  l.image ? h('img', { src: l.image, alt: '' }) : swatch(l.props),
+  l.image ? h('img', { src: l.image, alt: '' }) : null,
   h('span.loc-label', {}, locLabel(l)),
   h('span.loc-props', {}, Object.values(l.props).join(' · ')),
   h('span.loc-count', {}, current ? t('current place') : taken ? t('already used by this country') : t('{n} countries', { n: l.countries.length })));
@@ -249,7 +234,7 @@ function panelsEditor(state, view, path, signImg) {
 
   function draw() {
     const messages = checks.filter((c) => c.level !== 'ok');
-    box.replaceChildren(
+    fill(box,
       h('div.panels-edit', {},
         h('div.panels-preview', {}, panelStack(add, signImg, checks)),
         h('div.panels-slots', {},
@@ -291,6 +276,18 @@ function panelsEditor(state, view, path, signImg) {
   state.panelErrors = checks.filter((c) => c.level === 'error').length;
   draw();
   return box;
+}
+
+/** Remove ONE national sign after confirmation; resolves to true when it was removed. */
+export async function removeUnit(reference, loc, jurKey) {
+  const view = await get(unitPath(reference, loc, jurKey));
+  if (!view.exists) { toast(t('Removed.')); return true; }
+  const code = mainCode(view.data) || pretty(jurKey);
+  const comment = await confirmDialog(t('Remove {code} ({country}) from this sign?', { code, country: pretty(jurKey) }), { input: true, placeholder: t('Reason (optional)') });
+  if (comment === null) return false;
+  await del(unitPath(reference, loc, jurKey), { version: view.version, comment });
+  toast(t('Removed.'));
+  return true;
 }
 
 /** Ask which country (for a new national sign). */

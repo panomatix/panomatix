@@ -2,10 +2,10 @@
 // Below, the designs and the related signs as tabs; in each tab, one tile per national sign
 // with three actions: Info, Move, Edit.
 import { can, countries, del, get, post, session, signPath, vocab } from '../api.js';
-import { confirmDialog, fmtDate, h, signHref, toast } from '../dom.js';
+import { confirmDialog, fmtDate, h, signHref, toast, add } from '../dom.js';
 import { currentPath, navigate } from '../app.js';
 import { displayName } from './list.js';
-import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, panelCount, panelStack, pretty, swatch } from './unit.js';
+import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, removeUnit, panelCount, panelStack, pretty } from './unit.js';
 import { t } from '../i18n.js';
 
 const POS_LABEL = { top: 'Above the sign', bottom: 'Below the sign', left: 'Left of the sign', right: 'Right of the sign' };
@@ -50,8 +50,10 @@ function labelsText(l) {
     .filter(Boolean).map((x) => x.replace(/_/g, ' ')).join(' · ');
 }
 
+/** Picture of the first country (in the order of the tiles) that has one: its main code first, then its variants. */
 const firstImage = (jurs, imgs) => {
-  for (const j of Object.values(jurs ?? {})) for (const c of codesOf(j)) if (imgs[c]?.length) return imgs[c][0];
+  const sorted = Object.entries(jurs ?? {}).sort((a, b) => pretty(a[0]).localeCompare(pretty(b[0])));
+  for (const [, j] of sorted) for (const c of [mainCode(j), ...codesOf(j)]) if (imgs[c]?.length) return imgs[c][0];
   return null;
 };
 
@@ -100,7 +102,7 @@ function openSignInfo(s, voc, { selectTab }) {
       },
     }, t('Restore')) : null);
 
-  dlg.append(
+  add(dlg,
     h('header.modal-head', {},
       h('div', {},
         h('p.crumbs', {}, `${d.category} — ${t(voc.categoryNames[cat] ?? '')}`),
@@ -150,7 +152,7 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
   const signIn = t('Sign in to edit');
   const reload = () => navigate(`#${currentPath()}`);
   return h('article.tile', { dataset: { search: `${jurKey} ${jur.countryCode} ${codesOf(jur).join(' ')} ${Object.values(jur.languages ?? {}).map((l) => l.text ?? '').join(' ')}`.toLowerCase() } },
-    h('div.tile-img', {}, img ? h('img', { src: img, alt: code, loading: 'lazy' }) : swatch(fallbackProps, 'big')),
+    h('div.tile-img', {}, img ? h('img', { src: img, alt: code, loading: 'lazy' }) : null),
     h('div.tile-id', {},
       h('code', { title: code }, code || '—'),
       h('span.tile-country', {}, h('span.cc', {}, jur.countryCode), ' ', pretty(jurKey)),
@@ -176,7 +178,13 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
       h('button.btn.small.primary', {
         type: 'button', disabled: !editable, title: editable ? t('Edit this national sign and its panels') : signIn,
         onclick: () => openUnitEditor(ctx.ref, loc, jurKey, { onSaved: reload }).catch((err) => toast(err.message, 'error')),
-      }, `✎ ${t('Edit')}`)));
+      }, `✎ ${t('Edit')}`),
+      h('button.btn.small.danger', {
+        type: 'button', disabled: !editable, title: editable ? t('Remove this national sign from this sign') : signIn,
+        onclick: async () => {
+          try { if (await removeUnit(ctx.ref, loc, jurKey)) reload(); } catch (err) { toast(err.message, 'error'); }
+        },
+      }, `🗑 ${t('Remove')}`)));
 }
 
 function tilesGrid(ctx, loc, where, jurs, props) {
@@ -202,10 +210,12 @@ function tilesGrid(ctx, loc, where, jurs, props) {
 
 function designPanel(ctx, d, i) {
   const official = ctx.official.filter((im) => im.designs.includes(i));
+  const national = official.length ? null : firstImage(d.jurisdictions, ctx.images);
   return [
     h('div.tabpanel-head', {},
-      h('div.tab-models', {}, official.length ? official.map((im) => h('img', { src: im.url, alt: im.name, title: t('Official model (Vienna Convention)') }))
-        : swatch(d, 'big')),
+      official.length || national ? h('div.tab-models', {}, official.length
+        ? official.map((im) => h('img', { src: im.url, alt: im.name, title: t('Official model (Vienna Convention)') }))
+        : h('img', { src: national, alt: '', title: t('No official model: picture of the first country using this design') })) : null,
       h('div', {},
         h('h3', {}, t('Design {n}', { n: i + 1 })),
         h('div.chips', {}, DESIGN_PROPS.filter((p) => d[p] !== undefined && d[p] !== null && d[p] !== 'none').map((p) => h('span.chip', { title: p }, `${p.replace(/_/g, ' ')}: ${d[p]}`))),
@@ -221,7 +231,7 @@ function relatedPanel(ctx, r, i) {
   const props = { shape: r.shape, background_color: r.background_color ?? r.background, border_color: r.border_color ?? r.border };
   return [
     h('div.tabpanel-head', {},
-      h('div.tab-models', {}, firstImage(r.jurisdictions, ctx.images) ? h('img', { src: firstImage(r.jurisdictions, ctx.images), alt: '' }) : swatch(props, 'big')),
+      firstImage(r.jurisdictions, ctx.images) ? h('div.tab-models', {}, h('img', { src: firstImage(r.jurisdictions, ctx.images), alt: '' })) : null,
       h('div', {},
         h('h3', {}, displayName(r.name) || r.reference, ' ', isRef(r.reference) ? h('a', { href: signHref(r.reference) }, h('code.ref', {}, r.reference)) : h('code.ref', {}, r.reference)),
         h('div.chips', {}, ['shape', 'background_color', 'border_color', 'symbol_color', 'background', 'border'].filter((p) => r[p] !== undefined && r[p] !== null).map((p) => h('span.chip', { title: p }, `${p.replace(/_/g, ' ')}: ${r[p]}`))),
@@ -249,7 +259,7 @@ function tabs(ctx, items, { label, empty }) {
       strip.querySelector(`#tab-${next.key}`)?.focus();
     },
   },
-  h('span.tt-img', {}, it.image ? h('img', { src: it.image, alt: '' }) : swatch(it.props)),
+  h('span.tt-img', {}, it.image ? h('img', { src: it.image, alt: '' }) : null),
   h('span.tt-label', {}, it.label),
   h('span.tt-count', {}, t('{n} countries', { n: it.count }))));
   strip.append(...buttons);
@@ -293,7 +303,7 @@ export async function viewSign(ref) {
   return h('article.page.sign', { dataset: { cat: d.category.split('-').at(-1) } },
     s.deleted ? h('div.banner.warn', {}, t('This sign has been deleted. Moderators can restore it.')) : null,
     h('header.sign-hero', {},
-      hero ? h('img.hero-img', { src: hero, alt: displayName(d.name) || ref, title: displayName(d.name) }) : swatch(designs[0] ?? {}, 'big'),
+      hero ? h('img.hero-img', { src: hero, alt: displayName(d.name) || ref, title: displayName(d.name) }) : null,
       h('div.hero-id', {},
         h('code.ref.big', {}, ref),
         h('button.btn.primary', { type: 'button', onclick: () => openSignInfo(s, voc, { selectTab }) }, `ⓘ ${t('More information')}`))),

@@ -26,6 +26,19 @@ function append(el, children) {
   }
 }
 
+/** Replace an element's children, skipping null / undefined / false (the DOM would print them as text). */
+export function fill(el, ...children) {
+  el.replaceChildren();
+  append(el, children);
+  return el;
+}
+
+/** Append children, skipping null / undefined / false. */
+export function add(el, ...children) {
+  append(el, children);
+  return el;
+}
+
 /** A self-redrawing block: `render(redraw)` returns the children; call redraw() after structural changes. */
 export function block(render, tag = 'div', attrs = {}) {
   const box = h(tag, attrs);

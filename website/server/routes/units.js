@@ -40,8 +40,10 @@ function container(entry, loc) {
   return { c, kind, index, path };
 }
 
+/** Picture of the first country (alphabetical, as on the sign page) that has one. */
 function firstImage(ctx, jurs) {
-  for (const jur of Object.values(jurs ?? {})) {
+  const pretty = (k) => k.replace(/_/g, ' ');
+  for (const [, jur] of Object.entries(jurs ?? {}).sort((x, y) => pretty(x[0]).localeCompare(pretty(y[0])))) {
     for (const lang of Object.values(jur.languages ?? {})) {
       for (const code of lang.codes ?? []) {
         const hit = ctx.images.lookup(code);

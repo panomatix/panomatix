@@ -479,25 +479,6 @@
     },
     {
       "reference": "VIENNA:A-02.1",
-      "file": "a_danger_warning_signs/A-02.1_diamond_yellow_black_black_2.svg",
-      "labels": {
-        "shape": "diamond",
-        "background_color": "yellow",
-        "border_color": "black",
-        "symbol_color": "black",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-02.1-3.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-02.1-3.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/2026_Vienna_Convention_road_sign_A-02.1-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-02.1",
       "file": "a_danger_warning_signs/A-02.1_diamond_yellow_dark-blue_dark-blue.svg",
       "labels": {
         "shape": "diamond",
@@ -512,25 +493,6 @@
       "commons_file": "A-02.1-2-V1.svg",
       "commons_title": "File:2026 Vienna Convention road sign A-02.1-2-V1.svg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/2026_Vienna_Convention_road_sign_A-02.1-2-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-02.1",
-      "file": "a_danger_warning_signs/A-02.1_diamond_yellow_dark-blue_dark-blue_2.svg",
-      "labels": {
-        "shape": "diamond",
-        "background_color": "yellow",
-        "border_color": "dark blue",
-        "symbol_color": "dark blue",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-02.1-3-V1.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-02.1-3-V1.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2026_Vienna_Convention_road_sign_A-02.1-3-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "license": "Public domain",
       "artist": "United Nations"
     },
@@ -555,25 +517,6 @@
     },
     {
       "reference": "VIENNA:A-02.1",
-      "file": "a_danger_warning_signs/A-02.1_triangle_white_red_black_2.svg",
-      "labels": {
-        "shape": "triangle",
-        "background_color": "white",
-        "border_color": "red",
-        "symbol_color": "black",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-02.1-1.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-02.1-1.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2026_Vienna_Convention_road_sign_A-02.1-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-02.1",
       "file": "a_danger_warning_signs/A-02.1_triangle_white_red_dark-blue.svg",
       "labels": {
         "shape": "triangle",
@@ -588,25 +531,6 @@
       "commons_file": "A-02.1-V1.svg",
       "commons_title": "File:2026 Vienna Convention road sign A-02.1-V1.svg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2026_Vienna_Convention_road_sign_A-02.1-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-02.1",
-      "file": "a_danger_warning_signs/A-02.1_triangle_white_red_dark-blue_2.svg",
-      "labels": {
-        "shape": "triangle",
-        "background_color": "white",
-        "border_color": "red",
-        "symbol_color": "dark blue",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-02.1-1-V1.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-02.1-1-V1.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2026_Vienna_Convention_road_sign_A-02.1-1-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "license": "Public domain",
       "artist": "United Nations"
     },
@@ -631,25 +555,6 @@
     },
     {
       "reference": "VIENNA:A-02.1",
-      "file": "a_danger_warning_signs/A-02.1_triangle_yellow_red_black_2.svg",
-      "labels": {
-        "shape": "triangle",
-        "background_color": "yellow",
-        "border_color": "red",
-        "symbol_color": "black",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-02.1-1-V2.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-02.1-1-V2.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/2026_Vienna_Convention_road_sign_A-02.1-1-V2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-02.1",
       "file": "a_danger_warning_signs/A-02.1_triangle_yellow_red_dark-blue.svg",
       "labels": {
         "shape": "triangle",
@@ -668,8 +573,103 @@
       "artist": "United Nations"
     },
     {
-      "reference": "VIENNA:A-02.1",
-      "file": "a_danger_warning_signs/A-02.1_triangle_yellow_red_dark-blue_2.svg",
+      "reference": "VIENNA:A-02.2",
+      "file": "a_danger_warning_signs/A-02.2_diamond_yellow_black_black.svg",
+      "labels": {
+        "shape": "diamond",
+        "background_color": "yellow",
+        "border_color": "black",
+        "symbol_color": "black",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-02.1-3.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-02.1-3.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/2026_Vienna_Convention_road_sign_A-02.1-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-02.2",
+      "file": "a_danger_warning_signs/A-02.2_diamond_yellow_dark-blue_dark-blue.svg",
+      "labels": {
+        "shape": "diamond",
+        "background_color": "yellow",
+        "border_color": "dark blue",
+        "symbol_color": "dark blue",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-02.1-3-V1.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-02.1-3-V1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2026_Vienna_Convention_road_sign_A-02.1-3-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-02.2",
+      "file": "a_danger_warning_signs/A-02.2_triangle_white_red_black.svg",
+      "labels": {
+        "shape": "triangle",
+        "background_color": "white",
+        "border_color": "red",
+        "symbol_color": "black",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-02.1-1.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-02.1-1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2026_Vienna_Convention_road_sign_A-02.1-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-02.2",
+      "file": "a_danger_warning_signs/A-02.2_triangle_white_red_dark-blue.svg",
+      "labels": {
+        "shape": "triangle",
+        "background_color": "white",
+        "border_color": "red",
+        "symbol_color": "dark blue",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-02.1-1-V1.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-02.1-1-V1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2026_Vienna_Convention_road_sign_A-02.1-1-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-02.2",
+      "file": "a_danger_warning_signs/A-02.2_triangle_yellow_red_black.svg",
+      "labels": {
+        "shape": "triangle",
+        "background_color": "yellow",
+        "border_color": "red",
+        "symbol_color": "black",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-02.1-1-V2.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-02.1-1-V2.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/2026_Vienna_Convention_road_sign_A-02.1-1-V2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-02.2",
+      "file": "a_danger_warning_signs/A-02.2_triangle_yellow_red_dark-blue.svg",
       "labels": {
         "shape": "triangle",
         "background_color": "yellow",
@@ -707,25 +707,6 @@
     },
     {
       "reference": "VIENNA:A-03.1",
-      "file": "a_danger_warning_signs/A-03.1_diamond_yellow_black_black_2.svg",
-      "labels": {
-        "shape": "diamond",
-        "background_color": "yellow",
-        "border_color": "black",
-        "symbol_color": "black",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-03.1-3.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-03.1-3.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/2026_Vienna_Convention_road_sign_A-03.1-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-03.1",
       "file": "a_danger_warning_signs/A-03.1_diamond_yellow_dark-blue_dark-blue.svg",
       "labels": {
         "shape": "diamond",
@@ -740,25 +721,6 @@
       "commons_file": "A-03.1-2-V1.svg",
       "commons_title": "File:2026 Vienna Convention road sign A-03.1-2-V1.svg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2026_Vienna_Convention_road_sign_A-03.1-2-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-03.1",
-      "file": "a_danger_warning_signs/A-03.1_diamond_yellow_dark-blue_dark-blue_2.svg",
-      "labels": {
-        "shape": "diamond",
-        "background_color": "yellow",
-        "border_color": "dark blue",
-        "symbol_color": "dark blue",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-03.1-3-V1.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-03.1-3-V1.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/2026_Vienna_Convention_road_sign_A-03.1-3-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "license": "Public domain",
       "artist": "United Nations"
     },
@@ -783,25 +745,6 @@
     },
     {
       "reference": "VIENNA:A-03.1",
-      "file": "a_danger_warning_signs/A-03.1_triangle_white_red_black_2.svg",
-      "labels": {
-        "shape": "triangle",
-        "background_color": "white",
-        "border_color": "red",
-        "symbol_color": "black",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-03.1-1.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-03.1-1.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2026_Vienna_Convention_road_sign_A-03.1-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-03.1",
       "file": "a_danger_warning_signs/A-03.1_triangle_white_red_dark-blue.svg",
       "labels": {
         "shape": "triangle",
@@ -816,25 +759,6 @@
       "commons_file": "A-03.1-V1.svg",
       "commons_title": "File:2026 Vienna Convention road sign A-03.1-V1.svg",
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2026_Vienna_Convention_road_sign_A-03.1-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-03.1",
-      "file": "a_danger_warning_signs/A-03.1_triangle_white_red_dark-blue_2.svg",
-      "labels": {
-        "shape": "triangle",
-        "background_color": "white",
-        "border_color": "red",
-        "symbol_color": "dark blue",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-03.1-1-V1.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-03.1-1-V1.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/2026_Vienna_Convention_road_sign_A-03.1-1-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "license": "Public domain",
       "artist": "United Nations"
     },
@@ -859,25 +783,6 @@
     },
     {
       "reference": "VIENNA:A-03.1",
-      "file": "a_danger_warning_signs/A-03.1_triangle_yellow_red_black_2.svg",
-      "labels": {
-        "shape": "triangle",
-        "background_color": "yellow",
-        "border_color": "red",
-        "symbol_color": "black",
-        "band": "none",
-        "band_color": null,
-        "prohibition_bar": null,
-        "bar_continuity": null
-      },
-      "commons_file": "A-03.1-1-V2.svg",
-      "commons_title": "File:2026 Vienna Convention road sign A-03.1-1-V2.svg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/2026_Vienna_Convention_road_sign_A-03.1-1-V2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "artist": "United Nations"
-    },
-    {
-      "reference": "VIENNA:A-03.1",
       "file": "a_danger_warning_signs/A-03.1_triangle_yellow_red_dark-blue.svg",
       "labels": {
         "shape": "triangle",
@@ -896,8 +801,103 @@
       "artist": "United Nations"
     },
     {
-      "reference": "VIENNA:A-03.1",
-      "file": "a_danger_warning_signs/A-03.1_triangle_yellow_red_dark-blue_2.svg",
+      "reference": "VIENNA:A-03.2",
+      "file": "a_danger_warning_signs/A-03.2_diamond_yellow_black_black.svg",
+      "labels": {
+        "shape": "diamond",
+        "background_color": "yellow",
+        "border_color": "black",
+        "symbol_color": "black",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-03.1-3.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-03.1-3.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/2026_Vienna_Convention_road_sign_A-03.1-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-03.2",
+      "file": "a_danger_warning_signs/A-03.2_diamond_yellow_dark-blue_dark-blue.svg",
+      "labels": {
+        "shape": "diamond",
+        "background_color": "yellow",
+        "border_color": "dark blue",
+        "symbol_color": "dark blue",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-03.1-3-V1.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-03.1-3-V1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/2026_Vienna_Convention_road_sign_A-03.1-3-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-03.2",
+      "file": "a_danger_warning_signs/A-03.2_triangle_white_red_black.svg",
+      "labels": {
+        "shape": "triangle",
+        "background_color": "white",
+        "border_color": "red",
+        "symbol_color": "black",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-03.1-1.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-03.1-1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2026_Vienna_Convention_road_sign_A-03.1-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-03.2",
+      "file": "a_danger_warning_signs/A-03.2_triangle_white_red_dark-blue.svg",
+      "labels": {
+        "shape": "triangle",
+        "background_color": "white",
+        "border_color": "red",
+        "symbol_color": "dark blue",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-03.1-1-V1.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-03.1-1-V1.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/2026_Vienna_Convention_road_sign_A-03.1-1-V1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-03.2",
+      "file": "a_danger_warning_signs/A-03.2_triangle_yellow_red_black.svg",
+      "labels": {
+        "shape": "triangle",
+        "background_color": "yellow",
+        "border_color": "red",
+        "symbol_color": "black",
+        "band": "none",
+        "band_color": null,
+        "prohibition_bar": null,
+        "bar_continuity": null
+      },
+      "commons_file": "A-03.1-1-V2.svg",
+      "commons_title": "File:2026 Vienna Convention road sign A-03.1-1-V2.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/2026_Vienna_Convention_road_sign_A-03.1-1-V2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "artist": "United Nations"
+    },
+    {
+      "reference": "VIENNA:A-03.2",
+      "file": "a_danger_warning_signs/A-03.2_triangle_yellow_red_dark-blue.svg",
       "labels": {
         "shape": "triangle",
         "background_color": "yellow",

@@ -1,6 +1,6 @@
 // Sign list: search, filters, pagination.
 import { countries, get, vocab } from '../api.js';
-import { debounce, h, signHref } from '../dom.js';
+import { debounce, h, signHref, fill } from '../dom.js';
 import { lang, t, tn } from '../i18n.js';
 
 const KIND_LABEL = { vienna: 'Vienna Convention', other: 'National only', all: 'All signs' }; // translated at render; Vienna is the default
@@ -69,7 +69,7 @@ export async function viewList() {
       const r = await get(`/api/v1/signs?${params}`);
       if (id !== reqId) return;
       countLine.textContent = tn(r.total, '{n} sign', '{n} signs');
-      results.replaceChildren(
+      fill(results,
         r.items.length
           ? h('ul.cards', {}, r.items.map((s) => card(s, catLabel)))
           : h('p.empty', {}, t('No sign matches these filters.')),

@@ -19,7 +19,7 @@ VIENNA:C-14.1  Maximum speed limit
 
 | File | What it is |
 |---|---|
-| `full_database.json` | **The deliverable.** One entry per sign — 247 Vienna 2023 signs (`VIENNA:*`), 17,763 national signs with no Vienna equivalent (`OTHER:*`), 3 Vienna 2006 signs dropped in 2023 (`VIENNA2006:*`) — covering 101 countries and regions. |
+| `full_database.json` | **The deliverable.** One entry per sign — 248 Vienna signs (`VIENNA:*`), 17,763 national signs with no Vienna equivalent (`OTHER:*`), 3 Vienna 2006 signs dropped in 2023 (`VIENNA2006:*`) — covering 101 countries and regions. |
 | `road_sign_images/` | National sign images, one folder per country: `<iso>_<country>/<vienna category>/<vienna or other>/` (e.g. `fr_france_monaco/c_prohibitory_and_restrictive_signs/vienna/FR-B14.svg`). `vienna` = sign matched to a Vienna Convention entry, `other` = national sign of that category; `sd_unclassified/` holds national signs with no category. Files are named `<ISO>-<national code>`, which is how the website finds the picture of `fr:B14`. Each country has an `images_links.json` (source URLs). |
 | `vienna_convention_images/` | Official illustrations of the Vienna Convention signs (2026 amendment), named after the design they show — see [Official images](#official-images). |
 | `Conv_road_signs_2006v_EN.pdf`, `ECE-TRANS-WP1-2023-2-Rev2e.pdf` | Sources: the 2006 consolidated Convention and the 2023 revision (ECE/TRANS/WP.1/2023/2/Rev.2). |
@@ -73,7 +73,7 @@ are named after what they show and flagged on the site as "no matching design":
   `G-26.1`–`G-26.3`, `G-27.1`, `G-28.1`), and `F-11.1` with a red symbol;
 - **signs added by the 2026 amendment** and absent from the 2023 text: `D-03.2`, `G-26.4`.
 
-Conversely, the gallery has no image for `A-02.2` and `A-25.1`–`A-25.4`.
+Conversely, the gallery has no image for `A-25.1`–`A-25.4`.
 
 ## Data model
 
@@ -134,7 +134,12 @@ folder, its intermediate `comparison_2006-2023.json` and `template.json` were re
 of the 2023 PDF, mapped every 2006 sign to its 2023 successor, expressed each rendering as uniform labels,
 then attached the national codes of a per-country catalogue (`road_signs_all.json`) to the designs. The
 2006 ↔ 2023 correspondence was established sign by sign from the two texts — no official concordance
-table exists. `fetch_wikipedia_captions.py` is the one piece kept: it fetched the Wikipedia captions used
+table exists. The 2023 text covers the car symbol and the percentage in a single sign
+(`A-02.1` descent, `A-03.1` ascent: "a car or a percentage or both"). The database keeps them apart, as the
+2006 text did (`A,2c`/`A,2d`, `A,3c`/`A,3d`): `A-02.1` / `A-03.1` hold the percentage designs and
+`A-02.2` / `A-03.2` the vehicle-symbol designs (car or lorry, with or without a percentage). `A-02.2` is the
+number the 2023 text itself uses once, under `G-19.1`; `A-03.2` is not in the 2023 text. Danger warning signs
+of model two list two designs (black rim and symbol, or dark blue rim and symbol). `fetch_wikipedia_captions.py` is the one piece kept: it fetched the Wikipedia captions used
 to link national signs to Vienna signs by meaning; it reads `traffic_sign_links_by_country.json`, which is
 not in the repository either.
 

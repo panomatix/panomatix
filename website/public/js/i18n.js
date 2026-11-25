@@ -5,6 +5,8 @@ export const LANGUAGES = { en: 'English', fr: 'Français', de: 'Deutsch', es: 'E
 
 const DICT = {
   fr: {
+    'Remove this national sign from this sign': 'Retirer ce panneau national de ce panneau',
+    'Reason (optional)': 'Motif (facultatif)',
     'Related sign': 'Panneau lié',
     'Left-hand traffic': 'Circulation à gauche',
     'It is here now': 'Il est ici actuellement',
