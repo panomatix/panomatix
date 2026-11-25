@@ -290,26 +290,97 @@ export async function removeUnit(reference, loc, jurKey) {
   return true;
 }
 
-/** Ask which country (for a new national sign). */
+/**
+ * Every national sign one country has under one sign (all designs and related signs, every code),
+ * with the actions of each. Used by the comparison table when a cell holds several signs.
+ */
+export async function openCountrySigns(reference, jurKey, { editable = false, onChanged } = {}) {
+  const s = await get(signPath(reference));
+  const d = s.data;
+  const units = [
+    ...(d.officialSign?.designs ?? []).map((x, i) => ({ loc: `d${i}`, holder: x, label: t('Design {n}', { n: i + 1 }) })),
+    ...(d.relatedSigns ?? []).map((x, i) => ({ loc: `r${i}`, holder: x, label: `${t('Related sign')} · ${displayName(x.name) || x.reference}` })),
+  ].filter((u) => u.holder.jurisdictions?.[jurKey]);
+  const props = (x) => ['shape', 'background_color', 'border_color', 'symbol_color', 'band', 'prohibition_bar']
+    .map((k) => x[k]).filter((v) => v && v !== 'none').join(' · ').replace(/_/g, ' ');
+  let close;
+  const after = (fn) => (e) => { e.preventDefault(); close(); fn().catch((err) => toast(err.message, 'error')); };
+  const section = (u) => {
+    const jur = u.holder.jurisdictions[jurKey];
+    const texts = Object.fromEntries(Object.values(jur.languages ?? {}).flatMap((l) => (l.text ? [[l.code, l.text]] : [])));
+    return h('section.cs-unit', {},
+      h('div.cs-head', {},
+        h('div', {}, h('h3', {}, u.label), h('p.small.muted', {}, props(u.holder))),
+        h('div.cs-actions', {},
+          h('button.btn.small', { type: 'button', onclick: () => openUnitInfo({ reference, jurKey, jur, images: s.images, where: u.label }) }, `ⓘ ${t('Info')}`),
+          editable ? [
+            h('button.btn.small', { type: 'button', onclick: after(() => openMoveDialog(reference, u.loc, jurKey, { onMoved: onChanged })) }, `⇄ ${t('Move')}`),
+            h('button.btn.small.primary', { type: 'button', onclick: after(() => openUnitEditor(reference, u.loc, jurKey, { onSaved: onChanged })) }, `✎ ${t('Edit')}`),
+            h('button.btn.small.danger', { type: 'button', onclick: after(async () => { if (await removeUnit(reference, u.loc, jurKey)) onChanged?.(); }) }, `🗑 ${t('Remove')}`),
+          ] : null)),
+      h('div.cs-codes', {}, codesOf(jur).map((code) => h('figure.cs-code', {},
+        s.images[code]?.[0] ? h('img', { src: s.images[code][0], alt: code, loading: 'lazy' }) : h('span.cs-noimg'),
+        h('figcaption', {}, h('code', {}, code), texts[code] ? h('span.small.muted', {}, texts[code]) : null)))));
+  };
+  const total = units.reduce((n, u) => n + codesOf(u.holder.jurisdictions[jurKey]).length, 0);
+  ({ close } = modal('dialog.wide', `${pretty(jurKey)} — ${reference}`,
+    h('p.muted', {}, displayName(d.name), ' · ', t('{n} national signs', { n: total }), ' · ',
+      h('a', { href: signHref(reference), onclick: () => close() }, t('Open the sign page'))),
+    units.length ? units.map(section) : h('p.muted', {}, t('No country uses this yet.'))));
+}
+
+// Countries added by hand that have no sign in the database yet: remembered in this browser
+// ({key: country code}) until their first national sign is saved.
+const CUSTOM_KEY = 'pmx_custom_countries';
+export const COUNTRY_KEY_RE = /^[a-z0-9_]{2,60}$/;
+export const COUNTRY_CODE_RE = /^[a-z]{2}(-[a-z0-9]{1,3})?$/;
+export const countryKey = (name) => name.normalize('NFKD').replace(/[̀-ͯ]/g, '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
+export function customCountries() {
+  try { return JSON.parse(localStorage.getItem(CUSTOM_KEY) ?? '{}') ?? {}; } catch { return {}; }
+}
+export function addCustomCountry(key, code) {
+  localStorage.setItem(CUSTOM_KEY, JSON.stringify({ ...customCountries(), [key]: code }));
+}
+/** Known countries ({jurisdiction, country_code}) plus the custom ones not in the database yet. */
+export function withCustomCountries(allCountries) {
+  const known = new Set(allCountries.map((c) => c.jurisdiction));
+  const extra = Object.entries(customCountries()).filter(([k]) => !known.has(k)).map(([k, cc]) => ({ jurisdiction: k, country_code: cc, signs: 0, custom: true }));
+  return [...allCountries, ...extra];
+}
+
+/** Ask which country (known or new) for a new national sign; resolves to {key, countryCode} or null. */
 export function pickCountry(existing, allCountries) {
   return new Promise((resolve) => {
-    const options = [...new Map(allCountries.map((c) => [c.jurisdiction, c])).values()]
-      .filter((c) => !existing.has(c.jurisdiction))
+    const all = withCustomCountries(allCountries);
+    const byKey = new Map(all.map((c) => [c.jurisdiction, c]));
+    const options = [...byKey.values()].filter((c) => !existing.has(c.jurisdiction))
       .sort((a, b) => pretty(a.jurisdiction).localeCompare(pretty(b.jurisdiction)));
-    const input = h('input', { type: 'text', list: 'pmx-jurs', placeholder: t('Find a country…'), autocomplete: 'off' });
+    const input = h('input', { type: 'text', list: 'pmx-jurs', placeholder: t('Find a country…'), autocomplete: 'off', required: true });
+    const cc = h('input', { type: 'text', class: 'mono', placeholder: 'mc', maxlength: 6, autocomplete: 'off', 'aria-label': t('ISO country code') });
+    const hint = h('p.small.muted', {}, t('Pick a country, or type the name of a country that is not in the database yet and give its ISO code (e.g. Monaco → mc).'));
+    const sync = () => {
+      const k = countryKey(input.value);
+      const known = byKey.get(input.value.trim()) ?? byKey.get(k);
+      if (known) { cc.value = known.country_code; cc.readOnly = true; hint.textContent = `${pretty(known.jurisdiction)} · ${known.country_code}`; }
+      else { cc.readOnly = false; hint.textContent = k ? t('New country: {name} — give its ISO code.', { name: pretty(k) }) : t('Pick a country, or type the name of a country that is not in the database yet and give its ISO code (e.g. Monaco → mc).'); }
+    };
+    input.addEventListener('input', sync);
     const dl = h('datalist', { id: 'pmx-jurs' }, options.map((c) => h('option', { value: c.jurisdiction }, `${pretty(c.jurisdiction)} (${c.country_code})`)));
     const dlg = h('dialog.dialog', {},
       h('form', { method: 'dialog' },
         h('p', {}, t('Which country?')),
-        input, dl,
-        h('p.small.muted', {}, t('A new country key (lowercase, e.g. new_zealand) is accepted too.')),
-        h('div.row.end', {}, h('button.btn', { value: 'cancel' }, t('Cancel')), h('button.btn.primary', { value: 'ok' }, t('Continue')))));
+        h('div.row', {}, input, cc), dl, hint,
+        h('div.row.end', {}, h('button.btn', { value: 'cancel', formnovalidate: true }, t('Cancel')), h('button.btn.primary', { value: 'ok' }, t('Continue')))));
     dlg.addEventListener('close', () => {
-      const key = input.value.trim().toLowerCase().replace(/\s+/g, '_');
       dlg.remove();
-      if (dlg.returnValue !== 'ok' || !key) return resolve(null);
-      if (!/^[a-z0-9_]{2,60}$/.test(key)) { toast(t('Invalid country key.'), 'error'); return resolve(null); }
-      resolve(key);
+      if (dlg.returnValue !== 'ok') return resolve(null);
+      const known = byKey.get(input.value.trim()) ?? byKey.get(countryKey(input.value));
+      const key = known ? known.jurisdiction : countryKey(input.value);
+      const code = (known ? known.country_code : cc.value.trim().toLowerCase());
+      if (!COUNTRY_KEY_RE.test(key)) { toast(t('Invalid country key.'), 'error'); return resolve(null); }
+      if (!COUNTRY_CODE_RE.test(code)) { toast(t('Give the ISO code of the country (2 letters, e.g. mc).'), 'error'); return resolve(null); }
+      if (!known) addCustomCountry(key, code);
+      resolve({ key, countryCode: code });
     });
     document.body.append(dlg);
     dlg.showModal();
@@ -320,9 +391,15 @@ export function pickCountry(existing, allCountries) {
  * Edit ONE national sign (create it when the country is not there yet).
  * `onSaved(view)` is called after a save or a removal.
  */
-export async function openUnitEditor(reference, loc, jurKey, { onSaved } = {}) {
+export async function openUnitEditor(reference, loc, jurKey, { onSaved, countryCode } = {}) {
   const [view, voc] = await Promise.all([get(unitPath(reference, loc, jurKey)), vocab()]);
   void voc;
+  // a country that is not in the database yet: take the code given when it was added
+  const cc = countryCode ?? customCountries()[jurKey];
+  if (!view.exists && !view.data.countryCode && cc) {
+    view.data.countryCode = cc;
+    view.suggestions.country_code = cc;
+  }
   const sugg = view.suggestions;
   const here = view.locations.find((l) => l.loc === loc);
   const state = { data: structuredClone(view.data), panelErrors: 0 };
@@ -536,6 +613,6 @@ export async function openUnitEditor(reference, loc, jurKey, { onSaved } = {}) {
 
 /** Create a national sign: ask the country, then open the editor. */
 export async function addUnit(reference, loc, existing, allCountries, opts) {
-  const key = await pickCountry(existing, allCountries);
-  if (key) await openUnitEditor(reference, loc, key, opts);
+  const picked = await pickCountry(existing, allCountries);
+  if (picked) await openUnitEditor(reference, loc, picked.key, { ...opts, countryCode: picked.countryCode });
 }

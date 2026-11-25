@@ -537,3 +537,21 @@ table.matrix { border-collapse: separate; border-spacing: 0; width: max-content;
 .pc-ok { color: var(--ok); } .pc-warn { color: #9a6b00; } .pc-err { color: var(--danger); font-weight: 500; }
 .pcheck-list { margin: 6px 0 0; padding-left: 18px; font-size: .82rem; }
 .pcheck-list .lvl-error { color: var(--danger); } .pcheck-list .lvl-warning { color: #9a6b00; }
+
+/* --- comparison: every national sign of one country ------------------------------------------ */
+.cs-unit { border-top: 1px solid var(--line); padding: 14px 0 6px; }
+.cs-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+.cs-head h3 { margin: 0 0 2px; font-size: 1.05rem; }
+.cs-head p { margin: 0; }
+.cs-actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.cs-codes { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; margin-top: 12px; }
+.cs-code { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 4px; text-align: center; }
+.cs-code img, .cs-noimg { width: 100px; height: 100px; object-fit: contain; padding: 6px; box-sizing: border-box; background: var(--surface-2); border-radius: var(--radius); }
+.cs-noimg { display: block; }
+.cs-code figcaption { display: flex; flex-direction: column; gap: 1px; font-size: .85rem; }
+.add-country { border-top: 1px solid var(--line); padding-top: 8px; }
+.add-country h5 { margin: 4px 0 6px; }
+.add-country .row { gap: 6px; flex-wrap: nowrap; }
+.add-country input { min-width: 0; }
+.add-country input.mono { width: 70px; flex: none; }
+.colhead .badge { margin: 2px 0 0; }

@@ -5,6 +5,21 @@ export const LANGUAGES = { en: 'English', fr: 'Français', de: 'Deutsch', es: 'E
 
 const DICT = {
   fr: {
+    'ISO country code': 'Code ISO du pays',
+    'Pick a country, or type the name of a country that is not in the database yet and give its ISO code (e.g. Monaco → mc).': 'Choisissez un pays, ou tapez le nom d’un pays absent de la base et donnez son code ISO (ex. Monaco → mc).',
+    'New country: {name} — give its ISO code.': 'Nouveau pays : {name} — donnez son code ISO.',
+    'Give the ISO code of the country (2 letters, e.g. mc).': 'Donnez le code ISO du pays (2 lettres, ex. mc).',
+    'Not in the database yet: add a sign to keep it': 'Pas encore dans la base : ajoutez un panneau pour le conserver',
+    'new': 'nouveau',
+    'Country name, e.g. Monaco': 'Nom du pays, ex. Monaco',
+    'Country name': 'Nom du pays',
+    'Give the name of the country.': 'Donnez le nom du pays.',
+    '{name} is already in the list: it has been selected.': '{name} est déjà dans la liste : il a été sélectionné.',
+    '{name} added: click + in its column to add its signs.': '{name} ajouté : cliquez sur + dans sa colonne pour ajouter ses panneaux.',
+    'Add a missing country': 'Ajouter un pays absent',
+    'It appears as a column; signed-in users fill it with the + buttons.': 'Il apparaît en colonne ; une fois connecté, remplissez-la avec les boutons +.',
+    'Open the sign page': 'Ouvrir la page du panneau',
+    '{n} national signs': '{n} panneaux nationaux',
     'Remove this national sign from this sign': 'Retirer ce panneau national de ce panneau',
     'Reason (optional)': 'Motif (facultatif)',
     'Related sign': 'Panneau lié',

@@ -33,13 +33,13 @@ export function panelsView(additional) {
 
 function kv(label, value) {
   if (value === undefined) return null;
-  return h('div.kv', {}, h('span.k', {}, t(label)), h('span.v', {}, value === null ? h('span.muted', {}, 'null') : typeof value === 'boolean' ? t(value ? 'yes' : 'no') : String(value)));
+  return h('div.kv', {}, h('span.k', {}, t(label)), h('span.v', {}, value === null ? h('span.muted', {}, '—') : typeof value === 'boolean' ? t(value ? 'yes' : 'no') : String(value)));
 }
 
 function i18n(obj) {
   const entries = Object.entries(obj ?? {});
   if (!entries.length) return h('span.muted', {}, '—');
-  return h('dl.i18n', {}, entries.map(([k, v]) => [h('dt', {}, k), h('dd', {}, v ?? h('span.muted', {}, 'null'))]));
+  return h('dl.i18n', {}, entries.map(([k, v]) => [h('dt', {}, k), h('dd', {}, v ?? h('span.muted', {}, '—'))]));
 }
 
 /** Short text of the labels an official image carries: "triangle · white · border red · symbol black". */

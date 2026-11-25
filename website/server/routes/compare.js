@@ -57,6 +57,7 @@ export function registerCompareRoutes(router) {
           if (wanted && !wanted.has(jk)) continue;
           const codes = [...new Set(Object.values(jur.languages ?? {}).flatMap((l) => l.codes ?? []))];
           const cell = (cells[jk] ??= { codes: [], design: di + 1, design_label: designLabel(design), image: null });
+          cell.units = (cell.units ?? 0) + 1;
           for (const c of codes) if (!cell.codes.includes(c)) cell.codes.push(c);
           if (!cell.image) {
             for (const c of codes) {

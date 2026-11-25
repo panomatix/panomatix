@@ -1,6 +1,6 @@
 // Country comparison table: one row per sign, one column per country, filterable by category and countries.
 import { countries, get, session, vocab } from '../api.js';
-import { openUnitEditor } from './unit.js';
+import { COUNTRY_CODE_RE, COUNTRY_KEY_RE, addCustomCountry, countryKey, openCountrySigns, openUnitEditor, withCustomCountries } from './unit.js';
 import { debounce, h, signHref, toast } from '../dom.js';
 import { t, tn } from '../i18n.js';
 import { displayName } from './list.js';
@@ -41,13 +41,13 @@ export async function viewCompare() {
 
   // Jurisdictions (one column each), with their country codes.
   const jurs = new Map();
-  for (const c of ctry) {
-    const j = jurs.get(c.jurisdiction) ?? { key: c.jurisdiction, codes: new Set(), signs: 0 };
+  for (const c of withCustomCountries(ctry)) {
+    const j = jurs.get(c.jurisdiction) ?? { key: c.jurisdiction, codes: new Set(), signs: 0, custom: Boolean(c.custom) };
     j.codes.add(c.country_code);
     j.signs += c.signs;
     jurs.set(c.jurisdiction, j);
   }
-  const allJurs = [...jurs.values()].sort((a, b) => pretty(a.key).localeCompare(pretty(b.key)));
+  let allJurs = [...jurs.values()].sort((a, b) => pretty(a.key).localeCompare(pretty(b.key)));
 
   const catLabel = (c) => {
     const key = c.split('-').at(-1);
@@ -77,8 +77,34 @@ export async function viewCompare() {
           type: 'checkbox', checked: selected.has(j.key),
           onchange: (e) => { if (e.target.checked) selected.add(j.key); else selected.delete(j.key); updateSummary(); reload(); },
         }),
-        pretty(j.key), ' ', h('code.cc', {}, [...j.codes].join(' ')))));
+        pretty(j.key), ' ', h('code.cc', {}, [...j.codes].join(' ')),
+        j.custom ? h('span.badge', { title: t('Not in the database yet: add a sign to keep it') }, t('new')) : null)));
   }
+
+  // A country absent from the database: a column the user fills with "+".
+  const newName = h('input', { type: 'text', placeholder: t('Country name, e.g. Monaco'), 'aria-label': t('Country name') });
+  const newCode = h('input', { type: 'text', class: 'mono', placeholder: 'mc', maxlength: 6, 'aria-label': t('ISO country code') });
+  const addCountry = () => {
+    const key = countryKey(newName.value);
+    const code = newCode.value.trim().toLowerCase();
+    if (!COUNTRY_KEY_RE.test(key)) return toast(t('Give the name of the country.'), 'error');
+    if (!COUNTRY_CODE_RE.test(code)) return toast(t('Give the ISO code of the country (2 letters, e.g. mc).'), 'error');
+    if (jurs.has(key)) toast(t('{name} is already in the list: it has been selected.', { name: pretty(key) }));
+    else {
+      addCustomCountry(key, code);
+      jurs.set(key, { key, codes: new Set([code]), signs: 0, custom: true });
+      allJurs = [...jurs.values()].sort((a, b) => pretty(a.key).localeCompare(pretty(b.key)));
+      toast(t('{name} added: click + in its column to add its signs.', { name: pretty(key) }));
+    }
+    selected.add(key);
+    newName.value = ''; newCode.value = ''; countryFilter.value = '';
+    drawCountryList(); updateSummary(); reload();
+  };
+  newCode.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); addCountry(); } });
+  const addBox = h('div.add-country', {},
+    h('h5', {}, t('Add a missing country')),
+    h('div.row', {}, newName, newCode, h('button.btn.small.primary', { type: 'button', onclick: addCountry }, t('Add'))),
+    h('p.small.muted', {}, t('It appears as a column; signed-in users fill it with the + buttons.')));
   function updateSummary() {
     pickerSummary.textContent = selected.size ? tn(selected.size, '{n} country selected', '{n} countries selected') : t('All countries');
   }
@@ -97,7 +123,8 @@ export async function viewCompare() {
             list.querySelectorAll('input').forEach((i) => { if (!i.checked) i.click(); });
           },
         }, t('Select the matches'))),
-      list));
+      list,
+      addBox));
   const closePicker = (e) => {
     if (!picker.isConnected) return document.removeEventListener('click', closePicker);
     if (!picker.contains(e.target)) picker.open = false;
@@ -144,7 +171,10 @@ export async function viewCompare() {
   const reload = debounce(() => { state.page = 1; load(); }, 250);
 
   function draw(data) {
-    const cols = data.columns;
+    // countries added by hand have no sign yet, so the server does not return them: add their empty column
+    const missing = state.countries.filter((k) => jurs.get(k)?.custom && !data.columns.some((c) => c.key === k))
+      .map((k) => ({ key: k, country_code: [...jurs.get(k).codes][0], count: 0, custom: true }));
+    const cols = [...data.columns, ...missing];
     const rows = data.items;
     info.textContent = `${tn(data.total, '{n} sign', '{n} signs')} · ${tn(cols.length, '{n} country', '{n} countries')}`;
     if (!rows.length || !cols.length) {
@@ -157,6 +187,7 @@ export async function viewCompare() {
       cols.map((c) => h('th.colhead', { scope: 'col', title: `${pretty(c.key)} (${c.country_code})` },
         h('span.cname', {}, pretty(c.key)),
         h('code.cc', {}, c.country_code),
+        c.custom ? h('span.badge', { title: t('Not in the database yet: add a sign to keep it') }, t('new')) : null,
         h('span.coverage', {}, `${c.count}/${rows.length}`)))));
     const body = h('tbody', {}, rows.map((r) => h('tr', {},
       h('th.rowhead', { scope: 'row' },
@@ -166,6 +197,12 @@ export async function viewCompare() {
       cols.map((c) => {
         const cell = r.cells[c.key];
         const edit = (e) => {
+          // several signs in the cell (codes or designs): show them all, for visitors too
+          if (cell && cell.units > 1 || cell?.codes.length > 1) {
+            e.preventDefault();
+            openCountrySigns(r.reference, c.key, { editable: Boolean(session.user), onChanged: () => load({ keepScroll: true }) }).catch((err) => toast(err.message, 'error'));
+            return;
+          }
           if (!session.user) return; // visitors follow the link to the sign page
           e.preventDefault();
           // the national sign of this country under its design (a new one goes to design 1 and can be moved later)
