@@ -10,6 +10,7 @@ import { loadConfig } from '../server/config.js';
 import { addRevision, now, openDatabase, storeSign } from '../server/db.js';
 import { hashPassword } from '../server/security.js';
 import { restoreBackups, runBackup } from '../server/backup.js';
+import { fetchMissingImages, missingImages } from '../server/fetch-images.js';
 import { normalizeEntry, validateEntry } from '../server/validation.js';
 import sharp from 'sharp';
 
@@ -19,6 +20,7 @@ let server;
 let base;
 let db;
 let config;
+let app;
 const mails = []; // messages the server "sent"
 
 before(async () => {
@@ -40,8 +42,8 @@ before(async () => {
   db.prepare('INSERT INTO users (email, display_name, password_hash, role, created_at) VALUES (?,?,?,?,?)')
     .run('mod@example.org', 'Moderator', await hashPassword('moderator-password-1'), 'moderator', ts);
   const wikidataFetch = async (id) => ({ entities: { [id]: id === 'Q999' ? { id, missing: '' } : { id, labels: { fr: { value: 'cédez le passage' }, en: { value: 'give way' } }, descriptions: { en: { value: 'traffic sign' } } } } });
-  config = loadConfig({ database: ':unused:', apiRatePerSecond: 0, wikidataFetch, backupDir: path.join(tmp, 'backups'), imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
-  const app = createApp({ config, db, mailer: { send: (m) => { mails.push(m); } } });
+  config = loadConfig({ database: ':unused:', apiRatePerSecond: 0, imageFetchPauseMs: 0, wikidataFetch, backupDir: path.join(tmp, 'backups'), imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
+  app = createApp({ config, db, mailer: { send: (m) => { mails.push(m); } } });
   server = http.createServer(app.handle);
   await new Promise((r) => server.listen(0, '127.0.0.1', r));
   base = `http://127.0.0.1:${server.address().port}`;
@@ -657,6 +659,60 @@ describe('pace of API clients', () => {
       assert.equal((await fetch(`${base}/api/v1/meta/vocabularies`)).status, 200);
     } finally {
       config.apiRatePerSecond = saved;
+    }
+  });
+});
+
+describe('missing pictures from Wikimedia', () => {
+  test('downloads, checks, files and records them; failures wait before a retry', async () => {
+    // a sign whose Belgian version has a Commons link but no picture yet
+    const e = structuredClone(fixture.find((x) => x.reference === 'VIENNA:B-01.1'));
+    e.reference = 'OTHER:B9001';
+    e.category = 'OTHER-B';
+    e.officialSign.designs = [e.officialSign.designs[0]];
+    const jur = Object.values(e.officialSign.designs[0].jurisdictions)[0];
+    for (const l of Object.values(jur.languages)) { l.code = 'be:B901'; l.codes = ['be:B901']; }
+    jur.sources = [{ file: 'x', url: 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Belgian_road_sign_B901.svg' }];
+    e.relatedSigns = [{ ...structuredClone(e.officialSign.designs[0]), reference: 'be:B902', name: { en: 'x' } }];
+    const rel = Object.values(e.relatedSigns[0].jurisdictions)[0];
+    for (const l of Object.values(rel.languages)) { l.code = 'be:B902'; l.codes = ['be:B902']; }
+    rel.sources = [{ file: 'y', url: 'https://example.org/not-commons.svg' }];
+    storeSign(db, e, { version: 1, userId: null, ts: now(), insert: true });
+    assert.deepEqual(missingImages(db, app.images).map((m) => m.code).filter((c) => c.startsWith('be:B90')), ['be:B901']); // only Commons links
+
+    const realFetch = globalThis.fetch;
+    const asked = [];
+    globalThis.fetch = async (url, opts) => {
+      if (!String(url).startsWith('https://upload.wikimedia.org/')) return realFetch(url, opts);
+      asked.push({ url: String(url), ua: opts.headers['User-Agent'] });
+      return new Response('<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10"><!-- c --><rect width="10" height="10"/></svg>',
+        { status: 200, headers: { 'content-type': 'image/svg+xml' } });
+    };
+    try {
+      const r = await fetchMissingImages({ db, images: app.images, config });
+      assert.ok(r.done >= 1);
+      assert.match(asked[0].ua, /^Panomatix\//);
+      const hit = app.images.lookup('be:B901');
+      assert.equal(hit.length, 1);
+      assert.match(hit[0], /^be_belgium\/.+\/other\/BE-B901\.svg$/);
+      assert.equal(db.prepare("SELECT status FROM image_fetches WHERE code='be:B901'").get().status, 'ok');
+      assert.ok(db.prepare("SELECT 1 FROM images WHERE code='be:B901'").get()); // carried by the backups
+      // nothing left to do for it
+      assert.ok(!missingImages(db, app.images).some((m) => m.code === 'be:B901'));
+      // a failure is recorded and not retried before the delay
+      globalThis.fetch = async () => new Response('nope', { status: 404 });
+      e.reference = 'OTHER:B9003';
+      for (const l of Object.values(jur.languages)) { l.code = 'be:B903'; l.codes = ['be:B903']; }
+      e.relatedSigns = [];
+      storeSign(db, e, { version: 1, userId: null, ts: now(), insert: true });
+      const r2 = await fetchMissingImages({ db, images: app.images, config });
+      assert.equal(db.prepare("SELECT status FROM image_fetches WHERE code='be:B903'").get().status, 'failed');
+      assert.ok(r2.failed >= 1);
+      const r3 = await fetchMissingImages({ db, images: app.images, config });
+      assert.equal(r3.done + r3.failed, 0);
+    } finally {
+      globalThis.fetch = realFetch;
+      db.prepare("DELETE FROM signs WHERE reference IN ('OTHER:B9001','OTHER:B9003')").run();
     }
   });
 });

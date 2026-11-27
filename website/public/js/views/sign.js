@@ -6,7 +6,7 @@ import { add, confirmDialog, flag, fmtDate, h, signHref, toast } from '../dom.js
 import { currentPath, navigate } from '../app.js';
 import { displayName } from './list.js';
 import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, panelCount, panelPicsOf, panelStack, pretty, removeUnit, signWithPanels } from './unit.js';
-import { t } from '../i18n.js';
+import { lang, t } from '../i18n.js';
 import { readOnlyBanner } from '../widgets.js';
 import { EMPTY_WIKIDATA, wikidataField } from './wikidata.js';
 import { icon } from '../icons.js';
@@ -146,6 +146,18 @@ function openSignInfo(s, voc, { selectTab }) {
 
 // --- national sign tiles -------------------------------------------------------------------
 
+/** The values a national sign shows (speed, width, weight…) with their unit: "50 · 60 · 80 km/h",
+ *  "4–10 t" for a long list. Parameters without a known value are left out. */
+function parameterLine(parameters) {
+  const fmt = (v) => (typeof v === 'number' ? v.toLocaleString(lang) : v);
+  const parts = Object.entries(parameters ?? {}).filter(([, p]) => p.values?.length).map(([key, p]) => {
+    const nums = p.values.every((v) => typeof v === 'number');
+    const shown = nums && p.values.length > 3 ? `${fmt(Math.min(...p.values))}–${fmt(Math.max(...p.values))}` : p.values.map(fmt).join(' · ');
+    return h('span.param', { title: `${p.description ?? key}` }, shown, p.unit ? ` ${p.unit}` : '');
+  });
+  return parts.length ? h('span.tile-params', {}, parts) : null;
+}
+
 function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
   const code = mainCode(jur);
   const img = codesOf(jur).map((c) => ctx.images[c]?.[0]).find(Boolean);
@@ -161,7 +173,8 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
       h('span.tile-badges', {},
         others > 0 ? h('span.badge', { title: codesOf(jur).join(', ') }, `+${others}`) : null,
         panels ? h('span.badge', { title: t('{n} additional panel(s)', { n: panels }) }, `▭ ${panels}`) : null,
-        jur.leftHandTrafficVariant ? h('span.badge', { title: t('left-hand traffic') }, 'LHT') : null)),
+        jur.leftHandTrafficVariant ? h('span.badge', { title: t('left-hand traffic') }, 'LHT') : null),
+      parameterLine(jur.parameters)),
     h('div.tile-actions', {},
       h('button.btn.small', {
         type: 'button', title: t('Info'),

@@ -112,6 +112,24 @@ above as well as below; `left` and `right` are kept only when used.
 - **Sign + panel codes** (`fi:B5+H5`, `ca-on:Wa-30+Wa-30t`): when no picture shows the whole, the pictures
   of the parts are stacked one above the other (served as one SVG under `/media/@stack/<code>.svg`).
 
+## Missing pictures from Wikimedia
+
+Many national signs have no picture yet, but the database keeps the Wikimedia Commons link they were drawn from
+(`sources[].url`, `upload.wikimedia.org`). `npm run fetch-images` downloads them: same checks, compression and
+filing as a contributor's upload (`road_sign_images/<country>/<category>/<vienna|other>/<CC>-<code>.<ext>`),
+recorded in the `images` table (so the weekly backup carries them). An SVG refused by the safety check (scripts,
+entities…) is replaced by Commons' own PNG rendering of it.
+
+- **On the server** it runs by itself every `PANOMATIX_IMAGE_FETCH_HOURS` (24 h), at most
+  `PANOMATIX_IMAGE_FETCH_LIMIT` (500) pictures a run, in the background: a link added on the site is filled in
+  within a day.
+- **Here**, once, to put them in git: `npm run fetch-images` (`--limit=N` to try a few, `--retry` to try the
+  failed ones again at once), then commit. A deployment that brings a picture the server already downloaded
+  drops the server's copy when identical, or keeps it aside as `<name>.server-<date>`.
+- Polite to Wikimedia: one request a second, an identifying User-Agent, a stop when asked to slow down; a failed
+  link is retried after `PANOMATIX_IMAGE_FETCH_RETRY_DAYS` (30) days. Only `upload.wikimedia.org` is ever
+  contacted. Commons pictures keep their licence (mostly public domain for road signs): the link stays in the data.
+
 ## Backups
 
 Every week (`PANOMATIX_BACKUP_DAYS`) the server writes `backups/panomatix-changes-<date>.json.gz` holding
@@ -181,6 +199,7 @@ mark their requests `Sec-Fetch-Site: same-origin`).
 | `PANOMATIX_VERIFY_HOURS` / `PANOMATIX_RESET_HOURS` | `24` / `1` | validity of the sign-up and reset links |
 | `PANOMATIX_MAIL_LIMIT` | `3` | emails per address per hour |
 | `PANOMATIX_MAIL_DAILY_LIMIT` | `300` | emails of the whole site per 24 h, to stay under the mail provider's quota (Brevo free plan: 300/day); `0` = no cap |
+| `PANOMATIX_IMAGE_FETCH_HOURS` / `_LIMIT` / `_RETRY_DAYS` | `24` / `500` / `30` | missing pictures fetched from Wikimedia: how often (`0` = off), how many per run, when to retry a failure |
 | `PANOMATIX_API_RATE` | `1` | requests per second allowed to API clients (scripts), per token or IP; `0` = no limit |
 | `PANOMATIX_BACKUP_DIR` / `PANOMATIX_BACKUP_DAYS` | `website/backups` / `7` | incremental backups; `0` days turns them off |
 | `PANOMATIX_MAX_IMAGE_BYTES` | `20971520` | largest upload, before compression |

@@ -16,7 +16,9 @@
     "test": "node --test \"test/**/*.test.js\"",
     "backup": "node server/cli.js backup",
     "restore": "node server/cli.js restore",
-    "deploy": "sh scripts/deploy.sh"
+    "deploy": "sh scripts/deploy.sh",
+    "fetch-images": "node server/cli.js fetch-images",
+    "complete-parameters": "node server/cli.js complete-parameters"
   },
   "license": "SEE LICENSE IN ../LICENSE",
   "dependencies": {

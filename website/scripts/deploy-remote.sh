@@ -33,6 +33,15 @@ if [ -f website/data/panomatix.sqlite3 ] && [ -d website/node_modules ]; then
     || fail "backup failed: nothing is put online."
 fi
 
+# Pictures downloaded or uploaded on the server are untracked files. When the new version brings a file at
+# the same path, git would refuse to merge: an identical copy is simply dropped (git brings the same one);
+# a different one is kept aside as <name>.server-<date>.
+git diff --name-only --diff-filter=A HEAD refs/deploy/main -- road_sign_images | while IFS= read -r f; do
+  [ -e "$f" ] || continue
+  if [ "$(git hash-object "$f")" = "$(git rev-parse "refs/deploy/main:$f")" ]; then rm -f "$f"
+  else mv "$f" "$f.server-$(date +%Y%m%d%H%M%S)"; echo "  Kept the server's own $f aside."; fi
+done
+
 git merge -q --ff-only refs/deploy/main 2>/dev/null || fail "the received version does not follow the server's (diverging history)."
 
 if [ -d website/node_modules.new ]; then

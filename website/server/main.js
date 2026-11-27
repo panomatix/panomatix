@@ -4,6 +4,7 @@ import { createApp } from './app.js';
 import { loadConfig } from './config.js';
 import { openDatabase } from './db.js';
 import { backupIfDue } from './backup.js';
+import { fetchImagesIfDue } from './fetch-images.js';
 
 const config = loadConfig();
 const db = openDatabase(config.database);
@@ -28,6 +29,10 @@ const purge = () => {
   } catch (err) {
     console.error('Backup failed:', err);
   }
+  // Runs in the background (one request a second to Wikimedia): the site keeps answering meanwhile.
+  fetchImagesIfDue({ db, images: app.images, config })
+    .then((r) => { if (r && (r.done || r.failed || r.stopped)) console.log(`Missing pictures from Wikimedia: ${r.done} added, ${r.failed} failed, ${r.left} left${r.stopped ? ` — ${r.stopped}` : ''}`); })
+    .catch((err) => console.error('Fetching missing pictures failed:', err));
 };
 purge();
 setInterval(purge, 3_600_000).unref();

@@ -19,6 +19,12 @@ export function loadConfig(overrides = {}) {
     database: env.PANOMATIX_DB || path.join(WEBSITE_DIR, 'data', 'panomatix.sqlite3'),
     backupDir: env.PANOMATIX_BACKUP_DIR || path.join(WEBSITE_DIR, 'backups'),
     backupDays: int(env.PANOMATIX_BACKUP_DAYS, 7), // 0 turns the automatic backups off
+    // Missing national sign pictures fetched from their Wikimedia Commons link: every N hours (0 = off),
+    // at most this many per run, a failed file retried after this many days.
+    imageFetchHours: int(env.PANOMATIX_IMAGE_FETCH_HOURS, 24),
+    imageFetchLimit: int(env.PANOMATIX_IMAGE_FETCH_LIMIT, 500),
+    imageFetchRetryDays: int(env.PANOMATIX_IMAGE_FETCH_RETRY_DAYS, 30),
+    imageFetchPauseMs: 1000, // between two requests to Wikimedia
     imagesDir: env.PANOMATIX_IMAGES_DIR || path.join(REPO_DIR, 'road_sign_images'),
     viennaImagesDir: env.PANOMATIX_VIENNA_IMAGES_DIR || path.join(REPO_DIR, 'vienna_convention_images'),
     publicDir: path.join(WEBSITE_DIR, 'public'),

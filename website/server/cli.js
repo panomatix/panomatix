@@ -5,6 +5,9 @@
 //        (the password is read from the PANOMATIX_PASSWORD environment variable or prompted)
 //   node server/cli.js backup                      write the changes since the last backup now
 //   node server/cli.js restore <file>...           replay backups (oldest first) into the database
+//   node server/cli.js fetch-images [--limit=N]    download missing sign pictures from their Wikimedia link
+//   node server/cli.js complete-parameters [--dry-run]  give every national version of a sign with a value
+//        (speed, width…) the parameter and unit its siblings have (values left to fill in)
 import fs from 'node:fs';
 import path from 'node:path';
 import readline from 'node:readline';
@@ -14,6 +17,9 @@ import { ROLE_RANK, checkPasswordPolicy, hashPassword } from './security.js';
 import { normalizeEntry, validateEntry } from './validation.js';
 import { cleanEmail, cleanName } from './routes/auth.js';
 import { restoreBackups, runBackup } from './backup.js';
+import { fetchMissingImages, missingImages } from './fetch-images.js';
+import { completeParameters } from './parameters.js';
+import { createApp } from './app.js';
 
 const config = loadConfig();
 const [cmd, ...args] = process.argv.slice(2);
@@ -108,8 +114,23 @@ try {
     if (!positional.length) throw new Error('Usage: restore <backup file>...');
     const r = restoreBackups(openDatabase(config.database), config, positional);
     console.log(`Restored ${r.revisions} revisions, ${r.images} images, ${r.users} accounts. Re-run "npm run export" to update full_database.json.`);
+  } else if (cmd === 'fetch-images') {
+    const db = openDatabase(config.database);
+    const { images } = createApp({ config, db });
+    const limitArg = args.find((a) => a.startsWith('--limit='));
+    const limit = limitArg ? Number(limitArg.slice(8)) : Infinity;
+    if (args.includes('--retry')) db.exec("DELETE FROM image_fetches WHERE status='failed'");
+    const todo = missingImages(db, images).length;
+    console.log(`${todo} national signs have a Wikimedia link but no picture. One request a second: about ${Math.ceil(Math.min(todo, limit) / 60)} min.`);
+    const r = await fetchMissingImages({ db, images, config }, { limit, log: (line) => console.log(line) });
+    console.log(`Done: ${r.done} added, ${r.failed} failed, ${r.left} left${r.stopped ? ` — ${r.stopped}` : ''}.`);
+  } else if (cmd === 'complete-parameters') {
+    const dryRun = flags.has('--dry-run');
+    const r = completeParameters(openDatabase(config.database), { dryRun });
+    for (const c of r.changes) console.log(`${c.reference}: ${c.added.join(', ')}`);
+    console.log(`${dryRun ? 'Would complete' : 'Completed'} ${r.nationalSigns} national signs in ${r.signs} signs${dryRun ? ' (dry run, nothing saved)' : ', each saved as a new version'}.`);
   } else {
-    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role] | backup | restore <file>...');
+    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role] | backup | restore <file>... | fetch-images [--limit=N] [--retry] | complete-parameters [--dry-run]');
     process.exit(cmd ? 1 : 0);
   }
 } catch (err) {

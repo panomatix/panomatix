@@ -104,6 +104,21 @@ CREATE TABLE IF NOT EXISTS backups (
   users            INTEGER NOT NULL DEFAULT 0
 );
 
+-- Pictures fetched from Wikimedia Commons for national signs that had none (see fetch-images.js).
+CREATE TABLE IF NOT EXISTS image_fetches (
+  code     TEXT PRIMARY KEY,
+  url      TEXT NOT NULL,
+  status   TEXT NOT NULL CHECK (status IN ('ok','failed')),
+  message  TEXT,
+  tried_at INTEGER NOT NULL
+);
+
+-- Last run of the periodic jobs of the server.
+CREATE TABLE IF NOT EXISTS jobs (
+  name        TEXT PRIMARY KEY,
+  last_run_at INTEGER NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS rate_events (
   bucket TEXT NOT NULL,
   ts     INTEGER NOT NULL

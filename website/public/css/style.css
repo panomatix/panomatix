@@ -626,3 +626,7 @@ img[src^="/media/"], img[src^="/vienna-media/"] { background-color: var(--sign-b
 .thumb .with-panels .panel { max-height: 30px; max-width: 70%; }
 .tile-img .with-panels .sign { max-height: 60px; }
 .tile-img .with-panels .panel { max-height: 24px; max-width: 70%; }
+
+/* Values shown by a national sign (speed, width…) with their unit */
+.tile-params { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 2px; }
+.tile-params .param { font-size: .78rem; font-weight: 500; color: var(--heading); background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 0 8px; }

@@ -170,6 +170,54 @@ async function serveStack(ctx, code) {
   });
 }
 
+/** Check an image (type sniffed from its content, SVG without anything that could run or load) and
+ *  compress it. Returns {data, ext}; throws ApiError when it is refused. */
+export async function checkedImage(raw) {
+  const ext = sniff(raw);
+  if (!ext) throw new ApiError(400, 'unsupported_image', 'Only SVG, PNG, JPEG, GIF and WebP images are accepted.');
+  if (ext === '.svg') {
+    let text;
+    try {
+      text = new TextDecoder('utf-8', { fatal: true }).decode(raw);
+    } catch {
+      throw new ApiError(400, 'unsupported_image', 'SVG files must be UTF-8 encoded.');
+    }
+    if (UNSAFE_SVG.test(text)) throw new ApiError(400, 'unsafe_svg', 'SVG files may not contain scripts, event handlers, entities, styles imports or external links.');
+  }
+  return compressUpload(raw, ext).catch(() => {
+    throw new ApiError(400, 'unsupported_image', 'This image could not be read.');
+  });
+}
+
+/** File an image for a national code next to the sign that owns it:
+ *  road_sign_images/<country>/<category>/<vienna|other>/<CC>-<code>.<ext>, recorded in the images table
+ *  (so the weekly backup carries it) and added to the in-memory index. `sign` = {reference, category, jurisdiction}. */
+export async function storeImage({ db, images: idx }, { code, raw, sign, userId = null }) {
+  const { data, ext } = await checkedImage(raw);
+  const i = code.indexOf(':');
+  const cc = code.slice(0, i);
+  const countryDir = idx.countryDirs.get(cc) ?? idx.countryDirs.get(cc.split('-')[0]) ?? slug(`${cc}_${sign.jurisdiction}`);
+  const catDir = CATEGORY_DIRS[sign.category.split('-').at(-1)] ?? 'sd_unclassified';
+  const kind = sign.reference.startsWith('VIENNA') ? 'vienna' : 'other';
+  const safeCode = code.slice(i + 1).replace(/[^A-Za-z0-9.()+-]+/g, '_').replace(/^[._]+|[._]+$/g, '').slice(0, 150) || 'sign';
+  const prefix = cc.split('-').map((p) => p.toUpperCase()).join('-');
+  const folder = path.join(idx.root, countryDir, catDir, kind);
+  if (!path.resolve(folder).startsWith(idx.root + path.sep)) throw new ApiError(400, 'invalid_code', 'Invalid code.');
+  fs.mkdirSync(folder, { recursive: true });
+  let name = `${prefix}-${safeCode}${ext}`;
+  for (let n = 2; fs.existsSync(path.join(folder, name)); n += 1) name = `${prefix}-${safeCode}_upload${n}${ext}`;
+  const target = path.join(folder, name);
+  const tmp = `${target}.part-${crypto.randomBytes(6).toString('hex')}`;
+  fs.writeFileSync(tmp, data, { flag: 'wx' });
+  fs.renameSync(tmp, target);
+  const rel = path.relative(idx.root, target).split(path.sep).join('/');
+  db.prepare('INSERT INTO images (path, country_code, code, sha256, uploaded_by, created_at) VALUES (?,?,?,?,?,?)').run(
+    rel, cc, code, crypto.createHash('sha256').update(data).digest('hex'), userId, now(),
+  );
+  idx.add(rel);
+  return { rel, data };
+}
+
 export function registerImageRoutes(router) {
   router.add('GET', '/media/(?<rel>.+)', (ctx) => {
     const rel = ctx.params.rel; // already URL-decoded by the router
@@ -195,50 +243,12 @@ export function registerImageRoutes(router) {
     const file = files.file;
     if (!file || !file.data.length) throw new ApiError(400, 'missing_file', 'Attach an image file.');
     if (file.data.length > ctx.config.maxImageBytes) throw new ApiError(413, 'file_too_large', 'The image is too large.');
-    const ext = sniff(file.data);
-    if (!ext) throw new ApiError(400, 'unsupported_image', 'Only SVG, PNG, JPEG, GIF and WebP images are accepted.');
-    if (ext === '.svg') {
-      let text;
-      try {
-        text = new TextDecoder('utf-8', { fatal: true }).decode(file.data);
-      } catch {
-        throw new ApiError(400, 'unsupported_image', 'SVG files must be UTF-8 encoded.');
-      }
-      if (UNSAFE_SVG.test(text)) throw new ApiError(400, 'unsafe_svg', 'SVG files may not contain scripts, event handlers, entities, styles imports or external links.');
-    }
-
-    const { data, ext: finalExt } = await compressUpload(file.data, ext).catch(() => {
-      throw new ApiError(400, 'unsupported_image', 'This image could not be read.');
-    });
-
     const row = ctx.db.prepare(
       `SELECT s.reference, s.category, c.jurisdiction FROM sign_codes c JOIN signs s ON s.reference = c.reference
        WHERE c.code=? AND s.deleted=0 ORDER BY s.sort_key LIMIT 1`,
     ).get(code);
     if (!row) throw new ApiError(404, 'unknown_code', 'No sign in the database uses this national code. Add the code to a sign first.');
-
-    const i = code.indexOf(':');
-    const cc = code.slice(0, i);
-    const idx = ctx.images;
-    const countryDir = idx.countryDirs.get(cc) ?? idx.countryDirs.get(cc.split('-')[0]) ?? slug(`${cc}_${row.jurisdiction}`);
-    const catDir = CATEGORY_DIRS[row.category.split('-').at(-1)] ?? 'sd_unclassified';
-    const kind = row.reference.startsWith('VIENNA') ? 'vienna' : 'other';
-    const safeCode = code.slice(i + 1).replace(/[^A-Za-z0-9.()+-]+/g, '_').replace(/^[._]+|[._]+$/g, '').slice(0, 150) || 'sign';
-    const prefix = cc.split('-').map((p) => p.toUpperCase()).join('-');
-    const folder = path.join(idx.root, countryDir, catDir, kind);
-    if (!path.resolve(folder).startsWith(idx.root + path.sep)) throw new ApiError(400, 'invalid_code', 'Invalid code.');
-    fs.mkdirSync(folder, { recursive: true });
-    let name = `${prefix}-${safeCode}${finalExt}`;
-    for (let n = 2; fs.existsSync(path.join(folder, name)); n += 1) name = `${prefix}-${safeCode}_upload${n}${finalExt}`;
-    const target = path.join(folder, name);
-    const tmp = `${target}.part-${crypto.randomBytes(6).toString('hex')}`;
-    fs.writeFileSync(tmp, data, { flag: 'wx' });
-    fs.renameSync(tmp, target);
-    const rel = path.relative(idx.root, target).split(path.sep).join('/');
-    ctx.db.prepare('INSERT INTO images (path, country_code, code, sha256, uploaded_by, created_at) VALUES (?,?,?,?,?,?)').run(
-      rel, cc, code, crypto.createHash('sha256').update(data).digest('hex'), user.id, now(),
-    );
-    idx.add(rel);
+    const { rel, data } = await storeImage(ctx, { code, raw: file.data, sign: row, userId: user.id });
     send(ctx, 201, { path: rel, url: mediaUrl(rel), reference: row.reference, bytes: data.length, original_bytes: file.data.length });
   });
 }
