@@ -2,6 +2,7 @@
 import { countries, get, vocab } from '../api.js';
 import { debounce, h, signHref, fill } from '../dom.js';
 import { lang, t, tn } from '../i18n.js';
+import { readOnlyBanner } from '../widgets.js';
 
 const KIND_LABEL = { vienna: 'Vienna Convention', other: 'National only', all: 'All signs' }; // translated at render; Vienna is the default
 
@@ -108,6 +109,7 @@ export async function viewList() {
     h('div.hero', {},
       h('h1', {}, t('Road signs of the world')),
       h('p', {}, t('Every sign of the Vienna Convention mapped to its national equivalents, designs and OpenStreetMap tags — edited by the community.'))),
+    readOnlyBanner(),
     h('form.filters', { role: 'search', onsubmit: (e) => { e.preventDefault(); onFilter(); } }, q, category, country, kind),
     h('div.row.between', {}, countLine),
     results);

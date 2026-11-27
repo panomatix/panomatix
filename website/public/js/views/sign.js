@@ -7,6 +7,7 @@ import { currentPath, navigate } from '../app.js';
 import { displayName } from './list.js';
 import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, removeUnit, panelCount, panelStack, pretty } from './unit.js';
 import { t } from '../i18n.js';
+import { readOnlyBanner } from '../widgets.js';
 
 const POS_LABEL = { top: 'Above the sign', bottom: 'Below the sign', left: 'Left of the sign', right: 'Right of the sign' };
 const DESIGN_PROPS = ['shape', 'background_color', 'border_color', 'symbol_color', 'band', 'band_color', 'prohibition_bar', 'bar_continuity', 'model', 'legacyModel'];
@@ -149,7 +150,6 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
   const others = codesOf(jur).length - 1;
   const panels = panelCount(jur.additional);
   const editable = ctx.editable;
-  const signIn = t('Sign in to edit');
   const reload = () => navigate(`#${currentPath()}`);
   return h('article.tile', { dataset: { search: `${jurKey} ${jur.countryCode} ${codesOf(jur).join(' ')} ${Object.values(jur.languages ?? {}).map((l) => l.text ?? '').join(' ')}`.toLowerCase() } },
     h('div.tile-img', {}, img ? h('img', { src: img, alt: code, loading: 'lazy' }) : null),
@@ -171,20 +171,23 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
           ] : null,
         }),
       }, `ⓘ ${t('Info')}`),
-      h('button.btn.small', {
-        type: 'button', disabled: !editable, title: editable ? t('Move to another design, related sign or sign') : signIn,
-        onclick: () => openMoveDialog(ctx.ref, loc, jurKey, { onMoved: reload }).catch((err) => toast(err.message, 'error')),
-      }, `⇄ ${t('Move')}`),
-      h('button.btn.small.primary', {
-        type: 'button', disabled: !editable, title: editable ? t('Edit this national sign and its panels') : signIn,
-        onclick: () => openUnitEditor(ctx.ref, loc, jurKey, { onSaved: reload }).catch((err) => toast(err.message, 'error')),
-      }, `✎ ${t('Edit')}`),
-      h('button.btn.small.danger', {
-        type: 'button', disabled: !editable, title: editable ? t('Remove this national sign from this sign') : signIn,
-        onclick: async () => {
-          try { if (await removeUnit(ctx.ref, loc, jurKey)) reload(); } catch (err) { toast(err.message, 'error'); }
-        },
-      }, `🗑 ${t('Remove')}`)));
+      // Visitors only read: the editing buttons are left out.
+      editable ? [
+        h('button.btn.small', {
+          type: 'button', title: t('Move to another design, related sign or sign'),
+          onclick: () => openMoveDialog(ctx.ref, loc, jurKey, { onMoved: reload }).catch((err) => toast(err.message, 'error')),
+        }, `⇄ ${t('Move')}`),
+        h('button.btn.small.primary', {
+          type: 'button', title: t('Edit this national sign and its panels'),
+          onclick: () => openUnitEditor(ctx.ref, loc, jurKey, { onSaved: reload }).catch((err) => toast(err.message, 'error')),
+        }, `✎ ${t('Edit')}`),
+        h('button.btn.small.danger', {
+          type: 'button', title: t('Remove this national sign from this sign'),
+          onclick: async () => {
+            try { if (await removeUnit(ctx.ref, loc, jurKey)) reload(); } catch (err) { toast(err.message, 'error'); }
+          },
+        }, `🗑 ${t('Remove')}`),
+      ] : null));
 }
 
 function tilesGrid(ctx, loc, where, jurs, props) {
@@ -302,6 +305,7 @@ export async function viewSign(ref) {
 
   return h('article.page.sign', { dataset: { cat: d.category.split('-').at(-1) } },
     s.deleted ? h('div.banner.warn', {}, t('This sign has been deleted. Moderators can restore it.')) : null,
+    readOnlyBanner(),
     h('header.sign-hero', {},
       hero ? h('img.hero-img', { src: hero, alt: displayName(d.name) || ref, title: displayName(d.name) }) : null,
       h('div.hero-id', {},

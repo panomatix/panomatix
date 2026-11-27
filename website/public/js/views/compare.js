@@ -4,6 +4,7 @@ import { COUNTRY_CODE_RE, COUNTRY_KEY_RE, addCustomCountry, countryKey, openCoun
 import { debounce, h, signHref, toast } from '../dom.js';
 import { t, tn } from '../i18n.js';
 import { displayName } from './list.js';
+import { readOnlyBanner } from '../widgets.js';
 
 const pretty = (key) => key.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 
@@ -101,7 +102,8 @@ export async function viewCompare() {
     drawCountryList(); updateSummary(); reload();
   };
   newCode.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); addCountry(); } });
-  const addBox = h('div.add-country', {},
+  // Adding a country only makes sense for someone who can then fill its column.
+  const addBox = session.user && h('div.add-country', {},
     h('h5', {}, t('Add a missing country')),
     h('div.row', {}, newName, newCode, h('button.btn.small.primary', { type: 'button', onclick: addCountry }, t('Add'))),
     h('p.small.muted', {}, t('It appears as a column; signed-in users fill it with the + buttons.')));
@@ -249,6 +251,7 @@ export async function viewCompare() {
 
   return h('section.page.compare', {},
     h('h1', {}, t('Compare countries')),
+    readOnlyBanner(),
     h('p.muted', {}, t('Which national sign each country uses for every sign of the Convention. Hover a cell for the design; click it to open the sign.'),
       session.user ? h('strong', {}, ` ${t('Signed in: click a cell to edit that country, or + to add it.')}`) : ''),
     h('div.compare-filters', {}, category, kind, search, picker,

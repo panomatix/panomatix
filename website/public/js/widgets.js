@@ -1,8 +1,16 @@
 // Form widgets bound directly to a JSON object: each widget mutates obj[key] in place.
 // Every control carries data-path (same notation as server validation errors) so errors can be pointed at.
-import { get } from './api.js';
+import { get, session } from './api.js';
 import { block, confirmDialog, debounce, h, toast } from './dom.js';
 import { t } from './i18n.js';
+
+/** Shown to visitors without an account: the site is read-only for them. */
+export function readOnlyBanner() {
+  if (session.user) return null;
+  return h('p.banner.readonly', { role: 'note' },
+    '👁 ', t('Read-only mode: you are browsing without an account.'), ' ', t('To correct or add signs,'), ' ',
+    h('a', { href: '#/login' }, t('sign in')), ` ${t('or')} `, h('a', { href: '#/register' }, t('create an account')), '.');
+}
 
 const kb = (n) => `${Math.max(1, Math.round(n / 1024)).toLocaleString()} KB`;
 
