@@ -108,7 +108,7 @@ code, .mono { font-family: var(--mono); font-size: .88em; }
 /* --- header ---------------------------------------------------------------------- */
 .topbar {
   position: sticky; top: 0; z-index: 20;
-  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 32px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 24px;
   padding: 0 max(24px, calc((100% - 1152px) / 2)); min-height: 64px;
   background: var(--surface);
   border-top: 4px solid var(--un-blue);
@@ -116,7 +116,7 @@ code, .mono { font-family: var(--mono); font-size: .88em; }
 }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--heading); font-weight: 500; font-size: 1.15rem; letter-spacing: .01em; }
 .brand:hover { text-decoration: none; }
-.brand img { width: 30px; height: 30px; }
+.brand img { width: 60px; height: 40px; object-fit: contain; }
 .mainnav { display: flex; gap: 28px; align-self: stretch; }
 .mainnav a { display: flex; align-items: center; color: var(--muted); font-size: .95rem; border-bottom: 2px solid transparent; margin-bottom: -1px; }
 .mainnav a:hover { color: var(--heading); text-decoration: none; }
@@ -125,7 +125,7 @@ code, .mono { font-family: var(--mono); font-size: .88em; }
 .account .btn:not(.primary) { border-color: transparent; color: var(--muted); }
 .account .btn:not(.primary):hover { color: var(--heading); border-color: var(--line); }
 .account .btn.primary { margin-right: 8px; }
-@media (min-width: 1000px) { .topbar { flex-wrap: nowrap; } .mainnav, .account { flex-wrap: nowrap; white-space: nowrap; } }
+@media (min-width: 1240px) { .topbar { flex-wrap: nowrap; } .mainnav, .account { flex-wrap: nowrap; white-space: nowrap; } }
 .account .btn.user { color: var(--heading); }
 .btn.user .role { display: none; }
 select.lang { width: auto; padding: 5px 26px 5px 8px; font-size: .85rem; color: var(--muted); border-color: transparent; background-color: transparent; }
@@ -462,12 +462,12 @@ table.matrix { border-collapse: separate; border-spacing: 0; width: max-content;
 
 /* --- sign page: hero, tabs, national sign tiles ------------------------------------------------ */
 .sign-hero { display: flex; flex-direction: column; align-items: center; gap: 18px; padding: 24px 0 36px; text-align: center; }
-.sign-hero .hero-img { width: min(360px, 70vw); height: min(360px, 70vw); padding: 28px; }
+.sign-hero .hero-img { width: min(240px, 60vw); height: min(240px, 60vw); padding: 20px; }
 .official-strip { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
-.official-strip figure { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 4px; max-width: 110px; }
-.official-thumb { padding: 6px; background: var(--sign-bg); border: 2px solid transparent; border-radius: var(--radius); cursor: pointer; }
+.official-strip figure { margin: 0; display: flex; flex-direction: column; align-items: center; gap: 2px; max-width: 90px; }
+.official-thumb { padding: 4px; background: var(--sign-bg); border: 2px solid transparent; border-radius: var(--radius); cursor: pointer; }
 .official-thumb[aria-pressed="true"] { border-color: var(--accent); }
-.official-thumb img { width: 72px; height: 72px; object-fit: contain; display: block; }
+.official-thumb img { width: 48px; height: 48px; object-fit: contain; display: block; }
 .sign-hero .ref.big { font-size: 1.6rem; letter-spacing: .04em; }
 .hero-id { display: flex; flex-direction: column; align-items: center; gap: 14px; }
 .sign-section { border-top: 1px solid var(--line); padding: 28px 0 8px; }
@@ -600,3 +600,15 @@ table.matrix { border-collapse: separate; border-spacing: 0; width: max-content;
 img[src^="/media/"], img[src^="/vienna-media/"] { background-color: var(--sign-bg); }
 .theme-toggle { min-width: 2.4em; font-size: 1.05rem; line-height: 1; }
 .form-notice:not(:empty) { margin-bottom: 16px; }
+
+/* Line icons (js/icons.js): sized to the text, coloured like it. */
+.icon { width: var(--icon-size, 1.15em); height: var(--icon-size, 1.15em); flex: none; vertical-align: -0.2em; }
+.btn .icon { width: 1.1em; height: 1.1em; }
+.btn.close .icon { width: 1.25rem; height: 1.25rem; }
+.theme-toggle .icon { width: 1.2em; height: 1.2em; }
+.warning .icon, .banner .icon { color: inherit; margin-right: 2px; }
+.warning .icon { color: #b45309; }
+.wd-link { display: inline-flex; align-items: center; gap: 3px; }
+.wd-link .icon { width: .95em; height: .95em; }
+.span-plus .icon, .plus .icon { width: 1.4em; height: 1.4em; }
+.lvl .icon { width: 1em; height: 1em; }

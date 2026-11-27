@@ -6,6 +6,7 @@ import { t } from '../i18n.js';
 import { bool, field, listEditor, mapEditor, strList, sub, text, uploadedMessage } from '../widgets.js';
 import { languageEditor, parameterEditor, showErrors } from './editor.js';
 import { displayName } from './list.js';
+import { icon } from '../icons.js';
 
 export const pretty = (key) => key.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 const LANG_KEY = '^[a-z]{2,3}(-[A-Za-z0-9]{1,8})*$';
@@ -21,7 +22,7 @@ export const locLabel = (l) => (l.kind === 'design' ? t('Design {n}', { n: Numbe
 function modal(cls, title, ...content) {
   const dlg = h(`dialog.${cls}`, { 'aria-label': title });
   const close = () => { dlg.close(); dlg.remove(); };
-  addTo(dlg, h('header.modal-head', {}, h('h2', {}, title), h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: close }, '×')), ...content);
+  addTo(dlg, h('header.modal-head', {}, h('h2', {}, title), h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: close }, icon('close'))), ...content);
   dlg.addEventListener('cancel', (e) => { e.preventDefault(); close(); });
   dlg.addEventListener('click', (e) => { if (e.target === dlg) close(); });
   document.body.append(dlg);
@@ -37,8 +38,8 @@ export function panelChip(ref, { check, onRemove } = {}) {
   const isRef = /^(VIENNA|VIENNA2006|OTHER):/.test(ref);
   const chip = h(`span.pchip${check ? `.lvl-${check.level}` : ''}`, { title: check?.message ?? '' },
     isRef ? h('a', { href: signHref(ref) }, ref) : h('code', {}, ref),
-    check && check.level !== 'ok' ? h('span.lvl', {}, check.level === 'error' ? '✗' : '!') : check ? h('span.lvl', {}, '✓') : null,
-    onRemove ? h('button.x', { type: 'button', 'aria-label': `${t('Remove')} ${ref}`, onclick: onRemove }, '×') : null);
+    check && check.level !== 'ok' ? h('span.lvl', {}, icon(check.level === 'error' ? 'error' : 'warning')) : check ? h('span.lvl', {}, icon('check')) : null,
+    onRemove ? h('button.x', { type: 'button', 'aria-label': `${t('Remove')} ${ref}`, onclick: onRemove }, icon('close')) : null);
   const show = (url) => url && chip.prepend(h('img.mini', { src: url, alt: '', loading: 'lazy' }));
   if (check?.panel?.image) show(check.panel.image);
   else if (imgCache.has(ref)) show(imgCache.get(ref));
@@ -220,7 +221,7 @@ function panelsEditor(state, view, path, signImg) {
     if (!checks.length) return h('span.muted.small', {}, t('No panel yet: add one with the buttons above.'));
     if (errs) return h('span.pc-err', {}, t('{n} panel(s) cannot be added — fix them before saving.', { n: errs }));
     if (warns) return h('span.pc-warn', {}, t('The panels can be added; {n} warning(s) to review.', { n: warns }));
-    return h('span.pc-ok', {}, t('✓ All panels can be added.'));
+    return h('span.pc-ok', {}, icon('check'), ' ', t('All panels can be added.'));
   }
 
   function slotRow(pos, slots, s, si) {
@@ -229,7 +230,7 @@ function panelsEditor(state, view, path, signImg) {
       h('div.pslot-refs', {},
         s.reference.map((r, ri) => panelChip(r, { check: find(pos, si, r), onRemove: () => { s.reference.splice(ri, 1); changed(); } })),
         h('button.btn.small', { type: 'button', title: t('Another panel admissible in the same place'), onclick: () => pick(pos, (v) => { if (!s.reference.includes(v)) s.reference.push(v); }) }, `+ ${t('alternative')}`)),
-      h('button.btn.small.danger', { type: 'button', 'aria-label': t('Remove the slot'), onclick: () => { slots.splice(si, 1); changed(); } }, '×'));
+      h('button.btn.small.danger', { type: 'button', 'aria-label': t('Remove the slot'), onclick: () => { slots.splice(si, 1); changed(); } }, icon('close')));
   }
 
   function draw() {
@@ -312,11 +313,11 @@ export async function openCountrySigns(reference, jurKey, { editable = false, on
       h('div.cs-head', {},
         h('div', {}, h('h3', {}, u.label), h('p.small.muted', {}, props(u.holder))),
         h('div.cs-actions', {},
-          h('button.btn.small', { type: 'button', onclick: () => openUnitInfo({ reference, jurKey, jur, images: s.images, where: u.label }) }, `ⓘ ${t('Info')}`),
+          h('button.btn.small', { type: 'button', onclick: () => openUnitInfo({ reference, jurKey, jur, images: s.images, where: u.label }) }, icon('info'), t('Info')),
           editable ? [
-            h('button.btn.small', { type: 'button', onclick: after(() => openMoveDialog(reference, u.loc, jurKey, { onMoved: onChanged })) }, `⇄ ${t('Move')}`),
-            h('button.btn.small.primary', { type: 'button', onclick: after(() => openUnitEditor(reference, u.loc, jurKey, { onSaved: onChanged })) }, `✎ ${t('Edit')}`),
-            h('button.btn.small.danger', { type: 'button', onclick: after(async () => { if (await removeUnit(reference, u.loc, jurKey)) onChanged?.(); }) }, `🗑 ${t('Remove')}`),
+            h('button.btn.small', { type: 'button', onclick: after(() => openMoveDialog(reference, u.loc, jurKey, { onMoved: onChanged })) }, icon('move'), t('Move')),
+            h('button.btn.small.primary', { type: 'button', onclick: after(() => openUnitEditor(reference, u.loc, jurKey, { onSaved: onChanged })) }, icon('edit'), t('Edit')),
+            h('button.btn.small.danger', { type: 'button', onclick: after(async () => { if (await removeUnit(reference, u.loc, jurKey)) onChanged?.(); }) }, icon('trash'), t('Remove')),
           ] : null)),
       h('div.cs-codes', {}, codesOf(jur).map((code) => h('figure.cs-code', {},
         s.images[code]?.[0] ? h('img', { src: s.images[code][0], alt: code, loading: 'lazy' }) : h('span.cs-noimg'),
@@ -547,7 +548,7 @@ export async function openUnitEditor(reference, loc, jurKey, { onSaved, countryC
       h('div', {},
         h('p.crumbs', {}, h('a', { href: signHref(reference) }, h('code', {}, reference)), ' · ', here ? locLabel(here) : loc),
         h('h2', {}, view.exists ? mainCode(view.data) : t('New national sign'), ' ', h('span.muted', {}, pretty(jurKey)))),
-      h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: () => close() }, '×')),
+      h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: () => close() }, icon('close'))),
     !view.exists ? h('p.banner.info', {}, t('{country} has no national sign here yet. Fill in its code and save to add it.', { country: pretty(jurKey) })) : null,
     h('div.drawer-body', {},
       identity,

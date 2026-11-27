@@ -5,6 +5,7 @@ import { debounce, h, signHref, toast } from '../dom.js';
 import { t, tn } from '../i18n.js';
 import { displayName } from './list.js';
 import { readOnlyBanner } from '../widgets.js';
+import { icon } from '../icons.js';
 
 const pretty = (key) => key.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 
@@ -212,7 +213,7 @@ export async function viewCompare() {
         };
         if (!cell) {
           return session.user
-            ? h('td.none.addable', { title: `${pretty(c.key)} — ${t('not used')} · ${t('click to add')}` }, h('button.addcell', { type: 'button', 'aria-label': `${t('Add')} ${pretty(c.key)} — ${r.reference}`, onclick: edit }, '+'))
+            ? h('td.none.addable', { title: `${pretty(c.key)} — ${t('not used')} · ${t('click to add')}` }, h('button.addcell', { type: 'button', 'aria-label': `${t('Add')} ${pretty(c.key)} — ${r.reference}`, onclick: edit }, icon('plus')))
             : h('td.none', { title: `${pretty(c.key)} — ${t('not used')}` }, '—');
         }
         const title = [`${pretty(c.key)}: ${cell.codes.join(', ')}`, r.designs > 1 ? `${t('Design {n}', { n: cell.design })} — ${cell.design_label}` : cell.design_label, cell.panels ? t('Additional panels') : ''].filter(Boolean).join('\n');
@@ -226,9 +227,9 @@ export async function viewCompare() {
     tableBox.replaceChildren(h('table.matrix', {}, head, body));
     const pages = Math.ceil(data.total / data.per_page);
     pagerBox.replaceChildren(pages > 1 ? h('nav.pager', {},
-      h('button.btn', { type: 'button', disabled: state.page <= 1, onclick: () => { state.page -= 1; load(); } }, t('← Previous')),
+      h('button.btn', { type: 'button', disabled: state.page <= 1, onclick: () => { state.page -= 1; load(); } }, icon('chevron-left'), t('Previous')),
       h('span', {}, t('Page {p} / {n}', { p: state.page, n: pages })),
-      h('button.btn', { type: 'button', disabled: state.page >= pages, onclick: () => { state.page += 1; load(); } }, t('Next →'))) : '');
+      h('button.btn', { type: 'button', disabled: state.page >= pages, onclick: () => { state.page += 1; load(); } }, t('Next'), icon('chevron-right'))) : '');
   }
 
   function downloadCsv() {

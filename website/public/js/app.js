@@ -9,6 +9,7 @@ import { viewCompare } from './views/compare.js';
 import { viewEditor } from './views/editor.js';
 import { viewList } from './views/list.js';
 import { viewSign } from './views/sign.js';
+import { icon } from './icons.js';
 
 const main = document.getElementById('main');
 let leaveGuard = null; // set by the editor when there are unsaved changes
@@ -97,7 +98,7 @@ function themeButton() {
       try { localStorage.setItem('pmx_theme', next); } catch { /* not remembered, still applied */ }
       drawAccount();
     },
-  }, dark ? '☀' : '☾');
+  }, icon(dark ? 'sun' : 'moon'));
 }
 
 function langPicker() {

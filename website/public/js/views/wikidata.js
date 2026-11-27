@@ -2,6 +2,7 @@
 import { get } from '../api.js';
 import { debounce, h, toast } from '../dom.js';
 import { lang, t } from '../i18n.js';
+import { icon } from '../icons.js';
 
 export const EMPTY_WIKIDATA = 'QXXXXXXX'; // placeholder of the database for "not known yet"
 const isSet = (v) => typeof v === 'string' && /^Q[1-9][0-9]*$/.test(v);
@@ -14,7 +15,7 @@ export function parseWikidata(input) {
   return m ? m[1].toUpperCase() : null;
 }
 
-const link = (id) => h('a.wd-link', { href: `https://www.wikidata.org/wiki/${id}`, target: '_blank', rel: 'noopener noreferrer' }, h('code', {}, id), ' ↗');
+const link = (id) => h('a.wd-link', { href: `https://www.wikidata.org/wiki/${id}`, target: '_blank', rel: 'noopener noreferrer' }, h('code', {}, id), icon('external'));
 
 /** {value, editable, onSave(id | null)} -> element. onSave(null) removes the ID. */
 export function wikidataField({ value, editable, onSave }) {
@@ -23,7 +24,7 @@ export function wikidataField({ value, editable, onSave }) {
     box.replaceChildren(...[
       h('span.wd-label', {}, 'Wikidata'),
       isSet(value) ? link(value) : h('span.muted', {}, t('not set')),
-      editable ? h('button.btn.small.wd-edit', { type: 'button', title: t('Edit the Wikidata ID'), onclick: edit }, isSet(value) ? '✎' : `+ ${t('Add')}`) : null,
+      editable ? h('button.btn.small.wd-edit', { type: 'button', title: t('Edit the Wikidata ID'), onclick: edit }, ...(isSet(value) ? [icon('edit')] : [icon('plus'), t('Add')])) : null,
     ].filter(Boolean)); // replaceChildren() would print a null as text
   };
   function edit() {
@@ -40,7 +41,7 @@ export function wikidataField({ value, editable, onSave }) {
       try {
         const r = await get(`/api/v1/wikidata/${id}?lang=${lang}`);
         if (mine !== seq) return;
-        status.replaceChildren(...['✓ ', h('strong', {}, r.label ?? id), r.description ? h('span.muted', {}, ` — ${r.description}`) : null].filter(Boolean));
+        status.replaceChildren(...[icon('check'), ' ', h('strong', {}, r.label ?? id), r.description ? h('span.muted', {}, ` — ${r.description}`) : null].filter(Boolean));
       } catch (err) {
         if (mine !== seq) return;
         status.replaceChildren(h(err.code === 'wikidata_unreachable' ? 'span.muted' : 'span.error', {}, err.message));

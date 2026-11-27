@@ -4,6 +4,7 @@ import { block, h, signHref, toast } from '../dom.js';
 import { navigate, setLeaveGuard } from '../app.js';
 import { t } from '../i18n.js';
 import { bool, field, listEditor, mapEditor, onAnyChange, select, strList, sub, text, uploadedMessage } from '../widgets.js';
+import { icon } from '../icons.js';
 
 const LANG_KEY = '^[a-z]{2,3}(-[A-Za-z0-9]{1,8})*$';
 const POSITIONS = [['top', 'Panels above'], ['bottom', 'Panels below'], ['left', 'Panels on the left'], ['right', 'Panels on the right']];
@@ -33,7 +34,7 @@ export function panelsEditor(additional, path) {
       const slots = additional[pos];
       return [
         h('h5', {}, t(label), pos === 'left' || pos === 'right'
-          ? h('button.btn.small.danger', { type: 'button', title: t('Remove'), disabled: slots.length > 0, onclick: () => { delete additional[pos]; redraw(); } }, '×') : null),
+          ? h('button.btn.small.danger', { type: 'button', title: t('Remove'), disabled: slots.length > 0, onclick: () => { delete additional[pos]; redraw(); } }, icon('close')) : null),
         block((redrawSlots) => [
           slots.map((slot, i) => h('div.slot', { dataset: { path: sub(sub(path, pos), i) } },
             h('div.slot-head', {},
@@ -41,7 +42,7 @@ export function panelsEditor(additional, path) {
                 type: 'number', min: 1, max: 20, value: slot.index, class: 'narrow', dataset: { path: sub(sub(sub(path, pos), i), 'index') },
                 oninput: (e) => { slot.index = Number(e.target.value); },
               }), { help: '1 = closest to the sign' }),
-              h('button.btn.small.danger', { type: 'button', title: t('Remove'), onclick: () => { slots.splice(i, 1); redrawSlots(); } }, '×')),
+              h('button.btn.small.danger', { type: 'button', title: t('Remove'), onclick: () => { slots.splice(i, 1); redrawSlots(); } }, icon('close'))),
             field('Admissible panels', strList(slot.reference, { path: sub(sub(sub(path, pos), i), 'reference'), placeholder: 'Add a panel', autocomplete: true }), { wide: true }))),
           h('button.btn.small', {
             type: 'button',

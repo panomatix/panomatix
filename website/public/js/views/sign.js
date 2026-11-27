@@ -9,6 +9,7 @@ import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInf
 import { t } from '../i18n.js';
 import { readOnlyBanner } from '../widgets.js';
 import { EMPTY_WIKIDATA, wikidataField } from './wikidata.js';
+import { icon } from '../icons.js';
 
 const POS_LABEL = { top: 'Above the sign', bottom: 'Below the sign', left: 'Left of the sign', right: 'Right of the sign' };
 const DESIGN_PROPS = ['shape', 'background_color', 'border_color', 'symbol_color', 'band', 'band_color', 'prohibition_bar', 'bar_continuity', 'model', 'legacyModel'];
@@ -110,7 +111,7 @@ function openSignInfo(s, voc, { selectTab }) {
         h('p.crumbs', {}, `${d.category} — ${t(voc.categoryNames[cat] ?? '')}`),
         h('h2', {}, displayName(d.name) || ref, ' ', h('code.ref', {}, ref)),
         h('p.muted.small', {}, t('version {v} · updated {d}', { v: s.version, d: fmtDate(s.updated_at) }) + (s.updated_by ? t(' by {name}', { name: s.updated_by.display_name }) : ''))),
-      h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: close }, '×')),
+      h('button.btn.close', { type: 'button', 'aria-label': t('Close'), onclick: close }, icon('close'))),
     actions,
     h('section.box', {},
       h('h3', {}, t('General')),
@@ -171,23 +172,23 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
             h('button.btn.primary', { type: 'button', onclick: (e) => { e.target.closest('dialog').close(); e.target.closest('dialog').remove(); openUnitEditor(ctx.ref, loc, jurKey, { onSaved: reload }).catch((err) => toast(err.message, 'error')); } }, t('Edit')),
           ] : null,
         }),
-      }, `ⓘ ${t('Info')}`),
+      }, icon('info'), t('Info')),
       // Visitors only read: the editing buttons are left out.
       editable ? [
         h('button.btn.small', {
           type: 'button', title: t('Move to another design, related sign or sign'),
           onclick: () => openMoveDialog(ctx.ref, loc, jurKey, { onMoved: reload }).catch((err) => toast(err.message, 'error')),
-        }, `⇄ ${t('Move')}`),
+        }, icon('move'), t('Move')),
         h('button.btn.small.primary', {
           type: 'button', title: t('Edit this national sign and its panels'),
           onclick: () => openUnitEditor(ctx.ref, loc, jurKey, { onSaved: reload }).catch((err) => toast(err.message, 'error')),
-        }, `✎ ${t('Edit')}`),
+        }, icon('edit'), t('Edit')),
         h('button.btn.small.danger', {
           type: 'button', title: t('Remove this national sign from this sign'),
           onclick: async () => {
             try { if (await removeUnit(ctx.ref, loc, jurKey)) reload(); } catch (err) { toast(err.message, 'error'); }
           },
-        }, `🗑 ${t('Remove')}`),
+        }, icon('trash'), t('Remove')),
       ] : null));
 }
 
@@ -199,7 +200,7 @@ function tilesGrid(ctx, loc, where, jurs, props) {
     ctx.editable ? h('button.tile.tile-add', {
       type: 'button',
       onclick: async () => addUnit(ctx.ref, loc, new Set(Object.keys(jurs ?? {})), await countries(), { onSaved: () => navigate(`#${currentPath()}`) }).catch((err) => toast(err.message, 'error')),
-    }, h('span.plus', {}, '+'), t('Add a national sign')) : null);
+    }, h('span.plus', {}, icon('plus')), t('Add a national sign')) : null);
   filter?.addEventListener('input', () => {
     const q = filter.value.trim().toLowerCase();
     grid.querySelectorAll('article.tile').forEach((el) => { el.hidden = Boolean(q) && !el.dataset.search.includes(q); });
@@ -372,7 +373,7 @@ export async function viewSign(ref) {
         h('code.ref.big', {}, ref),
         wikidataOf(ctx),
         officialStrip(ctx, heroImg, selectTab),
-        h('button.btn.primary', { type: 'button', onclick: () => openSignInfo(s, voc, { selectTab }) }, `ⓘ ${t('More information')}`))),
+        h('button.btn.primary', { type: 'button', onclick: () => openSignInfo(s, voc, { selectTab }) }, icon('info'), t('More information')))),
     h('section.sign-section', {},
       h('h2', {}, t('Designs ({n})', { n: designs.length })),
       tabs(ctx, designItems, { label: t('Designs'), empty: t('No design.') })),

@@ -3,12 +3,13 @@
 import { get, session } from './api.js';
 import { block, confirmDialog, debounce, h, toast } from './dom.js';
 import { t } from './i18n.js';
+import { icon } from './icons.js';
 
 /** Shown to visitors without an account: the site is read-only for them. */
 export function readOnlyBanner() {
   if (session.user) return null;
   return h('p.banner.readonly', { role: 'note' },
-    '👁 ', t('Read-only mode: you are browsing without an account.'), ' ', t('To correct or add signs,'), ' ',
+    icon('eye'), ' ', t('Read-only mode: you are browsing without an account.'), ' ', t('To correct or add signs,'), ' ',
     h('a', { href: '#/login' }, t('sign in')), ` ${t('or')} `, h('a', { href: '#/register' }, t('create an account')), '.');
 }
 
@@ -139,7 +140,7 @@ export function strList(arr, { path, placeholder = 'Add', numeric = false, autoc
     return [
       h('ul.tags', {}, arr.map((v, i) => h('li.tag', { dataset: { path: sub(path, i) } },
         h(mono ? 'code' : 'span', {}, String(v)),
-        h('button.x', { type: 'button', title: t('Remove'), 'aria-label': `${t('Remove')} ${v}`, onclick: () => { arr.splice(i, 1); changed(); onchange?.(); redraw(); } }, '×')))),
+        h('button.x', { type: 'button', title: t('Remove'), 'aria-label': `${t('Remove')} ${v}`, onclick: () => { arr.splice(i, 1); changed(); onchange?.(); redraw(); } }, icon('close'))))),
       h('div.addrow', {}, input, h('button.btn.small', { type: 'button', onclick: add }, t('Add'))),
     ];
   }, 'div', { class: 'strlist', dataset: { path } });
@@ -153,10 +154,10 @@ export function listEditor(arr, { path, renderItem, newItem, addLabel, title, co
       h('summary', {},
         h('span.item-title', {}, title(item, i)),
         h('span.tools', {},
-          h('button.btn.small', { type: 'button', title: t('Move up'), disabled: i === 0, onclick: (e) => { e.preventDefault(); [arr[i - 1], arr[i]] = [arr[i], arr[i - 1]]; changed(); redraw(); } }, '↑'),
-          h('button.btn.small', { type: 'button', title: t('Move down'), disabled: i === arr.length - 1, onclick: (e) => { e.preventDefault(); [arr[i + 1], arr[i]] = [arr[i], arr[i + 1]]; changed(); redraw(); } }, '↓'),
-          h('button.btn.small', { type: 'button', title: t('Duplicate'), onclick: (e) => { e.preventDefault(); arr.splice(i + 1, 0, structuredClone(item)); changed(); redraw(); } }, '⧉'),
-          h('button.btn.small.danger', { type: 'button', title: t('Remove'), onclick: async (e) => { e.preventDefault(); if (await confirmDialog(`${t('Remove')} — ${title(item, i)} ?`)) { arr.splice(i, 1); changed(); redraw(); } } }, '×'))),
+          h('button.btn.small', { type: 'button', title: t('Move up'), disabled: i === 0, onclick: (e) => { e.preventDefault(); [arr[i - 1], arr[i]] = [arr[i], arr[i - 1]]; changed(); redraw(); } }, icon('arrow-up')),
+          h('button.btn.small', { type: 'button', title: t('Move down'), disabled: i === arr.length - 1, onclick: (e) => { e.preventDefault(); [arr[i + 1], arr[i]] = [arr[i], arr[i + 1]]; changed(); redraw(); } }, icon('arrow-down')),
+          h('button.btn.small', { type: 'button', title: t('Duplicate'), onclick: (e) => { e.preventDefault(); arr.splice(i + 1, 0, structuredClone(item)); changed(); redraw(); } }, icon('copy')),
+          h('button.btn.small.danger', { type: 'button', title: t('Remove'), onclick: async (e) => { e.preventDefault(); if (await confirmDialog(`${t('Remove')} — ${title(item, i)} ?`)) { arr.splice(i, 1); changed(); redraw(); } } }, icon('close')))),
       h('div.item-body', {}, renderItem(item, i, sub(path, i), redraw)))),
     h('button.btn.add', { type: 'button', onclick: () => { const it = newItem(); opened.add(it); arr.push(it); changed(); redraw(); } }, `+ ${t(addLabel)}`),
   ], 'div', { class: 'listed', dataset: { path } });
@@ -197,8 +198,8 @@ export function mapEditor(obj, { path, renderValue, newValue, addLabel, keyPatte
             changed();
             redraw();
           },
-        }, '✎'),
-        h('button.btn.small.danger', { type: 'button', title: t('Remove'), onclick: (e) => { e.preventDefault(); delete obj[k]; changed(); redraw(); } }, '×'));
+        }, icon('edit')),
+        h('button.btn.small.danger', { type: 'button', title: t('Remove'), onclick: (e) => { e.preventDefault(); delete obj[k]; changed(); redraw(); } }, icon('close')));
       if (inline) return h('div.maprow', { dataset: { path: p } }, h('code.mapkey', {}, k), renderValue(obj, k, p, redraw), tools);
       return h('details.item', { open: !collapsed || opened.has(k), dataset: { path: p } },
         h('summary', {}, h('code.mapkey', {}, k), tools),

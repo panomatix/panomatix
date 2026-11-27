@@ -3,6 +3,7 @@ import { countries, get, vocab } from '../api.js';
 import { debounce, h, signHref, fill } from '../dom.js';
 import { lang, t, tn } from '../i18n.js';
 import { readOnlyBanner } from '../widgets.js';
+import { icon } from '../icons.js';
 
 const KIND_LABEL = { vienna: 'Vienna Convention', other: 'National only', all: 'All signs' }; // translated at render; Vienna is the default
 
@@ -92,9 +93,9 @@ export async function viewList() {
       window.scrollTo(0, 0);
     };
     return h('nav.pager', { 'aria-label': 'Pages' },
-      h('button.btn', { type: 'button', disabled: state.page <= 1, onclick: go(state.page - 1) }, t('← Previous')),
+      h('button.btn', { type: 'button', disabled: state.page <= 1, onclick: go(state.page - 1) }, icon('chevron-left'), t('Previous')),
       h('span', {}, t('Page {p} / {n}', { p: state.page, n: pages })),
-      h('button.btn', { type: 'button', disabled: state.page >= pages, onclick: go(state.page + 1) }, t('Next →')));
+      h('button.btn', { type: 'button', disabled: state.page >= pages, onclick: go(state.page + 1) }, t('Next'), icon('chevron-right')));
   }
 
   const onFilter = () => {

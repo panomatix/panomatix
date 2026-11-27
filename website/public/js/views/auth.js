@@ -3,6 +3,7 @@ import { can, del, forgotPassword, get, login, patch, post, refreshSession, regi
 import { block, confirmDialog, fmtDate, h, toast } from '../dom.js';
 import { currentPath, navigate } from '../app.js';
 import { lang, t } from '../i18n.js';
+import { icon } from '../icons.js';
 
 function formError(box, err) {
   box.replaceChildren(h('p.error', { role: 'alert' }, err.message));
@@ -76,7 +77,7 @@ function newPasswordFields(label = 'Password') {
   return {
     value: () => password.value,
     nodes: [
-      h('p.warning', { role: 'note' }, '⚠ ', t('Use a password you do not use on any other site. If another site leaks it, your account here stays safe. A password manager remembers it for you.')),
+      h('p.warning', { role: 'note' }, icon('warning'), ' ', t('Use a password you do not use on any other site. If another site leaks it, your account here stays safe. A password manager remembers it for you.')),
       h('label.field', {}, h('span.label', {}, t(label)), password, h('span.help', {}, t('At least 10 characters.'))),
       h('div.row', {}, generate, copy),
       h('label.field', {}, h('span.label', {}, t('Confirm the password')), confirm),
@@ -117,7 +118,7 @@ function emailForm({ title, fields = [], button, sendMail, sent, footer }) {
   let quotaFull = false;
   function showQuotaFull() {
     quotaFull = true;
-    notice.replaceChildren(h('p.warning', { role: 'alert' }, '⚠ ',
+    notice.replaceChildren(h('p.warning', { role: 'alert' }, icon('warning'), ' ',
       t('The site has sent its maximum number of emails for today (accounts and passwords). Please come back tomorrow.')));
     submit.disabled = true;
   }
