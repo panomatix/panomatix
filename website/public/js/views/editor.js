@@ -3,7 +3,7 @@ import { ApiError, api, countries, get, post, put, session, signPath, vocab } fr
 import { block, h, signHref, toast } from '../dom.js';
 import { navigate, setLeaveGuard } from '../app.js';
 import { t } from '../i18n.js';
-import { bool, field, listEditor, mapEditor, onAnyChange, select, strList, sub, text } from '../widgets.js';
+import { bool, field, listEditor, mapEditor, onAnyChange, select, strList, sub, text, uploadedMessage } from '../widgets.js';
 
 const LANG_KEY = '^[a-z]{2,3}(-[A-Za-z0-9]{1,8})*$';
 const POSITIONS = [['top', 'Panels above'], ['bottom', 'Panels below'], ['left', 'Panels on the left'], ['right', 'Panels on the right']];
@@ -97,7 +97,7 @@ function imagesFor(jur, images, onUploaded) {
       try {
         const r = await api('POST', '/api/v1/images', fd, { form: true });
         (images[code] ??= []).push(r.url);
-        toast(t('Image uploaded.'));
+        toast(uploadedMessage(r));
         onUploaded();
       } catch (err) {
         toast(err.code === 'unknown_code' ? t('Save the sign first: the image is filed under an existing code.') : err.message, 'error');

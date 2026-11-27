@@ -1,40 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="45.568275mm"
-   height="45.568279mm"
-   viewBox="0 0 45.568275 45.568279"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="NZdraw.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="2.56"
-     inkscape:cx="-2526.3672"
-     inkscape:cy="1584.5703"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showguides="true" /><defs
-     id="defs1"><style
-       id="style1">
+<svg width="45.568mm" height="45.568mm" version="1.1" viewBox="0 0 45.568 45.568" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style>
 	.a {
 		fill: #fff;
 	}
@@ -42,8 +6,7 @@
 	.b {
 		fill: #af1e2d;
 	}
-  </style><style
-       id="style1-8">
+  </style><style>
 	.a {
 		fill: #fff;
 	}
@@ -51,36 +14,4 @@
 	.b {
 		fill: #af1e2d;
 	}
-  </style><marker
-       style="overflow:visible"
-       id="DartArrow-4"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Dart arrow"
-       markerWidth="0.2"
-       markerHeight="0.40000001"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="none"><path
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         transform="scale(-0.5)"
-         id="path6-0" /></marker></defs><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(831.99385,261.34786)"><g
-       id="g49"><rect
-         style="fill:#fddc04;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         id="rect13"
-         width="32.221645"
-         height="32.221645"
-         x="387.39682"
-         y="-756.99854"
-         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" /><path
-         id="path14"
-         style="fill:none;stroke:#000000;stroke-width:3.3;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-start:url(#DartArrow-4)"
-         d="m -797.76651,-244.73705 v 8.48579 c 0,2.86844 -2.21253,5.17769 -4.96082,5.17769 -2.7483,0 -4.96082,-2.30925 -4.96082,-5.17769 l -2e-5,-7.02507 c 0,-2.86844 -2.21253,-5.17769 -4.96083,-5.17769 -2.74829,0 -4.96082,2.30925 -4.96082,5.17769 v 15.6688"
-         sodipodi:nodetypes="cssssssc" /></g></g></svg>
+  </style><marker id="a" overflow="visible" markerHeight="0.40000001" markerWidth="0.2" orient="auto-start-reverse" preserveAspectRatio="none" viewBox="0 0 1 1"><path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/></marker></defs><g transform="translate(831.99 261.35)"><rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="387.4" y="-757" width="32.222" height="32.222" fill="#fddc04"/><path d="m-797.77-244.74v8.4858c0 2.8684-2.2125 5.1777-4.9608 5.1777-2.7483 0-4.9608-2.3092-4.9608-5.1777l-2e-5 -7.0251c0-2.8684-2.2125-5.1777-4.9608-5.1777-2.7483 0-4.9608 2.3092-4.9608 5.1777v15.669" fill="none" marker-start="url(#a)" stroke="#000" stroke-linejoin="round" stroke-width="3.3"/></g></svg>

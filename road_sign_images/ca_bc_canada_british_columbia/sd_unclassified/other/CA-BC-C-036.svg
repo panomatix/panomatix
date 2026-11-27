@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xml:space="preserve"
-   style="overflow:visible;enable-background:new 0 0 1000.2495117 866.7739258;"
-   viewBox="0 0 1000.2495 866.77393"
-   height="866.56"
-   width="1000"
-   id="Layer_1"
-   version="1.0"><metadata
-   id="metadata1922"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs1920" />
+<svg width="1e3" height="866.56" enable-background="new 0 0 1000.2495117 866.7739258" version="1.0" viewBox="0 0 1000.2 866.77" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 
-<path
-   id="polygon1917"
-   d="M 1000.1245,702.19775 L 594.76611,0.1079102 L 501.41309,0.1147461 L 408.06006,0.121582 L 0.1245117,706.94092 L 46.232178,786.80323 L 92.339844,866.66553 L 905.19482,866.65186 L 952.65966,784.42481 L 1000.1245,702.19775 z "
-   style="fill:#ef0c23;fill-opacity:1;stroke:none;stroke-width:0.21600001;stroke-miterlimit:10;overflow:visible"
-   transform="matrix(1.00025,0,0,1.00025,-0.124793,-0.108102)" /><path
-   id="path2815"
-   d="M 46.118943,786.89183 L 501.41365,0.0066727865 L 952.77303,784.51281 L 46.118943,786.89183 z "
-   style="fill:#f78a38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></svg>
+<path transform="matrix(1.0002 0 0 1.0002 -.12479 -.1081)" d="m1000.1 702.2-405.36-702.09-186.71 0.013672-407.94 706.82 92.215 159.72 812.85-0.01367 94.93-164.45z" fill="#ef0c23"/><path d="m46.119 786.89 455.29-786.89 451.36 784.51-906.65 2.379z" fill="#f78a38" fill-rule="evenodd"/></svg>

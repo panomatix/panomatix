@@ -8,11 +8,12 @@ CREATE TABLE IF NOT EXISTS users (
   id            INTEGER PRIMARY KEY,
   email         TEXT NOT NULL UNIQUE COLLATE NOCASE,
   display_name  TEXT NOT NULL,
-  password_hash TEXT NOT NULL,
+  password_hash TEXT NOT NULL,              -- '' until the owner sets a password from the emailed link
   role          TEXT NOT NULL DEFAULT 'contributor' CHECK (role IN ('contributor','moderator','admin')),
   is_active     INTEGER NOT NULL DEFAULT 1,
   created_at    INTEGER NOT NULL,
-  last_login_at INTEGER
+  last_login_at INTEGER,
+  email_verified_at INTEGER
 );
 
 CREATE TABLE IF NOT EXISTS sessions (
@@ -27,6 +28,16 @@ CREATE TABLE IF NOT EXISTS sessions (
   ip           TEXT
 );
 CREATE INDEX IF NOT EXISTS sessions_user ON sessions(user_id);
+
+-- One-use links sent by email: account confirmation ('verify') and password reset ('reset').
+CREATE TABLE IF NOT EXISTS email_tokens (
+  token_hash TEXT PRIMARY KEY,
+  user_id    INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+  purpose    TEXT NOT NULL CHECK (purpose IN ('verify','reset')),
+  created_at INTEGER NOT NULL,
+  expires_at INTEGER NOT NULL
+);
+CREATE INDEX IF NOT EXISTS email_tokens_user ON email_tokens(user_id);
 
 CREATE TABLE IF NOT EXISTS signs (
   reference   TEXT PRIMARY KEY,
@@ -80,6 +91,19 @@ CREATE TABLE IF NOT EXISTS images (
   created_at   INTEGER NOT NULL
 );
 
+-- One row per backup run (see backup.js); the high-water marks say where the next one starts.
+CREATE TABLE IF NOT EXISTS backups (
+  id               INTEGER PRIMARY KEY,
+  file             TEXT,              -- NULL when nothing had changed
+  created_at       INTEGER NOT NULL,
+  last_revision_id INTEGER NOT NULL,
+  last_image_id    INTEGER NOT NULL,
+  last_user_id     INTEGER NOT NULL,
+  revisions        INTEGER NOT NULL DEFAULT 0,
+  images           INTEGER NOT NULL DEFAULT 0,
+  users            INTEGER NOT NULL DEFAULT 0
+);
+
 CREATE TABLE IF NOT EXISTS rate_events (
   bucket TEXT NOT NULL,
   ts     INTEGER NOT NULL
@@ -94,7 +118,18 @@ export function openDatabase(file) {
   const db = new DatabaseSync(file);
   db.exec('PRAGMA journal_mode=WAL; PRAGMA foreign_keys=ON; PRAGMA busy_timeout=30000; PRAGMA synchronous=NORMAL;');
   db.exec(SCHEMA_SQL);
+  migrate(db);
   return db;
+}
+
+/** Bring a database created by an older version up to the current schema. */
+function migrate(db) {
+  const userCols = new Set(db.prepare('PRAGMA table_info(users)').all().map((c) => c.name));
+  if (!userCols.has('email_verified_at')) {
+    db.exec('ALTER TABLE users ADD COLUMN email_verified_at INTEGER');
+    // Accounts created before email confirmation existed are trusted as they are.
+    db.exec('UPDATE users SET email_verified_at = created_at');
+  }
 }
 
 /** Run fn inside a write transaction. node:sqlite is synchronous, so the whole

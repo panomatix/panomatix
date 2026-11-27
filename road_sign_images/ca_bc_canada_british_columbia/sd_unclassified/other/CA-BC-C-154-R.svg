@@ -1,43 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xml:space="preserve"
-   style="overflow:visible;enable-background:new 0 0 333.3334961 1000;"
-   viewBox="0 0 333.3334961 1000"
-   height="1000"
-   width="333.3334961"
-   id="Layer_1"
-   version="1.1"><metadata
-   id="metadata6863"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs6861" />
-<path
-   id="path6850"
-   d="M0,957.6669922C0,981.0664063,18.9399414,1000,42.3374023,1000  h248.6601563c23.3691406,0,42.3359375-18.9335938,42.3359375-42.3330078V42.3334961  C333.3334961,18.965332,314.3666992,0,290.9975586,0H42.3374023C18.9399414,0,0,18.965332,0,42.3334961V957.6669922z"
-   style="fill-rule:evenodd;clip-rule:evenodd;fill:#f78a38;fill-opacity:1" />
+<svg width="333.33" height="1e3" enable-background="new 0 0 333.3334961 1000" version="1.1" viewBox="0 0 333.33 1e3" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path d="m0 957.67c0 23.399 18.94 42.333 42.337 42.333h248.66c23.369 0 42.336-18.934 42.336-42.333v-915.33c0-23.368-18.967-42.333-42.336-42.333h-248.66c-23.397 0-42.337 18.965-42.337 42.333v915.33z" clip-rule="evenodd" fill="#f78a38" fill-rule="evenodd"/>
 
 
 
-<polyline
-   transform="translate(-5.68848e-2,1.46485e-3)"
-   id="polyline6852"
-   points="1.6938477,908.2734375 1.6938477,750.7617188   331.6381836,420.5776367 331.753418,577.7236328 1.6938477,908.2734375 "
-   style="fill-rule:evenodd" /><polyline
-   transform="translate(-5.68848e-2,1.46485e-3)"
-   id="polyline6854"
-   points="1.6938477,593.6025391 1.6938477,436.0932617   331.6381836,105.9047852 331.6381836,263.0576172 1.6938477,593.6025391 "
-   style="fill-rule:evenodd" /><polyline
-   transform="translate(-5.68848e-2,1.46485e-3)"
-   id="polyline6856"
-   points="1.6938477,280.8730469 1.6938477,123.6113281   122.0454102,1.6894531 277.2797852,1.6894531 1.6938477,280.8730469 "
-   style="fill-rule:evenodd" /><polyline
-   transform="translate(-5.68848e-2,1.46485e-3)"
-   id="polyline6858"
-   points="224.0454102,998.3076172 68.0219727,998.3076172   331.6381836,735.8027344 331.6381836,886.0341797 224.0454102,998.3076172 "
-   style="fill-rule:evenodd" />
+<polyline transform="translate(-.056885 .0014648)" points="1.6938 908.27 1.6938 750.76 331.64 420.58 331.75 577.72 1.6938 908.27" fill-rule="evenodd"/><polyline transform="translate(-.056885 .0014648)" points="1.6938 593.6 1.6938 436.09 331.64 105.9 331.64 263.06 1.6938 593.6" fill-rule="evenodd"/><polyline transform="translate(-.056885 .0014648)" points="1.6938 280.87 1.6938 123.61 122.05 1.6895 277.28 1.6895 1.6938 280.87" fill-rule="evenodd"/><polyline transform="translate(-.056885 .0014648)" points="224.05 998.31 68.022 998.31 331.64 735.8 331.64 886.03 224.05 998.31" fill-rule="evenodd"/>
 </svg>

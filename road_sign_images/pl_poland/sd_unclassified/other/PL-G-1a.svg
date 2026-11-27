@@ -1,5 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="91" height="305" stroke="#D40000">
-<path stroke-width="11" d="m0,0h91v305H0z" fill="#FFF"/>
-<path stroke-width="42" d="m173,0-273,130m0,92 273-130m0,92-273,130"/>
-</svg>
+<svg width="91" height="305" stroke="#D40000" xmlns="http://www.w3.org/2000/svg"><path d="m0,0h91v305H0z" fill="#FFF" stroke-width="11"/><path d="m173 0-273 130m0 92 273-130m0 92-273 130" stroke-width="42"/></svg>

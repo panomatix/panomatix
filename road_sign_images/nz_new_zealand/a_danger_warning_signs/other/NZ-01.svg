@@ -1,40 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="45.568275mm"
-   height="45.568279mm"
-   viewBox="0 0 45.568275 45.568279"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="NZdraw.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="2.56"
-     inkscape:cx="-2526.3672"
-     inkscape:cy="1584.5703"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showguides="true" /><defs
-     id="defs1"><style
-       id="style1">
+<svg width="45.568mm" height="45.568mm" version="1.1" viewBox="0 0 45.568 45.568" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style>
 	.a {
 		fill: #fff;
 	}
@@ -42,8 +6,7 @@
 	.b {
 		fill: #af1e2d;
 	}
-  </style><style
-       id="style1-8">
+  </style><style>
 	.a {
 		fill: #fff;
 	}
@@ -51,19 +14,4 @@
 	.b {
 		fill: #af1e2d;
 	}
-  </style></defs><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(871.27291,338.1375)"><g
-       id="g42"><rect
-         style="fill:#fddc04;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6-8"
-         width="32.221645"
-         height="32.221645"
-         x="-839.07147"
-         y="360.87283"
-         transform="rotate(45)" /><path
-         id="path3"
-         style="color:#000000;fill:#000000;-inkscape-stroke:none"
-         d="m -841.50264,-326.17389 0.82527,1.65055 h -13.61364 v 23.9391 h 3.29903 v -20.6406 h 10.31461 l -0.82527,1.65055 5.77484,-3.30006 z m 1.64899,3.29747 10e-4,0.002 -10e-4,0.002 z" /></g></g></svg>
+  </style></defs><g transform="translate(871.27 338.14)"><rect transform="rotate(45)" x="-839.07" y="360.87" width="32.222" height="32.222" fill="#fddc04"/><path d="m-841.5-326.17 0.82527 1.6506h-13.614v23.939h3.299v-20.641h10.315l-0.82527 1.6506 5.7748-3.3001zm1.649 3.2975 1e-3 2e-3 -1e-3 2e-3z" color="#000000" fill="#000" style="-inkscape-stroke:none"/></g></svg>

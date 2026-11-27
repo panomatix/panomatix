@@ -1,8 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="852" height="527" fill-rule="evenodd">
-<rect width="850" height="525" rx="50" ry="50" x="1" y="1" fill="#000" stroke="none"/>
-<rect width="775" height="450" rx="100" ry="100" x="38.5" y="38.5" fill="#fff" stroke="none"/>
-<rect width="350" height="350" rx="25" ry="25" x="388.5" y="101" fill="#115EC6" stroke="none"/>
-<path d="M463.5,151 513.5,151 513.5,256 613.5,256 613.5,151 663.5,151 663.5,413.5 613.5,413.5 613.5,293.5 513.5,293.5 513.5,413.5 463.5,413.5" fill="#fff" stroke="none"/>
-<path d="M213.5,113.5 313.5,213.5 313.5,313.5 251,251 251,438.5 176,438.5 176,251 113.5,313.5 113.5,213.5" fill="#000" stroke="none"/>
-</svg>
+<svg width="852" height="527" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="850" height="525" rx="50" ry="50" fill="#000" stroke="none"/><rect x="38.5" y="38.5" width="775" height="450" rx="100" ry="100" fill="#fff" stroke="none"/><rect x="388.5" y="101" width="350" height="350" rx="25" ry="25" fill="#115EC6" stroke="none"/><path d="m463.5 151h50v105h100v-105h50v262.5h-50v-120h-100v120h-50" fill="#fff" stroke="none"/><path d="m213.5 113.5 100 100v100l-62.5-62.5v187.5h-75v-187.5l-62.5 62.5v-100" fill="#000" stroke="none"/></svg>

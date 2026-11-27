@@ -28,10 +28,11 @@ VIENNA:C-14.1  Maximum speed limit
 
 ## Browsing the database
 
-The way to browse and edit the database is the website in `website/` (Node.js ≥ 24.7, no dependency):
+The way to browse and edit the database is the website in `website/` (Node.js ≥ 24.7, two dependencies: Nodemailer and sharp):
 
 ```sh
 cd website
+npm install             # Nodemailer (account emails) and sharp (image compression)
 npm run import          # load ../full_database.json into SQLite
 npm run dev             # http://127.0.0.1:8080
 ```

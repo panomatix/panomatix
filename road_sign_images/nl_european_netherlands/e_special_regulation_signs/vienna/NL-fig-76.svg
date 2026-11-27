@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="Nederlandse_Wegenverkeersregeling_1941_figuur_76" width="600" height="600"
-xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <path id="bord_blauw"
-     d="M 0,15 a 15,15 0,0,1 15,-15 h 570 a 15,15 0,0,1 15,15 v 570 a 15,15 0,0,1 -15,15 h -570 a 15,15 0,0,1 -15,-15 z"
-     style="fill:#0e518d"
-     />
-  <path id="letter_P_wit"
-     d="M 165,60 v 480 m 0,-450 h 165 a 105,105 0,0,1 0,210 h -165"
-     style="fill:none;stroke:#f7fbf5;stroke-width:60px" />
-</svg>
+<svg width="600" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="m0 15a15 15 0 0 1 15-15h570a15 15 0 0 1 15 15v570a15 15 0 0 1-15 15h-570a15 15 0 0 1-15-15z" fill="#0e518d"/><path d="m165 60v480m0-450h165a105 105 0 0 1 0 210h-165" fill="none" stroke="#f7fbf5" stroke-width="60px"/></svg>

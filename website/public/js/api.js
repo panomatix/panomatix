@@ -62,8 +62,12 @@ export async function login(email, password) {
   return r.user;
 }
 
-export async function register(email, display_name, password) {
-  const r = await post('/api/v1/auth/register', { email, display_name, password });
+/** Sign-up and forgotten password only send an email; the password is set from its link. */
+export const register = (email, display_name, lang, website = '') => post('/api/v1/auth/register', { email, display_name, lang, website });
+export const forgotPassword = (email, lang, website = '') => post('/api/v1/auth/forgot-password', { email, lang, website });
+
+export async function setPassword(token, password) {
+  const r = await post('/api/v1/auth/set-password', { token, password });
   setSession(r.user, r.csrf_token);
   return r.user;
 }

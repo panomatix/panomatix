@@ -1,9 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="681" height="602.12" fill-rule="evenodd">
-<path d="M46.019,601.088 7.048,533.588 301.529,23.532 379.471,23.532 673.952,533.588 634.981,601.088" fill="#d22d2d" stroke="none"/>
-<circle cx="340.5" cy="46.032" r="45" fill="#d22d2d" stroke="none"/>
-<circle cx="634.981" cy="556.088" r="45" fill="#d22d2d" stroke="none"/>
-<circle cx="46.019" cy="556.088" r="45" fill="#d22d2d" stroke="none"/>
-<path d="M72,541.088 340.5,76.032 609,541.088" fill="#fff" stroke="none"/>
-<path d="M279,516.088 279,456.088 204,456.088 204,406.088 279,406.088 279,256.088 329,206.088 379,256.088 379,306.088 454,306.088 454,356.088 379,356.088 379,516.088" fill="#000" stroke="none"/>
-</svg>
+<svg width="681" height="602.12" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg"><path d="m46.019 601.09-38.971-67.5 294.48-510.06h77.942l294.48 510.06-38.971 67.5" fill="#d22d2d" stroke="none"/><circle cx="340.5" cy="46.032" r="45" fill="#d22d2d" stroke="none"/><circle cx="634.98" cy="556.09" r="45" fill="#d22d2d" stroke="none"/><circle cx="46.019" cy="556.09" r="45" fill="#d22d2d" stroke="none"/><path d="m72 541.09 268.5-465.06 268.5 465.06" fill="#fff" stroke="none"/><path d="m279 516.09v-60h-75v-50h75v-150l50-50 50 50v50h75v50h-75v160" fill="#000" stroke="none"/></svg>

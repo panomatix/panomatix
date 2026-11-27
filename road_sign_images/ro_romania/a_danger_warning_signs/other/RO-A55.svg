@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="679.502mm" height="592.217mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 679.502 592.217">
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="679.5mm" height="592.22mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 679.5 592.22" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
    <![CDATA[
@@ -11,12 +9,12 @@ viewBox="0 0 679.502 592.217">
    ]]>
   </style>
  </defs>
- <g id="Layer_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_163859920">
-   <path id="_163859752" class="fil0" d="M1.8761 571.217l325.751 -564.217 0 0c2.4211,-4.1835 6.9441,-7 12.1243,-7 5.1804,0 9.7037,2.817 12.1248,7.0008l0 0 325.751 564.216 0 0c2.4101,4.188 2.5892,9.5156 0.0002,14.0001 -2.59,4.4863 -7.2902,6.9953 -12.1244,6.9999l0 0 -651.503 0 0 0c-4.8331,-0.0056 -9.535,-2.5144 -12.1245,-6.9998 -2.5901,-4.4863 -2.4128,-9.8113 0.0001,-14l0 0z"/>
-   <polygon id="_163860064" class="fil1" points="93.8214,532.172 339.751,106.21 585.681,532.172 "/>
-  </g>
-  <ellipse class="fil2" cx="339.751" cy="390.289" rx="88.0432" ry="90"/>
- </g>
+ 
+  
+  
+   <path class="fil0" d="m1.8761 571.22 325.75-564.22c2.4211-4.1835 6.9441-7 12.124-7 5.1804 0 9.7037 2.817 12.125 7.0008l325.75 564.22c2.4101 4.188 2.5892 9.5156 2e-4 14-2.59 4.4863-7.2902 6.9953-12.124 6.9999h-651.5c-4.8331-0.0056-9.535-2.5144-12.124-6.9998-2.5901-4.4863-2.4128-9.8113 1e-4 -14z"/>
+   <polygon class="fil1" points="93.821 532.17 339.75 106.21 585.68 532.17"/>
+  
+  <ellipse class="fil2" cx="339.75" cy="390.29" rx="88.043" ry="90"/>
+ 
 </svg>

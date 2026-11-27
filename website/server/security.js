@@ -9,6 +9,9 @@ export const ROLE_RANK = { contributor: 1, moderator: 2, admin: 3 };
 export const SESSION_COOKIE = 'pmx_session';
 export const CSRF_HEADER = 'x-csrf-token';
 const MUTATING = new Set(['POST', 'PUT', 'PATCH', 'DELETE']);
+// Endpoints used while signed out (they open a session or send an email): a stale cookie must not block them.
+const NO_CSRF = new Set(['/api/v1/auth/login', '/api/v1/auth/register', '/api/v1/auth/forgot-password',
+  '/api/v1/auth/link', '/api/v1/auth/set-password']);
 
 export class ApiError extends Error {
   constructor(status, code, message, extra = {}) {
@@ -76,6 +79,29 @@ export function revokeUserSessions(db, userId, keepToken = null) {
   else db.prepare('DELETE FROM sessions WHERE user_id=?').run(userId);
 }
 
+// --- one-use links sent by email ---------------------------------------------------
+
+/** Issue a link token for a user; it replaces any earlier link of the same user. */
+export function createEmailToken(db, userId, purpose, hours) {
+  const token = crypto.randomBytes(32).toString('base64url');
+  const ts = now();
+  db.prepare('DELETE FROM email_tokens WHERE user_id=?').run(userId);
+  db.prepare('INSERT INTO email_tokens (token_hash, user_id, purpose, created_at, expires_at) VALUES (?,?,?,?,?)')
+    .run(tokenHash(token), userId, purpose, ts, ts + hours * 3600);
+  return token;
+}
+
+/** The valid link token and its active user, or an error. */
+export function findEmailToken(db, token) {
+  const row = typeof token === 'string' && token.length <= 100 && db.prepare(
+    `SELECT t.token_hash, t.purpose, t.expires_at, u.* FROM email_tokens t JOIN users u ON u.id = t.user_id WHERE t.token_hash=?`,
+  ).get(tokenHash(token));
+  if (!row || row.expires_at < now() || !row.is_active) {
+    throw new ApiError(400, 'invalid_token', 'This link is invalid or has expired. Ask for a new one.');
+  }
+  return row;
+}
+
 /** Identify the caller from `Authorization: Bearer <token>` or the session cookie. */
 export function authenticate(ctx) {
   ctx.user = null;
@@ -107,9 +133,8 @@ export function authenticate(ctx) {
  *  must prove it comes from our own page by echoing the per-session CSRF token. */
 export function enforceCsrf(ctx) {
   if (!MUTATING.has(ctx.req.method) || ctx.authKind !== 'cookie') return;
-  // Signing in or up replaces the session: a stale cookie must not lock the user out.
   // (These endpoints only accept application/json, which a cross-site form cannot send.)
-  if (ctx.url.pathname === '/api/v1/auth/login' || ctx.url.pathname === '/api/v1/auth/register') return;
+  if (NO_CSRF.has(ctx.url.pathname)) return;
   const sent = String(ctx.req.headers[CSRF_HEADER] ?? '');
   const a = Buffer.from(sent);
   const b = Buffer.from(ctx.csrfToken ?? '');

@@ -1,0 +1,2144 @@
+{
+ "country_code": "KZ",
+ "country": "Kazakhstan",
+ "folder": "KZ_Kazakhstan",
+ "generated": "2026-11-23 17:02:10",
+ "model": "florence-community/Florence-2-base",
+ "vocabulary_version": 2,
+ "stats": {
+  "panneaux": 7,
+  "avec_description_ia": 7,
+  "avec_concept": 0,
+  "avec_categorie_vienne": 6,
+  "avec_pictogramme": 2
+ },
+ "tag_counts": {
+  "color:white": 7,
+  "script:latin": 7,
+  "background:white": 6,
+  "color:black": 6,
+  "element:frame_circle": 6,
+  "element:text": 6,
+  "element:white_frame_circle": 6,
+  "element_role:border": 6,
+  "element_role:text": 6,
+  "has_text": 6,
+  "color:grey": 5,
+  "color:red": 5,
+  "element:black_text": 5,
+  "element:red_frame_circle": 5,
+  "symbol:black": 5,
+  "border:red": 4,
+  "outline:disc": 4,
+  "shape:circle": 4,
+  "element:bar": 4,
+  "script:cyrillic": 4,
+  "element:pictogram": 3,
+  "function:prohibition_restriction": 3,
+  "vienna:C": 3,
+  "element:bar_horizontal": 3,
+  "element:black_bar": 3,
+  "element:black_pictogram": 2,
+  "has_number": 2,
+  "outline:rectangle": 2,
+  "outline_corners:rounded": 2,
+  "shape:rectangle": 2,
+  "border:blue": 2,
+  "color:blue": 2,
+  "element:disc": 2,
+  "element:white_disc": 2,
+  "number:12": 1,
+  "function:priority": 1,
+  "keyword:stop": 1,
+  "pictogram:stop": 1,
+  "vienna:B": 1,
+  "border:white": 1,
+  "element:black_line": 1,
+  "element:line": 1,
+  "element:line_vertical": 1,
+  "function:additional_panel": 1,
+  "vienna:H": 1,
+  "element:arrow": 1,
+  "element:arrow_left": 1,
+  "element:arrow_right": 1,
+  "element:bar_diagonal_rising": 1,
+  "element:bar_vertical": 1,
+  "element:black_arrow": 1,
+  "element:blue_frame_rectangle": 1,
+  "element:frame_circle_with_bar_vertical": 1,
+  "element:frame_rectangle": 1,
+  "element:frame_rectangle_with_bar_vertical": 1,
+  "element:green_pictogram": 1,
+  "element:red_bar": 1,
+  "element:white_bar": 1,
+  "element:white_frame_rectangle": 1,
+  "element:white_pictogram": 1,
+  "number:110": 1,
+  "number:140": 1,
+  "number:60": 1,
+  "outline_corners:sharp": 1,
+  "symbol:blue": 1,
+  "background:blue": 1,
+  "element:blue_frame_circle": 1,
+  "element:blue_frame_square": 1,
+  "element:blue_pictogram": 1,
+  "element:blue_text": 1,
+  "element:frame_square": 1,
+  "element:white_frame_square": 1,
+  "function:information_facilities": 1,
+  "outline:square": 1,
+  "pictogram:camera_radar": 1,
+  "shape:square": 1,
+  "symbol:white": 1,
+  "vienna:F": 1
+ },
+ "signs": [
+  {
+   "file": "KZ_Kazakhstan/circle/KZ-3.12.svg",
+   "id": "3.12",
+   "iso": "KZ",
+   "osm_tag": "KZ:3.12",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/KZ_road_sign_3.12.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Circle sign with white background and red border; elements: white circle frame (border), red circle frame (border), black pictogram at center, black text \"12TC\" at top; value 12; Vienna category C (prohibition restriction).",
+    "ai_caption": "The image shows a red and white sign with the words \"12TC\" on it against a white background.",
+    "ai_ocr": "12TC",
+    "official_name": null,
+    "source_description": null,
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "circle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "red",
+     "symbol": "black",
+     "present": [
+      "white",
+      "red",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.554,
+       "red": 0.298,
+       "black": 0.109,
+       "grey": 0.039
+      },
+      "border": "red",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 0.79
+     }
+    },
+    "function": {
+     "vienna_category": "C",
+     "name": "prohibition_restriction",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "circle",
+      "geometry": "disc",
+      "vertices": 0,
+      "aspect_ratio": 1.0,
+      "circularity": 0.999
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.003,
+        0.997,
+        0.997
+       ],
+       "area": 0.0431,
+       "vertices": 0,
+       "thickness": 0.013,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "red circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.016,
+        0.984,
+        0.984
+       ],
+       "area": 0.2962,
+       "vertices": 0,
+       "thickness": 0.087,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white disc (background)",
+       "role": "background",
+       "shape": "disc",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.1,
+        0.1,
+        0.9,
+        0.9
+       ],
+       "area": 0.5144,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.993,
+       "elongation": 1.03
+      },
+      {
+       "id": "e4",
+       "label": "black pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.228,
+        0.5,
+        0.772,
+        0.725
+       ],
+       "area": 0.0687,
+       "holes": 0,
+       "solidity": 0.446,
+       "elongation": 3.99
+      },
+      {
+       "id": "e5",
+       "label": "black text \"12TC\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "12TC",
+       "position": "top",
+       "bbox": [
+        0.237,
+        0.216,
+        0.762,
+        0.431
+       ],
+       "area": 0.0435,
+       "glyphs": 4
+      }
+     ],
+     "ai_sign_labels": [
+      "12TC speed limit sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_circle": 2,
+      "pictogram": 1,
+      "text": 1
+     },
+     "ignored_small_parts": 0,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": true,
+     "numbers": [
+      "12"
+     ],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "12TC"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:red",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:black_pictogram",
+    "element:black_text",
+    "element:frame_circle",
+    "element:pictogram",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_frame_circle",
+    "element_role:border",
+    "element_role:text",
+    "function:prohibition_restriction",
+    "has_number",
+    "has_text",
+    "number:12",
+    "outline:disc",
+    "script:latin",
+    "shape:circle",
+    "symbol:black",
+    "vienna:C"
+   ],
+   "visual_signature": "circle|red|white|-"
+  },
+  {
+   "file": "KZ_Kazakhstan/circle/KZ-3.17.1.svg",
+   "id": "3.17.1",
+   "iso": "KZ",
+   "osm_tag": "KZ:3.17.1",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/KZ_road_sign_3.17.1.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Circle sign with white background and red border; elements: white circle frame (border), red circle frame (border), black horizontal bar at center, black text \"CUSTOMS\" at center, black text \"КЕДЕH\" at center; contains text; Vienna category C (prohibition restriction).",
+    "ai_caption": "The image shows a red and white sign with the words \"Keeh Customs\" written on it against a white background.",
+    "ai_ocr": "КЕДЕH CUSTOMS",
+    "official_name": null,
+    "source_description": null,
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "circle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "red",
+     "symbol": "black",
+     "present": [
+      "white",
+      "red",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.555,
+       "red": 0.305,
+       "black": 0.09,
+       "grey": 0.049
+      },
+      "border": "red",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 0.79
+     }
+    },
+    "function": {
+     "vienna_category": "C",
+     "name": "prohibition_restriction",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "circle",
+      "geometry": "disc",
+      "vertices": 0,
+      "aspect_ratio": 1.0,
+      "circularity": 0.999
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.003,
+        0.997,
+        0.997
+       ],
+       "area": 0.0372,
+       "vertices": 0,
+       "thickness": 0.009,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.01,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "red circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.013,
+        0.013,
+        0.988,
+        0.988
+       ],
+       "area": 0.3031,
+       "vertices": 0,
+       "thickness": 0.09,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white disc (background)",
+       "role": "background",
+       "shape": "disc",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.1,
+        0.1,
+        0.9,
+        0.9
+       ],
+       "area": 0.5204,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.993,
+       "elongation": 1.05
+      },
+      {
+       "id": "e4",
+       "label": "black horizontal bar at center",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.156,
+        0.463,
+        0.844,
+        0.537
+       ],
+       "area": 0.0635,
+       "orientation": "horizontal",
+       "angle_deg": 0.0,
+       "holes": 0,
+       "solidity": 0.995,
+       "elongation": 9.03
+      },
+      {
+       "id": "e5",
+       "label": "black text \"CUSTOMS\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "CUSTOMS",
+       "position": "center",
+       "bbox": [
+        0.244,
+        0.613,
+        0.759,
+        0.694
+       ],
+       "area": 0.0166,
+       "glyphs": 6
+      },
+      {
+       "id": "e6",
+       "label": "black text \"КЕДЕH\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "КЕДЕH",
+       "position": "center",
+       "bbox": [
+        0.316,
+        0.303,
+        0.703,
+        0.4
+       ],
+       "area": 0.0136,
+       "glyphs": 5
+      }
+     ],
+     "ai_sign_labels": [
+      "KEEH customs sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_circle": 2,
+      "text": 2,
+      "bar": 1
+     },
+     "ignored_small_parts": 3,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "cyrillic",
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "КЕДЕH CUSTOMS"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:red",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:black_bar",
+    "element:black_text",
+    "element:frame_circle",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_frame_circle",
+    "element_role:border",
+    "element_role:text",
+    "function:prohibition_restriction",
+    "has_text",
+    "outline:disc",
+    "script:cyrillic",
+    "script:latin",
+    "shape:circle",
+    "symbol:black",
+    "vienna:C"
+   ],
+   "visual_signature": "circle|red|white|-"
+  },
+  {
+   "file": "KZ_Kazakhstan/circle/KZ-3.17.2.svg",
+   "id": "3.17.2",
+   "iso": "KZ",
+   "osm_tag": "KZ:3.17.2",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/KZ_road_sign_3.17.2.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Circle sign with white background and red border; elements: white circle frame (border), red circle frame (border), black horizontal bar at center, black text \"DANGER\" at center, black text \"КАУПТЛИК\" at center; contains text; Vienna category C (prohibition restriction).",
+    "ai_caption": "The image shows a red and white sign with the words \"Danger\" written in bold black lettering. The sign is circular in shape and has a glossy finish. The text is centered in the middle of the sign and is surrounded by a white border.",
+    "ai_ocr": "КАУПТЛИК DANGER",
+    "official_name": null,
+    "source_description": null,
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "circle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "red",
+     "symbol": "black",
+     "present": [
+      "white",
+      "red",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.548,
+       "red": 0.305,
+       "black": 0.093,
+       "grey": 0.053
+      },
+      "border": "red",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 0.79
+     }
+    },
+    "function": {
+     "vienna_category": "C",
+     "name": "prohibition_restriction",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "circle",
+      "geometry": "disc",
+      "vertices": 0,
+      "aspect_ratio": 1.0,
+      "circularity": 0.999
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.003,
+        0.997,
+        0.997
+       ],
+       "area": 0.0372,
+       "vertices": 0,
+       "thickness": 0.009,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.01,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "red circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.013,
+        0.013,
+        0.988,
+        0.988
+       ],
+       "area": 0.3031,
+       "vertices": 0,
+       "thickness": 0.09,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white disc (background)",
+       "role": "background",
+       "shape": "disc",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.1,
+        0.1,
+        0.9,
+        0.9
+       ],
+       "area": 0.5152,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.993,
+       "elongation": 1.06
+      },
+      {
+       "id": "e4",
+       "label": "black horizontal bar at center",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.156,
+        0.463,
+        0.844,
+        0.537
+       ],
+       "area": 0.0635,
+       "orientation": "horizontal",
+       "angle_deg": 0.0,
+       "holes": 0,
+       "solidity": 0.995,
+       "elongation": 9.03
+      },
+      {
+       "id": "e5",
+       "label": "black text \"DANGER\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "DANGER",
+       "position": "center",
+       "bbox": [
+        0.281,
+        0.613,
+        0.716,
+        0.694
+       ],
+       "area": 0.017,
+       "glyphs": 6
+      },
+      {
+       "id": "e6",
+       "label": "black text \"КАУПТЛИК\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "КАУПТЛИК",
+       "position": "center",
+       "bbox": [
+        0.184,
+        0.309,
+        0.806,
+        0.403
+       ],
+       "area": 0.0125,
+       "glyphs": 5
+      }
+     ],
+     "ai_sign_labels": [
+      "Russian danger sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_circle": 2,
+      "text": 2,
+      "bar": 1
+     },
+     "ignored_small_parts": 9,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "cyrillic",
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "КАУПТЛИК DANGER"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:red",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:black_bar",
+    "element:black_text",
+    "element:frame_circle",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_frame_circle",
+    "element_role:border",
+    "element_role:text",
+    "function:prohibition_restriction",
+    "has_text",
+    "outline:disc",
+    "script:cyrillic",
+    "script:latin",
+    "shape:circle",
+    "symbol:black",
+    "vienna:C"
+   ],
+   "visual_signature": "circle|red|white|-"
+  },
+  {
+   "file": "KZ_Kazakhstan/circle/KZ-3.17.3.svg",
+   "id": "3.17.3",
+   "iso": "KZ",
+   "osm_tag": "KZ:3.17.3",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/KZ_road_sign_3.17.3.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Circle sign with white background and red border; elements: white circle frame (border), red circle frame (border), black horizontal bar at center, black text \"STOP\" at top, black text \"БАКЫЛАY\" at center; pictograms: stop; contains text; Vienna category B (priority).",
+    "ai_caption": "The image shows a red and white stop sign with the words \"Stop\" written in Russian.",
+    "ai_ocr": "STOP БАКЫЛАY",
+    "official_name": null,
+    "source_description": null,
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "circle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "red",
+     "symbol": "black",
+     "present": [
+      "white",
+      "red",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.53,
+       "red": 0.305,
+       "black": 0.111,
+       "grey": 0.054
+      },
+      "border": "red",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 0.79
+     }
+    },
+    "function": {
+     "vienna_category": "B",
+     "name": "priority",
+     "source": "heuristique"
+    },
+    "pictograms": [
+     "stop"
+    ],
+    "elements": {
+     "outline": {
+      "shape": "circle",
+      "geometry": "disc",
+      "vertices": 0,
+      "aspect_ratio": 1.0,
+      "circularity": 0.999
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.003,
+        0.997,
+        0.997
+       ],
+       "area": 0.0373,
+       "vertices": 0,
+       "thickness": 0.009,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "red circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.013,
+        0.013,
+        0.988,
+        0.988
+       ],
+       "area": 0.3031,
+       "vertices": 0,
+       "thickness": 0.09,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white disc (background)",
+       "role": "background",
+       "shape": "disc",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.1,
+        0.1,
+        0.9,
+        0.9
+       ],
+       "area": 0.4889,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.993,
+       "elongation": 1.06
+      },
+      {
+       "id": "e4",
+       "label": "black horizontal bar at center",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.156,
+        0.463,
+        0.844,
+        0.537
+       ],
+       "area": 0.0635,
+       "orientation": "horizontal",
+       "angle_deg": 0.0,
+       "holes": 0,
+       "solidity": 0.995,
+       "elongation": 9.03
+      },
+      {
+       "id": "e5",
+       "label": "black text \"STOP\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "STOP",
+       "position": "top",
+       "bbox": [
+        0.228,
+        0.241,
+        0.775,
+        0.388
+       ],
+       "area": 0.0417,
+       "glyphs": 6
+      },
+      {
+       "id": "e6",
+       "label": "black text \"БАКЫЛАY\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "БАКЫЛАY",
+       "position": "center",
+       "bbox": [
+        0.197,
+        0.613,
+        0.806,
+        0.709
+       ],
+       "area": 0.0197,
+       "glyphs": 7
+      }
+     ],
+     "ai_sign_labels": [
+      "Russian stop sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_circle": 2,
+      "text": 2,
+      "bar": 1
+     },
+     "ignored_small_parts": 5,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "cyrillic",
+      "latin"
+     ],
+     "keywords": [
+      "stop"
+     ],
+     "ocr": "STOP БАКЫЛАY"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:red",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:black_bar",
+    "element:black_text",
+    "element:frame_circle",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_frame_circle",
+    "element_role:border",
+    "element_role:text",
+    "function:priority",
+    "has_text",
+    "keyword:stop",
+    "outline:disc",
+    "pictogram:stop",
+    "script:cyrillic",
+    "script:latin",
+    "shape:circle",
+    "symbol:black",
+    "vienna:B"
+   ],
+   "visual_signature": "circle|red|white|stop"
+  },
+  {
+   "file": "KZ_Kazakhstan/rectangle/KZ-5.33.svg",
+   "id": "5.33",
+   "iso": "KZ",
+   "osm_tag": "KZ:5.33",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/KZ_road_sign_5.33.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with white background; elements: black vertical line at left, black vertical line at right, black text \"TOKTA\" at top, black text \"CTOn\" at bottom; contains text; Vienna category H (additional panel).",
+    "ai_caption": "The image shows a black and white street sign with the words \"Tokta Cton\" written on it against a white background.",
+    "ai_ocr": "TOKTA CTOn",
+    "official_name": null,
+    "source_description": null,
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "black",
+     "present": [
+      "white",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.767,
+       "black": 0.12,
+       "grey": 0.113
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 2.91,
+      "fill_ratio": 0.99
+     }
+    },
+    "function": {
+     "vienna_category": "H",
+     "name": "additional_panel",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "rounded",
+      "aspect_ratio": 2.96,
+      "circularity": 0.619
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.019,
+        0.065,
+        0.981,
+        0.935
+       ],
+       "area": 0.7089,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 0,
+       "solidity": 1.0,
+       "elongation": 3.43
+      },
+      {
+       "id": "e2",
+       "label": "black vertical line at left",
+       "role": "symbol",
+       "shape": "line",
+       "color": "black",
+       "position": "left",
+       "bbox": [
+        0.009,
+        0.111,
+        0.019,
+        0.889
+       ],
+       "area": 0.0072,
+       "orientation": "vertical",
+       "angle_deg": 90.0,
+       "holes": 0,
+       "solidity": 0.992,
+       "elongation": 29.35
+      },
+      {
+       "id": "e3",
+       "label": "black vertical line at right",
+       "role": "symbol",
+       "shape": "line",
+       "color": "black",
+       "position": "right",
+       "bbox": [
+        0.981,
+        0.111,
+        0.991,
+        0.889
+       ],
+       "area": 0.0072,
+       "orientation": "vertical",
+       "angle_deg": 90.0,
+       "holes": 0,
+       "solidity": 0.992,
+       "elongation": 29.35
+      },
+      {
+       "id": "e4",
+       "label": "black text \"TOKTA\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "TOKTA",
+       "position": "top",
+       "bbox": [
+        0.247,
+        0.139,
+        0.753,
+        0.509
+       ],
+       "area": 0.056,
+       "glyphs": 6
+      },
+      {
+       "id": "e5",
+       "label": "black text \"CTOn\" at bottom",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "CTOn",
+       "position": "bottom",
+       "bbox": [
+        0.306,
+        0.546,
+        0.694,
+        0.861
+       ],
+       "area": 0.0479,
+       "glyphs": 5
+      }
+     ],
+     "ai_sign_labels": [
+      "TOKTA CTON license plate"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "line": 2,
+      "text": 2
+     },
+     "ignored_small_parts": 5,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "TOKTA CTOn"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:grey",
+    "color:white",
+    "element:black_line",
+    "element:black_text",
+    "element:line",
+    "element:line_vertical",
+    "element:text",
+    "element_role:text",
+    "function:additional_panel",
+    "has_text",
+    "outline:rectangle",
+    "outline_corners:rounded",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:black",
+    "vienna:H"
+   ],
+   "visual_signature": "rectangle|white|white|-"
+  },
+  {
+   "file": "KZ_Kazakhstan/rectangle/KZ-5.40.svg",
+   "id": "5.40",
+   "iso": "KZ",
+   "osm_tag": "KZ:5.40",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/KZ_road_sign_5.40.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with white background and blue border; elements: blue rectangle frame (border), white rectangle frame crossed by a vertical bar at center, white rectangle frame crossed by a vertical bar at center, white rectangle frame crossed by a vertical bar at bottom, black arrow pointing left at center, green pictogram at bottom, black arrow pointing right at right, white disc at bottom left (+12 more); value 60 110 140.",
+    "ai_caption": "The image shows a blue and white sign with the words \"Kazakhstan\" written on it, along with a few buildings in the background. The sign is likely used to indicate the direction of traffic in Kazakhstan.",
+    "ai_ocr": "КАЗАкСТАH KAZAKHSTAN 60 110 140",
+    "official_name": null,
+    "source_description": null,
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "blue",
+     "symbol": "blue",
+     "present": [
+      "white",
+      "blue",
+      "black",
+      "red"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "blue",
+       "black",
+       "red"
+      ],
+      "fractions": {
+       "white": 0.466,
+       "blue": 0.402,
+       "black": 0.049,
+       "red": 0.04
+      },
+      "border": "blue",
+      "background": "white",
+      "symbol": "blue",
+      "aspect_ratio": 0.67,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 0.67,
+      "circularity": 0.764
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "blue rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.014,
+        0.009,
+        0.986,
+        0.991
+       ],
+       "area": 0.3724,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.064,
+       "holes": 3,
+       "solidity": 1.0,
+       "elongation": 1.4,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "white rectangle frame crossed by a vertical bar at center",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.107,
+        0.225,
+        0.893,
+        0.459
+       ],
+       "area": 0.1296,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.155,
+       "inner_bar": "vertical",
+       "inner_bar_angle_deg": 88.9,
+       "holes": 2,
+       "solidity": 1.0,
+       "elongation": 1.92
+      },
+      {
+       "id": "e3",
+       "label": "white rectangle frame crossed by a vertical bar at center",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.107,
+        0.469,
+        0.893,
+        0.703
+       ],
+       "area": 0.1233,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.101,
+       "inner_bar": "vertical",
+       "inner_bar_angle_deg": 89.2,
+       "holes": 2,
+       "solidity": 1.0,
+       "elongation": 1.93
+      },
+      {
+       "id": "e4",
+       "label": "white rectangle frame crossed by a vertical bar at bottom",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.107,
+        0.716,
+        0.893,
+        0.95
+       ],
+       "area": 0.1198,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.089,
+       "inner_bar": "vertical",
+       "inner_bar_angle_deg": 90.3,
+       "holes": 2,
+       "solidity": 1.0,
+       "elongation": 2.15
+      },
+      {
+       "id": "e5",
+       "label": "black arrow pointing left at center",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.397,
+        0.284,
+        0.864,
+        0.375
+       ],
+       "area": 0.0243,
+       "orientation": "horizontal",
+       "direction": "left",
+       "holes": 0,
+       "solidity": 0.636,
+       "elongation": 4.9
+      },
+      {
+       "id": "e6",
+       "label": "green pictogram at bottom",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "green",
+       "position": "bottom",
+       "bbox": [
+        0.514,
+        0.734,
+        0.71,
+        0.928
+       ],
+       "area": 0.0195,
+       "holes": 0,
+       "solidity": 0.514,
+       "elongation": 1.12
+      },
+      {
+       "id": "e7",
+       "label": "black arrow pointing right at right",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "black",
+       "position": "right",
+       "bbox": [
+        0.598,
+        0.537,
+        0.864,
+        0.622
+       ],
+       "area": 0.0131,
+       "orientation": "horizontal",
+       "direction": "right",
+       "holes": 0,
+       "solidity": 0.813,
+       "elongation": 2.67
+      },
+      {
+       "id": "e8",
+       "label": "white disc at bottom left",
+       "role": "symbol",
+       "shape": "disc",
+       "color": "white",
+       "position": "bottom_left",
+       "bbox": [
+        0.159,
+        0.772,
+        0.341,
+        0.894
+       ],
+       "area": 0.0128,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.963,
+       "elongation": 1.12
+      },
+      {
+       "id": "e9",
+       "label": "white disc at left",
+       "role": "symbol",
+       "shape": "disc",
+       "color": "white",
+       "position": "left",
+       "bbox": [
+        0.159,
+        0.281,
+        0.341,
+        0.403
+       ],
+       "area": 0.0122,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.963,
+       "elongation": 1.07
+      },
+      {
+       "id": "e10",
+       "label": "white circle frame crossed by a vertical bar at left",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "left",
+       "bbox": [
+        0.159,
+        0.525,
+        0.341,
+        0.647
+       ],
+       "area": 0.0118,
+       "vertices": 0,
+       "thickness": 0.179,
+       "inner_bar": "vertical",
+       "inner_bar_angle_deg": 87.5,
+       "holes": 2,
+       "solidity": 0.965,
+       "elongation": 1.12
+      },
+      {
+       "id": "e11",
+       "label": "white pictogram at top",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "top",
+       "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.019
+       ],
+       "area": 0.0094,
+       "holes": 0,
+       "solidity": 0.505,
+       "elongation": 68.14
+      },
+      {
+       "id": "e12",
+       "label": "white pictogram at bottom",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.0,
+        0.981,
+        1.0,
+        1.0
+       ],
+       "area": 0.0094,
+       "holes": 0,
+       "solidity": 0.505,
+       "elongation": 68.14
+      },
+      {
+       "id": "e13",
+       "label": "red diagonal rising bar at center",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.463,
+        0.506,
+        0.743,
+        0.666
+       ],
+       "area": 0.0094,
+       "orientation": "diagonal_rising",
+       "angle_deg": 44.6,
+       "holes": 0,
+       "solidity": 0.918,
+       "elongation": 7.99
+      },
+      {
+       "id": "e14",
+       "label": "red circle frame at left",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "left",
+       "bbox": [
+        0.14,
+        0.266,
+        0.36,
+        0.416
+       ],
+       "area": 0.0091,
+       "vertices": 0,
+       "thickness": 0.104,
+       "holes": 1,
+       "solidity": 0.972,
+       "elongation": 1.01
+      },
+      {
+       "id": "e15",
+       "label": "red circle frame at left",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "left",
+       "bbox": [
+        0.14,
+        0.512,
+        0.36,
+        0.662
+       ],
+       "area": 0.0091,
+       "vertices": 0,
+       "thickness": 0.104,
+       "holes": 1,
+       "solidity": 0.972,
+       "elongation": 1.02
+      },
+      {
+       "id": "e16",
+       "label": "red circle frame at bottom left",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "bottom_left",
+       "bbox": [
+        0.14,
+        0.756,
+        0.36,
+        0.906
+       ],
+       "area": 0.009,
+       "vertices": 0,
+       "thickness": 0.104,
+       "holes": 1,
+       "solidity": 0.974,
+       "elongation": 1.01
+      },
+      {
+       "id": "e17",
+       "label": "black pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.397,
+        0.528,
+        0.556,
+        0.622
+       ],
+       "area": 0.0079,
+       "holes": 0,
+       "solidity": 0.764,
+       "elongation": 1.81
+      },
+      {
+       "id": "e18",
+       "label": "white vertical bar at bottom",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.537,
+        0.803,
+        0.607,
+        0.922
+       ],
+       "area": 0.0056,
+       "orientation": "vertical",
+       "angle_deg": 81.0,
+       "holes": 0,
+       "solidity": 0.923,
+       "elongation": 3.43
+      },
+      {
+       "id": "e19",
+       "label": "white vertical bar at bottom",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.621,
+        0.803,
+        0.692,
+        0.922
+       ],
+       "area": 0.0056,
+       "orientation": "vertical",
+       "angle_deg": 99.3,
+       "holes": 0,
+       "solidity": 0.932,
+       "elongation": 3.41
+      },
+      {
+       "id": "e20",
+       "label": "green pictogram at bottom",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "green",
+       "position": "bottom",
+       "bbox": [
+        0.598,
+        0.797,
+        0.631,
+        0.928
+       ],
+       "area": 0.0026,
+       "holes": 0,
+       "solidity": 0.697,
+       "elongation": 9.37
+      }
+     ],
+     "ai_sign_labels": [
+      "Kazakhstan road sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "pictogram": 5,
+      "frame_rectangle": 4,
+      "frame_circle": 4,
+      "bar": 3,
+      "arrow": 2,
+      "disc": 2
+     },
+     "ignored_small_parts": 66,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": true,
+     "numbers": [
+      "60",
+      "110",
+      "140"
+     ],
+     "units": [],
+     "scripts": [
+      "cyrillic",
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "КАЗАкСТАH KAZAKHSTAN 60 110 140"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:blue",
+    "color:black",
+    "color:blue",
+    "color:red",
+    "color:white",
+    "element:arrow",
+    "element:arrow_left",
+    "element:arrow_right",
+    "element:bar",
+    "element:bar_diagonal_rising",
+    "element:bar_vertical",
+    "element:black_arrow",
+    "element:black_pictogram",
+    "element:blue_frame_rectangle",
+    "element:disc",
+    "element:frame_circle",
+    "element:frame_circle_with_bar_vertical",
+    "element:frame_rectangle",
+    "element:frame_rectangle_with_bar_vertical",
+    "element:green_pictogram",
+    "element:pictogram",
+    "element:red_bar",
+    "element:red_frame_circle",
+    "element:white_bar",
+    "element:white_disc",
+    "element:white_frame_circle",
+    "element:white_frame_rectangle",
+    "element:white_pictogram",
+    "element_role:border",
+    "has_number",
+    "has_text",
+    "number:110",
+    "number:140",
+    "number:60",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:cyrillic",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:blue"
+   ],
+   "visual_signature": "rectangle|blue|white|-"
+  },
+  {
+   "file": "KZ_Kazakhstan/square/KZ-6.22.svg",
+   "id": "6.22",
+   "iso": "KZ",
+   "osm_tag": "KZ:6.22",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/6.22_Russian_road_sign.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with blue background; elements: white rounded square frame (border), blue rounded square frame (border), white circle frame at center, white circle frame at center, blue circle frame at center, white disc at center, blue circle frame at center, blue circle frame at center (+2 more); pictograms: camera radar; Vienna category F (information facilities).",
+    "ai_caption": "The image shows a blue and white sign with a camera icon in the center. The camera icon is surrounded by a white border and the background is a bright blue color.",
+    "ai_ocr": "O",
+    "official_name": null,
+    "source_description": null,
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "blue",
+     "border": "blue",
+     "symbol": "white",
+     "present": [
+      "blue",
+      "white"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "blue",
+       "white"
+      ],
+      "fractions": {
+       "blue": 0.675,
+       "white": 0.304
+      },
+      "border": "blue",
+      "background": "blue",
+      "symbol": "white",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": "F",
+     "name": "information_facilities",
+     "source": "heuristique"
+    },
+    "pictograms": [
+     "camera_radar"
+    ],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "rounded",
+      "aspect_ratio": 1.0,
+      "circularity": 0.822
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white rounded square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.003,
+        0.997,
+        0.997
+       ],
+       "area": 0.0947,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.025,
+       "holes": 1,
+       "solidity": 1.0,
+       "elongation": 1.0,
+       "ai_label": "blue and white camera icon",
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "blue rounded square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.028,
+        0.028,
+        0.972,
+        0.972
+       ],
+       "area": 0.6108,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.202,
+       "holes": 1,
+       "solidity": 1.0,
+       "elongation": 1.07,
+       "ai_label": "blue and white camera icon",
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.138,
+        0.15,
+        0.887,
+        0.7
+       ],
+       "area": 0.158,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 1,
+       "solidity": 0.83,
+       "elongation": 1.63
+      },
+      {
+       "id": "e4",
+       "label": "white circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.472,
+        0.322,
+        0.809,
+        0.662
+       ],
+       "area": 0.0334,
+       "vertices": 0,
+       "thickness": 0.101,
+       "holes": 1,
+       "solidity": 0.984,
+       "elongation": 1.0,
+       "ai_label": "blue and white camera icon"
+      },
+      {
+       "id": "e5",
+       "label": "white circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.525,
+        0.375,
+        0.759,
+        0.609
+       ],
+       "area": 0.02,
+       "vertices": 0,
+       "thickness": 0.133,
+       "holes": 1,
+       "solidity": 0.979,
+       "elongation": 1.0
+      },
+      {
+       "id": "e6",
+       "label": "blue circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.456,
+        0.306,
+        0.828,
+        0.678
+       ],
+       "area": 0.0192,
+       "vertices": 0,
+       "thickness": 0.05,
+       "holes": 1,
+       "solidity": 0.987,
+       "elongation": 1.0,
+       "ai_label": "blue and white camera icon"
+      },
+      {
+       "id": "e7",
+       "label": "white disc at center",
+       "role": "symbol",
+       "shape": "disc",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.572,
+        0.425,
+        0.709,
+        0.559
+       ],
+       "area": 0.0147,
+       "vertices": 0,
+       "holes": 0,
+       "solidity": 0.97,
+       "elongation": 1.0
+      },
+      {
+       "id": "e8",
+       "label": "blue circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.506,
+        0.359,
+        0.775,
+        0.625
+       ],
+       "area": 0.0136,
+       "vertices": 0,
+       "thickness": 0.07,
+       "holes": 1,
+       "solidity": 0.983,
+       "elongation": 1.01
+      },
+      {
+       "id": "e9",
+       "label": "blue circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.556,
+        0.406,
+        0.728,
+        0.578
+       ],
+       "area": 0.0083,
+       "vertices": 0,
+       "thickness": 0.109,
+       "holes": 1,
+       "solidity": 0.973,
+       "elongation": 1.01
+      },
+      {
+       "id": "e10",
+       "label": "blue pictogram at top right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "blue",
+       "position": "top_right",
+       "bbox": [
+        0.731,
+        0.2,
+        0.863,
+        0.316
+       ],
+       "area": 0.0066,
+       "holes": 0,
+       "solidity": 0.603,
+       "elongation": 1.21
+      },
+      {
+       "id": "e11",
+       "label": "blue text \"O\" at left",
+       "role": "text",
+       "shape": "text",
+       "color": "blue",
+       "text": "O",
+       "position": "left",
+       "bbox": [
+        0.181,
+        0.375,
+        0.3,
+        0.438
+       ],
+       "area": 0.0041,
+       "glyphs": 1
+      }
+     ],
+     "ai_sign_labels": [
+      "blue camera icon"
+     ],
+     "ai_objects": [
+      {
+       "label": "blue and white camera icon",
+       "bbox": [
+        0.133,
+        0.254,
+        0.85,
+        0.704
+       ],
+       "elements": [
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e11"
+       ]
+      }
+     ],
+     "counts": {
+      "frame_circle": 5,
+      "frame_square": 2,
+      "disc": 1,
+      "pictogram": 1,
+      "text": 1
+     },
+     "ignored_small_parts": 2,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": false,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "O"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:blue",
+    "border:blue",
+    "color:blue",
+    "color:white",
+    "element:blue_frame_circle",
+    "element:blue_frame_square",
+    "element:blue_pictogram",
+    "element:blue_text",
+    "element:disc",
+    "element:frame_circle",
+    "element:frame_square",
+    "element:pictogram",
+    "element:text",
+    "element:white_disc",
+    "element:white_frame_circle",
+    "element:white_frame_square",
+    "element_role:border",
+    "element_role:text",
+    "function:information_facilities",
+    "outline:square",
+    "outline_corners:rounded",
+    "pictogram:camera_radar",
+    "script:latin",
+    "shape:square",
+    "symbol:white",
+    "vienna:F"
+   ],
+   "visual_signature": "square|blue|blue|camera_radar"
+  }
+ ]
+}

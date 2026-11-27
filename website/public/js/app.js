@@ -2,7 +2,7 @@
 import { can, logout, onSessionChange, refreshSession, session } from './api.js';
 import { h, toast } from './dom.js';
 import { LANGUAGES, lang, setLang, t } from './i18n.js';
-import { viewAccount, viewLogin, viewRegister, viewUsers } from './views/auth.js';
+import { viewAccount, viewForgotPassword, viewLogin, viewRegister, viewSetPassword, viewUsers } from './views/auth.js';
 import { viewApiDocs } from './views/apidocs.js';
 import { viewChanges, viewHistory } from './views/history.js';
 import { viewCompare } from './views/compare.js';
@@ -28,6 +28,8 @@ const routes = [
   [/^\/changes$/, () => viewChanges(), 'changes'],
   [/^\/login$/, () => viewLogin(), ''],
   [/^\/register$/, () => viewRegister(), ''],
+  [/^\/forgot-password$/, () => viewForgotPassword(), ''],
+  [/^\/set-password$/, () => viewSetPassword(), ''],
   [/^\/account$/, () => viewAccount(), ''],
   [/^\/admin\/users$/, () => viewUsers(), ''],
   [/^\/api$/, () => viewApiDocs(), 'api'],

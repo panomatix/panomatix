@@ -5,12 +5,16 @@ import { t } from '../i18n.js';
 
 const ENDPOINTS = [
   ['Accounts', [
-    ['POST', '/api/v1/auth/register', '{email, display_name, password} → creates a contributor account and opens a cookie session.'],
+    ['POST', '/api/v1/auth/register', '{email, display_name, lang?} → 202. Emails a link to choose the password (or, for a known address, a reset link). Same answer either way.'],
+    ['POST', '/api/v1/auth/forgot-password', '{email, lang?} → 202. Emails a password reset link if the address has an account.'],
+    ['POST', '/api/v1/auth/link', '{token} → {purpose: "verify"|"reset", email, display_name}, or 400 invalid_token.'],
+    ['POST', '/api/v1/auth/set-password', '{token, password} — uses the emailed link once: sets the password, confirms the address, signs out other sessions and opens a cookie session.'],
     ['POST', '/api/v1/auth/login', '{email, password, mode?} — mode "cookie" (browser, returns csrf_token) or "token" (returns a Bearer token for scripts).'],
     ['POST', '/api/v1/auth/logout', 'Ends the current session.'],
     ['GET', '/api/v1/auth/me', 'Current user (or null) and CSRF token.'],
     ['PATCH', '/api/v1/auth/me', '{display_name}'],
     ['POST', '/api/v1/auth/password', '{current_password, new_password} — signs out every other session.'],
+    ['DELETE', '/api/v1/auth/me', '{password} — deletes the account; its edits stay in the history without the name. 409 last_admin for the only administrator.'],
   ]],
   ['Signs', [
     ['GET', '/api/v1/signs', 'Search: q, category, country (code or jurisdiction key), kind (vienna|other), page, per_page (≤ 200).'],
@@ -38,7 +42,7 @@ const ENDPOINTS = [
   ]],
   ['Images', [
     ['GET', '/api/v1/images?code=fr:B14', 'Images of a national code.'],
-    ['POST', '/api/v1/images', 'multipart/form-data: file (SVG, PNG, JPEG, GIF, WebP ≤ 5 MB) + code. Filed next to the sign that owns the code.'],
+    ['POST', '/api/v1/images', 'multipart/form-data: file (SVG, PNG, JPEG, GIF, WebP ≤ 20 MB) + code. Compressed (bitmaps → WebP, ≤ 2000 px, metadata removed), then filed next to the sign that owns the code. Returns {path, url, bytes, original_bytes}.'],
     ['GET', '/media/{path}', 'Image files.'],
   ]],
   ['Reference data', [

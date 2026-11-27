@@ -4,6 +4,13 @@ import { get } from './api.js';
 import { block, confirmDialog, debounce, h, toast } from './dom.js';
 import { t } from './i18n.js';
 
+const kb = (n) => `${Math.max(1, Math.round(n / 1024)).toLocaleString()} KB`;
+
+/** Toast text after an upload, with the size saved by the server's compression. */
+export const uploadedMessage = (r) => (r.bytes != null && r.bytes < r.original_bytes
+  ? t('Image uploaded and compressed: {from} → {to}.', { from: kb(r.original_bytes), to: kb(r.bytes) })
+  : t('Image uploaded.'));
+
 export const sub = (path, key) => (typeof key === 'number' ? `${path}[${key}]` : `${path}.${key}`);
 
 let changeHook = () => {};

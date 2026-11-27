@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="800">
-<g fill="none" stroke-width="2">
-<path stroke="#222"
-d="M1,1H199V799H1zm199,599H1m0-200H199m0-200H1M15
-15h170v170H15zm0,200h170v170H15zm0,200h170v170H15zm0
-200h170v170H15zM26,499a74,74 0 1,1 0,2z"/>
-<circle fill="#df1a21" cx="100" cy="100" r="74"/>
-<circle fill="#fcd205" cx="100" cy="300" r="74"/>
-<circle fill="#00a650" cx="100" cy="700" r="74"/>
-<path stroke="#00a650" stroke-width="23"
-d="m96,500h52m-51-45-36,45 36,45"/>
-</g></svg>
+<svg width="200" height="800" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke-width="2"><path d="M1,1H199V799H1zm199,599H1m0-200H199m0-200H1M15 15h170v170H15zm0,200h170v170H15zm0,200h170v170H15zm0 200h170v170H15zM26,499a74,74 0 1,1 0,2z" stroke="#222"/><circle cx="100" cy="100" r="74" fill="#df1a21"/><circle cx="100" cy="300" r="74" fill="#fcd205"/><circle cx="100" cy="700" r="74" fill="#00a650"/><path d="m96 500h52m-51-45-36 45 36 45" stroke="#00a650" stroke-width="23"/></g></svg>

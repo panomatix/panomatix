@@ -45,10 +45,11 @@ export function registerMetaRoutes(router) {
     requireUser(ctx, 'moderator');
     const rows = ctx.db.prepare(
       `SELECT u.id, u.email, u.display_name, u.role, u.is_active, u.created_at, u.last_login_at,
+              u.password_hash = '' AS pending,
               (SELECT COUNT(*) FROM revisions r WHERE r.user_id=u.id) AS edits
        FROM users u ORDER BY u.created_at DESC`,
     ).all();
-    send(ctx, 200, { items: rows.map((r) => ({ ...r, is_active: Boolean(r.is_active) })) });
+    send(ctx, 200, { items: rows.map((r) => ({ ...r, is_active: Boolean(r.is_active), pending: Boolean(r.pending) })) });
   });
 
   router.add('PATCH', '/api/v1/users/:id', async (ctx) => {
@@ -68,11 +69,11 @@ export function registerMetaRoutes(router) {
       ctx.db.prepare('UPDATE users SET is_active=? WHERE id=?').run(body.is_active ? 1 : 0, target.id);
       if (!body.is_active) revokeUserSessions(ctx.db, target.id);
     }
-    const u = ctx.db.prepare('SELECT id, email, display_name, role, is_active, created_at, last_login_at FROM users WHERE id=?').get(target.id);
-    send(ctx, 200, { user: { ...u, is_active: Boolean(u.is_active) } });
+    const u = ctx.db.prepare("SELECT id, email, display_name, role, is_active, created_at, last_login_at, password_hash = '' AS pending FROM users WHERE id=?").get(target.id);
+    send(ctx, 200, { user: { ...u, is_active: Boolean(u.is_active), pending: Boolean(u.pending) } });
   });
 
-  // An administrator sets a temporary password (no email is sent by this server).
+  // An administrator sets a temporary password (users can also reset theirs by email).
   router.add('POST', '/api/v1/users/:id/password', async (ctx) => {
     const me = requireUser(ctx, 'admin');
     const body = await readJson(ctx);

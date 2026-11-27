@@ -1,9 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="806.87" height="716.5" fill-rule="evenodd">
-<path d="M66.019,715.461 9.727,617.961 347.143,33.539 459.727,33.539 797.143,617.961 740.851,715.461" fill="#e42b38" stroke="none"/>
-<circle cx="66.019" cy="650.461" r="65" fill="#e42b38" stroke="none"/>
-<circle cx="403.435" cy="66.039" r="65" fill="#e42b38" stroke="none"/>
-<circle cx="740.851" cy="650.461" r="65" fill="#e42b38" stroke="none"/>
-<path d="M83.339,640.461 403.435,86.039 723.531,640.461" fill="#fed300" stroke="none"/>
-<path d="M343.435,605.461 343.435,295.461 403.435,235.461 463.435,295.461 463.435,400.461 543.435,400.461 543.435,450.461 463.435,450.461 463.435,605.461" fill="#000" stroke="none"/>
-</svg>
+<svg width="806.87" height="716.5" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg"><path d="m66.019 715.46-56.292-97.5 337.42-584.42h112.58l337.42 584.42-56.292 97.5" fill="#e42b38"/><circle cx="66.019" cy="650.46" r="65" fill="#e42b38"/><circle cx="403.44" cy="66.039" r="65" fill="#e42b38"/><circle cx="740.85" cy="650.46" r="65" fill="#e42b38"/><path d="m83.339 640.46 320.1-554.42 320.1 554.42" fill="#fed300"/><path d="m343.44 605.46v-310l60-60 60 60v105h80v50h-80v155" fill="#000"/></svg>

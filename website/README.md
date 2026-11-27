@@ -1,7 +1,7 @@
 # Panomatix website
 
-Collaborative editor and REST API for `full_database.json`. Anyone can create an account (email + password)
-and edit every field of a sign. Every change is versioned and can be reverted.
+Collaborative editor and REST API for `full_database.json`. Anyone can create an account (email, then a
+password chosen from the confirmation link sent by email) and edit every field of a sign. Every change is versioned and can be reverted.
 
 A sign page shows the sign and its ID (the rest behind **More information**), then its designs and its related
 signs as tabs. Each tab lists the national signs as tiles with three actions: **Info**, **Move** (to another
@@ -11,7 +11,9 @@ the country's own panels or the Convention's, and each one is checked: it must e
 or to the Convention (otherwise the save is refused); a panel outside category H, or not in the Convention's list
 for the sign, is flagged as a warning. The full JSON editor stays available for everything else.
 
-- **Back end:** Node.js ≥ 24.7, no npm dependency — `node:http`, `node:sqlite`, `node:crypto` (argon2id).
+- **Back end:** Node.js ≥ 24.7 — `node:http`, `node:sqlite`, `node:crypto` (argon2id); two npm dependencies,
+  both European: [Nodemailer](https://nodemailer.com) (Andris Reinman, Estonia; MIT-0) to send email and
+  [sharp](https://sharp.pixelplumbing.com) (Lovell Fuller, UK; libvips; Apache-2.0) to compress images.
 - **Front end:** plain HTML, CSS and JavaScript modules, no build step, served by the same process.
 - **Interface languages:** English and French in full; German and Spanish partially (missing strings fall back to English).
   Add a language in [`public/js/i18n.js`](public/js/i18n.js).
@@ -20,13 +22,39 @@ for the sign, is flagged as a warning. The full JSON editor stays available for 
 
 ```sh
 cd website
+npm install                        # Nodemailer, sharp
 npm run import                     # load ../full_database.json into data/panomatix.sqlite3 (≈ 5 s)
 npm run create-user -- admin@example.org "Admin" admin   # prompts for the password
-npm run dev                        # http://127.0.0.1:8080, plain-HTTP cookies allowed
+npm run dev                        # http://127.0.0.1:8080, plain-HTTP cookies allowed, emails printed on the console
 npm test                           # API test suite
 ```
 
-`npm start` runs in production mode: session cookies are `Secure`, so put it behind HTTPS.
+`npm start` runs in production mode: session cookies are `Secure`, so put it behind HTTPS, and set
+`PANOMATIX_PUBLIC_URL` and `PANOMATIX_SMTP_URL` so the account emails are sent with the right links.
+
+## Accounts by email
+
+1. **Sign up** (`#/register`): display name + email. The account is created without a password and a link is
+   emailed (valid 24 h). Signing up with an address that already has an account sends its owner a reset link
+   instead; the page says the same thing in both cases, so it cannot be used to find out who is registered.
+2. **The link** opens `#/set-password?token=…`: the user types the password twice; it confirms the address,
+   sets the password and signs them in. A link works once; asking for a new one cancels the previous one.
+3. **Forgot password** (`#/forgot-password`, linked from the sign-in page): same link, valid 1 h. Resetting
+   signs out every other session.
+
+The password page has a **Generate** button (32 random characters from the browser's cryptographic
+generator, shown so it can be copied into a password manager) and warns not to reuse a password from
+another site. **Delete my account** (account page, password required) erases the email, name and password;
+the person's edits stay in the history without their name. The only administrator cannot delete themselves.
+
+Against robots, the sign-up and reset forms carry a hidden *honeypot* field: a robot that fills it gets the
+usual answer and nothing happens. Together with the email confirmation and the rate limits this is enough
+for now; if spam accounts still appear, a self-hosted proof-of-work captcha (such as ALTCHA) is the next step
+— no third-party captcha, which would track visitors.
+
+Links are random 256-bit tokens stored hashed, like sessions, and always point to `PANOMATIX_PUBLIC_URL`
+(never to the `Host` of the request). Emails are written in the interface language of the person asking
+(English, French, German, Spanish). Sign-ups whose link is never opened are deleted after a week.
 
 ## Data flow
 
@@ -47,6 +75,32 @@ Unknown keys are rejected. On top of it the server checks that the category matc
 `code` appears in `codes`, that panel slots have distinct indexes and that parameter values match their type.
 On import, every panel container gets both `top` and `bottom` slots (empty when unused) so panels can be added
 above as well as below; `left` and `right` are kept only when used.
+
+## Images
+
+- **Uploads are compressed** before being stored: bitmaps (PNG, JPEG, GIF, WebP) become WebP — lossless for
+  drawings, quality 85 for photos — scaled down to 2000 px at most, with the EXIF orientation applied and
+  the metadata (GPS position, camera…) removed; the original is kept when it is already smaller. SVGs lose
+  their editor data, metadata and comments. Up to 20 MB are accepted before compression.
+- **Sign + panel codes** (`fi:B5+H5`, `ca-on:Wa-30+Wa-30t`): when no picture shows the whole, the pictures
+  of the parts are stacked one above the other (served as one SVG under `/media/@stack/<code>.svg`).
+
+## Backups
+
+Every week (`PANOMATIX_BACKUP_DAYS`) the server writes `backups/panomatix-changes-<date>.json.gz` holding
+**only what changed since the previous backup**: the new revisions of the signs (full snapshots), the images
+uploaded (with their content) and the accounts involved (email and name, never the password). Imports are
+left out: `full_database.json` in git is the base. A week with no change writes no file.
+
+```sh
+npm run backup                                     # one now, outside the weekly schedule
+npm run import -- --replace                        # rebuild: the base from git…
+npm run restore -- backups/*.json.gz               # …then every change, oldest first (safe to re-run)
+```
+
+Restored accounts have no password: their owners use **Forgot your password?**. Copy `backups/` to
+another machine (e.g. `rsync` in a cron job): a backup on the same disk does not survive the disk.
+Old backups still hold the email of accounts deleted since; delete the files you no longer need.
 
 ## API
 
@@ -76,7 +130,7 @@ Scripts sign in with `{"mode": "token"}` and send `Authorization: Bearer <token>
 - The UI never inserts user data as HTML. Uploaded images are type-checked by content, SVGs with scripts,
   event handlers, entities or external references are refused, and every image is served with a sandboxing CSP.
 - Roles: **contributor** (create/edit, upload), **moderator** (delete/restore, revert, disable contributors),
-  **admin** (roles, password resets).
+  **admin** (roles, temporary passwords).
 
 ## Configuration (environment variables)
 
@@ -89,6 +143,13 @@ Scripts sign in with `{"mode": "token"}` and send `Authorization: Bearer <token>
 | `PANOMATIX_ENV` | `production` | `development` allows non-Secure cookies |
 | `PANOMATIX_TRUST_PROXY` | `0` | `1` behind nginx/Caddy to read `X-Forwarded-For` |
 | `PANOMATIX_REGISTRATION_OPEN` | `1` | `0` closes sign-ups |
+| `PANOMATIX_PUBLIC_URL` | `http://<host>:<port>` | address of the site, used in the emailed links (e.g. `https://panomatix.example.org`) |
+| `PANOMATIX_SMTP_URL` | — | mail server, e.g. `smtps://user:password@smtp.example.org:465`; unset: emails are printed on the console |
+| `PANOMATIX_MAIL_FROM` | `Panomatix <no-reply@localhost>` | sender of the emails |
+| `PANOMATIX_VERIFY_HOURS` / `PANOMATIX_RESET_HOURS` | `24` / `1` | validity of the sign-up and reset links |
+| `PANOMATIX_MAIL_LIMIT` | `3` | emails per address per hour |
+| `PANOMATIX_BACKUP_DIR` / `PANOMATIX_BACKUP_DAYS` | `website/backups` / `7` | incremental backups; `0` days turns them off |
+| `PANOMATIX_MAX_IMAGE_BYTES` | `20971520` | largest upload, before compression |
 | `PANOMATIX_SESSION_DAYS` / `PANOMATIX_TOKEN_DAYS` | `30` / `90` | |
 | `PANOMATIX_LOGIN_LIMIT`, `_REGISTER_LIMIT`, `_UPLOAD_LIMIT`, `_EDIT_LIMIT` | `10`, `5`, `60`, `300` | rate limits |
 
@@ -97,8 +158,5 @@ Example reverse proxy (Caddy): `panomatix.example.org { reverse_proxy 127.0.0.1:
 
 ## Not included yet
 
-- **Email verification and password reset by email**: the server sends no mail. An administrator can set a
-  temporary password from the Users page. Plugging in an SMTP service is the next step if open registration
-  attracts spam.
 - One process only (SQLite + in-process image index): enough for a community site; scale-out would need a
   shared database.

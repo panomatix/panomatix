@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { iterCodes, now } from './db.js';
 import { readMultipart, send, serveFile } from './http.js';
+import { compressUpload, stackSvg } from './imaging.js';
 import { ApiError, rateLimit, requireUser } from './security.js';
 
 export const IMAGE_EXT = new Set(['.svg', '.png', '.jpg', '.jpeg', '.gif', '.webp']);
@@ -15,6 +16,8 @@ export const CATEGORY_DIRS = {
 const CODE_RE = /^[a-z]{2}(-[a-z0-9]{1,3})?:\S{1,300}$/;
 // SVG is a document format: refuse anything that could run code or load external resources.
 const UNSAFE_SVG = /<\s*script|<\s*foreignObject|\son[a-z]+\s*=|javascript:|<!ENTITY|<!DOCTYPE|\b(?:xlink:)?href\s*=\s*["']?\s*(?!#)|@import|url\(\s*["']?\s*(?!#)/i;
+// Virtual folder of the pictures stacked from several files (see ImageIndex.stackParts).
+const STACK_DIR = '@stack';
 const MEDIA_CSP = "default-src 'none'; img-src data:; style-src 'unsafe-inline'; sandbox";
 
 export const norm = (code) => code.toLowerCase().replace(/[^a-z0-9]/g, '');
@@ -87,7 +90,20 @@ export class ImageIndex {
   /** national code such as "fr:B14" or "ca-nb:3106" */
   lookup(nationalCode) {
     const byName = this.lookupByName(nationalCode);
-    return byName.length ? byName : [...(this.aliases.get(nationalCode) ?? [])];
+    if (byName.length) return byName;
+    const alias = this.aliases.get(nationalCode);
+    if (alias) return [...alias];
+    return this.stackParts(nationalCode) ? [`${STACK_DIR}/${nationalCode}.svg`] : [];
+  }
+
+  /** A sign and its panel written as one code ("ca-on:Wa-30+Wa-30t") with no combined picture, but a
+   *  picture for each part: their files, top to bottom. Null otherwise. */
+  stackParts(nationalCode) {
+    const i = nationalCode.indexOf(':');
+    const parts = nationalCode.slice(i + 1).split('+').map((p) => p.replace(/^_+|_+$/g, '')).filter(Boolean);
+    if (i < 0 || parts.length < 2) return null;
+    const files = parts.map((p) => this.lookupByName(`${nationalCode.slice(0, i)}:${p}`)[0]);
+    return files.every(Boolean) ? files : null;
   }
 
   lookupByName(nationalCode) {
@@ -135,10 +151,29 @@ function sniff(data) {
   return null;
 }
 
+const stackCache = new Map(); // code -> {files, svg}
+
+async function serveStack(ctx, code) {
+  const files = ctx.images.stackParts(code);
+  if (!files) throw new ApiError(404, 'not_found', 'Not found.');
+  let hit = stackCache.get(code);
+  if (!hit || hit.files.join('|') !== files.join('|')) {
+    const parts = files.map((rel) => ({ data: fs.readFileSync(path.join(ctx.images.root, rel)), ext: path.extname(rel).toLowerCase() }));
+    hit = { files, svg: await stackSvg(parts) };
+    stackCache.set(code, hit);
+  }
+  send(ctx, 200, hit.svg, {
+    'Content-Type': 'image/svg+xml; charset=utf-8',
+    'Cache-Control': 'public, max-age=86400',
+    'Content-Security-Policy': MEDIA_CSP,
+  });
+}
+
 export function registerImageRoutes(router) {
   router.add('GET', '/media/(?<rel>.+)', (ctx) => {
     const rel = ctx.params.rel; // already URL-decoded by the router
     if (!IMAGE_EXT.has(path.extname(rel).toLowerCase()) || rel.includes('\0')) throw new ApiError(404, 'not_found', 'Not found.');
+    if (rel.startsWith(`${STACK_DIR}/`)) return serveStack(ctx, rel.slice(STACK_DIR.length + 1, -'.svg'.length));
     const ok = serveFile(ctx, ctx.config.imagesDir, rel, { maxAge: 86400, headers: { 'Content-Security-Policy': MEDIA_CSP } });
     if (!ok) throw new ApiError(404, 'not_found', 'Not found.');
   });
@@ -171,6 +206,10 @@ export function registerImageRoutes(router) {
       if (UNSAFE_SVG.test(text)) throw new ApiError(400, 'unsafe_svg', 'SVG files may not contain scripts, event handlers, entities, styles imports or external links.');
     }
 
+    const { data, ext: finalExt } = await compressUpload(file.data, ext).catch(() => {
+      throw new ApiError(400, 'unsupported_image', 'This image could not be read.');
+    });
+
     const row = ctx.db.prepare(
       `SELECT s.reference, s.category, c.jurisdiction FROM sign_codes c JOIN signs s ON s.reference = c.reference
        WHERE c.code=? AND s.deleted=0 ORDER BY s.sort_key LIMIT 1`,
@@ -188,18 +227,18 @@ export function registerImageRoutes(router) {
     const folder = path.join(idx.root, countryDir, catDir, kind);
     if (!path.resolve(folder).startsWith(idx.root + path.sep)) throw new ApiError(400, 'invalid_code', 'Invalid code.');
     fs.mkdirSync(folder, { recursive: true });
-    let name = `${prefix}-${safeCode}${ext}`;
-    for (let n = 2; fs.existsSync(path.join(folder, name)); n += 1) name = `${prefix}-${safeCode}_upload${n}${ext}`;
+    let name = `${prefix}-${safeCode}${finalExt}`;
+    for (let n = 2; fs.existsSync(path.join(folder, name)); n += 1) name = `${prefix}-${safeCode}_upload${n}${finalExt}`;
     const target = path.join(folder, name);
     const tmp = `${target}.part-${crypto.randomBytes(6).toString('hex')}`;
-    fs.writeFileSync(tmp, file.data, { flag: 'wx' });
+    fs.writeFileSync(tmp, data, { flag: 'wx' });
     fs.renameSync(tmp, target);
     const rel = path.relative(idx.root, target).split(path.sep).join('/');
     ctx.db.prepare('INSERT INTO images (path, country_code, code, sha256, uploaded_by, created_at) VALUES (?,?,?,?,?,?)').run(
-      rel, cc, code, crypto.createHash('sha256').update(file.data).digest('hex'), user.id, now(),
+      rel, cc, code, crypto.createHash('sha256').update(data).digest('hex'), user.id, now(),
     );
     idx.add(rel);
-    send(ctx, 201, { path: rel, url: mediaUrl(rel), reference: row.reference });
+    send(ctx, 201, { path: rel, url: mediaUrl(rel), reference: row.reference, bytes: data.length, original_bytes: file.data.length });
   });
 }
 

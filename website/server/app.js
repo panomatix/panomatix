@@ -2,6 +2,7 @@
 import path from 'node:path';
 import { APP_CSP, Router, baseHeaders, parseCookies, send, sendError, serveFile } from './http.js';
 import { ImageIndex, ViennaIndex, registerImageRoutes, registerViennaMediaRoute } from './images.js';
+import { createMailer } from './mail.js';
 import { registerAuthRoutes } from './routes/auth.js';
 import { registerCompareRoutes } from './routes/compare.js';
 import { registerCountryRoutes } from './routes/countries.js';
@@ -14,7 +15,7 @@ export function knownCountryCodes(db) {
   return new Set(db.prepare('SELECT DISTINCT country_code AS c FROM sign_codes').all().map((r) => r.c));
 }
 
-export function createApp({ config, db }) {
+export function createApp({ config, db, mailer = createMailer(config) }) {
   const images = new ImageIndex(config.imagesDir, knownCountryCodes(db));
   for (const { data } of db.prepare('SELECT data FROM signs WHERE deleted=0').iterate()) images.learnEntry(JSON.parse(data));
   const vienna = new ViennaIndex(config.viennaImagesDir);
@@ -34,7 +35,7 @@ export function createApp({ config, db }) {
     const url = new URL(req.url, 'http://localhost');
     const fwd = config.trustProxy ? String(req.headers['x-forwarded-for'] ?? '').split(',')[0].trim() : '';
     const ctx = {
-      req, res, config, db, images, vienna, url,
+      req, res, config, db, mailer, images, vienna, url,
       query: url.searchParams,
       params: {},
       cookies: parseCookies(req.headers.cookie),

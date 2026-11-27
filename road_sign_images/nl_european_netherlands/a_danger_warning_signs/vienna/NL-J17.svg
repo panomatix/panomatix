@@ -1,8 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<svg id="Nederlands_verkeersbord_J17_2023" width="672" height="587" xmlns="http://www.w3.org/2000/svg" version="1.1">
-	<path id="bord_rood" style="fill:#c1121c;stroke:#c1121c;stroke-width:40;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
-	<path id="bies_wit" style="fill:#f7fbf5;stroke:#f7fbf5;stroke-width:20;stroke-linejoin:round" d="M 20.641,567 651.359,567 336,20.782 Z"/>
-	<path id="driehoek_rood" fill="#c1121c" d="M 20.641,567 651.359,567 336,20.782 Z"/>
-	<path id="driehoek_wit" fill="#f7fbf5" d="M 137.208,499.7 534.792,499.7 336,155.382 Z"/>
-	<path id="symbool_zwart" fill="#2a2d2f" d="M 297.21875 241.83789 L 297.21875 336.82227 L 297.25195 336.87109 L 249.64648 384.58789 L 249.61523 490.00586 L 273.84961 490.00586 L 273.84961 394.57227 L 321.45508 346.96875 L 321.45508 241.83789 L 297.21875 241.83789 z M 350.54492 241.83789 L 350.54492 346.96875 L 398.15039 394.57227 L 398.15039 490.00586 L 422.38477 490.00586 L 422.35352 384.58789 L 374.74805 336.87109 L 374.78125 336.82227 L 374.78125 241.83789 L 350.54492 241.83789 z " />
-</svg>
+<svg width="672" height="587" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="m20.641 567h630.72l-315.36-546.22z" fill="#c1121c" stroke="#c1121c" stroke-linejoin="round" stroke-width="40"/><path d="m20.641 567h630.72l-315.36-546.22z" fill="#f7fbf5" stroke="#f7fbf5" stroke-linejoin="round" stroke-width="20"/><path d="m20.641 567h630.72l-315.36-546.22z" fill="#c1121c"/><path d="m137.21 499.7h397.58l-198.79-344.32z" fill="#f7fbf5"/><path d="m297.22 241.84v94.984l0.0332 0.04882-47.605 47.717-0.03125 105.42h24.234v-95.434l47.605-47.604v-105.13h-24.236zm53.326 0v105.13l47.605 47.604v95.434h24.234l-0.03125-105.42-47.605-47.717 0.0332-0.04882v-94.984h-24.236z" fill="#2a2d2f"/></svg>

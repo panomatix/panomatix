@@ -1,8 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="627" height="777" fill-rule="evenodd">
-<rect width="625" height="775" rx="50" ry="50" x="1" y="1" fill="#000" stroke="none"/>
-<rect width="550" height="700" rx="100" ry="100" x="38.5" y="38.5" fill="#fff" stroke="none"/>
-<rect width="350" height="350" rx="25" ry="25" x="138.5" y="351" fill="#115EC6" stroke="none"/>
-<path d="M213.5,401 263.5,401 263.5,506 363.5,506 363.5,401 413.5,401 413.5,663.5 363.5,663.5 363.5,543.5 263.5,543.5 263.5,663.5 213.5,663.5" fill="#fff" stroke="none"/>
-<path d="M113.5,176 213.5,76 313.5,76 251,138.5 513.5,138.5 513.5,213.5 251,213.5 313.5,276 213.5,276" fill="#000" stroke="none"/>
-</svg>
+<svg width="627" height="777" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="625" height="775" rx="50" ry="50"/><rect x="38.5" y="38.5" width="550" height="700" rx="100" ry="100" fill="#fff"/><rect x="138.5" y="351" width="350" height="350" rx="25" ry="25" fill="#115EC6"/><path d="m213.5 401h50v105h100v-105h50v262.5h-50v-120h-100v120h-50" fill="#fff"/><path d="m113.5 176 100-100h100l-62.5 62.5h262.5v75h-262.5l62.5 62.5h-100"/></svg>

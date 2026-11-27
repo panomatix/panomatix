@@ -3,6 +3,8 @@
 //   node server/cli.js export [file]               write the database back to full_database.json
 //   node server/cli.js create-user <email> <display name> [contributor|moderator|admin]
 //        (the password is read from the PANOMATIX_PASSWORD environment variable or prompted)
+//   node server/cli.js backup                      write the changes since the last backup now
+//   node server/cli.js restore <file>...           replay backups (oldest first) into the database
 import fs from 'node:fs';
 import path from 'node:path';
 import readline from 'node:readline';
@@ -11,6 +13,7 @@ import { addRevision, now, openDatabase, storeSign, transaction } from './db.js'
 import { ROLE_RANK, checkPasswordPolicy, hashPassword } from './security.js';
 import { normalizeEntry, validateEntry } from './validation.js';
 import { cleanEmail, cleanName } from './routes/auth.js';
+import { restoreBackups, runBackup } from './backup.js';
 
 const config = loadConfig();
 const [cmd, ...args] = process.argv.slice(2);
@@ -86,10 +89,10 @@ async function createUser([emailArg, nameArg, role = 'contributor']) {
   const hash = await hashPassword(password);
   const row = db.prepare('SELECT id FROM users WHERE email=?').get(email);
   if (row) {
-    db.prepare('UPDATE users SET display_name=?, password_hash=?, role=?, is_active=1 WHERE id=?').run(name, hash, role, row.id);
+    db.prepare('UPDATE users SET display_name=?, password_hash=?, role=?, is_active=1, email_verified_at=COALESCE(email_verified_at, ?) WHERE id=?').run(name, hash, role, now(), row.id);
     console.log(`Updated ${email} (${role}).`);
   } else {
-    db.prepare('INSERT INTO users (email, display_name, password_hash, role, created_at) VALUES (?,?,?,?,?)').run(email, name, hash, role, now());
+    db.prepare('INSERT INTO users (email, display_name, password_hash, role, created_at, email_verified_at) VALUES (?,?,?,?,?,?)').run(email, name, hash, role, now(), now());
     console.log(`Created ${email} (${role}).`);
   }
 }
@@ -98,8 +101,15 @@ try {
   if (cmd === 'import') importJson(positional[0] ?? path.join(REPO_DIR, 'full_database.json'));
   else if (cmd === 'export') exportJson(positional[0] ?? path.join(REPO_DIR, 'full_database.json'));
   else if (cmd === 'create-user') await createUser(positional);
-  else {
-    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role]');
+  else if (cmd === 'backup') {
+    const b = runBackup(openDatabase(config.database), config);
+    console.log(b.file ? `Backup written: ${b.file} (${b.revisions} revisions, ${b.images} images, ${b.users} accounts)` : 'Nothing changed since the last backup.');
+  } else if (cmd === 'restore') {
+    if (!positional.length) throw new Error('Usage: restore <backup file>...');
+    const r = restoreBackups(openDatabase(config.database), config, positional);
+    console.log(`Restored ${r.revisions} revisions, ${r.images} images, ${r.users} accounts. Re-run "npm run export" to update full_database.json.`);
+  } else {
+    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role] | backup | restore <file>...');
     process.exit(cmd ? 1 : 0);
   }
 } catch (err) {

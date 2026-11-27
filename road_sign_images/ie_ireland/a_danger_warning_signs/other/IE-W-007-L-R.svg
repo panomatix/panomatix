@@ -1,8 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="826.13" height="826.13" fill-rule="evenodd">
-<g transform="rotate(45)">
-<rect width="600" height="600" rx="30" ry="30" x="284.162" y="-300" fill="#000" stroke="none"/>
-<rect width="570" height="570" rx="15" ry="15" x="299.162" y="-285" fill="#fff000" stroke="none"/>
-</g>
-<path d="M373.065,703.065 373.065,553.065 223.065,553.065 223.065,513.065 373.065,513.065 373.065,123.065 453.065,123.065 453.065,273.065 603.065,273.065 603.065,313.065 453.065,313.065 453.065,703.065" fill="#000" stroke="none"/>
-</svg>
+<svg width="826.13" height="826.13" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg"><g transform="rotate(45)" stroke="none"><rect x="284.16" y="-300" width="600" height="600" rx="30" ry="30" fill="#000"/><rect x="299.16" y="-285" width="570" height="570" rx="15" ry="15" fill="#fff000"/></g><path d="m373.06 703.06v-150h-150v-40h150v-390h80v150h150v40h-150v390" fill="#000" stroke="none"/></svg>

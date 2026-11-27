@@ -1,7 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="758" height="758" fill-rule="evenodd">
-<clipPath id="c"><circle cx="379" cy="379" r="377"/></clipPath>
-<circle cx="379" cy="379" r="378" fill="#000" stroke="none"/>
-<circle cx="379" cy="379" r="375" fill="#fff" stroke="none"/>
-<path clip-path="url(#c)" fill="none" stroke="#000" stroke-width="185" d="M0,758 758,0"/>
-</svg>
+<svg width="758" height="758" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg"><clipPath id="c"><circle cx="379" cy="379" r="377"/></clipPath><circle cx="379" cy="379" r="378" fill="#000" stroke="none"/><circle cx="379" cy="379" r="375" fill="#fff" stroke="none"/><path d="M0,758 758,0" clip-path="url(#c)" fill="none" stroke="#000" stroke-width="185"/></svg>

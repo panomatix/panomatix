@@ -1,7 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="606" height="606" fill-rule="evenodd">
-<circle cx="303" cy="303" r="302" fill="#000" stroke="none"/>
-<circle cx="303" cy="303" r="300" fill="#fff" stroke="none"/>
-<circle cx="303" cy="303" r="290" fill="#1478c8" stroke="none"/>
-<path d="M553,303 433,183 313,183 393,263 53,263 53,343 393,343 313,423 433,423" fill="#fff" stroke="none"/>
-</svg>
+<svg width="606" height="606" fill-rule="evenodd" xmlns="http://www.w3.org/2000/svg"><circle cx="303" cy="303" r="302"/><circle cx="303" cy="303" r="300" fill="#fff"/><circle cx="303" cy="303" r="290" fill="#1478c8"/><path d="m553 303-120-120h-120l80 80h-340v80h340l-80 80h120" fill="#fff"/></svg>

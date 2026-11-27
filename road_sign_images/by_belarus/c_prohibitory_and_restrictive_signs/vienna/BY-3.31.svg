@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" version="1.1">
-  <title>3.31 Конец всех ограничений</title>
-  <circle style="fill:#ffffff;" cx="350" cy="350" r="350"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:2;" cx="350" cy="350" r="349"/>
-  <circle style="fill:none;stroke:#000000;stroke-width:10;" cx="350" cy="350" r="335"/>
-  <path style="stroke:#000000;stroke-width:10;" transform="rotate(45 350 350)" d="m 300 18.75 v 662.49"/>
-  <path style="stroke:#000000;stroke-width:10;" transform="rotate(45 350 350)" d="m 325 15.93 v 668.12"/>
-  <path style="stroke:#000000;stroke-width:10;" transform="rotate(45 350 350)" d="m 350 15 v 670"/>
-  <path style="stroke:#000000;stroke-width:10;" transform="rotate(45 350 350)" d="m 375 15.93 v 668.12"/>
-  <path style="stroke:#000000;stroke-width:10;" transform="rotate(45 350 350)" d="m 400 18.75 v 662.49"/>
-</svg>
+<svg width="700" height="700" version="1.1" xmlns="http://www.w3.org/2000/svg"><title>3.31 Конец всех ограничений</title><circle cx="350" cy="350" r="350" fill="#fff"/><circle cx="350" cy="350" r="349" fill="none" stroke="#000" stroke-width="2"/><circle cx="350" cy="350" r="335" fill="none" stroke="#000" stroke-width="10"/><path transform="rotate(45 350 350)" d="m300 18.75v662.49" stroke="#000" stroke-width="10"/><path transform="rotate(45 350 350)" d="m325 15.93v668.12" stroke="#000" stroke-width="10"/><path transform="rotate(45 350 350)" d="m350 15v670" stroke="#000" stroke-width="10"/><path transform="rotate(45 350 350)" d="m375 15.93v668.12" stroke="#000" stroke-width="10"/><path transform="rotate(45 350 350)" d="m400 18.75v662.49" stroke="#000" stroke-width="10"/></svg>

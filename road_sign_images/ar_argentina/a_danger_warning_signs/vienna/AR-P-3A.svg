@@ -1,13 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="28.595px" height="14.521px" viewBox="0 -0.979 28.595 14.521" enable-background="new 0 -0.979 28.595 14.521"
-	 xml:space="preserve">
-<polyline fill="#FFFFFF" points="3.299,2.266 1.346,-0.218 4.555,-0.197 14.291,4.694 24.042,-0.265 27.21,-0.29 25.283,2.208 
-	17.373,6.24 25.35,10.247 27.25,12.781 24.096,12.711 14.337,7.773 4.539,12.752 1.379,12.854 3.299,10.281 11.209,6.261 
-	3.299,2.266 "/>
-<polygon fill="none" stroke="#D71920" stroke-width="0.369" points="3.299,2.266 1.346,-0.218 4.555,-0.197 14.291,4.694 
-	24.042,-0.265 27.21,-0.29 25.283,2.208 17.373,6.24 25.35,10.247 27.25,12.781 24.096,12.711 14.337,7.773 4.539,12.752 
-	1.379,12.854 3.299,10.281 11.209,6.261 "/>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="28.595px" height="14.521px" enable-background="new 0 -0.979 28.595 14.521" version="1.1" viewBox="0 -.979 28.595 14.521" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<polyline points="3.299 2.266 1.346 -0.218 4.555 -0.197 14.291 4.694 24.042 -0.265 27.21 -0.29 25.283 2.208 17.373 6.24 25.35 10.247 27.25 12.781 24.096 12.711 14.337 7.773 4.539 12.752 1.379 12.854 3.299 10.281 11.209 6.261 3.299 2.266" fill="#fff"/>
+<polygon points="3.299 2.266 1.346 -0.218 4.555 -0.197 14.291 4.694 24.042 -0.265 27.21 -0.29 25.283 2.208 17.373 6.24 25.35 10.247 27.25 12.781 24.096 12.711 14.337 7.773 4.539 12.752 1.379 12.854 3.299 10.281 11.209 6.261" fill="none" stroke="#D71920" stroke-width=".369"/>
 </svg>

@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="642.46667"
-   height="962.46667"
-   version="1.1"
-   id="svg3"
-   sodipodi:docname="LT road sign 533a.svg"
-   xml:space="preserve"
-   inkscape:export-filename="LT road sign 543.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
-     id="defs3"><style
-       id="style1">
+<svg width="642.47" height="962.47" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style>
       .a {
         fill: #fff;
       }
@@ -25,8 +6,7 @@
       .b {
         fill: #0d69e1;
       }
-    </style><style
-       id="style1-1">
+    </style><style>
       .a {
         fill: #fff;
       }
@@ -34,8 +14,7 @@
       .b {
         fill: #0d69e1;
       }
-    </style><style
-       id="style1-7">
+    </style><style>
       .a {
         fill: #fff;
       }
@@ -43,8 +22,7 @@
       .b {
         fill: #0d69e1;
       }
-    </style><style
-       id="style1-5">
+    </style><style>
       .a {
         fill: #fff;
       }
@@ -52,8 +30,7 @@
       .b {
         fill: #0d69e1;
       }
-    </style><style
-       id="style1-6">
+    </style><style>
       .a {
         fill: #fff;
       }
@@ -61,56 +38,4 @@
       .b {
         fill: #0d69e1;
       }
-    </style></defs><sodipodi:namedview
-     id="namedview3"
-     pagecolor="#373737"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#373737"><inkscape:page
-       x="0"
-       y="0"
-       width="642.46667"
-       height="962.46667"
-       id="page2"
-       margin="0"
-       bleed="0" /></sodipodi:namedview><title
-     id="title1">1.3.1 Однопутная железная дорога</title><metadata
-     id="metadata1"><rdf:RDF><cc:Work
-         rdf:about=""><dc:title>1.3.1 Однопутная железная дорога</dc:title></cc:Work></rdf:RDF></metadata><rect
-     id="rect3256-3"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.26667;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-     x="1.2333317"
-     y="1.2333374"
-     width="640"
-     height="960"
-     rx="48"
-     ry="48" /><rect
-     id="rect3041-8"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#cccccc;stroke-width:4.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-     x="2.2999992"
-     y="2.3000031"
-     width="637.8667"
-     height="957.8667"
-     rx="46.933334"
-     ry="46.933334" /><path
-     id="rect15300"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#979797;fill-opacity:1;stroke:none;stroke-width:2.13333;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-     d="m 125.23333,227.23335 c -15.512,0 -27.999997,12.488 -27.999997,28 v 392.00001 c 0,15.512 12.487997,28 27.999997,28 h 392.00002 c 15.512,0 28,-12.488 28,-28 V 255.23335 c 0,-15.512 -12.488,-28 -28,-28 z m 100.00001,48 h 128 c 61.8559,0 112,50.14411 112,112 0,61.8559 -50.1441,112.00001 -112,112.00001 h -80 v 128 h -48 z m 48,48 v 128.00001 h 80 c 35.34624,0 64,-28.65377 64,-64.00001 0,-35.34624 -28.65376,-64 -64,-64 z" /><path
-     id="rect8666-9"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.7792;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-     d="m 49.233334,22.566671 c -14.773334,0 -26.666668,11.89334 -26.666668,26.666671 V 913.23337 c 0,14.77333 11.893334,26.66667 26.666668,26.66667 H 593.23335 c 14.77333,0 26.66667,-11.89334 26.66667,-26.66667 V 49.233342 c 0,-14.773331 -11.89334,-26.666671 -26.66667,-26.666671 z m 0,10.66667 H 593.23335 c 8.29866,0 15.10186,6.26144 15.93386,14.333335 L 33.233333,692.00029 V 49.233342 c 0,-8.864001 7.136,-16.000001 16.000001,-16.000001 z M 609.23335,70.46673 V 97.466731 L 33.233333,742.0003 v -27.00054 z m 0,49.99968 v 27.00054 L 33.233333,792.0003 v -27.00054 z m 0,50 v 27.00054 L 33.233333,842.0003 v -27.00053 z m 0,50.00001 v 27.00053 L 33.233333,892.0003 v -27.00053 z m 0,50 v 642.76695 c 0,8.864 -7.136,16 -16,16 H 49.233334 c -8.298774,0 -15.101868,-6.26133 -15.933334,-14.3328 z" /><path
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="path4946"
-     d="M 140.07109,170.03907 V 154.88428 L 182.03818,90.7679 H 141.23684 V 76.778871 h 60.61913 v 15.154781 l -41.96708,64.116378 h 43.13283 v 13.98904 z" /><path
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="path4948"
-     d="m 267.22918,74.447367 c -25.64655,0 -37.97022,21.982759 -37.97022,48.961603 0,26.97885 12.32367,48.9616 37.97022,48.9616 25.64655,0 37.97022,-21.98275 37.97022,-48.9616 0,-26.978844 -12.32367,-48.961603 -37.97022,-48.961603 z m 0,15.154781 c 12.82327,0 22.14929,12.823272 22.14929,33.806822 0,20.98354 -9.32602,33.80682 -22.14929,33.80682 -12.82328,0 -22.14931,-12.82328 -22.14931,-33.80682 0,-20.98355 9.32603,-33.806822 22.14931,-33.806822 z" /><path
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="path4950"
-     d="m 330.16159,170.03907 h 16.32054 v -67.61365 l 34.97257,67.61365 h 18.65204 V 76.778871 H 383.7862 V 143.22676 L 348.81364,76.778871 h -18.65205 z" /><path
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="path4952"
-     d="M 453.71313,137.398 465.37066,97.762414 477.02818,137.398 Z m 2.33151,-60.619129 -30.30957,93.260199 h 17.48629 l 5.82876,-18.65204 h 32.64107 l 5.82876,18.65204 h 17.48629 L 474.69667,76.778871 Z" /></svg>
+    </style></defs><title>1.3.1 Однопутная железная дорога</title><rect x="1.2333" y="1.2333" width="640" height="960" rx="48" ry="48" color="#000000" enable-background="accumulate" fill="#fff" fill-rule="nonzero"/><rect x="2.3" y="2.3" width="637.87" height="957.87" rx="46.933" ry="46.933" color="#000000" enable-background="accumulate" fill="none" stroke="#ccc" stroke-miterlimit="4" stroke-width="4.6"/><path d="m125.23 227.23c-15.512 0-28 12.488-28 28v392c0 15.512 12.488 28 28 28h392c15.512 0 28-12.488 28-28v-392c0-15.512-12.488-28-28-28zm100 48h128c61.856 0 112 50.144 112 112 0 61.856-50.144 112-112 112h-80v128h-48zm48 48v128h80c35.346 0 64-28.654 64-64s-28.654-64-64-64z" color="#000000" enable-background="accumulate" fill="#979797"/><path d="m49.233 22.567c-14.773 0-26.667 11.893-26.667 26.667v864c0 14.773 11.893 26.667 26.667 26.667h544c14.773 0 26.667-11.893 26.667-26.667v-864c0-14.773-11.893-26.667-26.667-26.667zm0 10.667h544c8.2987 0 15.102 6.2614 15.934 14.333l-575.93 644.43v-642.77c0-8.864 7.136-16 16-16zm560 37.233v27l-576 644.53v-27.001zm0 50v27.001l-576 644.53v-27.001zm0 50v27.001l-576 644.53v-27.001zm0 50v27.001l-576 644.53v-27.001zm0 50v642.77c0 8.864-7.136 16-16 16h-544c-8.2988 0-15.102-6.2613-15.933-14.333z" color="#000000" enable-background="accumulate" fill="#000" fill-rule="nonzero"/><path d="m140.07 170.04v-15.155l41.967-64.116h-40.801v-13.989h60.619v15.155l-41.967 64.116h43.133v13.989z" fill="#000"/><path d="m267.23 74.447c-25.647 0-37.97 21.983-37.97 48.962 0 26.979 12.324 48.962 37.97 48.962s37.97-21.983 37.97-48.962c0-26.979-12.324-48.962-37.97-48.962zm0 15.155c12.823 0 22.149 12.823 22.149 33.807 0 20.984-9.326 33.807-22.149 33.807-12.823 0-22.149-12.823-22.149-33.807 0-20.984 9.326-33.807 22.149-33.807z" fill="#000"/><path d="m330.16 170.04h16.321v-67.614l34.973 67.614h18.652v-93.26h-16.321v66.448l-34.973-66.448h-18.652z" fill="#000"/><path d="m453.71 137.4 11.658-39.636 11.658 39.636zm2.3315-60.619-30.31 93.26h17.486l5.8288-18.652h32.641l5.8288 18.652h17.486l-30.31-93.26z" fill="#000"/></svg>

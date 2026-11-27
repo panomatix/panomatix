@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
 	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
 	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
 	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
@@ -9,12 +8,12 @@
 	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
 	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
 ]>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="800" height="800">
+<svg width="800" height="800" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
   <switch>
     <g>
-      <path fill="#FFF" fill-rule="evenodd" d="M400.011 793.961c-217.894 0-394.622-176.729-394.622-394.602 0-217.911 176.728-394.603 394.622-394.603 217.892 0 394.601 176.692 394.601 394.603-.001 217.873-176.71 394.602-394.601 394.602z" clip-rule="evenodd"/>
-      <path fill="none" stroke="#1F1A17" stroke-miterlimit="10" stroke-width="4" d="M400.011 793.961c-217.894 0-394.622-176.729-394.622-394.602 0-217.911 176.728-394.603 394.622-394.603 217.892 0 394.601 176.692 394.601 394.603-.001 217.873-176.71 394.602-394.601 394.602z"/>
-      <path fill="#D9261C" fill-rule="evenodd" d="M399.157 774.422c-206.816 0-374.7-168.065-374.7-374.9 0-206.147 167.883-374.899 374.7-374.899 206.672 0 374.737 168.752 374.737 374.899.001 206.834-168.065 374.9-374.737 374.9zm.509-78.866c-163.207 0-296.361-133.136-296.361-295.708 0-163.225 133.154-296.377 296.361-296.377 163.226 0 295.544 133.153 295.544 296.377 0 162.572-132.318 295.708-295.544 295.708z" clip-rule="evenodd"/>
+      <path d="m400.01 793.96c-217.89 0-394.62-176.73-394.62-394.6 0-217.91 176.73-394.6 394.62-394.6 217.89 0 394.6 176.69 394.6 394.6-1e-3 217.87-176.71 394.6-394.6 394.6z" clip-rule="evenodd" fill="#FFF" fill-rule="evenodd"/>
+      <path d="m400.01 793.96c-217.89 0-394.62-176.73-394.62-394.6 0-217.91 176.73-394.6 394.62-394.6 217.89 0 394.6 176.69 394.6 394.6-1e-3 217.87-176.71 394.6-394.6 394.6z" fill="none" stroke="#1F1A17" stroke-miterlimit="10" stroke-width="4"/>
+      <path d="m399.16 774.42c-206.82 0-374.7-168.06-374.7-374.9 0-206.15 167.88-374.9 374.7-374.9 206.67 0 374.74 168.75 374.74 374.9 1e-3 206.83-168.06 374.9-374.74 374.9zm0.509-78.866c-163.21 0-296.36-133.14-296.36-295.71 0-163.22 133.15-296.38 296.36-296.38 163.23 0 295.54 133.15 295.54 296.38 0 162.57-132.32 295.71-295.54 295.71z" clip-rule="evenodd" fill="#D9261C" fill-rule="evenodd"/>
     </g>
   </switch>
 </svg>

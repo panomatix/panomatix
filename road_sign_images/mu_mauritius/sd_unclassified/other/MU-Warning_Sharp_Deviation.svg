@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   width="1408.101"
-   height="322.24799"
-   viewBox="0 0 1408.101 322.24799"
-   enable-background="new 0 0 1417.32 566.93"
-   xml:space="preserve"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Mauritius Road Signs - Warning Sign - Sharp Deviation.svg"><metadata
-   id="metadata19"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs17" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="1024"
-   inkscape:window-height="706"
-   id="namedview15"
-   showgrid="false"
-   fit-margin-top="0"
-   fit-margin-left="0"
-   fit-margin-right="0"
-   fit-margin-bottom="0"
-   inkscape:zoom="0.22718935"
-   inkscape:cx="704.04997"
-   inkscape:cy="172.69299"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
-<g
-   id="g3"
-   transform="translate(-4.61,-133.91001)">
-	<rect
-   x="4.6100001"
-   y="133.91"
-   width="1408.101"
-   height="322.24799"
-   id="rect5"
-   style="fill:#1b1719" />
-	<polyline
-   points="365.606,138.838 206.436,138.838 49.99,295.28 49.99,295.299 49.99,295.318 205.886,451.23    365.037,451.23 209.105,295.299 365.606,138.838  "
-   id="polyline7"
-   style="fill:#ffffff" />
-	<polyline
-   points="845.355,138.838 686.205,138.838 529.744,295.28 529.763,295.299 529.744,295.318 685.655,451.23    844.807,451.23 688.875,295.299 845.355,138.838  "
-   id="polyline9"
-   style="fill:#ffffff" />
-	<polyline
-   points="1325.125,138.838 1165.955,138.838 1009.493,295.28 1009.533,295.299 1009.493,295.318    1165.404,451.23 1324.556,451.23 1168.645,295.299 1325.125,138.838  "
-   id="polyline11"
-   style="fill:#ffffff" />
-	<path
-   d="M 4.61,133.91 V 456.158 H 1412.711 V 133.91 H 4.61 M 1407.02,451.23 H 10.324 V 138.838 H 1407.02 V 451.23 z"
-   id="path13"
-   inkscape:connector-curvature="0"
-   style="fill:#1b1719" />
+<svg width="1408.1" height="322.25" enable-background="new 0 0 1417.32 566.93" version="1.0" viewBox="0 0 1408.1 322.25" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-4.61 -133.91)">
+	<rect x="4.61" y="133.91" width="1408.1" height="322.25" fill="#1b1719"/>
+	<polyline points="365.61 138.84 206.44 138.84 49.99 295.28 49.99 295.3 49.99 295.32 205.89 451.23 365.04 451.23 209.1 295.3 365.61 138.84" fill="#fff"/>
+	<polyline points="845.36 138.84 686.2 138.84 529.74 295.28 529.76 295.3 529.74 295.32 685.66 451.23 844.81 451.23 688.88 295.3 845.36 138.84" fill="#fff"/>
+	<polyline points="1325.1 138.84 1166 138.84 1009.5 295.28 1009.5 295.3 1009.5 295.32 1165.4 451.23 1324.6 451.23 1168.6 295.3 1325.1 138.84" fill="#fff"/>
+	<path d="m4.61 133.91v322.25h1408.1v-322.25h-1408.1m1402.4 317.32h-1396.7v-312.39h1396.7v312.39z" fill="#1b1719"/>
 </g>
 </svg>

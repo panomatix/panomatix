@@ -3,7 +3,7 @@
 import { ApiError, api, get, post, put, del, signPath, vocab } from '../api.js';
 import { block, confirmDialog, debounce, h, signHref, toast, add as addTo, fill } from '../dom.js';
 import { t } from '../i18n.js';
-import { bool, field, listEditor, mapEditor, strList, sub, text } from '../widgets.js';
+import { bool, field, listEditor, mapEditor, strList, sub, text, uploadedMessage } from '../widgets.js';
 import { languageEditor, parameterEditor, showErrors } from './editor.js';
 import { displayName } from './list.js';
 
@@ -429,7 +429,7 @@ export async function openUnitEditor(reference, loc, jurKey, { onSaved, countryC
         try {
           const r = await api('POST', '/api/v1/images', fd, { form: true });
           images[code] = [r.url, ...(images[code] ?? [])];
-          toast(t('Image uploaded.'));
+          toast(uploadedMessage(r));
         } catch (err) { toast(err.message, 'error'); }
       } else {
         pendingUploads.set(code, file);

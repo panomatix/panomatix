@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
-<title>1.31.5 Направление поворота</title>
-<path style="fill:#fff" d="M1 1h498v498H1z"/><path d="M498 2v496H2V2h496m2-2H0v500h500V0z"/><path d="m10 250 240 240H10zm0-240v240L250 10zm470 0L240 250l240 240h10V10z" style="fill:red"/></svg>
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg"><title>1.31.5 Направление поворота</title><path d="M1 1h498v498H1z" fill="#fff"/><path d="M498 2v496H2V2h496m2-2H0v500h500V0z"/><path d="m10 250 240 240H10zm0-240v240L250 10zm470 0L240 250l240 240h10V10z" fill="red"/></svg>

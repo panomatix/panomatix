@@ -1,17 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd' [
 	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
 	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
 	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
 ]>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="513" height="437" viewBox="-0.692 -0.116 513 437" xml:space="preserve">
-	<defs>
-	</defs>
-	<g>
-		<rect x="0.108" y="0.108" fill="#0C479D" stroke="#000000" stroke-width="0.216" width="511.272" height="436.608"/> 
-		<path fill="#FFFFFF" stroke="#000000" stroke-width="0.216" d="M37.404,0.108h436.752c20.592,0,37.224,16.704,37.224,37.296    v362.088c0,20.592-16.632,37.224-37.224,37.224H37.404C16.956,436.86,0.18,420.156,0.18,399.492l0,0V37.404    C0.18,16.812,16.884,0.108,37.404,0.108c0.144,0,0.144,0,0.144,0H37.404z"/>
-		<path fill="#0C479D" d="M37.404,16.02h436.752c11.808,0,21.312,9.576,21.312,21.384v362.088c0,11.808-9.504,21.312-21.312,21.312    H37.404c-11.664,0-21.24-9.504-21.24-21.312l0,0V37.404C16.164,25.596,25.74,16.02,37.404,16.02c0.144,0,0.144,0,0.144,0H37.404z"/>
-		<polygon fill="#FFFFFF" points="149.292,181.116 234.54,181.116 234.54,367.524 277.092,367.524 277.092,181.116 362.34,181.116 255.708,74.7"/>
-	</g>
+<svg width="513" height="437" viewBox="-.692 -.116 513 437" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+	
+	
+		<rect x=".108" y=".108" width="511.27" height="436.61" fill="#0C479D" stroke="#000" stroke-width=".216"/> 
+		<path d="m37.404 0.108h436.75c20.592 0 37.224 16.704 37.224 37.296v362.09c0 20.592-16.632 37.224-37.224 37.224h-436.75c-20.448 0.144-37.224-16.56-37.224-37.224v-362.09c0-20.592 16.704-37.296 37.224-37.296h0.144-0.144z" fill="#fff" stroke="#000" stroke-width=".216"/>
+		<path d="m37.404 16.02h436.75c11.808 0 21.312 9.576 21.312 21.384v362.09c0 11.808-9.504 21.312-21.312 21.312h-436.75c-11.664 0-21.24-9.504-21.24-21.312v-362.09c0-11.808 9.576-21.384 21.24-21.384h0.144-0.144z" fill="#0C479D"/>
+		<polygon points="149.29 181.12 234.54 181.12 234.54 367.52 277.09 367.52 277.09 181.12 362.34 181.12 255.71 74.7" fill="#fff"/>
+	
 </svg>

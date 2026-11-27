@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="Nederlandse_Wegenverkeersregeling_1941_figuur_58" width="600" height="600"
-xmlns="http://www.w3.org/2000/svg" version="1.1">
-<circle id="blauwe_cirkel_met_rode_rand" cx="300" cy="300" r="260"
-fill="#0e518d" stroke="#c1121c" stroke-width="80" />
-<path id="streep_rood" fill="none" stroke="#c1121c" stroke-width="40px"
-     d="M 120,120 480,480" />
-</svg>
+<svg width="600" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg"><circle cx="300" cy="300" r="260" fill="#0e518d" stroke="#c1121c" stroke-width="80"/><path d="m120 120 360 360" fill="none" stroke="#c1121c" stroke-width="40px"/></svg>

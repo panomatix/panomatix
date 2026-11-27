@@ -9,18 +9,24 @@ import { createApp } from '../server/app.js';
 import { loadConfig } from '../server/config.js';
 import { addRevision, now, openDatabase, storeSign } from '../server/db.js';
 import { hashPassword } from '../server/security.js';
+import { restoreBackups, runBackup } from '../server/backup.js';
 import { normalizeEntry, validateEntry } from '../server/validation.js';
+import sharp from 'sharp';
 
 const fixture = JSON.parse(fs.readFileSync(new URL('./fixture.json', import.meta.url), 'utf8'));
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'pmx-test-'));
 let server;
 let base;
 let db;
+let config;
+const mails = []; // messages the server "sent"
 
 before(async () => {
   const imagesDir = path.join(tmp, 'images');
   fs.mkdirSync(path.join(imagesDir, 'be_belgium', 'b_priority_signs', 'vienna'), { recursive: true });
-  fs.writeFileSync(path.join(imagesDir, 'be_belgium', 'b_priority_signs', 'vienna', 'BE-B1.svg'), '<svg xmlns="http://www.w3.org/2000/svg"/>');
+  fs.writeFileSync(path.join(imagesDir, 'be_belgium', 'b_priority_signs', 'vienna', 'BE-B1.svg'), '<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10"/>');
+  fs.mkdirSync(path.join(imagesDir, 'be_belgium', 'h_additional_panels', 'other'), { recursive: true });
+  fs.writeFileSync(path.join(imagesDir, 'be_belgium', 'h_additional_panels', 'other', 'BE-M2.svg'), '<svg xmlns="http://www.w3.org/2000/svg" width="10" height="4"/>');
   const viennaDir = path.join(tmp, 'vienna');
   fs.mkdirSync(path.join(viennaDir, 'b_priority_signs'), { recursive: true });
   for (const f of ['B-01.1_inverted-triangle_white_red_none.svg', 'B-01.1_inverted-triangle_yellow_red_none.svg', 'B-01.1_circle_green_none_white.svg', 'B-01.1-old-name.svg']) fs.writeFileSync(path.join(viennaDir, 'b_priority_signs', f), '<svg xmlns="http://www.w3.org/2000/svg"/>');
@@ -33,8 +39,8 @@ before(async () => {
   }
   db.prepare('INSERT INTO users (email, display_name, password_hash, role, created_at) VALUES (?,?,?,?,?)')
     .run('mod@example.org', 'Moderator', await hashPassword('moderator-password-1'), 'moderator', ts);
-  const config = loadConfig({ database: ':unused:', imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
-  const app = createApp({ config, db });
+  config = loadConfig({ database: ':unused:', backupDir: path.join(tmp, 'backups'), imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
+  const app = createApp({ config, db, mailer: { send: (m) => { mails.push(m); } } });
   server = http.createServer(app.handle);
   await new Promise((r) => server.listen(0, '127.0.0.1', r));
   base = `http://127.0.0.1:${server.address().port}`;
@@ -66,6 +72,18 @@ class Client {
     if (data?.csrf_token) this.csrf = data.csrf_token;
     return { status: res.status, data, headers: res.headers };
   }
+}
+
+/** The link token of the last email sent to an address. */
+function lastToken(email) {
+  const m = mails.findLast((x) => x.to === email);
+  return m && /[?&]token=([\w-]+)/.exec(m.text)[1];
+}
+
+/** Sign up through the email link and leave the client signed in. */
+async function signUp(c, email, display_name, password) {
+  assert.equal((await c.req('POST', '/api/v1/auth/register', { email, display_name })).status, 202);
+  return c.req('POST', '/api/v1/auth/set-password', { token: lastToken(email.toLowerCase()), password });
 }
 
 const sign = (c, ref) => c.req('GET', `/api/v1/signs/${encodeURIComponent(ref)}`);
@@ -106,23 +124,63 @@ describe('validation', () => {
 });
 
 describe('accounts', () => {
-  test('register, me, logout', async () => {
+  test('sign up by email link, me, logout', async () => {
     const c = new Client();
-    const r = await c.req('POST', '/api/v1/auth/register', { email: 'Alice@Example.org', display_name: 'Alice', password: 'a long enough password' });
-    assert.equal(r.status, 201);
-    assert.equal(r.data.user.email, 'alice@example.org');
-    assert.equal(r.data.user.role, 'contributor');
-    assert.match(r.headers.get('set-cookie'), /HttpOnly/);
+    const r = await c.req('POST', '/api/v1/auth/register', { email: 'Alice@Example.org', display_name: 'Alice', lang: 'fr' });
+    assert.equal(r.status, 202);
+    assert.equal(r.headers.get('set-cookie'), null); // not signed in yet
+    const mail = mails.at(-1);
+    assert.equal(mail.to, 'alice@example.org');
+    assert.match(mail.subject, /Confirmez/);
+    assert.match(mail.text, /http:\/\/127\.0\.0\.1:8080\/#\/set-password\?token=/);
+    // the pending account cannot sign in
+    assert.equal((await c.req('POST', '/api/v1/auth/login', { email: 'alice@example.org', password: '' })).status, 401);
+    const token = lastToken('alice@example.org');
+    const info = await c.req('POST', '/api/v1/auth/link', { token });
+    assert.deepEqual(info.data, { purpose: 'verify', email: 'alice@example.org', display_name: 'Alice' });
+    assert.equal((await c.req('POST', '/api/v1/auth/set-password', { token, password: 'short' })).data.error.code, 'weak_password');
+    const s = await c.req('POST', '/api/v1/auth/set-password', { token, password: 'a long enough password' });
+    assert.equal(s.status, 200);
+    assert.equal(s.data.user.role, 'contributor');
+    assert.match(s.headers.get('set-cookie'), /HttpOnly/);
+    assert.ok(db.prepare('SELECT email_verified_at FROM users WHERE email=?').get('alice@example.org').email_verified_at);
+    // the link works once
+    assert.equal((await c.req('POST', '/api/v1/auth/set-password', { token, password: 'another long password' })).data.error.code, 'invalid_token');
     assert.equal((await c.req('GET', '/api/v1/auth/me')).data.user.display_name, 'Alice');
     assert.equal((await c.req('POST', '/api/v1/auth/logout')).status, 200);
     c.csrf = null;
     assert.equal((await c.req('GET', '/api/v1/auth/me')).data.user, null);
+    assert.equal((await c.req('POST', '/api/v1/auth/login', { email: 'alice@example.org', password: 'a long enough password' })).status, 200);
   });
-  test('duplicate email, weak password and bad email are refused', async () => {
+  test('signing up again with a known address does not reveal it, and mails the owner', async () => {
     const c = new Client();
-    assert.equal((await c.req('POST', '/api/v1/auth/register', { email: 'alice@example.org', display_name: 'Al', password: 'another long password' })).status, 409);
-    assert.equal((await c.req('POST', '/api/v1/auth/register', { email: 'bob@example.org', display_name: 'Bob', password: 'short' })).data.error.code, 'weak_password');
-    assert.equal((await c.req('POST', '/api/v1/auth/register', { email: 'nope', display_name: 'Bob', password: 'a long enough password' })).data.error.code, 'invalid_email');
+    const r = await c.req('POST', '/api/v1/auth/register', { email: 'alice@example.org', display_name: 'Al' });
+    assert.equal(r.status, 202);
+    assert.match(mails.at(-1).subject, /Your Panomatix account/);
+    assert.equal(db.prepare('SELECT display_name FROM users WHERE email=?').get('alice@example.org').display_name, 'Alice');
+    assert.equal((await c.req('POST', '/api/v1/auth/register', { email: 'nope', display_name: 'Bob' })).data.error.code, 'invalid_email');
+    assert.equal((await c.req('POST', '/api/v1/auth/link', { token: 'made-up' })).data.error.code, 'invalid_token');
+  });
+  test('forgotten password: reset link signs out other sessions', async () => {
+    const other = new Client();
+    await other.req('POST', '/api/v1/auth/login', { email: 'alice@example.org', password: 'a long enough password' });
+    const c = new Client();
+    const before = mails.length;
+    assert.equal((await c.req('POST', '/api/v1/auth/forgot-password', { email: 'nobody@example.org' })).status, 202);
+    assert.equal(mails.length, before); // unknown address: same answer, no mail
+    assert.equal((await c.req('POST', '/api/v1/auth/forgot-password', { email: 'Alice@example.org' })).status, 202);
+    assert.match(mails.at(-1).subject, /Reset/);
+    const token = lastToken('alice@example.org');
+    assert.equal((await c.req('POST', '/api/v1/auth/link', { token })).data.purpose, 'reset');
+    assert.equal((await c.req('POST', '/api/v1/auth/set-password', { token, password: 'a brand new password' })).status, 200);
+    assert.equal((await other.req('GET', '/api/v1/auth/me')).data.user, null);
+    assert.equal((await c.req('POST', '/api/v1/auth/login', { email: 'alice@example.org', password: 'a long enough password' })).status, 401);
+    assert.equal((await c.req('POST', '/api/v1/auth/login', { email: 'alice@example.org', password: 'a brand new password' })).status, 200);
+    // an expired link is refused
+    await c.req('POST', '/api/v1/auth/forgot-password', { email: 'alice@example.org' });
+    db.prepare('UPDATE email_tokens SET expires_at = 0').run();
+    assert.equal((await c.req('POST', '/api/v1/auth/link', { token: lastToken('alice@example.org') })).data.error.code, 'invalid_token');
+    db.exec('DELETE FROM rate_events');
   });
   test('wrong password is rejected, then rate limited', async () => {
     const c = new Client();
@@ -156,7 +214,7 @@ describe('signs', () => {
 
   test('edit flow: CSRF, panel above the sign, conflict, history, revert', async () => {
     const c = new Client();
-    await c.req('POST', '/api/v1/auth/register', { email: 'carol@example.org', display_name: 'Carol', password: 'carol long password' });
+    await signUp(c, 'carol@example.org', 'Carol', 'carol long password');
     const s = (await sign(c, 'VIENNA:B-01.1')).data;
     const data = structuredClone(s.data);
     data.officialSign.additional.top = [{ index: 1, reference: ['VIENNA:H-03.1'] }];
@@ -200,7 +258,7 @@ describe('signs', () => {
 
   test('create, delete and restore', async () => {
     const c = new Client();
-    await c.req('POST', '/api/v1/auth/register', { email: 'dave@example.org', display_name: 'Dave', password: 'dave long password' });
+    await signUp(c, 'dave@example.org', 'Dave', 'dave long password');
     const entry = structuredClone(fixture.find((x) => x.reference === 'OTHER:A27'));
     entry.reference = 'OTHER:A27-test';
     const created = await c.req('POST', '/api/v1/signs', { data: entry, comment: 'new' });
@@ -230,7 +288,7 @@ describe('signs', () => {
 
   test('per-country editing: update, move to another design, new design, add, remove', async () => {
     const c = new Client();
-    await c.req('POST', '/api/v1/auth/register', { email: 'frank@example.org', display_name: 'Frank', password: 'frank long password' });
+    await signUp(c, 'frank@example.org', 'Frank', 'frank long password');
     const url = '/api/v1/signs/VIENNA%3AC-14.1/countries/';
     const v0 = (await c.req('GET', `${url}france`)).data;
     assert.equal(v0.variants.length, 1);
@@ -294,20 +352,48 @@ describe('signs', () => {
 describe('images and static files', () => {
   test('upload: unsafe SVG refused, valid PNG filed under the sign category', async () => {
     const c = new Client();
-    await c.req('POST', '/api/v1/auth/register', { email: 'erin@example.org', display_name: 'Erin', password: 'erin long password' });
+    await signUp(c, 'erin@example.org', 'Erin', 'erin long password');
     const evil = new FormData();
     evil.append('code', 'be:B1');
     evil.append('file', new Blob(['<svg xmlns="http://www.w3.org/2000/svg" onload="alert(1)"/>']), 'x.svg');
     assert.equal((await c.req('POST', '/api/v1/images', evil)).data.error.code, 'unsafe_svg');
-    const png = new FormData();
-    png.append('code', 'be:B1');
-    png.append('file', new Blob([Buffer.from('89504e470d0a1a0a0000000d49484452', 'hex')]), 'x.png');
-    const r = await c.req('POST', '/api/v1/images', png);
+    // a big photo is scaled down and converted to WebP, without its metadata
+    const photo = await sharp({ create: { width: 3000, height: 2000, channels: 3, noise: { type: 'gaussian', mean: 128, sigma: 40 } } })
+      .jpeg({ quality: 95 }).withExif({ IFD0: { Artist: 'someone' } }).toBuffer();
+    const jpg = new FormData();
+    jpg.append('code', 'be:B1');
+    jpg.append('file', new Blob([photo]), 'x.jpg');
+    const r = await c.req('POST', '/api/v1/images', jpg);
     assert.equal(r.status, 201);
-    assert.equal(r.data.path, 'be_belgium/b_priority_signs/vienna/BE-B1.png');
+    assert.equal(r.data.path, 'be_belgium/b_priority_signs/vienna/BE-B1.webp');
+    assert.ok(r.data.bytes < r.data.original_bytes);
     const img = await fetch(base + r.data.url);
-    assert.equal(img.headers.get('content-type'), 'image/png');
+    assert.equal(img.headers.get('content-type'), 'image/webp');
     assert.match(img.headers.get('content-security-policy'), /sandbox/);
+    const meta = await sharp(Buffer.from(await img.arrayBuffer())).metadata();
+    assert.deepEqual([meta.width, meta.height, meta.exif], [2000, 1333, undefined]);
+    // a truncated file is refused
+    const broken = new FormData();
+    broken.append('code', 'be:B1');
+    broken.append('file', new Blob([Buffer.from('89504e470d0a1a0a0000000d49484452', 'hex')]), 'x.png');
+    assert.equal((await c.req('POST', '/api/v1/images', broken)).data.error.code, 'unsupported_image');
+    // SVG: editor data and comments are dropped
+    const svg = new FormData();
+    svg.append('code', 'be:B1');
+    svg.append('file', new Blob(['<?xml version="1.0"?>\n<!-- made with Inkscape -->\n<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.3">\n  <metadata><x/></metadata>\n  <rect width="10" height="10" inkscape:label="r"/>\n</svg>\n']), 'x.svg');
+    const rs = await c.req('POST', '/api/v1/images', svg);
+    assert.equal(await (await fetch(base + rs.data.url)).text(), '<svg xmlns="http://www.w3.org/2000/svg"><rect width="10" height="10"/></svg>');
+  });
+  test('a code "sign+panel" without its own picture shows the two pictures stacked', async () => {
+    const r = await new Client().req('GET', `/api/v1/images?code=${encodeURIComponent('be:B1+M2')}`);
+    assert.deepEqual(r.data.images, ['/media/%40stack/be%3AB1%2BM2.svg']);
+    const img = await fetch(base + r.data.images[0]);
+    assert.equal(img.status, 200);
+    assert.match(img.headers.get('content-security-policy'), /sandbox/);
+    const body = await img.text();
+    assert.equal(body.match(/<image /g).length, 2);
+    assert.match(body, /data:image\/svg\+xml;base64,/);
+    assert.equal((await new Client().req('GET', `/api/v1/images?code=${encodeURIComponent('be:B1+NOPE')}`)).data.images.length, 0);
   });
   test('official Vienna models: listed on the sign, used as thumbnail, served sandboxed', async () => {
     const s = (await sign(new Client(), 'VIENNA:B-01.1')).data;
@@ -347,7 +433,7 @@ describe('national signs (units) and additional panels', () => {
 
   test('read a unit: data, places it can go, Convention panels', async () => {
     c = new Client();
-    await c.req('POST', '/api/v1/auth/register', { email: 'una@example.org', display_name: 'Una', password: 'una long password' });
+    await signUp(c, 'una@example.org', 'Una', 'una long password');
     const v = (await c.req('GET', unit('VIENNA:B-01.1', 'd0', 'belgium'))).data;
     assert.equal(v.exists, true);
     assert.equal(v.data.countryCode, 'be');
@@ -423,5 +509,64 @@ describe('national signs (units) and additional panels', () => {
     const del = await c.req('DELETE', unit('VIENNA:C-14.1', 'd2', 'belgium'), { version: t.version });
     assert.equal(del.status, 200);
     assert.ok(!(await sign(c, 'VIENNA:C-14.1')).data.data.officialSign.designs[2].jurisdictions.belgium);
+  });
+});
+
+describe('account deletion, robots and backups', () => {
+  test('a robot filling the hidden field gets the usual answer and no email', async () => {
+    const before = mails.length;
+    const r = await new Client().req('POST', '/api/v1/auth/register', { email: 'bot@example.org', display_name: 'Bot', website: 'http://spam' });
+    assert.equal(r.status, 202);
+    assert.equal(mails.length, before);
+    assert.equal(db.prepare('SELECT 1 FROM users WHERE email=?').get('bot@example.org'), undefined);
+  });
+
+  test('backups hold only the changes since the previous one, and restore them', async () => {
+    const first = runBackup(db, config); // everything done by the tests so far
+    assert.ok(first.file && first.revisions > 0);
+    assert.equal(runBackup(db, config).file, null); // nothing new
+    const c = new Client();
+    await signUp(c, 'zoe@example.org', 'Zoe', 'zoe long password!');
+    const s = (await sign(c, 'VIENNA:B-01.1')).data;
+    s.data.name = { ...s.data.name, en: 'Give way (backup test)' };
+    assert.equal((await c.req('PUT', '/api/v1/signs/VIENNA%3AB-01.1', { data: s.data, version: s.version })).status, 200);
+    const second = runBackup(db, config);
+    assert.deepEqual([second.revisions, second.users], [1, 1]);
+
+    // a fresh database with only the imported signs gets the edit, its author and the uploads back
+    const other = openDatabase(path.join(tmp, 'restored.sqlite3'));
+    const ts = now();
+    for (const e of fixture) {
+      storeSign(other, e, { version: 1, userId: null, ts, insert: true });
+      addRevision(other, { reference: e.reference, version: 1, action: 'import', entry: e, ts });
+    }
+    const files = fs.readdirSync(config.backupDir).map((f) => path.join(config.backupDir, f));
+    const r = restoreBackups(other, config, files);
+    assert.ok(r.revisions > 1 && r.users >= 1);
+    const row = other.prepare('SELECT data, version FROM signs WHERE reference=?').get('VIENNA:B-01.1');
+    assert.equal(JSON.parse(row.data).name.en, 'Give way (backup test)');
+    assert.equal(row.version, s.version + 1);
+    assert.equal(other.prepare('SELECT password_hash FROM users WHERE email=?').get('zoe@example.org').password_hash, '');
+    assert.deepEqual(restoreBackups(other, config, files), { revisions: 0, images: 0, users: 0 }); // idempotent
+    other.close();
+  });
+
+  test('deleting one\'s account keeps the edits without the name; the last admin cannot', async () => {
+    const c = new Client();
+    await c.req('POST', '/api/v1/auth/login', { email: 'zoe@example.org', password: 'zoe long password!' });
+    const id = (await c.req('GET', '/api/v1/auth/me')).data.user.id;
+    assert.equal((await c.req('DELETE', '/api/v1/auth/me', { password: 'wrong password' })).data.error.code, 'invalid_credentials');
+    const r = await c.req('DELETE', '/api/v1/auth/me', { password: 'zoe long password!' });
+    assert.equal(r.status, 200);
+    assert.equal(db.prepare('SELECT 1 FROM users WHERE id=?').get(id), undefined);
+    assert.equal(db.prepare('SELECT COUNT(*) AS n FROM revisions WHERE user_id=?').get(id).n, 0);
+    assert.ok(db.prepare("SELECT COUNT(*) AS n FROM revisions WHERE user_id IS NULL AND action='update'").get().n > 0);
+    assert.equal((await c.req('GET', '/api/v1/auth/me')).data.user, null);
+    // the only administrator
+    db.prepare('INSERT INTO users (email, display_name, password_hash, role, created_at) VALUES (?,?,?,?,?)')
+      .run('boss@example.org', 'Boss', await hashPassword('boss long password'), 'admin', now());
+    const a = new Client();
+    await a.req('POST', '/api/v1/auth/login', { email: 'boss@example.org', password: 'boss long password' });
+    assert.equal((await a.req('DELETE', '/api/v1/auth/me', { password: 'boss long password' })).data.error.code, 'last_admin');
   });
 });

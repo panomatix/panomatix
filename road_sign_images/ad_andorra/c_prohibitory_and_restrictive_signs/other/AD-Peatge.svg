@@ -1,10 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250">
-<circle cx="125" cy="125" r="100" stroke="#E41408" stroke-width="30" fill="#FFFFFF"/>
-<path d="m 75,125 100,0" stroke="#000" stroke-width="20" stroke-linecap="round"/>
-<text font-family="Nimbus Sans L" font-weight="bold">
-<tspan x="60" y="105" font-size="30">PEATGE</tspan>
-<tspan x="88" y="165" font-size="30">TOLL</tspan>
-</text>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="250" height="250" xmlns="http://www.w3.org/2000/svg"><circle cx="125" cy="125" r="100" fill="#fff" stroke="#E41408" stroke-width="30"/><path d="m75 125h100" stroke="#000" stroke-linecap="round" stroke-width="20"/><text font-family="Nimbus Sans L" font-size="30" font-weight="bold"><tspan x="60" y="105">PEATGE</tspan><tspan x="88" y="165">TOLL</tspan></text></svg>

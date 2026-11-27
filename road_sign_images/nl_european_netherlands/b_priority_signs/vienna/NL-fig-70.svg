@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="Nederlandse_Wegenverkeersregeling_1941_figuur_70" width="600" height="600"
-xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <circle
-     r="260"
-     cy="300"
-     cx="300"
-     style="fill:#f7fbf5;stroke:#c1121c;stroke-width:80px"
-     id="witte_cirkel_met_rode_rand" />
-  <path
-     d="M 190,160 h 30 v 200 l 60,-30 l -75,110 l -75,-110 l 60,30 z"
-     style="fill:#2a2d2f"
-     id="pijl_zwart" />
-  <path
-     d="M 380,440 h 30 v -200 l 60,30 l -75,-110 l -75,110 l 60,-30 z"
-     style="fill:#c1121c"
-     id="pijl_rood" />
-</svg>
+<svg width="600" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg"><circle cx="300" cy="300" r="260" fill="#f7fbf5" stroke="#c1121c" stroke-width="80px"/><path d="m190 160h30v200l60-30-75 110-75-110 60 30z" fill="#2a2d2f"/><path d="m380 440h30v-200l60 30-75-110-75 110 60-30z" fill="#c1121c"/></svg>

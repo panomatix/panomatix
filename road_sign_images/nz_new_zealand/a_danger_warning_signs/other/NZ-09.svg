@@ -1,40 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="45.568275mm"
-   height="45.568295mm"
-   viewBox="0 0 45.568275 45.568295"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="NZdraw.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="2.56"
-     inkscape:cx="-2526.3672"
-     inkscape:cy="1584.5703"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showguides="true" /><defs
-     id="defs1"><style
-       id="style1">
+<svg width="45.568mm" height="45.568mm" version="1.1" viewBox="0 0 45.568 45.568" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style>
 	.a {
 		fill: #fff;
 	}
@@ -42,8 +6,7 @@
 	.b {
 		fill: #af1e2d;
 	}
-  </style><style
-       id="style1-8">
+  </style><style>
 	.a {
 		fill: #fff;
 	}
@@ -51,43 +14,4 @@
 	.b {
 		fill: #af1e2d;
 	}
-  </style><marker
-       style="overflow:visible"
-       id="DartArrow-5-1"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Dart arrow"
-       markerWidth="0.2"
-       markerHeight="0.40000001"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="none"><path
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         transform="scale(-0.5)"
-         id="path6-8-4" /></marker></defs><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(734.78523,261.91564)"><g
-       id="g51"
-       inkscape:export-filename="..\..\..\1928 NZ Road sign 09.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><rect
-         style="fill:#fddc04;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         id="rect19"
-         width="32.221645"
-         height="32.221645"
-         x="-688.66315"
-         y="318.25851"
-         transform="rotate(45)" /><path
-         style="fill:none;stroke:#000000;stroke-width:3.3;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow-5-1)"
-         d="m -712.00112,-225.92406 v -22.28985"
-         id="path19"
-         sodipodi:nodetypes="cc" /><path
-         style="fill:none;stroke:#000000;stroke-width:3.3;stroke-dasharray:none;stroke-opacity:1"
-         d="m -719.38236,-239.22488 h 8.35458"
-         id="path20"
-         sodipodi:nodetypes="cc" /></g></g></svg>
+  </style><marker id="a" overflow="visible" markerHeight="0.40000001" markerWidth="0.2" orient="auto-start-reverse" preserveAspectRatio="none" viewBox="0 0 1 1"><path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/></marker></defs><g transform="translate(734.79 261.92)"><rect transform="rotate(45)" x="-688.66" y="318.26" width="32.222" height="32.222" fill="#fddc04"/><path d="m-712-225.92v-22.29" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="3.3"/><path d="m-719.38-239.22h8.3546" fill="none" stroke="#000" stroke-width="3.3"/></g></svg>

@@ -1,13 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<svg id="Nederlands_verkeersbord_D4" width="300" height="300" viewBox="0 0 300 300"
-xmlns="http://www.w3.org/2000/svg" version="1.1">
-
-<circle id="blauwe_cirkel" cx="150" cy="150" r="150" fill="#0e518d" />
-
-<circle id="doorzichtige_cirkel_met_witte_rand" cx="150" cy="150" r="141.942"
-fill="none" stroke="#f7fbf5" stroke-width="6.736" />
-
-<path id="witte_pijl" fill="#f7fbf5"
-     d="M 162.2836,259.67606 L 162.2836,113.53672 L 193.33247,120.74433 C 200.83137,123.69979 206.7515,119.82656 202.50863,112.55156 L 155.14592,44.53396 C 150.87023,38.44625 147.25215,38.44625 142.97645,44.53396 L 95.613746,112.55156 C 91.370866,119.82656 97.291006,123.69979 104.7899,120.74433 L 135.83877,113.53672 L 135.83877,259.67606 L 162.2836,259.67606" />
-
-</svg>
+<svg width="300" height="300" version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="150" r="150" fill="#0e518d"/><circle cx="150" cy="150" r="141.94" fill="none" stroke="#f7fbf5" stroke-width="6.736"/><path d="m162.28 259.68v-146.14l31.049 7.2076c7.4989 2.9555 13.419-0.91777 9.1762-8.1928l-47.363-68.018c-4.2757-6.0877-7.8938-6.0877-12.169 0l-47.363 68.018c-4.2429 7.275 1.6773 11.148 9.1762 8.1928l31.049-7.2076v146.14h26.445" fill="#f7fbf5"/></svg>

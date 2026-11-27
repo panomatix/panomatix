@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="960">
-	<circle cx="480" cy="480" r="480" fill="#ee1c23"/>
-	<circle cx="480" cy="480" r="360" fill="#176fc1"/>
-	<path d="M 150,150 L 810,810" stroke="#ee1c23" stroke-width="90"/>
-</svg>
+<svg width="960" height="960" xmlns="http://www.w3.org/2000/svg"><circle cx="480" cy="480" r="480" fill="#ee1c23"/><circle cx="480" cy="480" r="360" fill="#176fc1"/><path d="m150 150 660 660" stroke="#ee1c23" stroke-width="90"/></svg>

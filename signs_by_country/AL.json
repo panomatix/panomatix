@@ -1,0 +1,5532 @@
+{
+ "country_code": "AL",
+ "country": "Albania",
+ "folder": "AL_Albania",
+ "generated": "2026-11-23 16:02:02",
+ "model": "florence-community/Florence-2-base",
+ "vocabulary_version": 2,
+ "stats": {
+  "panneaux": 16,
+  "avec_description_ia": 16,
+  "avec_concept": 0,
+  "avec_categorie_vienne": 7,
+  "avec_pictogramme": 1
+ },
+ "tag_counts": {
+  "color:white": 16,
+  "has_text": 16,
+  "script:latin": 15,
+  "element:text": 14,
+  "element_role:text": 14,
+  "background:white": 13,
+  "element_role:border": 13,
+  "color:black": 12,
+  "color:grey": 12,
+  "color:red": 12,
+  "element:black_text": 12,
+  "element:pictogram": 10,
+  "outline_corners:sharp": 10,
+  "element:bar": 9,
+  "border:white": 9,
+  "element:bar_horizontal": 7,
+  "color:blue": 7,
+  "outline:rectangle": 7,
+  "shape:rectangle": 7,
+  "outline:square": 7,
+  "shape:square": 7,
+  "element:frame_circle": 6,
+  "element:red_frame_circle": 6,
+  "element:frame_rectangle": 6,
+  "element:white_pictogram": 6,
+  "element:red_bar": 5,
+  "element:black_frame_square": 5,
+  "element:frame_square": 5,
+  "symbol:black": 4,
+  "element:white_bar": 4,
+  "symbol:red": 4,
+  "element:white_frame_rectangle": 4,
+  "symbol:blue": 4,
+  "has_number": 4,
+  "outline_corners:rounded": 4,
+  "border:blue": 3,
+  "element:blue_frame_rectangle": 3,
+  "element:red_pictogram": 3,
+  "element:white_text": 3,
+  "symbol:white": 3,
+  "element:arrow": 3,
+  "element:white_arrow": 3,
+  "border:red": 2,
+  "element:black_bar": 2,
+  "element:white_frame_circle": 2,
+  "function:prohibition_restriction": 2,
+  "outline:disc": 2,
+  "shape:circle": 2,
+  "vienna:C": 2,
+  "background:blue": 2,
+  "element:blue_bar": 2,
+  "element:frame_rectangle_with_bar_horizontal": 2,
+  "function:special_regulation": 2,
+  "vienna:E": 2,
+  "function:additional_panel": 2,
+  "vienna:H": 2,
+  "element:black_frame_rectangle": 2,
+  "element:blue_pictogram": 2,
+  "border:green": 2,
+  "color:green": 2,
+  "element:green_pictogram": 2,
+  "element:blue_half_disc": 2,
+  "element:half_disc": 2,
+  "element:arrow_left": 2,
+  "element:bar_vertical": 2,
+  "element:dot": 2,
+  "element:double_arrow": 2,
+  "element:rectangle": 2,
+  "element:white_dot": 2,
+  "element:white_double_arrow": 2,
+  "element:white_rectangle": 2,
+  "number:150": 2,
+  "number:250": 2,
+  "number:500": 2,
+  "element:bar_diagonal_rising": 2,
+  "element_role:prohibition_bar": 2,
+  "element:disc": 2,
+  "element:red_frame_rectangle": 1,
+  "background:green": 1,
+  "element:line": 1,
+  "element:line_horizontal": 1,
+  "element:square": 1,
+  "element:white_line": 1,
+  "element:white_square": 1,
+  "function:direction_position": 1,
+  "number:54": 1,
+  "number:7": 1,
+  "vienna:G": 1,
+  "element:arrow_down_left": 1,
+  "element:arrow_down_right": 1,
+  "element:arrow_up_left": 1,
+  "element:arrow_up_right": 1,
+  "element:frame_circle_with_bar_diagonal_falling": 1,
+  "element:green_frame_rectangle": 1,
+  "symbol:green": 1,
+  "element:white_frame_square": 1,
+  "number:74": 1,
+  "element:quadrilateral": 1,
+  "element:white_quadrilateral": 1,
+  "pictogram:pedestrian": 1,
+  "element:white_disc": 1,
+  "keyword:zone": 1,
+  "element:blue_disc": 1
+ },
+ "signs": [
+  {
+   "file": "AL_Albania/circle/AL-ndal_policia.svg",
+   "id": "ndal_policia",
+   "iso": "AL",
+   "osm_tag": "AL:ndal_policia",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Albanian_traffic_sign_-_ndal_-_policia.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Circle sign with white background and red border; elements: white circle frame (border), red circle frame (border), black horizontal bar at center, black text \"POLICIA\" at center, black text \"NDAL\" at center; contains text; Vienna category C (prohibition restriction).",
+    "ai_caption": "The image shows a red and white sign with the words \"NDAL POLICIA\" written on it against a white background.",
+    "ai_ocr": "NDAL POLICIA",
+    "official_name": null,
+    "source_description": "ndal_policia",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "circle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "red",
+     "symbol": "black",
+     "present": [
+      "red",
+      "white",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "red",
+       "white",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "red": 0.426,
+       "white": 0.415,
+       "black": 0.105,
+       "grey": 0.054
+      },
+      "border": "red",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 0.79
+     }
+    },
+    "function": {
+     "vienna_category": "C",
+     "name": "prohibition_restriction",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "circle",
+      "geometry": "disc",
+      "vertices": 0,
+      "aspect_ratio": 1.0,
+      "circularity": 0.999
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.006,
+        0.006,
+        0.994,
+        0.994
+       ],
+       "area": 0.0389,
+       "vertices": 0,
+       "thickness": 0.009,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "red circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.016,
+        0.984,
+        0.984
+       ],
+       "area": 0.4232,
+       "vertices": 0,
+       "thickness": 0.132,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white disc (background)",
+       "role": "background",
+       "shape": "disc",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.144,
+        0.144,
+        0.856,
+        0.856
+       ],
+       "area": 0.3797,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.993,
+       "elongation": 1.04
+      },
+      {
+       "id": "e4",
+       "label": "black horizontal bar at center",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.212,
+        0.45,
+        0.787,
+        0.55
+       ],
+       "area": 0.0696,
+       "orientation": "horizontal",
+       "angle_deg": 0.0,
+       "holes": 0,
+       "solidity": 0.993,
+       "elongation": 5.63
+      },
+      {
+       "id": "e5",
+       "label": "black text \"POLICIA\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "POLICIA",
+       "position": "center",
+       "bbox": [
+        0.306,
+        0.588,
+        0.713,
+        0.694
+       ],
+       "area": 0.0199,
+       "glyphs": 5
+      },
+      {
+       "id": "e6",
+       "label": "black text \"NDAL\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "NDAL",
+       "position": "center",
+       "bbox": [
+        0.362,
+        0.309,
+        0.637,
+        0.409
+       ],
+       "area": 0.0175,
+       "glyphs": 4
+      }
+     ],
+     "ai_sign_labels": [
+      "NDAL POLICIA sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_circle": 2,
+      "text": 2,
+      "bar": 1
+     },
+     "ignored_small_parts": 7,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "NDAL POLICIA"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:red",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:black_bar",
+    "element:black_text",
+    "element:frame_circle",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_frame_circle",
+    "element_role:border",
+    "element_role:text",
+    "function:prohibition_restriction",
+    "has_text",
+    "outline:disc",
+    "script:latin",
+    "shape:circle",
+    "symbol:black",
+    "vienna:C"
+   ],
+   "visual_signature": "circle|red|white|-"
+  },
+  {
+   "file": "AL_Albania/circle/AL-ndal_stacion.svg",
+   "id": "ndal_stacion",
+   "iso": "AL",
+   "osm_tag": "AL:ndal_stacion",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Albanian_traffic_sign_-_ndal_-_stacion.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Circle sign with white background and red border; elements: white circle frame (border), red circle frame (border), black horizontal bar at center, black text \"STACION\" at center, black text \"NDAL\" at center; contains text; Vienna category C (prohibition restriction).",
+    "ai_caption": "The image shows a red and white sign with the words \"NDAL STACION\" written on it against a white background.",
+    "ai_ocr": "NDAL STACION",
+    "official_name": null,
+    "source_description": "ndal_stacion",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "circle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "red",
+     "symbol": "black",
+     "present": [
+      "red",
+      "white",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "red",
+       "white",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "red": 0.426,
+       "white": 0.41,
+       "black": 0.11,
+       "grey": 0.054
+      },
+      "border": "red",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 0.79
+     }
+    },
+    "function": {
+     "vienna_category": "C",
+     "name": "prohibition_restriction",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "circle",
+      "geometry": "disc",
+      "vertices": 0,
+      "aspect_ratio": 1.0,
+      "circularity": 0.999
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.006,
+        0.006,
+        0.994,
+        0.994
+       ],
+       "area": 0.0389,
+       "vertices": 0,
+       "thickness": 0.009,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "red circle frame (border)",
+       "role": "border",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.016,
+        0.984,
+        0.984
+       ],
+       "area": 0.4232,
+       "vertices": 0,
+       "thickness": 0.132,
+       "holes": 1,
+       "solidity": 0.994,
+       "elongation": 1.0,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white disc (background)",
+       "role": "background",
+       "shape": "disc",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.144,
+        0.144,
+        0.856,
+        0.856
+       ],
+       "area": 0.3746,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.993,
+       "elongation": 1.05
+      },
+      {
+       "id": "e4",
+       "label": "black horizontal bar at center",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.212,
+        0.45,
+        0.787,
+        0.55
+       ],
+       "area": 0.0696,
+       "orientation": "horizontal",
+       "angle_deg": 0.0,
+       "holes": 0,
+       "solidity": 0.993,
+       "elongation": 5.63
+      },
+      {
+       "id": "e5",
+       "label": "black text \"STACION\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "STACION",
+       "position": "center",
+       "bbox": [
+        0.272,
+        0.588,
+        0.728,
+        0.694
+       ],
+       "area": 0.0264,
+       "glyphs": 6
+      },
+      {
+       "id": "e6",
+       "label": "black text \"NDAL\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "NDAL",
+       "position": "center",
+       "bbox": [
+        0.362,
+        0.309,
+        0.637,
+        0.409
+       ],
+       "area": 0.0175,
+       "glyphs": 4
+      }
+     ],
+     "ai_sign_labels": [
+      "NDAL STACION sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_circle": 2,
+      "text": 2,
+      "bar": 1
+     },
+     "ignored_small_parts": 5,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "NDAL STACION"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:red",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:black_bar",
+    "element:black_text",
+    "element:frame_circle",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_frame_circle",
+    "element_role:border",
+    "element_role:text",
+    "function:prohibition_restriction",
+    "has_text",
+    "outline:disc",
+    "script:latin",
+    "shape:circle",
+    "symbol:black",
+    "vienna:C"
+   ],
+   "visual_signature": "circle|red|white|-"
+  },
+  {
+   "file": "AL_Albania/rectangle/AL-elbasan.svg",
+   "id": "elbasan",
+   "iso": "AL",
+   "osm_tag": "AL:elbasan",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Albanian_traffic_sign_-_elbasan.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with blue background; elements: blue rectangle frame crossed by a horizontal bar (border), blue horizontal bar at bottom right, blue horizontal bar at left, red horizontal bar at bottom left, red pictogram at right, white text \"ELBASAN\" at top, white text \"TIRANE\" at bottom; contains text; Vienna category E (special regulation).",
+    "ai_caption": "The image shows a blue and red sign with the words \"elbasan tirane\" written on it against a white background.",
+    "ai_ocr": "ELBASAN TIRANE",
+    "official_name": null,
+    "source_description": "elbasan",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "blue",
+     "border": "blue",
+     "symbol": "white",
+     "present": [
+      "blue",
+      "white",
+      "red"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "blue",
+       "white",
+       "red"
+      ],
+      "fractions": {
+       "blue": 0.771,
+       "white": 0.159,
+       "red": 0.067
+      },
+      "border": "blue",
+      "background": "blue",
+      "symbol": "white",
+      "aspect_ratio": 1.57,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": "E",
+     "name": "special_regulation",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 1.58,
+      "circularity": 0.745
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "blue rectangle frame crossed by a horizontal bar (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.0,
+        0.005,
+        1.0,
+        0.995
+       ],
+       "area": 0.097,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.009,
+       "inner_bar": "horizontal",
+       "inner_bar_angle_deg": 0.0,
+       "holes": 2,
+       "solidity": 1.0,
+       "elongation": 1.71,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "blue rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "blue",
+       "position": "top",
+       "bbox": [
+        0.016,
+        0.03,
+        0.984,
+        0.475
+       ],
+       "area": 0.3653,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 0,
+       "solidity": 0.999,
+       "elongation": 3.33
+      },
+      {
+       "id": "e3",
+       "label": "blue horizontal bar at bottom right",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "blue",
+       "position": "bottom_right",
+       "bbox": [
+        0.113,
+        0.589,
+        0.984,
+        0.97
+       ],
+       "area": 0.157,
+       "orientation": "horizontal",
+       "angle_deg": 8.3,
+       "holes": 0,
+       "solidity": 0.9,
+       "elongation": 4.54
+      },
+      {
+       "id": "e4",
+       "label": "blue horizontal bar at left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "blue",
+       "position": "left",
+       "bbox": [
+        0.016,
+        0.525,
+        0.875,
+        0.911
+       ],
+       "area": 0.1556,
+       "orientation": "horizontal",
+       "angle_deg": 8.7,
+       "holes": 0,
+       "solidity": 0.892,
+       "elongation": 4.38
+      },
+      {
+       "id": "e5",
+       "label": "red horizontal bar at bottom left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "red",
+       "position": "bottom_left",
+       "bbox": [
+        0.013,
+        0.757,
+        0.425,
+        0.975
+       ],
+       "area": 0.0309,
+       "orientation": "horizontal",
+       "angle_deg": 14.2,
+       "holes": 0,
+       "solidity": 0.863,
+       "elongation": 7.52
+      },
+      {
+       "id": "e6",
+       "label": "red pictogram at right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "red",
+       "position": "right",
+       "bbox": [
+        0.613,
+        0.525,
+        0.984,
+        0.733
+       ],
+       "area": 0.0269,
+       "holes": 0,
+       "solidity": 0.792,
+       "elongation": 6.55
+      },
+      {
+       "id": "e7",
+       "label": "white text \"ELBASAN\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "white",
+       "text": "ELBASAN",
+       "position": "top",
+       "bbox": [
+        0.144,
+        0.163,
+        0.856,
+        0.337
+       ],
+       "area": 0.0606,
+       "glyphs": 7
+      },
+      {
+       "id": "e8",
+       "label": "white text \"TIRANE\" at bottom",
+       "role": "text",
+       "shape": "text",
+       "color": "white",
+       "text": "TIRANE",
+       "position": "bottom",
+       "bbox": [
+        0.212,
+        0.653,
+        0.784,
+        0.827
+       ],
+       "area": 0.0531,
+       "glyphs": 8
+      }
+     ],
+     "ai_sign_labels": [
+      "Elbasan and Tirane road signs"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "bar": 3,
+      "text": 2,
+      "frame_rectangle": 1,
+      "pictogram": 1
+     },
+     "ignored_small_parts": 10,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "ELBASAN TIRANE"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:blue",
+    "border:blue",
+    "color:blue",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:blue_bar",
+    "element:blue_frame_rectangle",
+    "element:frame_rectangle",
+    "element:frame_rectangle_with_bar_horizontal",
+    "element:pictogram",
+    "element:red_bar",
+    "element:red_pictogram",
+    "element:text",
+    "element:white_text",
+    "element_role:border",
+    "element_role:text",
+    "function:special_regulation",
+    "has_text",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:white",
+    "vienna:E"
+   ],
+   "visual_signature": "rectangle|blue|blue|-"
+  },
+  {
+   "file": "AL_Albania/rectangle/AL-fundi_kukes.svg",
+   "id": "fundi_kukes",
+   "iso": "AL",
+   "osm_tag": "AL:fundi_kukes",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Albanian_traffic_sign_-_fundi_kuk%C3%ABs.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with white background; elements: white horizontal bar at bottom right, white pictogram at center, red horizontal bar at top right, red horizontal bar at bottom left, black text \"KUKÉS\" at center; contains text; Vienna category H (additional panel).",
+    "ai_caption": "The image shows a white background with a red and black sign that reads \"Kukes\" in bold black lettering. The sign is rectangular in shape and has a glossy finish, making it stand out against the white background.",
+    "ai_ocr": "KUKÉS",
+    "official_name": null,
+    "source_description": "fundi_kukes",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "red",
+     "present": [
+      "white",
+      "red",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.72,
+       "red": 0.145,
+       "black": 0.074,
+       "grey": 0.06
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "red",
+      "aspect_ratio": 3.1,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": "H",
+     "name": "additional_panel",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 3.14,
+      "circularity": 0.576
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white triangle pointing right (background)",
+       "role": "background",
+       "shape": "triangle",
+       "color": "white",
+       "position": "top_left",
+       "bbox": [
+        0.016,
+        0.059,
+        0.875,
+        0.824
+       ],
+       "area": 0.3106,
+       "vertices": 3,
+       "corners": "rounded",
+       "direction": "right",
+       "holes": 0,
+       "solidity": 0.899,
+       "elongation": 4.39
+      },
+      {
+       "id": "e2",
+       "label": "white horizontal bar at bottom right",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom_right",
+       "bbox": [
+        0.113,
+        0.186,
+        0.981,
+        0.941
+       ],
+       "area": 0.3054,
+       "orientation": "horizontal",
+       "angle_deg": 8.4,
+       "holes": 0,
+       "solidity": 0.89,
+       "elongation": 4.51
+      },
+      {
+       "id": "e3",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.0,
+        0.997,
+        1.0
+       ],
+       "area": 0.0902,
+       "holes": 0,
+       "solidity": 0.091,
+       "elongation": 2.17
+      },
+      {
+       "id": "e4",
+       "label": "red horizontal bar at top right",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "red",
+       "position": "top_right",
+       "bbox": [
+        0.597,
+        0.059,
+        0.984,
+        0.48
+       ],
+       "area": 0.0609,
+       "orientation": "horizontal",
+       "angle_deg": 14.8,
+       "holes": 0,
+       "solidity": 0.85,
+       "elongation": 6.43
+      },
+      {
+       "id": "e5",
+       "label": "red horizontal bar at bottom left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "red",
+       "position": "bottom_left",
+       "bbox": [
+        0.013,
+        0.539,
+        0.381,
+        0.951
+       ],
+       "area": 0.0555,
+       "orientation": "horizontal",
+       "angle_deg": 13.9,
+       "holes": 0,
+       "solidity": 0.866,
+       "elongation": 6.49
+      },
+      {
+       "id": "e6",
+       "label": "black text \"KUKÉS\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "KUKÉS",
+       "position": "center",
+       "bbox": [
+        0.25,
+        0.343,
+        0.756,
+        0.686
+       ],
+       "area": 0.0986,
+       "glyphs": 8
+      }
+     ],
+     "ai_sign_labels": [
+      "KUKES sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "bar": 3,
+      "pictogram": 1,
+      "text": 1
+     },
+     "ignored_small_parts": 6,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "KUKÉS"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:black_text",
+    "element:pictogram",
+    "element:red_bar",
+    "element:text",
+    "element:white_bar",
+    "element:white_pictogram",
+    "element_role:text",
+    "function:additional_panel",
+    "has_text",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:red",
+    "vienna:H"
+   ],
+   "visual_signature": "rectangle|white|white|-"
+  },
+  {
+   "file": "AL_Albania/rectangle/AL-kukes.svg",
+   "id": "kukes",
+   "iso": "AL",
+   "osm_tag": "AL:kukes",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Albanian_traffic_sign_-_kuk%C3%ABs.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with white background; elements: white pictogram at center, black text \"KUKÉS\" at center; contains text; Vienna category H (additional panel).",
+    "ai_caption": "The image shows a black and white sign with the word \"Kukes\" written in the center. The sign is rectangular in shape and has a glossy finish. The text is written in bold black font and stands out against the white background.",
+    "ai_ocr": "KUKÉS",
+    "official_name": null,
+    "source_description": "kukes",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "black",
+     "present": [
+      "white",
+      "grey",
+      "black"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "grey",
+       "black"
+      ],
+      "fractions": {
+       "white": 0.85,
+       "grey": 0.075,
+       "black": 0.074
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 3.1,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": "H",
+     "name": "additional_panel",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 3.14,
+      "circularity": 0.576
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.059,
+        0.981,
+        0.941
+       ],
+       "area": 0.7482,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 0,
+       "solidity": 0.999,
+       "elongation": 3.41
+      },
+      {
+       "id": "e2",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.0,
+        0.997,
+        1.0
+       ],
+       "area": 0.0902,
+       "holes": 0,
+       "solidity": 0.091,
+       "elongation": 2.17
+      },
+      {
+       "id": "e3",
+       "label": "black text \"KUKÉS\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "KUKÉS",
+       "position": "center",
+       "bbox": [
+        0.25,
+        0.343,
+        0.756,
+        0.686
+       ],
+       "area": 0.079,
+       "glyphs": 5
+      }
+     ],
+     "ai_sign_labels": [
+      "KUKS license plate"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "pictogram": 1,
+      "text": 1
+     },
+     "ignored_small_parts": 2,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "KUKÉS"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:grey",
+    "color:white",
+    "element:black_text",
+    "element:pictogram",
+    "element:text",
+    "element:white_pictogram",
+    "element_role:text",
+    "function:additional_panel",
+    "has_text",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:black",
+    "vienna:H"
+   ],
+   "visual_signature": "rectangle|white|white|-"
+  },
+  {
+   "file": "AL_Albania/rectangle/AL-lumi.svg",
+   "id": "lumi",
+   "iso": "AL",
+   "osm_tag": "AL:lumi",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Albanian_traffic_sign_-_lumi.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with white background; elements: white rectangle frame (border), red rounded rectangle frame at top, white rectangle frame at top, blue pictogram at top, blue pictogram at top, blue pictogram at center, white rounded rectangle frame at top, black rounded rectangle frame at bottom (+3 more); contains text.",
+    "ai_caption": "The image shows a white background with a blue and brown sign that reads \"Drinkit\" and a picture of a watermark. The sign is likely used to indicate that the watermark is located at the bottom of the image.",
+    "ai_ocr": "Drinit Lumi",
+    "official_name": null,
+    "source_description": "lumi",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "blue",
+     "present": [
+      "white",
+      "red",
+      "blue",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "blue",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.513,
+       "red": 0.233,
+       "blue": 0.131,
+       "black": 0.068,
+       "grey": 0.048
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "blue",
+      "aspect_ratio": 1.43,
+      "fill_ratio": 0.99
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 1.44,
+      "circularity": 0.76
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.003,
+        0.495,
+        0.997,
+        1.0
+       ],
+       "area": 0.0653,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.019,
+       "holes": 1,
+       "solidity": 1.0,
+       "elongation": 2.11,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "white rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.025,
+        0.541,
+        0.972,
+        0.95
+       ],
+       "area": 0.3293,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 3.27
+      },
+      {
+       "id": "e3",
+       "label": "red rounded rectangle frame at top",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "red",
+       "position": "top",
+       "bbox": [
+        0.025,
+        0.045,
+        0.978,
+        0.464
+       ],
+       "area": 0.1972,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.062,
+       "holes": 1,
+       "solidity": 0.989,
+       "elongation": 2.95
+      },
+      {
+       "id": "e4",
+       "label": "white rectangle frame at top",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "top",
+       "bbox": [
+        0.103,
+        0.099,
+        0.912,
+        0.419
+       ],
+       "area": 0.0665,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.012,
+       "holes": 3,
+       "solidity": 0.788,
+       "elongation": 4.39
+      },
+      {
+       "id": "e5",
+       "label": "blue pictogram at top",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "blue",
+       "position": "top",
+       "bbox": [
+        0.113,
+        0.194,
+        0.903,
+        0.329
+       ],
+       "area": 0.0429,
+       "holes": 0,
+       "solidity": 0.451,
+       "elongation": 10.58
+      },
+      {
+       "id": "e6",
+       "label": "blue pictogram at top",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "blue",
+       "position": "top",
+       "bbox": [
+        0.113,
+        0.113,
+        0.903,
+        0.248
+       ],
+       "area": 0.0428,
+       "holes": 0,
+       "solidity": 0.448,
+       "elongation": 10.58
+      },
+      {
+       "id": "e7",
+       "label": "blue pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.113,
+        0.27,
+        0.903,
+        0.405
+       ],
+       "area": 0.0427,
+       "holes": 0,
+       "solidity": 0.45,
+       "elongation": 10.63
+      },
+      {
+       "id": "e8",
+       "label": "white rounded rectangle frame at top",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "top",
+       "bbox": [
+        0.013,
+        0.027,
+        0.991,
+        0.477
+       ],
+       "area": 0.0399,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.013,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 2.49
+      },
+      {
+       "id": "e9",
+       "label": "black rounded rectangle frame at bottom",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "black",
+       "position": "bottom",
+       "bbox": [
+        0.013,
+        0.523,
+        0.984,
+        0.968
+       ],
+       "area": 0.0329,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 2.41
+      },
+      {
+       "id": "e10",
+       "label": "red pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.006,
+        0.419,
+        0.994,
+        0.495
+       ],
+       "area": 0.0196,
+       "holes": 0,
+       "solidity": 0.275,
+       "elongation": 42.53
+      },
+      {
+       "id": "e11",
+       "label": "red pictogram at top",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "red",
+       "position": "top",
+       "bbox": [
+        0.006,
+        0.014,
+        0.994,
+        0.086
+       ],
+       "area": 0.0153,
+       "holes": 0,
+       "solidity": 0.222,
+       "elongation": 43.03
+      },
+      {
+       "id": "e12",
+       "label": "black text \"Drinit\" at bottom",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "Drinit",
+       "position": "bottom",
+       "bbox": [
+        0.353,
+        0.649,
+        0.841,
+        0.847
+       ],
+       "area": 0.0433,
+       "glyphs": 7
+      }
+     ],
+     "ai_sign_labels": [
+      "Lumi Drift license plate"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_rectangle": 5,
+      "pictogram": 5,
+      "text": 1
+     },
+     "ignored_small_parts": 7,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "Drinit Lumi"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:blue",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:black_frame_rectangle",
+    "element:black_text",
+    "element:blue_pictogram",
+    "element:frame_rectangle",
+    "element:pictogram",
+    "element:red_frame_rectangle",
+    "element:red_pictogram",
+    "element:text",
+    "element:white_frame_rectangle",
+    "element_role:border",
+    "element_role:text",
+    "has_text",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:blue"
+   ],
+   "visual_signature": "rectangle|white|white|-"
+  },
+  {
+   "file": "AL_Albania/rectangle/AL-ndroq.svg",
+   "id": "ndroq",
+   "iso": "AL",
+   "osm_tag": "AL:ndroq",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Albanian_traffic_sign_-_ndroq.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with blue background; elements: blue rectangle frame crossed by a horizontal bar (border), blue horizontal bar at bottom right, blue horizontal bar at left, red horizontal bar at bottom left, red horizontal bar at right, white text \"NDROQ\" at top, white text \"PEZE\" at bottom; contains text; Vienna category E (special regulation).",
+    "ai_caption": "The image shows a blue and red sign with the words \"Ndroq Peze\" written on it against a white background.",
+    "ai_ocr": "NDROQ PEZE",
+    "official_name": null,
+    "source_description": "ndroq",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "blue",
+     "border": "blue",
+     "symbol": "white",
+     "present": [
+      "blue",
+      "white",
+      "red"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "blue",
+       "white",
+       "red"
+      ],
+      "fractions": {
+       "blue": 0.787,
+       "white": 0.136,
+       "red": 0.073
+      },
+      "border": "blue",
+      "background": "blue",
+      "symbol": "white",
+      "aspect_ratio": 1.57,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": "E",
+     "name": "special_regulation",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 1.58,
+      "circularity": 0.745
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "blue rectangle frame crossed by a horizontal bar (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.0,
+        0.005,
+        1.0,
+        0.995
+       ],
+       "area": 0.097,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.009,
+       "inner_bar": "horizontal",
+       "inner_bar_angle_deg": 0.0,
+       "holes": 2,
+       "solidity": 1.0,
+       "elongation": 1.71,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "blue rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "blue",
+       "position": "top",
+       "bbox": [
+        0.016,
+        0.03,
+        0.984,
+        0.475
+       ],
+       "area": 0.3667,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 2,
+       "solidity": 0.999,
+       "elongation": 3.39
+      },
+      {
+       "id": "e3",
+       "label": "blue horizontal bar at bottom right",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "blue",
+       "position": "bottom_right",
+       "bbox": [
+        0.113,
+        0.589,
+        0.984,
+        0.97
+       ],
+       "area": 0.1635,
+       "orientation": "horizontal",
+       "angle_deg": 8.5,
+       "holes": 0,
+       "solidity": 0.936,
+       "elongation": 4.43
+      },
+      {
+       "id": "e4",
+       "label": "blue horizontal bar at left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "blue",
+       "position": "left",
+       "bbox": [
+        0.016,
+        0.525,
+        0.875,
+        0.911
+       ],
+       "area": 0.157,
+       "orientation": "horizontal",
+       "angle_deg": 9.0,
+       "holes": 0,
+       "solidity": 0.9,
+       "elongation": 4.3
+      },
+      {
+       "id": "e5",
+       "label": "red horizontal bar at bottom left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "red",
+       "position": "bottom_left",
+       "bbox": [
+        0.013,
+        0.738,
+        0.422,
+        0.975
+       ],
+       "area": 0.0333,
+       "orientation": "horizontal",
+       "angle_deg": 15.0,
+       "holes": 0,
+       "solidity": 0.907,
+       "elongation": 7.75
+      },
+      {
+       "id": "e6",
+       "label": "red horizontal bar at right",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "red",
+       "position": "right",
+       "bbox": [
+        0.631,
+        0.525,
+        0.984,
+        0.718
+       ],
+       "area": 0.0289,
+       "orientation": "horizontal",
+       "angle_deg": 15.3,
+       "holes": 0,
+       "solidity": 0.91,
+       "elongation": 5.88
+      },
+      {
+       "id": "e7",
+       "label": "white text \"NDROQ\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "white",
+       "text": "NDROQ",
+       "position": "top",
+       "bbox": [
+        0.212,
+        0.158,
+        0.775,
+        0.347
+       ],
+       "area": 0.0621,
+       "glyphs": 8
+      },
+      {
+       "id": "e8",
+       "label": "white text \"PEZE\" at bottom",
+       "role": "text",
+       "shape": "text",
+       "color": "white",
+       "text": "PEZE",
+       "position": "bottom",
+       "bbox": [
+        0.319,
+        0.609,
+        0.681,
+        0.822
+       ],
+       "area": 0.0423,
+       "glyphs": 6
+      }
+     ],
+     "ai_sign_labels": [
+      "NDRQ and PEZE road signs"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "bar": 4,
+      "text": 2,
+      "frame_rectangle": 1
+     },
+     "ignored_small_parts": 4,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "NDROQ PEZE"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:blue",
+    "border:blue",
+    "color:blue",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:blue_bar",
+    "element:blue_frame_rectangle",
+    "element:frame_rectangle",
+    "element:frame_rectangle_with_bar_horizontal",
+    "element:red_bar",
+    "element:text",
+    "element:white_text",
+    "element_role:border",
+    "element_role:text",
+    "function:special_regulation",
+    "has_text",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:white",
+    "vienna:E"
+   ],
+   "visual_signature": "rectangle|blue|blue|-"
+  },
+  {
+   "file": "AL_Albania/rectangle/AL-progressiv_ne_autostrade.svg",
+   "id": "progressiv_ne_autostrade",
+   "iso": "AL",
+   "osm_tag": "AL:progressiv_ne_autostrade",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Albanian_traffic_signs_-_progressiv_n%C3%AB_autostrad%C3%AB.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with green background; elements: white rounded square at left, green pictogram at top, white horizontal line at top, white text \"VLORÉ 7\" at center, black text \"54\" at left; value 54 7; Vienna category G (direction position).",
+    "ai_caption": "The image shows a green road sign with the number 54 on it against a white background.",
+    "ai_ocr": "54 VLORÉ 7",
+    "official_name": null,
+    "source_description": "progressiv_ne_autostrade",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "green",
+     "border": "green",
+     "symbol": "white",
+     "present": [
+      "green",
+      "white",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "green",
+       "white",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "green": 0.625,
+       "white": 0.295,
+       "black": 0.042,
+       "grey": 0.038
+      },
+      "border": "green",
+      "background": "green",
+      "symbol": "white",
+      "aspect_ratio": 3.29,
+      "fill_ratio": 0.99
+     }
+    },
+    "function": {
+     "vienna_category": "G",
+     "name": "direction_position",
+     "source": "heuristique"
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 2.34,
+      "circularity": 0.659,
+      "detached_parts": 1
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "green rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "green",
+       "position": "center",
+       "bbox": [
+        0.308,
+        0.062,
+        0.984,
+        0.958
+       ],
+       "area": 0.5645,
+       "vertices": 4,
+       "corners": "sharp",
+       "holes": 0,
+       "solidity": 1.0,
+       "elongation": 2.46
+      },
+      {
+       "id": "e2",
+       "label": "white rounded square at left",
+       "role": "symbol",
+       "shape": "square",
+       "color": "white",
+       "position": "left",
+       "bbox": [
+        0.009,
+        0.052,
+        0.28,
+        0.948
+       ],
+       "area": 0.2035,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 2,
+       "solidity": 0.999,
+       "elongation": 1.03,
+       "ai_label": "number 54 icon"
+      },
+      {
+       "id": "e3",
+       "label": "green pictogram at top",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "green",
+       "position": "top",
+       "bbox": [
+        0.292,
+        0.0,
+        1.0,
+        0.99
+       ],
+       "area": 0.0434,
+       "holes": 0,
+       "solidity": 0.061,
+       "elongation": 2.88
+      },
+      {
+       "id": "e4",
+       "label": "white horizontal line at top",
+       "role": "symbol",
+       "shape": "line",
+       "color": "white",
+       "position": "top",
+       "bbox": [
+        0.324,
+        0.031,
+        0.969,
+        0.062
+       ],
+       "area": 0.0204,
+       "orientation": "horizontal",
+       "angle_deg": 0.0,
+       "holes": 0,
+       "solidity": 0.997,
+       "elongation": 72.13
+      },
+      {
+       "id": "e5",
+       "label": "white text \"VLORÉ 7\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "white",
+       "text": "VLORÉ 7",
+       "position": "center",
+       "bbox": [
+        0.399,
+        0.323,
+        0.906,
+        0.625
+       ],
+       "area": 0.0481,
+       "glyphs": 7
+      },
+      {
+       "id": "e6",
+       "label": "black text \"54\" at left",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "54",
+       "position": "left",
+       "bbox": [
+        0.053,
+        0.302,
+        0.236,
+        0.667
+       ],
+       "area": 0.0353,
+       "glyphs": 3
+      }
+     ],
+     "ai_sign_labels": [
+      "green road sign with white text 'VLOR 7'"
+     ],
+     "ai_objects": [
+      {
+       "label": "number 54 icon",
+       "bbox": [
+        0.0,
+        0.018,
+        0.29,
+        0.977
+       ],
+       "elements": [
+        "e2",
+        "e6"
+       ]
+      }
+     ],
+     "counts": {
+      "text": 2,
+      "square": 1,
+      "pictogram": 1,
+      "line": 1
+     },
+     "ignored_small_parts": 6,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": true,
+     "numbers": [
+      "54",
+      "7"
+     ],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "54 VLORÉ 7"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:green",
+    "border:green",
+    "color:black",
+    "color:green",
+    "color:grey",
+    "color:white",
+    "element:black_text",
+    "element:green_pictogram",
+    "element:line",
+    "element:line_horizontal",
+    "element:pictogram",
+    "element:square",
+    "element:text",
+    "element:white_line",
+    "element:white_square",
+    "element:white_text",
+    "element_role:text",
+    "function:direction_position",
+    "has_number",
+    "has_text",
+    "number:54",
+    "number:7",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:white",
+    "vienna:G"
+   ],
+   "visual_signature": "rectangle|green|green|-"
+  },
+  {
+   "file": "AL_Albania/rectangle/AL-rruge_kalimi.svg",
+   "id": "rruge_kalimi",
+   "iso": "AL",
+   "osm_tag": "AL:rruge_kalimi",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Albanian_traffic_sign_-_rruge_kalimi.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Rectangle sign with white background; elements: black rounded rectangle frame (border), white rounded rectangle frame (border), red circle frame crossed by a diagonal falling bar at center, blue half disc at center, blue half disc at center, white pictogram at center, white pictogram at center, white arrow pointing up-right at top left (+5 more); contains text.",
+    "ai_caption": "The image shows a white background with a sign that reads \"Komuna Kaméz Ruge Kalimi\" in bold black lettering. The sign is rectangular in shape and has a glossy finish. The text is centered in the middle of the sign and is surrounded by a thin black border.",
+    "ai_ocr": "KOMUNA KAMÉZ Rruge kalimi",
+    "official_name": null,
+    "source_description": "rruge_kalimi",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "rectangle",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "red",
+     "present": [
+      "white",
+      "red",
+      "blue",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "blue",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.605,
+       "red": 0.128,
+       "blue": 0.102,
+       "black": 0.088,
+       "grey": 0.078
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "red",
+      "aspect_ratio": 0.68,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "rectangle",
+      "geometry": "rectangle",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 0.67,
+      "circularity": 0.754
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "black rounded rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.023,
+        0.016,
+        0.977,
+        0.984
+       ],
+       "area": 0.0522,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.013,
+       "holes": 1,
+       "solidity": 1.0,
+       "elongation": 1.28,
+       "ai_label": "no entry sign",
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "white rounded rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.042,
+        0.028,
+        0.958,
+        0.972
+       ],
+       "area": 0.547,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.142,
+       "holes": 1,
+       "solidity": 1.0,
+       "elongation": 1.49,
+       "ai_label": "no entry sign",
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "red circle frame crossed by a diagonal falling bar at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.159,
+        0.172,
+        0.841,
+        0.628
+       ],
+       "area": 0.1266,
+       "vertices": 0,
+       "thickness": 0.13,
+       "inner_bar": "diagonal_falling",
+       "inner_bar_angle_deg": 134.9,
+       "holes": 2,
+       "solidity": 0.987,
+       "elongation": 1.03,
+       "ai_label": "no entry sign"
+      },
+      {
+       "id": "e4",
+       "label": "blue half disc at center",
+       "role": "symbol",
+       "shape": "half_disc",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.355,
+        0.237,
+        0.743,
+        0.497
+       ],
+       "area": 0.051,
+       "vertices": 2,
+       "holes": 0,
+       "solidity": 0.973,
+       "elongation": 2.11,
+       "ai_label": "no entry sign"
+      },
+      {
+       "id": "e5",
+       "label": "blue half disc at center",
+       "role": "symbol",
+       "shape": "half_disc",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.257,
+        0.306,
+        0.64,
+        0.562
+       ],
+       "area": 0.05,
+       "vertices": 2,
+       "holes": 0,
+       "solidity": 0.972,
+       "elongation": 2.14,
+       "ai_label": "no entry sign"
+      },
+      {
+       "id": "e6",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.341,
+        0.269,
+        0.696,
+        0.506
+       ],
+       "area": 0.0033,
+       "holes": 0,
+       "solidity": 0.749,
+       "elongation": 52.68
+      },
+      {
+       "id": "e7",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.304,
+        0.297,
+        0.659,
+        0.534
+       ],
+       "area": 0.0033,
+       "holes": 0,
+       "solidity": 0.749,
+       "elongation": 52.68
+      },
+      {
+       "id": "e8",
+       "label": "white arrow pointing up-right at top left",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "white",
+       "position": "top_left",
+       "bbox": [
+        0.009,
+        0.006,
+        0.089,
+        0.066
+       ],
+       "area": 0.0021,
+       "orientation": "diagonal_rising",
+       "direction": "up_right",
+       "holes": 0,
+       "solidity": 0.733,
+       "elongation": 1.95
+      },
+      {
+       "id": "e9",
+       "label": "white arrow pointing up-left at top right",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "white",
+       "position": "top_right",
+       "bbox": [
+        0.911,
+        0.006,
+        0.991,
+        0.066
+       ],
+       "area": 0.0021,
+       "orientation": "diagonal_falling",
+       "direction": "up_left",
+       "holes": 0,
+       "solidity": 0.733,
+       "elongation": 1.95
+      },
+      {
+       "id": "e10",
+       "label": "white arrow pointing down-right at bottom left",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "white",
+       "position": "bottom_left",
+       "bbox": [
+        0.009,
+        0.934,
+        0.089,
+        0.994
+       ],
+       "area": 0.0021,
+       "orientation": "diagonal_falling",
+       "direction": "down_right",
+       "holes": 0,
+       "solidity": 0.733,
+       "elongation": 1.95
+      },
+      {
+       "id": "e11",
+       "label": "white arrow pointing down-left at bottom right",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "white",
+       "position": "bottom_right",
+       "bbox": [
+        0.911,
+        0.934,
+        0.991,
+        0.994
+       ],
+       "area": 0.0021,
+       "orientation": "diagonal_rising",
+       "direction": "down_left",
+       "holes": 0,
+       "solidity": 0.733,
+       "elongation": 1.95
+      },
+      {
+       "id": "e12",
+       "label": "black text \"Rruge\" at bottom",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "Rruge",
+       "position": "bottom",
+       "bbox": [
+        0.299,
+        0.694,
+        0.715,
+        0.778
+       ],
+       "area": 0.0084,
+       "glyphs": 3
+      },
+      {
+       "id": "e13",
+       "label": "black text \"kalimi\" at bottom",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "kalimi",
+       "position": "bottom",
+       "bbox": [
+        0.294,
+        0.787,
+        0.664,
+        0.859
+       ],
+       "area": 0.0075,
+       "glyphs": 3
+      }
+     ],
+     "ai_sign_labels": [
+      "Komuna Kamz Ruge kalimi sign",
+      "Komuna Kamz Ruge kalimi sign"
+     ],
+     "ai_objects": [
+      {
+       "label": "no entry sign",
+       "bbox": [
+        0.151,
+        0.165,
+        0.851,
+        0.633
+       ],
+       "elements": [
+        "e3",
+        "e4",
+        "e5",
+        "e6",
+        "e7"
+       ]
+      }
+     ],
+     "counts": {
+      "arrow": 4,
+      "frame_rectangle": 2,
+      "half_disc": 2,
+      "pictogram": 2,
+      "text": 2,
+      "frame_circle": 1
+     },
+     "ignored_small_parts": 49,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "KOMUNA KAMÉZ Rruge kalimi"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:blue",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:arrow",
+    "element:arrow_down_left",
+    "element:arrow_down_right",
+    "element:arrow_up_left",
+    "element:arrow_up_right",
+    "element:black_frame_rectangle",
+    "element:black_text",
+    "element:blue_half_disc",
+    "element:frame_circle",
+    "element:frame_circle_with_bar_diagonal_falling",
+    "element:frame_rectangle",
+    "element:half_disc",
+    "element:pictogram",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_arrow",
+    "element:white_frame_rectangle",
+    "element:white_pictogram",
+    "element_role:border",
+    "element_role:text",
+    "has_text",
+    "outline:rectangle",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:rectangle",
+    "symbol:red"
+   ],
+   "visual_signature": "rectangle|white|white|-"
+  },
+  {
+   "file": "AL_Albania/square/AL-autostrade.svg",
+   "id": "autostrade",
+   "iso": "AL",
+   "osm_tag": "AL:autostrade",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Albanian_traffic_sign_-_autostrad%C3%AB.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with white background and green border; elements: white rounded rectangle frame (border), green rounded rectangle frame (border), white vertical bar at bottom left, white vertical bar at bottom left, white horizontal bar at bottom right, white pictogram at top right, white pictogram at top right, white rectangle at right (+21 more); value 500 250 150.",
+    "ai_caption": "The image shows a green and white sign with the words \"Jo Autostop\" on it, indicating that it is a road sign. The sign is rectangular in shape and has a white background with black text. The text is written in a bold font and is centered on the sign.",
+    "ai_ocr": "deri ne 500 cc deri ne 250 cc deri NE 150 cc JO autostop",
+    "official_name": null,
+    "source_description": "autostrade",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "green",
+     "symbol": "green",
+     "present": [
+      "white",
+      "green",
+      "red"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "green",
+       "red"
+      ],
+      "fractions": {
+       "white": 0.463,
+       "green": 0.462,
+       "red": 0.036
+      },
+      "border": "green",
+      "background": "white",
+      "symbol": "green",
+      "aspect_ratio": 1.07,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 1.07,
+      "circularity": 0.784
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white rounded rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.441,
+        0.01,
+        0.991,
+        0.987
+       ],
+       "area": 0.0302,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.51,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "green rounded rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "green",
+       "position": "right",
+       "bbox": [
+        0.45,
+        0.02,
+        0.981,
+        0.973
+       ],
+       "area": 0.1806,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.035,
+       "holes": 5,
+       "solidity": 0.999,
+       "elongation": 1.57,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "green rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "green",
+       "position": "left",
+       "bbox": [
+        0.016,
+        0.02,
+        0.419,
+        0.973
+       ],
+       "area": 0.2417,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 3,
+       "solidity": 0.999,
+       "elongation": 2.03
+      },
+      {
+       "id": "e4",
+       "label": "white vertical bar at bottom left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom_left",
+       "bbox": [
+        0.056,
+        0.386,
+        0.2,
+        0.906
+       ],
+       "area": 0.0532,
+       "orientation": "vertical",
+       "angle_deg": 84.4,
+       "holes": 0,
+       "solidity": 0.973,
+       "elongation": 4.44
+      },
+      {
+       "id": "e5",
+       "label": "white vertical bar at bottom left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom_left",
+       "bbox": [
+        0.231,
+        0.386,
+        0.381,
+        0.906
+       ],
+       "area": 0.0532,
+       "orientation": "vertical",
+       "angle_deg": 96.0,
+       "holes": 0,
+       "solidity": 0.971,
+       "elongation": 4.44
+      },
+      {
+       "id": "e6",
+       "label": "white horizontal bar at bottom right",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom_right",
+       "bbox": [
+        0.478,
+        0.768,
+        0.95,
+        0.906
+       ],
+       "area": 0.0532,
+       "orientation": "horizontal",
+       "angle_deg": 0.2,
+       "holes": 3,
+       "solidity": 1.0,
+       "elongation": 3.45
+      },
+      {
+       "id": "e7",
+       "label": "white pictogram at top right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "top_right",
+       "bbox": [
+        0.484,
+        0.057,
+        0.953,
+        0.195
+       ],
+       "area": 0.0477,
+       "holes": 2,
+       "solidity": 0.829,
+       "elongation": 3.24
+      },
+      {
+       "id": "e8",
+       "label": "white pictogram at top right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "top_right",
+       "bbox": [
+        0.484,
+        0.228,
+        0.953,
+        0.366
+       ],
+       "area": 0.0475,
+       "holes": 2,
+       "solidity": 0.83,
+       "elongation": 3.24
+      },
+      {
+       "id": "e9",
+       "label": "white rectangle at right",
+       "role": "symbol",
+       "shape": "rectangle",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.581,
+        0.406,
+        0.95,
+        0.544
+       ],
+       "area": 0.0404,
+       "vertices": 4,
+       "corners": "sharp",
+       "holes": 2,
+       "solidity": 0.918,
+       "elongation": 2.48
+      },
+      {
+       "id": "e10",
+       "label": "green pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "green",
+       "position": "center",
+       "bbox": [
+        0.0,
+        0.003,
+        1.0,
+        0.997
+       ],
+       "area": 0.038,
+       "holes": 0,
+       "solidity": 0.047,
+       "elongation": 1.26
+      },
+      {
+       "id": "e11",
+       "label": "white rounded rectangle frame at left",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "left",
+       "bbox": [
+        0.006,
+        0.01,
+        0.428,
+        0.987
+       ],
+       "area": 0.0273,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.86
+      },
+      {
+       "id": "e12",
+       "label": "white double-headed arrow at left",
+       "role": "symbol",
+       "shape": "double_arrow",
+       "color": "white",
+       "position": "left",
+       "bbox": [
+        0.047,
+        0.329,
+        0.388,
+        0.416
+       ],
+       "area": 0.0129,
+       "orientation": "horizontal",
+       "holes": 0,
+       "solidity": 0.477,
+       "elongation": 6.46
+      },
+      {
+       "id": "e13",
+       "label": "white vertical bar at top left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "top_left",
+       "bbox": [
+        0.144,
+        0.067,
+        0.209,
+        0.299
+       ],
+       "area": 0.0105,
+       "orientation": "vertical",
+       "angle_deg": 84.4,
+       "holes": 0,
+       "solidity": 0.939,
+       "elongation": 4.49
+      },
+      {
+       "id": "e14",
+       "label": "white vertical bar at top left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "top_left",
+       "bbox": [
+        0.228,
+        0.067,
+        0.291,
+        0.299
+       ],
+       "area": 0.0104,
+       "orientation": "vertical",
+       "angle_deg": 95.4,
+       "holes": 0,
+       "solidity": 0.953,
+       "elongation": 4.47
+      },
+      {
+       "id": "e15",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.581,
+        0.587,
+        0.706,
+        0.725
+       ],
+       "area": 0.008,
+       "holes": 0,
+       "solidity": 0.502,
+       "elongation": 1.94
+      },
+      {
+       "id": "e16",
+       "label": "white pictogram at right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.734,
+        0.587,
+        0.853,
+        0.725
+       ],
+       "area": 0.008,
+       "holes": 0,
+       "solidity": 0.508,
+       "elongation": 1.97
+      },
+      {
+       "id": "e17",
+       "label": "white pictogram at center (trail crossing sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.481,
+        0.587,
+        0.559,
+        0.725
+       ],
+       "area": 0.0062,
+       "holes": 0,
+       "solidity": 0.604,
+       "elongation": 2.45,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e18",
+       "label": "white pictogram at center (traffic speed limit sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.481,
+        0.406,
+        0.559,
+        0.544
+       ],
+       "area": 0.0061,
+       "holes": 0,
+       "solidity": 0.593,
+       "elongation": 2.47,
+       "ai_label": "traffic speed limit sign"
+      },
+      {
+       "id": "e19",
+       "label": "red circle frame at right",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "right",
+       "bbox": [
+        0.809,
+        0.591,
+        0.931,
+        0.721
+       ],
+       "area": 0.0061,
+       "vertices": 0,
+       "thickness": 0.154,
+       "holes": 1,
+       "solidity": 0.964,
+       "elongation": 1.01,
+       "ai_label": "traffic sign for pedestrian crossing with horse-drawn carriage"
+      },
+      {
+       "id": "e20",
+       "label": "red circle frame at right",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "right",
+       "bbox": [
+        0.659,
+        0.594,
+        0.781,
+        0.721
+       ],
+       "area": 0.006,
+       "vertices": 0,
+       "thickness": 0.154,
+       "holes": 1,
+       "solidity": 0.969,
+       "elongation": 1.02,
+       "ai_label": "traffic stop sign with pedestrian crossing"
+      },
+      {
+       "id": "e21",
+       "label": "red circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.509,
+        0.413,
+        0.631,
+        0.54
+       ],
+       "area": 0.0059,
+       "vertices": 0,
+       "thickness": 0.154,
+       "holes": 1,
+       "solidity": 0.962,
+       "elongation": 1.01,
+       "ai_label": "traffic speed limit sign"
+      },
+      {
+       "id": "e22",
+       "label": "red circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.512,
+        0.594,
+        0.631,
+        0.721
+       ],
+       "area": 0.0058,
+       "vertices": 0,
+       "thickness": 0.132,
+       "holes": 1,
+       "solidity": 0.967,
+       "elongation": 1.01,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e23",
+       "label": "red circle frame at top",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "top",
+       "bbox": [
+        0.512,
+        0.064,
+        0.625,
+        0.185
+       ],
+       "area": 0.0053,
+       "vertices": 0,
+       "thickness": 0.139,
+       "holes": 1,
+       "solidity": 0.97,
+       "elongation": 1.01,
+       "ai_label": "traffic speed limit sign"
+      },
+      {
+       "id": "e24",
+       "label": "red circle frame at top",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "top",
+       "bbox": [
+        0.512,
+        0.235,
+        0.625,
+        0.356
+       ],
+       "area": 0.0053,
+       "vertices": 0,
+       "thickness": 0.139,
+       "holes": 1,
+       "solidity": 0.966,
+       "elongation": 1.0,
+       "ai_label": "traffic speed limit sign"
+      },
+      {
+       "id": "e25",
+       "label": "white dot at right",
+       "role": "symbol",
+       "shape": "dot",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.678,
+        0.611,
+        0.762,
+        0.705
+       ],
+       "area": 0.0051,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.958,
+       "elongation": 1.03,
+       "ai_label": "traffic stop sign with pedestrian crossing"
+      },
+      {
+       "id": "e26",
+       "label": "white pictogram at right (traffic sign for pedestrian crossing with horse-drawn carriage)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.887,
+        0.587,
+        0.95,
+        0.725
+       ],
+       "area": 0.0045,
+       "holes": 0,
+       "solidity": 0.539,
+       "elongation": 3.06,
+       "ai_label": "traffic sign for pedestrian crossing with horse-drawn carriage"
+      },
+      {
+       "id": "e27",
+       "label": "white pictogram at center (traffic speed limit sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.528,
+        0.43,
+        0.613,
+        0.493
+       ],
+       "area": 0.0027,
+       "holes": 0,
+       "solidity": 0.602,
+       "elongation": 1.91,
+       "ai_label": "traffic speed limit sign"
+      },
+      {
+       "id": "e28",
+       "label": "white pictogram at top (traffic speed limit sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "top",
+       "bbox": [
+        0.528,
+        0.252,
+        0.609,
+        0.312
+       ],
+       "area": 0.0024,
+       "holes": 0,
+       "solidity": 0.618,
+       "elongation": 2.0,
+       "ai_label": "traffic speed limit sign"
+      },
+      {
+       "id": "e29",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.528,
+        0.611,
+        0.616,
+        0.661
+       ],
+       "area": 0.0024,
+       "holes": 0,
+       "solidity": 0.677,
+       "elongation": 2.22
+      },
+      {
+       "id": "e30",
+       "label": "white arrow pointing left at right",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.831,
+        0.611,
+        0.912,
+        0.654
+       ],
+       "area": 0.0022,
+       "orientation": "horizontal",
+       "direction": "left",
+       "holes": 0,
+       "solidity": 0.805,
+       "elongation": 2.14
+      }
+     ],
+     "ai_sign_labels": [
+      "Jo autostop road sign"
+     ],
+     "ai_objects": [
+      {
+       "label": "traffic sign for pedestrian crossing with horse-drawn carriage",
+       "bbox": [
+        0.809,
+        0.589,
+        0.935,
+        0.722
+       ],
+       "elements": [
+        "e19",
+        "e26",
+        "e30"
+       ]
+      },
+      {
+       "label": "traffic stop sign with pedestrian crossing",
+       "bbox": [
+        0.659,
+        0.591,
+        0.783,
+        0.722
+       ],
+       "elements": [
+        "e20",
+        "e25"
+       ]
+      },
+      {
+       "label": "trail crossing sign",
+       "bbox": [
+        0.51,
+        0.591,
+        0.634,
+        0.721
+       ],
+       "elements": [
+        "e22",
+        "e29"
+       ]
+      },
+      {
+       "label": "traffic speed limit sign",
+       "bbox": [
+        0.51,
+        0.411,
+        0.633,
+        0.539
+       ],
+       "elements": [
+        "e21",
+        "e27"
+       ]
+      },
+      {
+       "label": "traffic speed limit sign",
+       "bbox": [
+        0.51,
+        0.233,
+        0.628,
+        0.357
+       ],
+       "elements": [
+        "e24",
+        "e28"
+       ]
+      },
+      {
+       "label": "traffic speed limit sign",
+       "bbox": [
+        0.51,
+        0.061,
+        0.628,
+        0.184
+       ],
+       "elements": [
+        "e23"
+       ]
+      },
+      {
+       "label": "land vehicle",
+       "bbox": [
+        0.535,
+        0.103,
+        0.604,
+        0.143
+       ],
+       "elements": []
+      }
+     ],
+     "counts": {
+      "pictogram": 11,
+      "frame_circle": 6,
+      "bar": 5,
+      "frame_rectangle": 3,
+      "rectangle": 1,
+      "double_arrow": 1,
+      "dot": 1,
+      "arrow": 1
+     },
+     "ignored_small_parts": 72,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": true,
+     "numbers": [
+      "500",
+      "250",
+      "150"
+     ],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "deri ne 500 cc deri ne 250 cc deri NE 150 cc JO autostop"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:green",
+    "color:green",
+    "color:red",
+    "color:white",
+    "element:arrow",
+    "element:arrow_left",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:bar_vertical",
+    "element:dot",
+    "element:double_arrow",
+    "element:frame_circle",
+    "element:frame_rectangle",
+    "element:green_frame_rectangle",
+    "element:green_pictogram",
+    "element:pictogram",
+    "element:rectangle",
+    "element:red_frame_circle",
+    "element:white_arrow",
+    "element:white_bar",
+    "element:white_dot",
+    "element:white_double_arrow",
+    "element:white_frame_rectangle",
+    "element:white_pictogram",
+    "element:white_rectangle",
+    "element_role:border",
+    "has_number",
+    "has_text",
+    "number:150",
+    "number:250",
+    "number:500",
+    "outline:square",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:square",
+    "symbol:green"
+   ],
+   "visual_signature": "square|green|white|-"
+  },
+  {
+   "file": "AL_Albania/square/AL-autostrade_2.svg",
+   "id": "autostrade_2",
+   "iso": "AL",
+   "osm_tag": "AL:autostrade_2",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Albanian_traffic_sign_-_autostrad%C3%AB_2.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with white background and blue border; elements: white rounded rectangle frame (border), blue rounded rectangle frame (border), white vertical bar at bottom left, white vertical bar at bottom left, white horizontal bar at bottom right, white pictogram at top right, white pictogram at top right, white rectangle at right (+21 more); value 500 250 150.",
+    "ai_caption": "The image shows a blue and white sign with the words \"Jo Autostop\" on it, indicating that it is a road sign. The sign is rectangular in shape and has a white background with black text. The text is written in a bold font and is centered on the sign.",
+    "ai_ocr": "deri ne 500 cc deri ne 250 cc deri NE 150 cc JO autostop",
+    "official_name": null,
+    "source_description": "autostrade_2",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "blue",
+     "symbol": "blue",
+     "present": [
+      "blue",
+      "white",
+      "red"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "blue",
+       "white",
+       "red"
+      ],
+      "fractions": {
+       "blue": 0.472,
+       "white": 0.453,
+       "red": 0.036
+      },
+      "border": "blue",
+      "background": "white",
+      "symbol": "blue",
+      "aspect_ratio": 1.07,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 1.07,
+      "circularity": 0.784
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white rounded rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.441,
+        0.01,
+        0.991,
+        0.987
+       ],
+       "area": 0.0301,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.51,
+       "ai_label": "traffic sign for pedestrian crossing in Dutch",
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "blue rounded rectangle frame (border)",
+       "role": "border",
+       "shape": "frame_rectangle",
+       "color": "blue",
+       "position": "right",
+       "bbox": [
+        0.45,
+        0.02,
+        0.981,
+        0.973
+       ],
+       "area": 0.1811,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.035,
+       "holes": 5,
+       "solidity": 0.999,
+       "elongation": 1.56,
+       "ai_label": "traffic sign for pedestrian crossing in Dutch",
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "blue rounded rectangle (background)",
+       "role": "background",
+       "shape": "rectangle",
+       "color": "blue",
+       "position": "left",
+       "bbox": [
+        0.016,
+        0.02,
+        0.419,
+        0.973
+       ],
+       "area": 0.2422,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 3,
+       "solidity": 0.999,
+       "elongation": 2.03
+      },
+      {
+       "id": "e4",
+       "label": "white vertical bar at bottom left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom_left",
+       "bbox": [
+        0.056,
+        0.386,
+        0.2,
+        0.906
+       ],
+       "area": 0.053,
+       "orientation": "vertical",
+       "angle_deg": 84.4,
+       "holes": 0,
+       "solidity": 0.973,
+       "elongation": 4.45
+      },
+      {
+       "id": "e5",
+       "label": "white vertical bar at bottom left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom_left",
+       "bbox": [
+        0.231,
+        0.386,
+        0.381,
+        0.906
+       ],
+       "area": 0.053,
+       "orientation": "vertical",
+       "angle_deg": 96.0,
+       "holes": 0,
+       "solidity": 0.97,
+       "elongation": 4.46
+      },
+      {
+       "id": "e6",
+       "label": "white horizontal bar at bottom right",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "bottom_right",
+       "bbox": [
+        0.481,
+        0.768,
+        0.95,
+        0.906
+       ],
+       "area": 0.0528,
+       "orientation": "horizontal",
+       "angle_deg": 0.2,
+       "holes": 3,
+       "solidity": 1.0,
+       "elongation": 3.42
+      },
+      {
+       "id": "e7",
+       "label": "white pictogram at top right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "top_right",
+       "bbox": [
+        0.484,
+        0.057,
+        0.953,
+        0.195
+       ],
+       "area": 0.0477,
+       "holes": 2,
+       "solidity": 0.829,
+       "elongation": 3.24
+      },
+      {
+       "id": "e8",
+       "label": "white pictogram at top right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "top_right",
+       "bbox": [
+        0.484,
+        0.228,
+        0.953,
+        0.366
+       ],
+       "area": 0.0475,
+       "holes": 2,
+       "solidity": 0.83,
+       "elongation": 3.24
+      },
+      {
+       "id": "e9",
+       "label": "white rectangle at right",
+       "role": "symbol",
+       "shape": "rectangle",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.581,
+        0.406,
+        0.95,
+        0.544
+       ],
+       "area": 0.0404,
+       "vertices": 4,
+       "corners": "sharp",
+       "holes": 2,
+       "solidity": 0.918,
+       "elongation": 2.48
+      },
+      {
+       "id": "e10",
+       "label": "blue pictogram at center (traffic sign for pedestrian crossing in Dutch)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.0,
+        0.003,
+        1.0,
+        0.997
+       ],
+       "area": 0.0382,
+       "holes": 0,
+       "solidity": 0.047,
+       "elongation": 1.26,
+       "ai_label": "traffic sign for pedestrian crossing in Dutch"
+      },
+      {
+       "id": "e11",
+       "label": "white rounded rectangle frame at left",
+       "role": "symbol",
+       "shape": "frame_rectangle",
+       "color": "white",
+       "position": "left",
+       "bbox": [
+        0.006,
+        0.01,
+        0.428,
+        0.987
+       ],
+       "area": 0.0273,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.86,
+       "ai_label": "traffic light sign"
+      },
+      {
+       "id": "e12",
+       "label": "white double-headed arrow at left",
+       "role": "symbol",
+       "shape": "double_arrow",
+       "color": "white",
+       "position": "left",
+       "bbox": [
+        0.047,
+        0.329,
+        0.388,
+        0.416
+       ],
+       "area": 0.0129,
+       "orientation": "horizontal",
+       "holes": 0,
+       "solidity": 0.476,
+       "elongation": 6.47
+      },
+      {
+       "id": "e13",
+       "label": "white vertical bar at top left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "top_left",
+       "bbox": [
+        0.144,
+        0.067,
+        0.209,
+        0.299
+       ],
+       "area": 0.0104,
+       "orientation": "vertical",
+       "angle_deg": 84.4,
+       "holes": 0,
+       "solidity": 0.937,
+       "elongation": 4.51
+      },
+      {
+       "id": "e14",
+       "label": "white vertical bar at top left",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "top_left",
+       "bbox": [
+        0.228,
+        0.067,
+        0.291,
+        0.299
+       ],
+       "area": 0.0104,
+       "orientation": "vertical",
+       "angle_deg": 95.4,
+       "holes": 0,
+       "solidity": 0.952,
+       "elongation": 4.49
+      },
+      {
+       "id": "e15",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.581,
+        0.587,
+        0.706,
+        0.725
+       ],
+       "area": 0.008,
+       "holes": 0,
+       "solidity": 0.502,
+       "elongation": 1.94
+      },
+      {
+       "id": "e16",
+       "label": "white pictogram at right",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.734,
+        0.587,
+        0.853,
+        0.725
+       ],
+       "area": 0.008,
+       "holes": 0,
+       "solidity": 0.508,
+       "elongation": 1.97
+      },
+      {
+       "id": "e17",
+       "label": "white pictogram at center (trail crossing sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.481,
+        0.587,
+        0.559,
+        0.725
+       ],
+       "area": 0.0062,
+       "holes": 0,
+       "solidity": 0.604,
+       "elongation": 2.45,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e18",
+       "label": "white pictogram at center (trail crossing sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.481,
+        0.406,
+        0.559,
+        0.544
+       ],
+       "area": 0.0061,
+       "holes": 0,
+       "solidity": 0.593,
+       "elongation": 2.47,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e19",
+       "label": "red circle frame at right",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "right",
+       "bbox": [
+        0.809,
+        0.591,
+        0.931,
+        0.721
+       ],
+       "area": 0.0061,
+       "vertices": 0,
+       "thickness": 0.154,
+       "holes": 1,
+       "solidity": 0.964,
+       "elongation": 1.01,
+       "ai_label": "traffic stop sign with horse-drawn carriage"
+      },
+      {
+       "id": "e20",
+       "label": "red circle frame at right",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "right",
+       "bbox": [
+        0.659,
+        0.594,
+        0.781,
+        0.721
+       ],
+       "area": 0.006,
+       "vertices": 0,
+       "thickness": 0.154,
+       "holes": 1,
+       "solidity": 0.969,
+       "elongation": 1.02,
+       "ai_label": "traffic warning sign with pedestrian crossing"
+      },
+      {
+       "id": "e21",
+       "label": "red circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.509,
+        0.413,
+        0.631,
+        0.54
+       ],
+       "area": 0.0059,
+       "vertices": 0,
+       "thickness": 0.154,
+       "holes": 1,
+       "solidity": 0.962,
+       "elongation": 1.01,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e22",
+       "label": "red circle frame at center",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.512,
+        0.594,
+        0.631,
+        0.721
+       ],
+       "area": 0.0058,
+       "vertices": 0,
+       "thickness": 0.132,
+       "holes": 1,
+       "solidity": 0.967,
+       "elongation": 1.01,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e23",
+       "label": "red circle frame at top",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "top",
+       "bbox": [
+        0.512,
+        0.064,
+        0.625,
+        0.185
+       ],
+       "area": 0.0053,
+       "vertices": 0,
+       "thickness": 0.139,
+       "holes": 1,
+       "solidity": 0.97,
+       "elongation": 1.01,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e24",
+       "label": "red circle frame at top",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "top",
+       "bbox": [
+        0.512,
+        0.235,
+        0.625,
+        0.356
+       ],
+       "area": 0.0053,
+       "vertices": 0,
+       "thickness": 0.139,
+       "holes": 1,
+       "solidity": 0.966,
+       "elongation": 1.0,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e25",
+       "label": "white dot at right",
+       "role": "symbol",
+       "shape": "dot",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.678,
+        0.611,
+        0.762,
+        0.705
+       ],
+       "area": 0.0051,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.958,
+       "elongation": 1.03,
+       "ai_label": "traffic warning sign with pedestrian crossing"
+      },
+      {
+       "id": "e26",
+       "label": "white pictogram at right (traffic stop sign with horse-drawn carriage)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.887,
+        0.587,
+        0.95,
+        0.725
+       ],
+       "area": 0.0045,
+       "holes": 0,
+       "solidity": 0.539,
+       "elongation": 3.06,
+       "ai_label": "traffic stop sign with horse-drawn carriage"
+      },
+      {
+       "id": "e27",
+       "label": "white pictogram at center (trail crossing sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.528,
+        0.43,
+        0.613,
+        0.493
+       ],
+       "area": 0.0027,
+       "holes": 0,
+       "solidity": 0.602,
+       "elongation": 1.91,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e28",
+       "label": "white pictogram at top (trail crossing sign)",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "top",
+       "bbox": [
+        0.528,
+        0.252,
+        0.609,
+        0.312
+       ],
+       "area": 0.0024,
+       "holes": 0,
+       "solidity": 0.618,
+       "elongation": 2.0,
+       "ai_label": "trail crossing sign"
+      },
+      {
+       "id": "e29",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.528,
+        0.611,
+        0.616,
+        0.661
+       ],
+       "area": 0.0024,
+       "holes": 0,
+       "solidity": 0.677,
+       "elongation": 2.22
+      },
+      {
+       "id": "e30",
+       "label": "white arrow pointing left at right",
+       "role": "symbol",
+       "shape": "arrow",
+       "color": "white",
+       "position": "right",
+       "bbox": [
+        0.831,
+        0.611,
+        0.912,
+        0.654
+       ],
+       "area": 0.0022,
+       "orientation": "horizontal",
+       "direction": "left",
+       "holes": 0,
+       "solidity": 0.805,
+       "elongation": 2.14
+      }
+     ],
+     "ai_sign_labels": [
+      "Jo autostop road sign"
+     ],
+     "ai_objects": [
+      {
+       "label": "traffic sign for pedestrian crossing in Dutch",
+       "bbox": [
+        0.438,
+        0.002,
+        0.997,
+        0.996
+       ],
+       "elements": [
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e15",
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28",
+        "e29",
+        "e30"
+       ]
+      },
+      {
+       "label": "traffic light sign",
+       "bbox": [
+        0.0,
+        0.001,
+        0.432,
+        0.996
+       ],
+       "elements": [
+        "e4",
+        "e5",
+        "e11",
+        "e12",
+        "e13",
+        "e14"
+       ]
+      },
+      {
+       "label": "traffic stop sign with horse-drawn carriage",
+       "bbox": [
+        0.809,
+        0.589,
+        0.935,
+        0.722
+       ],
+       "elements": [
+        "e19",
+        "e26",
+        "e30"
+       ]
+      },
+      {
+       "label": "traffic warning sign with pedestrian crossing",
+       "bbox": [
+        0.659,
+        0.591,
+        0.784,
+        0.722
+       ],
+       "elements": [
+        "e20",
+        "e25"
+       ]
+      },
+      {
+       "label": "trail crossing sign",
+       "bbox": [
+        0.51,
+        0.591,
+        0.634,
+        0.721
+       ],
+       "elements": [
+        "e22",
+        "e29"
+       ]
+      },
+      {
+       "label": "trail crossing sign",
+       "bbox": [
+        0.51,
+        0.411,
+        0.633,
+        0.539
+       ],
+       "elements": [
+        "e21",
+        "e27"
+       ]
+      },
+      {
+       "label": "trail crossing sign",
+       "bbox": [
+        0.51,
+        0.233,
+        0.628,
+        0.357
+       ],
+       "elements": [
+        "e24",
+        "e28"
+       ]
+      },
+      {
+       "label": "trail crossing sign",
+       "bbox": [
+        0.51,
+        0.061,
+        0.628,
+        0.184
+       ],
+       "elements": [
+        "e23"
+       ]
+      },
+      {
+       "label": "land vehicle",
+       "bbox": [
+        0.535,
+        0.103,
+        0.604,
+        0.143
+       ],
+       "elements": []
+      }
+     ],
+     "counts": {
+      "pictogram": 11,
+      "frame_circle": 6,
+      "bar": 5,
+      "frame_rectangle": 3,
+      "rectangle": 1,
+      "double_arrow": 1,
+      "dot": 1,
+      "arrow": 1
+     },
+     "ignored_small_parts": 72,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": true,
+     "numbers": [
+      "500",
+      "250",
+      "150"
+     ],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "deri ne 500 cc deri ne 250 cc deri NE 150 cc JO autostop"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:blue",
+    "color:blue",
+    "color:red",
+    "color:white",
+    "element:arrow",
+    "element:arrow_left",
+    "element:bar",
+    "element:bar_horizontal",
+    "element:bar_vertical",
+    "element:blue_frame_rectangle",
+    "element:blue_pictogram",
+    "element:dot",
+    "element:double_arrow",
+    "element:frame_circle",
+    "element:frame_rectangle",
+    "element:pictogram",
+    "element:rectangle",
+    "element:red_frame_circle",
+    "element:white_arrow",
+    "element:white_bar",
+    "element:white_dot",
+    "element:white_double_arrow",
+    "element:white_frame_rectangle",
+    "element:white_pictogram",
+    "element:white_rectangle",
+    "element_role:border",
+    "has_number",
+    "has_text",
+    "number:150",
+    "number:250",
+    "number:500",
+    "outline:square",
+    "outline_corners:sharp",
+    "script:latin",
+    "shape:square",
+    "symbol:blue"
+   ],
+   "visual_signature": "square|blue|white|-"
+  },
+  {
+   "file": "AL_Albania/square/AL-distances_progresive.svg",
+   "id": "distances_progresive",
+   "iso": "AL",
+   "osm_tag": "AL:distances_progresive",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Albanian_traffic_sign_-_distances_progresive.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with white background; elements: white square frame (border), black rounded square frame (border), black text \"74\" at center; value 74.",
+    "ai_caption": "The image shows a black and white sign with the number 74 on it, indicating that it is a road sign. The sign is rectangular in shape and has a white background with black text and numbers. The number 74 is prominently displayed in the center of the sign.",
+    "ai_ocr": "74",
+    "official_name": null,
+    "source_description": "distances_progresive",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "black",
+     "present": [
+      "white",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.773,
+       "black": 0.167,
+       "grey": 0.059
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "black",
+      "aspect_ratio": 1.0,
+      "fill_ratio": 1.0
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "sharp",
+      "aspect_ratio": 1.0,
+      "circularity": 0.785
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "white square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.003,
+        0.006,
+        0.997,
+        0.997
+       ],
+       "area": 0.0548,
+       "vertices": 4,
+       "corners": "sharp",
+       "thickness": 0.009,
+       "holes": 1,
+       "solidity": 1.0,
+       "elongation": 1.02,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "black rounded square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.013,
+        0.019,
+        0.981,
+        0.978
+       ],
+       "area": 0.0882,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.026,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.03,
+       "level": 2
+      },
+      {
+       "id": "e3",
+       "label": "white rounded square (background)",
+       "role": "background",
+       "shape": "square",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.041,
+        0.044,
+        0.956,
+        0.953
+       ],
+       "area": 0.7278,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 2,
+       "solidity": 1.0,
+       "elongation": 1.01
+      },
+      {
+       "id": "e4",
+       "label": "black text \"74\" at center",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "74",
+       "position": "center",
+       "bbox": [
+        0.241,
+        0.292,
+        0.716,
+        0.699
+       ],
+       "area": 0.0957,
+       "glyphs": 3
+      }
+     ],
+     "ai_sign_labels": [
+      "74 road sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "frame_square": 2,
+      "text": 1
+     },
+     "ignored_small_parts": 0,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": true,
+     "numbers": [
+      "74"
+     ],
+     "units": [],
+     "scripts": [],
+     "keywords": [],
+     "ocr": "74"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:grey",
+    "color:white",
+    "element:black_frame_square",
+    "element:black_text",
+    "element:frame_square",
+    "element:text",
+    "element:white_frame_square",
+    "element_role:border",
+    "element_role:text",
+    "has_number",
+    "has_text",
+    "number:74",
+    "outline:square",
+    "outline_corners:sharp",
+    "shape:square",
+    "symbol:black"
+   ],
+   "visual_signature": "square|white|white|-"
+  },
+  {
+   "file": "AL_Albania/square/AL-fundi_zone_me_trafik_te_kufizuar.svg",
+   "id": "fundi_zone_me_trafik_te_kufizuar",
+   "iso": "AL",
+   "osm_tag": "AL:fundi_zone_me_trafik_te_kufizuar",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Albanian_traffic_sign_-_fundi_zon%C3%AB_m%C3%AB_trafik_t%C3%AB_kufizuar.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with white background; elements: black rounded square frame (border), red diagonal rising bar (prohibition bar), red pictogram at center, red pictogram at bottom, black text \"trafik té kufizuar\" at top, black text \"zoneé mé\" at top; contains text.",
+    "ai_caption": "The image shows a sign with the words \"Zone me trafik té kufizuar\" written in bold black lettering on a white background. The sign is rectangular in shape and has a black border around the edges. The text is centered in the middle of the sign and is surrounded by a black circle.",
+    "ai_ocr": "zoneé mé trafik té kufizuar",
+    "official_name": null,
+    "source_description": "fundi_zone_me_trafik_te_kufizuar",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "red",
+     "present": [
+      "white",
+      "red",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.733,
+       "red": 0.143,
+       "black": 0.08,
+       "grey": 0.045
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "red",
+      "aspect_ratio": 1.01,
+      "fill_ratio": 0.96
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "rounded",
+      "aspect_ratio": 1.0,
+      "circularity": 0.854,
+      "detached_parts": 1
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "black rounded square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.013,
+        0.988,
+        0.987
+       ],
+       "area": 0.0362,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "white rounded square (background)",
+       "role": "background",
+       "shape": "square",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.025,
+        0.025,
+        0.975,
+        0.978
+       ],
+       "area": 0.7287,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 3,
+       "solidity": 0.999,
+       "elongation": 1.04
+      },
+      {
+       "id": "e3",
+       "label": "red diagonal rising bar (prohibition bar)",
+       "role": "prohibition_bar",
+       "shape": "bar",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.109,
+        0.426,
+        0.894,
+        0.897
+       ],
+       "area": 0.0866,
+       "orientation": "diagonal_rising",
+       "angle_deg": 35.6,
+       "holes": 0,
+       "solidity": 0.962,
+       "elongation": 7.57
+      },
+      {
+       "id": "e4",
+       "label": "red pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.281,
+        0.451,
+        0.622,
+        0.74
+       ],
+       "area": 0.0269,
+       "holes": 0,
+       "solidity": 0.536,
+       "elongation": 2.87
+      },
+      {
+       "id": "e5",
+       "label": "red pictogram at bottom",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "red",
+       "position": "bottom",
+       "bbox": [
+        0.372,
+        0.592,
+        0.709,
+        0.881
+       ],
+       "area": 0.0265,
+       "holes": 0,
+       "solidity": 0.539,
+       "elongation": 2.89
+      },
+      {
+       "id": "e6",
+       "label": "black text \"trafik té kufizuar\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "trafik té kufizuar",
+       "position": "top",
+       "bbox": [
+        0.141,
+        0.238,
+        0.919,
+        0.323
+       ],
+       "area": 0.0158,
+       "glyphs": 7
+      },
+      {
+       "id": "e7",
+       "label": "black text \"zoneé mé\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "zoneé mé",
+       "position": "top",
+       "bbox": [
+        0.338,
+        0.138,
+        0.725,
+        0.204
+       ],
+       "area": 0.0121,
+       "glyphs": 5
+      }
+     ],
+     "ai_sign_labels": [
+      "no traffic sign"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "pictogram": 2,
+      "text": 2,
+      "frame_square": 1,
+      "bar": 1
+     },
+     "ignored_small_parts": 24,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "zoneé mé trafik té kufizuar"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_diagonal_rising",
+    "element:black_frame_square",
+    "element:black_text",
+    "element:frame_square",
+    "element:pictogram",
+    "element:red_bar",
+    "element:red_pictogram",
+    "element:text",
+    "element_role:border",
+    "element_role:prohibition_bar",
+    "element_role:text",
+    "has_text",
+    "outline:square",
+    "outline_corners:rounded",
+    "script:latin",
+    "shape:square",
+    "symbol:red"
+   ],
+   "visual_signature": "square|white|white|-"
+  },
+  {
+   "file": "AL_Albania/square/AL-fundi_zone_per_kembesore.svg",
+   "id": "fundi_zone_per_kembesore",
+   "iso": "AL",
+   "osm_tag": "AL:fundi_zone_per_kembesore",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Albanian_traffic_sign_-_fundi_zon%C3%AB_p%C3%ABr_k%C3%ABmb%C3%ABsor%C3%AB.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with white background; elements: black rounded square frame (border), red diagonal rising bar (prohibition bar), blue half disc at center, blue half disc at bottom, white diagonal rising bar at center, white quadrilateral at bottom, black text \"kémbésore\" at top, black text \"zoneé pér\" at top; pictograms: pedestrian; contains text.",
+    "ai_caption": "The image shows a sign with the words \"Zone Pér Kémbésore\" written in bold black lettering on a white background, accompanied by a symbol of a person crossing the street.",
+    "ai_ocr": "zoneé pér kémbésore",
+    "official_name": null,
+    "source_description": "fundi_zone_per_kembesore",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "blue",
+     "present": [
+      "white",
+      "red",
+      "blue",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "red",
+       "blue",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.676,
+       "red": 0.096,
+       "blue": 0.091,
+       "black": 0.089,
+       "grey": 0.047
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "blue",
+      "aspect_ratio": 1.01,
+      "fill_ratio": 0.96
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [
+     "pedestrian"
+    ],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "rounded",
+      "aspect_ratio": 1.0,
+      "circularity": 0.854,
+      "detached_parts": 1
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "black rounded square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.013,
+        0.988,
+        0.987
+       ],
+       "area": 0.0362,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "white rounded square (background)",
+       "role": "background",
+       "shape": "square",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.025,
+        0.025,
+        0.975,
+        0.978
+       ],
+       "area": 0.6574,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.07
+      },
+      {
+       "id": "e3",
+       "label": "red diagonal rising bar (prohibition bar)",
+       "role": "prohibition_bar",
+       "shape": "bar",
+       "color": "red",
+       "position": "center",
+       "bbox": [
+        0.097,
+        0.423,
+        0.9,
+        0.903
+       ],
+       "area": 0.0941,
+       "orientation": "diagonal_rising",
+       "angle_deg": 35.5,
+       "holes": 0,
+       "solidity": 0.961,
+       "elongation": 7.28,
+       "ai_label": "no entry sign"
+      },
+      {
+       "id": "e4",
+       "label": "blue half disc at center",
+       "role": "symbol",
+       "shape": "half_disc",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.275,
+        0.448,
+        0.619,
+        0.746
+       ],
+       "area": 0.0478,
+       "vertices": 2,
+       "holes": 1,
+       "solidity": 0.909,
+       "elongation": 2.41,
+       "ai_label": "no entry sign"
+      },
+      {
+       "id": "e5",
+       "label": "blue half disc at bottom",
+       "role": "symbol",
+       "shape": "half_disc",
+       "color": "blue",
+       "position": "bottom",
+       "bbox": [
+        0.366,
+        0.592,
+        0.7,
+        0.878
+       ],
+       "area": 0.0424,
+       "vertices": 2,
+       "holes": 0,
+       "solidity": 0.886,
+       "elongation": 2.53,
+       "ai_label": "no entry sign"
+      },
+      {
+       "id": "e6",
+       "label": "white diagonal rising bar at center",
+       "role": "symbol",
+       "shape": "bar",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.406,
+        0.555,
+        0.522,
+        0.658
+       ],
+       "area": 0.0033,
+       "orientation": "diagonal_rising",
+       "angle_deg": 41.4,
+       "holes": 0,
+       "solidity": 0.862,
+       "elongation": 4.99
+      },
+      {
+       "id": "e7",
+       "label": "white quadrilateral at bottom",
+       "role": "symbol",
+       "shape": "quadrilateral",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.516,
+        0.705,
+        0.572,
+        0.809
+       ],
+       "area": 0.0033,
+       "vertices": 4,
+       "corners": "sharp",
+       "tilt_deg": 28.8,
+       "holes": 0,
+       "solidity": 0.903,
+       "elongation": 2.91
+      },
+      {
+       "id": "e8",
+       "label": "black text \"kémbésore\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "kémbésore",
+       "position": "top",
+       "bbox": [
+        0.147,
+        0.238,
+        0.859,
+        0.339
+       ],
+       "area": 0.0288,
+       "glyphs": 8
+      },
+      {
+       "id": "e9",
+       "label": "black text \"zoneé pér\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "zoneé pér",
+       "position": "top",
+       "bbox": [
+        0.228,
+        0.116,
+        0.725,
+        0.213
+       ],
+       "area": 0.0196,
+       "glyphs": 6
+      }
+     ],
+     "ai_sign_labels": [
+      "French zone per kmbsore sign"
+     ],
+     "ai_objects": [
+      {
+       "label": "no entry sign",
+       "bbox": [
+        0.264,
+        0.439,
+        0.708,
+        0.883
+       ],
+       "elements": [
+        "e4",
+        "e5",
+        "e6",
+        "e7"
+       ]
+      }
+     ],
+     "counts": {
+      "bar": 2,
+      "half_disc": 2,
+      "text": 2,
+      "frame_square": 1,
+      "quadrilateral": 1
+     },
+     "ignored_small_parts": 30,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "zoneé pér kémbésore"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:blue",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:bar",
+    "element:bar_diagonal_rising",
+    "element:black_frame_square",
+    "element:black_text",
+    "element:blue_half_disc",
+    "element:frame_square",
+    "element:half_disc",
+    "element:quadrilateral",
+    "element:red_bar",
+    "element:text",
+    "element:white_bar",
+    "element:white_quadrilateral",
+    "element_role:border",
+    "element_role:prohibition_bar",
+    "element_role:text",
+    "has_text",
+    "outline:square",
+    "outline_corners:rounded",
+    "pictogram:pedestrian",
+    "script:latin",
+    "shape:square",
+    "symbol:blue"
+   ],
+   "visual_signature": "square|white|white|pedestrian"
+  },
+  {
+   "file": "AL_Albania/square/AL-zone_me_trafik_te_kufizuar.svg",
+   "id": "zone_me_trafik_te_kufizuar",
+   "iso": "AL",
+   "osm_tag": "AL:zone_me_trafik_te_kufizuar",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Albanian_traffic_sign_-_zon%C3%AB_m%C3%AB_trafik_t%C3%AB_kufizuar.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with white background; elements: black rounded square frame (border), white disc at bottom, red circle frame at bottom, black text \"trafik té kufizuar\" at top, black text \"zone mé\" at top; contains text.",
+    "ai_caption": "The image shows a poster with a white background and a red circle in the center. The text on the poster reads \"Zone me trafik té kufizuar\".",
+    "ai_ocr": "zone mé trafik té kufizuar",
+    "official_name": null,
+    "source_description": "zone_me_trafik_te_kufizuar",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "red",
+     "present": [
+      "white",
+      "black",
+      "red",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "black",
+       "red",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.806,
+       "black": 0.08,
+       "red": 0.069,
+       "grey": 0.045
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "red",
+      "aspect_ratio": 1.01,
+      "fill_ratio": 0.96
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "rounded",
+      "aspect_ratio": 1.0,
+      "circularity": 0.854,
+      "detached_parts": 1
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "black rounded square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.013,
+        0.988,
+        0.987
+       ],
+       "area": 0.0362,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "white rounded square (background)",
+       "role": "background",
+       "shape": "square",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.025,
+        0.025,
+        0.975,
+        0.978
+       ],
+       "area": 0.714,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.05
+      },
+      {
+       "id": "e3",
+       "label": "white disc at bottom",
+       "role": "symbol",
+       "shape": "disc",
+       "color": "white",
+       "position": "bottom",
+       "bbox": [
+        0.35,
+        0.511,
+        0.662,
+        0.828
+       ],
+       "area": 0.0811,
+       "vertices": 0,
+       "holes": 0,
+       "solidity": 0.984,
+       "elongation": 1.0
+      },
+      {
+       "id": "e4",
+       "label": "red circle frame at bottom",
+       "role": "symbol",
+       "shape": "frame_circle",
+       "color": "red",
+       "position": "bottom",
+       "bbox": [
+        0.294,
+        0.458,
+        0.719,
+        0.884
+       ],
+       "area": 0.0673,
+       "vertices": 0,
+       "thickness": 0.132,
+       "holes": 1,
+       "solidity": 0.988,
+       "elongation": 1.0
+      },
+      {
+       "id": "e5",
+       "label": "black text \"trafik té kufizuar\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "trafik té kufizuar",
+       "position": "top",
+       "bbox": [
+        0.141,
+        0.238,
+        0.919,
+        0.323
+       ],
+       "area": 0.0158,
+       "glyphs": 7
+      },
+      {
+       "id": "e6",
+       "label": "black text \"zone mé\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "zone mé",
+       "position": "top",
+       "bbox": [
+        0.338,
+        0.138,
+        0.725,
+        0.204
+       ],
+       "area": 0.0121,
+       "glyphs": 5
+      }
+     ],
+     "ai_sign_labels": [
+      "no entry sign in Polish"
+     ],
+     "ai_objects": [],
+     "counts": {
+      "text": 2,
+      "frame_square": 1,
+      "disc": 1,
+      "frame_circle": 1
+     },
+     "ignored_small_parts": 28,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [
+      "zone"
+     ],
+     "ocr": "zone mé trafik té kufizuar"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:grey",
+    "color:red",
+    "color:white",
+    "element:black_frame_square",
+    "element:black_text",
+    "element:disc",
+    "element:frame_circle",
+    "element:frame_square",
+    "element:red_frame_circle",
+    "element:text",
+    "element:white_disc",
+    "element_role:border",
+    "element_role:text",
+    "has_text",
+    "keyword:zone",
+    "outline:square",
+    "outline_corners:rounded",
+    "script:latin",
+    "shape:square",
+    "symbol:red"
+   ],
+   "visual_signature": "square|white|white|-"
+  },
+  {
+   "file": "AL_Albania/square/AL-zone_per_kembesore.svg",
+   "id": "zone_per_kembesore",
+   "iso": "AL",
+   "osm_tag": "AL:zone_per_kembesore",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Albanian_traffic_sign_-_zon%C3%AB_p%C3%ABr_k%C3%ABmb%C3%ABsor%C3%AB.svg",
+   "foreign": false,
+   "description": {
+    "summary": "Square sign with white background; elements: black rounded square frame (border), blue disc at center, white pictogram at center, black text \"kémbésore\" at top, black text \"zoneé pér\" at top; contains text.",
+    "ai_caption": "The image shows a white and blue sign with the words \"Zone Pér Kémbésore\" printed on it. The sign is rectangular in shape and has a black border around the edges. The text is printed in black and is clearly visible.",
+    "ai_ocr": "zoneé pér kémbésore",
+    "official_name": null,
+    "source_description": "zone_per_kembesore",
+    "model": "florence-community/Florence-2-base",
+    "error": null
+   },
+   "concept": null,
+   "labels": {
+    "shape": "square",
+    "shape_source": "dossier_sort_by_shape",
+    "colors": {
+     "background": "white",
+     "border": "white",
+     "symbol": "blue",
+     "present": [
+      "white",
+      "blue",
+      "black",
+      "grey"
+     ],
+     "source": "pixels",
+     "measured": {
+      "present": [
+       "white",
+       "blue",
+       "black",
+       "grey"
+      ],
+      "fractions": {
+       "white": 0.736,
+       "blue": 0.129,
+       "black": 0.089,
+       "grey": 0.045
+      },
+      "border": "white",
+      "background": "white",
+      "symbol": "blue",
+      "aspect_ratio": 1.01,
+      "fill_ratio": 0.96
+     }
+    },
+    "function": {
+     "vienna_category": null,
+     "name": null,
+     "source": null
+    },
+    "pictograms": [],
+    "elements": {
+     "outline": {
+      "shape": "square",
+      "geometry": "square",
+      "vertices": 4,
+      "corners": "rounded",
+      "aspect_ratio": 1.0,
+      "circularity": 0.854,
+      "detached_parts": 1
+     },
+     "items": [
+      {
+       "id": "e1",
+       "label": "black rounded square frame (border)",
+       "role": "border",
+       "shape": "frame_square",
+       "color": "black",
+       "position": "center",
+       "bbox": [
+        0.016,
+        0.013,
+        0.988,
+        0.987
+       ],
+       "area": 0.0362,
+       "vertices": 4,
+       "corners": "rounded",
+       "thickness": 0.01,
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.0,
+       "level": 1
+      },
+      {
+       "id": "e2",
+       "label": "white rounded square (background)",
+       "role": "background",
+       "shape": "square",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.025,
+        0.025,
+        0.975,
+        0.978
+       ],
+       "area": 0.7102,
+       "vertices": 4,
+       "corners": "rounded",
+       "holes": 1,
+       "solidity": 0.999,
+       "elongation": 1.05
+      },
+      {
+       "id": "e3",
+       "label": "blue disc at center",
+       "role": "symbol",
+       "shape": "disc",
+       "color": "blue",
+       "position": "center",
+       "bbox": [
+        0.291,
+        0.433,
+        0.716,
+        0.862
+       ],
+       "area": 0.1274,
+       "vertices": 0,
+       "holes": 1,
+       "solidity": 0.988,
+       "elongation": 1.03,
+       "ai_label": "blue pedestrian crossing sign"
+      },
+      {
+       "id": "e4",
+       "label": "white pictogram at center",
+       "role": "symbol",
+       "shape": "pictogram",
+       "color": "white",
+       "position": "center",
+       "bbox": [
+        0.419,
+        0.539,
+        0.591,
+        0.79
+       ],
+       "area": 0.021,
+       "holes": 0,
+       "solidity": 0.55,
+       "elongation": 1.51
+      },
+      {
+       "id": "e5",
+       "label": "black text \"kémbésore\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "kémbésore",
+       "position": "top",
+       "bbox": [
+        0.147,
+        0.238,
+        0.859,
+        0.339
+       ],
+       "area": 0.0288,
+       "glyphs": 8
+      },
+      {
+       "id": "e6",
+       "label": "black text \"zoneé pér\" at top",
+       "role": "text",
+       "shape": "text",
+       "color": "black",
+       "text": "zoneé pér",
+       "position": "top",
+       "bbox": [
+        0.228,
+        0.116,
+        0.725,
+        0.213
+       ],
+       "area": 0.0196,
+       "glyphs": 6
+      }
+     ],
+     "ai_sign_labels": [
+      "traffic sign zone per kmbsore"
+     ],
+     "ai_objects": [
+      {
+       "label": "blue pedestrian crossing sign",
+       "bbox": [
+        0.281,
+        0.422,
+        0.725,
+        0.867
+       ],
+       "elements": [
+        "e3",
+        "e4"
+       ]
+      }
+     ],
+     "counts": {
+      "text": 2,
+      "frame_square": 1,
+      "disc": 1,
+      "pictogram": 1
+     },
+     "ignored_small_parts": 27,
+     "analysis_size": 320
+    },
+    "text": {
+     "has_text": true,
+     "has_number": false,
+     "numbers": [],
+     "units": [],
+     "scripts": [
+      "latin"
+     ],
+     "keywords": [],
+     "ocr": "zoneé pér kémbésore"
+    },
+    "band": null
+   },
+   "tags": [
+    "background:white",
+    "border:white",
+    "color:black",
+    "color:blue",
+    "color:grey",
+    "color:white",
+    "element:black_frame_square",
+    "element:black_text",
+    "element:blue_disc",
+    "element:disc",
+    "element:frame_square",
+    "element:pictogram",
+    "element:text",
+    "element:white_pictogram",
+    "element_role:border",
+    "element_role:text",
+    "has_text",
+    "outline:square",
+    "outline_corners:rounded",
+    "script:latin",
+    "shape:square",
+    "symbol:blue"
+   ],
+   "visual_signature": "square|white|white|-"
+  }
+ ]
+}

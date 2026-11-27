@@ -1,12 +1,4 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
-	<style>
-		.s0 { fill: #ffffff } 
+<svg width="800" height="800" version="1.2" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg"><style>.s0 { fill: #ffffff } 
 		.s1 { fill: none;stroke: #e31e24;stroke-width: 83 } 
 		.s2 { fill: #000000 } 
-		.s3 { fill: #e31e24 } 
-	</style>
-	<path id="PATH" fill-rule="evenodd" class="s0" d="m400 800c-221.2 0-400-178.8-400-400 0-221.2 178.8-400 400-400 221.2 0 400 178.8 400 400 0 221.2-178.8 400-400 400z"/>
-	<path id="PATH" fill-rule="evenodd" class="s1" d="m399.66 740.32c-188.39 0-340.66-152.28-340.66-340.66 0-188.39 152.27-340.66 340.66-340.66 188.38 0 340.66 152.27 340.66 340.66 0 188.38-152.28 340.66-340.66 340.66z"/>
-	<path fill-rule="evenodd" class="s2" d="m430.54 661.69v-372.84h60.84l-91.12-152.22-91.14 152.22h60.58v373.36z"/>
-	<path id="path" fill-rule="evenodd" class="s3" d="m170.19 120.69l509.12 509.12-49.5 49.5-509.12-509.12z"/>
-</svg>
+		.s3 { fill: #e31e24 }</style><path id="a" class="s0" d="m400 800c-221.2 0-400-178.8-400-400s178.8-400 400-400 400 178.8 400 400-178.8 400-400 400z" fill-rule="evenodd"/><path class="s1" d="m399.66 740.32c-188.39 0-340.66-152.28-340.66-340.66 0-188.39 152.27-340.66 340.66-340.66 188.38 0 340.66 152.27 340.66 340.66 0 188.38-152.28 340.66-340.66 340.66z" fill-rule="evenodd"/><path class="s2" d="m430.54 661.69v-372.84h60.84l-91.12-152.22-91.14 152.22h60.58v373.36z" fill-rule="evenodd"/><path class="s3" d="m170.19 120.69 509.12 509.12-49.5 49.5-509.12-509.12z" fill-rule="evenodd"/></svg>

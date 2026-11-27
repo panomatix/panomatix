@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="Netherlands_traffic_sign_A2-60-ZE" width="240" height="300" viewBox="0 0 240 300" xmlns="http://www.w3.org/2000/svg" version="1.1">
-	<g font-family="Arial,Helvetica,sans-serif">
-		<path id="surface" style="fill:#f7fbf5" d="m0,300 240,0 0,-300 -240,0 0,300 z m240,0 0,0 z"/>
-		<text><tspan font-weight="bold" font-size="40" x="50%" y="16%" alignment-baseline="centre" text-anchor="middle">ZONE</tspan></text>
-		<circle cx="120" cy="140" r="76" fill="#f7fbf5" stroke="#b3b3b3" stroke-width="22"/>
-		<text><tspan font-weight="bold" font-size="96" fill="#b3b3b3" x="50%" y="56%" alignment-baseline="centre" text-anchor="middle">60</tspan></text>
-		<path id="stripes" style="fill:none;stroke:#2a2d2f;stroke-width:5;stroke-opacity:1" d="M2,280 L220,2 M5,297 L235,3 M20,298 L238,20"/>
-		<rect id="border" x="2" y="2" rx="10" ry="10" width="236" height="296" stroke="black" stroke-width="4" fill="none"/>
- 	</g>
-</svg>
+<svg width="240" height="300" version="1.1" viewBox="0 0 240 300" xmlns="http://www.w3.org/2000/svg"><g font-family="Arial,Helvetica,sans-serif"><path d="m0 300h240v-300h-240v300z" fill="#f7fbf5"/><text><tspan x="50%" y="16%" alignment-baseline="centre" font-size="40" font-weight="bold" text-anchor="middle">ZONE</tspan></text><circle cx="120" cy="140" r="76" fill="#f7fbf5" stroke="#b3b3b3" stroke-width="22"/><text><tspan x="50%" y="56%" alignment-baseline="centre" fill="#b3b3b3" font-size="96" font-weight="bold" text-anchor="middle">60</tspan></text><path d="M2,280 L220,2 M5,297 L235,3 M20,298 L238,20" fill="none" stroke="#2a2d2f" stroke-width="5"/><rect x="2" y="2" width="236" height="296" rx="10" ry="10" fill="none" stroke="#000" stroke-width="4"/></g></svg>
