@@ -614,7 +614,8 @@ img[src^="/media/"], img[src^="/vienna-media/"] { background-color: var(--sign-b
 .lvl .icon { width: 1em; height: 1em; }
 
 /* Country flags (flag-icons, served by the site at /flags/<code>.svg) */
-.flag { width: 20px; height: 15px; object-fit: cover; border-radius: 2px; vertical-align: -2px; box-shadow: 0 0 0 1px var(--line); flex: none; }
+/* Shown whole (object-fit: contain) and without a frame: some flags are not rectangles (Nepal). */
+.flag { width: 20px; height: 15px; object-fit: contain; vertical-align: -2px; flex: none; }
 .colhead .flag { display: block; margin: 0 auto 2px; width: 24px; height: 18px; }
 
 /* A national sign with its additional panels (panonceaux) stacked above / below, as on the road. */

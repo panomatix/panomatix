@@ -215,26 +215,28 @@ function tilesGrid(ctx, loc, where, jurs, props) {
 
 /** Every official picture of the Convention for this sign, under the big one: a click shows it in
  *  place of the big picture; the designs it belongs to are named (or flagged when none matches). */
-function officialStrip(ctx, heroImg, selectTab) {
-  // One picture is already the big one, unless it matches no design: then say so.
-  if (!ctx.official.length || (ctx.official.length === 1 && ctx.official[0].designs.length)) return null;
-  const items = ctx.official.map((im, k) => {
-    const btn = h('button.official-thumb', {
-      type: 'button',
-      'aria-pressed': String(k === 0),
-      title: labelsText(im.labels),
-      onclick: () => {
-        heroImg.src = im.url;
-        heroImg.title = labelsText(im.labels);
-        strip.querySelectorAll('.official-thumb').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
-      },
-    }, h('img', { src: im.url, alt: im.name, loading: 'lazy' }));
-    return h('figure', {}, btn, h('figcaption.small', {},
-      im.designs.length
-        ? im.designs.map((n, j) => [j ? ', ' : '', h('button.linkish', { type: 'button', onclick: () => selectTab(`d${n}`, true) }, t('Design {n}', { n: n + 1 }))])
-        : h('span.badge.warn', { title: t('No design of this sign carries these labels in the database.') }, t('no matching design'))));
-  });
-  const strip = h('div.official-strip', { role: 'group', 'aria-label': t('Official models (Vienna Convention, 2026 amendment)') }, items);
+function officialStrip(ctx, heroImg) {
+  // The pictures matching a design already show in the "Designs" tabs below: only those matching no
+  // design of the database are listed here, so they are not lost (their colours differ from every design).
+  const unmatched = ctx.official.filter((im) => !im.designs.length);
+  if (!unmatched.length) return null;
+  const note = h('span.badge.warn', { title: t('No design of this sign carries these labels in the database.') }, t('no matching design'));
+  // The big picture is the only one: a note under it is enough.
+  if (unmatched.length === 1 && ctx.official[0] === unmatched[0]) return h('p.small', {}, note);
+  const strip = h('div.official-strip', { role: 'group', 'aria-label': t('Official models (Vienna Convention, 2026 amendment)') },
+    unmatched.map((im) => {
+      const btn = h('button.official-thumb', {
+        type: 'button',
+        'aria-pressed': String(ctx.official[0] === im),
+        title: labelsText(im.labels),
+        onclick: () => {
+          heroImg.src = im.url;
+          heroImg.title = labelsText(im.labels);
+          strip.querySelectorAll('.official-thumb').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+        },
+      }, h('img', { src: im.url, alt: im.name, loading: 'lazy' }));
+      return h('figure', {}, btn, h('figcaption.small', {}, note.cloneNode(true)));
+    }));
   return strip;
 }
 
@@ -372,7 +374,7 @@ export async function viewSign(ref) {
       h('div.hero-id', {},
         h('code.ref.big', {}, ref),
         wikidataOf(ctx),
-        officialStrip(ctx, heroImg, selectTab),
+        officialStrip(ctx, heroImg),
         h('button.btn.primary', { type: 'button', onclick: () => openSignInfo(s, voc, { selectTab }) }, icon('info'), t('More information')))),
     h('section.sign-section', {},
       h('h2', {}, t('Designs ({n})', { n: designs.length })),
