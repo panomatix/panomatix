@@ -1,13 +1,14 @@
 // Sign page: the sign and its ID; everything else behind "More information".
 // Below, the designs and the related signs as tabs; in each tab, one tile per national sign
 // with three actions: Info, Move, Edit.
-import { can, countries, del, get, post, session, signPath, vocab } from '../api.js';
+import { can, countries, del, get, post, put, session, signPath, vocab } from '../api.js';
 import { confirmDialog, fmtDate, h, signHref, toast, add } from '../dom.js';
 import { currentPath, navigate } from '../app.js';
 import { displayName } from './list.js';
 import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, removeUnit, panelCount, panelStack, pretty } from './unit.js';
 import { t } from '../i18n.js';
 import { readOnlyBanner } from '../widgets.js';
+import { EMPTY_WIKIDATA, wikidataField } from './wikidata.js';
 
 const POS_LABEL = { top: 'Above the sign', bottom: 'Below the sign', left: 'Left of the sign', right: 'Right of the sign' };
 const DESIGN_PROPS = ['shape', 'background_color', 'border_color', 'symbol_color', 'band', 'band_color', 'prohibition_bar', 'bar_continuity', 'model', 'legacyModel'];
@@ -34,7 +35,7 @@ export function panelsView(additional) {
 
 function kv(label, value) {
   if (value === undefined) return null;
-  return h('div.kv', {}, h('span.k', {}, t(label)), h('span.v', {}, value === null ? h('span.muted', {}, '—') : typeof value === 'boolean' ? t(value ? 'yes' : 'no') : String(value)));
+  return h('div.kv', {}, h('span.k', {}, t(label)), h('span.v', {}, value === null ? h('span.muted', {}, '—') : value instanceof Node ? value : typeof value === 'boolean' ? t(value ? 'yes' : 'no') : String(value)));
 }
 
 function i18n(obj) {
@@ -119,7 +120,7 @@ function openSignInfo(s, voc, { selectTab }) {
       h('div.kvs', {},
         kv('Category', d.category), kv('Category name', d.categoryName),
         kv('Legacy references', d.legacyReferences.join(', ') || '—'),
-        kv('Symbol may be reversed', d.symbolMayBeReversed), kv('Wikidata', d.wikidata), kv('Note', d.note))),
+        kv('Symbol may be reversed', d.symbolMayBeReversed), kv('Wikidata', /^Q[1-9]/.test(d.wikidata ?? '') ? h('a', { href: `https://www.wikidata.org/wiki/${d.wikidata}`, target: '_blank', rel: 'noopener noreferrer' }, d.wikidata) : '—'), kv('Note', d.note))),
     d.osm ? h('section.box', {},
       h('h3', {}, t('OpenStreetMap')),
       h('div.kvs', {}, kv('Generic traffic_sign', d.osm.traffic_sign_generic)),
@@ -209,6 +210,62 @@ function tilesGrid(ctx, loc, where, jurs, props) {
   ];
 }
 
+// --- official models ---------------------------------------------------------------------------
+
+/** Every official picture of the Convention for this sign, under the big one: a click shows it in
+ *  place of the big picture; the designs it belongs to are named (or flagged when none matches). */
+function officialStrip(ctx, heroImg, selectTab) {
+  // One picture is already the big one, unless it matches no design: then say so.
+  if (!ctx.official.length || (ctx.official.length === 1 && ctx.official[0].designs.length)) return null;
+  const items = ctx.official.map((im, k) => {
+    const btn = h('button.official-thumb', {
+      type: 'button',
+      'aria-pressed': String(k === 0),
+      title: labelsText(im.labels),
+      onclick: () => {
+        heroImg.src = im.url;
+        heroImg.title = labelsText(im.labels);
+        strip.querySelectorAll('.official-thumb').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+      },
+    }, h('img', { src: im.url, alt: im.name, loading: 'lazy' }));
+    return h('figure', {}, btn, h('figcaption.small', {},
+      im.designs.length
+        ? im.designs.map((n, j) => [j ? ', ' : '', h('button.linkish', { type: 'button', onclick: () => selectTab(`d${n}`, true) }, t('Design {n}', { n: n + 1 }))])
+        : h('span.badge.warn', { title: t('No design of this sign carries these labels in the database.') }, t('no matching design'))));
+  });
+  const strip = h('div.official-strip', { role: 'group', 'aria-label': t('Official models (Vienna Convention, 2026 amendment)') }, items);
+  return strip;
+}
+
+// --- Wikidata --------------------------------------------------------------------------------
+
+/** Wikidata field of the sign (where = null), of design i ('d', i) or of related sign i ('r', i).
+ *  Saving sends the whole entry with the version that was read, so a concurrent edit is detected. */
+function wikidataOf(ctx, where = null, i = 0) {
+  const target = (data) => (where === 'd' ? data.officialSign.designs[i] : where === 'r' ? data.relatedSigns[i] : data);
+  const what = where === 'd' ? `design ${i + 1}` : where === 'r' ? `related sign ${i + 1}` : 'sign'; // history comments stay in English
+  return wikidataField({
+    value: target(ctx.sign.data).wikidata,
+    editable: ctx.editable,
+    onSave: async (id) => {
+      const data = structuredClone(ctx.sign.data);
+      const obj = target(data);
+      if (id) obj.wikidata = id;
+      else if (where === 'r') delete obj.wikidata; // optional on related signs
+      else obj.wikidata = EMPTY_WIKIDATA;
+      const comment = id ? `Wikidata (${what}): ${id}` : `Wikidata (${what}) removed`;
+      try {
+        await put(signPath(ctx.ref), { data, version: ctx.sign.version, comment });
+      } catch (err) {
+        if (err.status === 409) throw new Error(t('Someone else changed this sign meanwhile: reload the page and try again.'));
+        throw err;
+      }
+      toast(t('Saved'));
+      navigate(`#${currentPath()}`);
+    },
+  });
+}
+
 // --- tabs ------------------------------------------------------------------------------------
 
 function designPanel(ctx, d, i) {
@@ -225,6 +282,7 @@ function designPanel(ctx, d, i) {
         h('p.small.muted', {},
           t('Versions'), ': ', d.versions.join(', ') || '—', ' · ', t('Legacy references'), ': ', d.legacyReferences.join(', ') || '—',
           d.mirrored ? ` · ${t('mirrored')}` : ''),
+        wikidataOf(ctx, 'd', i),
         d.notes?.length ? h('ul.notes', {}, d.notes.map((n) => h('li', {}, n))) : null)),
     tilesGrid(ctx, `d${i}`, t('Design {n}', { n: i + 1 }), d.jurisdictions, d),
   ];
@@ -238,7 +296,8 @@ function relatedPanel(ctx, r, i) {
       h('div', {},
         h('h3', {}, displayName(r.name) || r.reference, ' ', isRef(r.reference) ? h('a', { href: signHref(r.reference) }, h('code.ref', {}, r.reference)) : h('code.ref', {}, r.reference)),
         h('div.chips', {}, ['shape', 'background_color', 'border_color', 'symbol_color', 'background', 'border'].filter((p) => r[p] !== undefined && r[p] !== null).map((p) => h('span.chip', { title: p }, `${p.replace(/_/g, ' ')}: ${r[p]}`))),
-        r.description ? h('p.small', {}, Object.values(r.description)[0] ?? '') : null)),
+        r.description ? h('p.small', {}, Object.values(r.description)[0] ?? '') : null,
+        wikidataOf(ctx, 'r', i))),
     tilesGrid(ctx, `r${i}`, `${t('Related sign')} · ${displayName(r.name) || r.reference}`, r.jurisdictions, props),
   ];
 }
@@ -287,10 +346,11 @@ export async function viewSign(ref) {
   const [s, voc] = await Promise.all([get(signPath(ref)), vocab()]);
   const d = s.data;
   const wanted = new URLSearchParams(currentPath().split('?')[1] ?? '').get('tab');
-  const ctx = { ref, images: s.images, official: s.vienna_images ?? [], editable: Boolean(session.user) && !s.deleted, wanted, selectors: [] };
+  const ctx = { ref, sign: s, images: s.images, official: s.vienna_images ?? [], editable: Boolean(session.user) && !s.deleted, wanted, selectors: [] };
   const selectTab = (key, scroll) => ctx.selectors.find((x) => x.keys.has(key))?.select(key, scroll);
   const designs = d.officialSign.designs;
   const hero = ctx.official[0]?.url ?? firstImage(designs[0]?.jurisdictions, s.images) ?? Object.values(s.images)[0]?.[0];
+  const heroImg = h('img.hero-img', { src: hero, alt: displayName(d.name) || ref, title: displayName(d.name) });
 
   const designItems = designs.map((x, i) => ({
     key: `d${i}`, label: t('Design {n}', { n: i + 1 }), props: x, count: Object.keys(x.jurisdictions ?? {}).length,
@@ -307,9 +367,11 @@ export async function viewSign(ref) {
     s.deleted ? h('div.banner.warn', {}, t('This sign has been deleted. Moderators can restore it.')) : null,
     readOnlyBanner(),
     h('header.sign-hero', {},
-      hero ? h('img.hero-img', { src: hero, alt: displayName(d.name) || ref, title: displayName(d.name) }) : null,
+      hero ? heroImg : null,
       h('div.hero-id', {},
         h('code.ref.big', {}, ref),
+        wikidataOf(ctx),
+        officialStrip(ctx, heroImg, selectTab),
         h('button.btn.primary', { type: 'button', onclick: () => openSignInfo(s, voc, { selectTab }) }, `ⓘ ${t('More information')}`))),
     h('section.sign-section', {},
       h('h2', {}, t('Designs ({n})', { n: designs.length })),

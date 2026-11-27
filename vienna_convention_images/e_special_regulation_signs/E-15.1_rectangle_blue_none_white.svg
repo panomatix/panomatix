@@ -1,4 +1,16 @@
-<svg width="600" height="720" version="1.2" viewBox="0 0 600 720" xmlns="http://www.w3.org/2000/svg"><style>.s0 { fill: #0060aa } 
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+	<style>
+		.s0 { fill: #0060aa } 
 		.s1 { fill: none;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 13 } 
 		.s2 { fill: #ffffff;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 5 } 
-		.s3 { fill: #000000 }</style><path class="s0" d="m30 0h540c16.57 0 30 13.43 30 30v660c0 16.57-13.43 30-30 30h-540c-16.57 0-30-13.43-30-30v-660c0-16.57 13.43-30 30-30z" fill-rule="evenodd"/><path class="s1" d="m47 15h505c16.57 0 30 13.43 30 30v630c0 16.57-13.43 30-30 30h-505c-16.57 0-30-13.43-30-30v-630c0-16.57 13.43-30 30-30z" fill-rule="evenodd"/><path class="s2" d="m277 682h-164v-644h164v62l210 136v248l-210 136z"/><path class="s3" d="m298.19 529.74v50.36h-20.38v-50.36z" fill-rule="evenodd"/><path class="s3" d="m298.19 432.28v50.36h-20.38v-50.36z" fill-rule="evenodd"/><path class="s3" d="m298.19 336.82v50.36h-20.38v-50.36z" fill-rule="evenodd"/><path class="s3" d="m298.19 237.36v50.36h-20.38v-50.36z" fill-rule="evenodd"/><path class="s3" d="m298.19 139.9v50.36h-20.38v-50.36z" fill-rule="evenodd"/></svg>
+		.s3 { fill: #000000 } 
+	</style>
+	<path id="Background" fill-rule="evenodd" class="s0" d="m30 0h540c16.57 0 30 13.43 30 30v660c0 16.57-13.43 30-30 30h-540c-16.57 0-30-13.43-30-30v-660c0-16.57 13.43-30 30-30z"/>
+	<path id="path1" fill-rule="evenodd" class="s1" d="m47 15h505c16.57 0 30 13.43 30 30v630c0 16.57-13.43 30-30 30h-505c-16.57 0-30-13.43-30-30v-630c0-16.57 13.43-30 30-30z"/>
+	<path id="path3930" class="s2" d="m277 682h-164v-644h164v62l210 136v248l-210 136z"/>
+	<path id="path4007" fill-rule="evenodd" class="s3" d="m298.19 529.74v50.36h-20.38v-50.36z"/>
+	<path id="path4041" fill-rule="evenodd" class="s3" d="m298.19 432.28v50.36h-20.38v-50.36z"/>
+	<path id="path4056" fill-rule="evenodd" class="s3" d="m298.19 336.82v50.36h-20.38v-50.36z"/>
+	<path id="path4058" fill-rule="evenodd" class="s3" d="m298.19 237.36v50.36h-20.38v-50.36z"/>
+	<path id="path4060" fill-rule="evenodd" class="s3" d="m298.19 139.9v50.36h-20.38v-50.36z"/>
+</svg>

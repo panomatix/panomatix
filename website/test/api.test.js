@@ -39,7 +39,8 @@ before(async () => {
   }
   db.prepare('INSERT INTO users (email, display_name, password_hash, role, created_at) VALUES (?,?,?,?,?)')
     .run('mod@example.org', 'Moderator', await hashPassword('moderator-password-1'), 'moderator', ts);
-  config = loadConfig({ database: ':unused:', backupDir: path.join(tmp, 'backups'), imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
+  const wikidataFetch = async (id) => ({ entities: { [id]: id === 'Q999' ? { id, missing: '' } : { id, labels: { fr: { value: 'cédez le passage' }, en: { value: 'give way' } }, descriptions: { en: { value: 'traffic sign' } } } } });
+  config = loadConfig({ database: ':unused:', wikidataFetch, backupDir: path.join(tmp, 'backups'), imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
   const app = createApp({ config, db, mailer: { send: (m) => { mails.push(m); } } });
   server = http.createServer(app.handle);
   await new Promise((r) => server.listen(0, '127.0.0.1', r));
@@ -568,5 +569,28 @@ describe('account deletion, robots and backups', () => {
     const a = new Client();
     await a.req('POST', '/api/v1/auth/login', { email: 'boss@example.org', password: 'boss long password' });
     assert.equal((await a.req('DELETE', '/api/v1/auth/me', { password: 'boss long password' })).data.error.code, 'last_admin');
+  });
+});
+
+describe('wikidata', () => {
+  test('editors look an ID up and save it on the sign or a design', async () => {
+    assert.equal((await new Client().req('GET', '/api/v1/wikidata/Q42')).status, 401); // not a public proxy
+    const c = new Client();
+    await signUp(c, 'wiki@example.org', 'Wiki', 'wiki long password');
+    const r = await c.req('GET', '/api/v1/wikidata/q42?lang=fr');
+    assert.deepEqual(r.data, { id: 'Q42', label: 'cédez le passage', description: 'traffic sign', url: 'https://www.wikidata.org/wiki/Q42' });
+    assert.equal((await c.req('GET', '/api/v1/wikidata/Q999')).data.error.code, 'wikidata_not_found');
+    assert.equal((await c.req('GET', '/api/v1/wikidata/hello')).data.error.code, 'invalid_wikidata');
+
+    const s = (await sign(c, 'VIENNA:B-01.1')).data;
+    const data = structuredClone(s.data);
+    data.wikidata = 'Q42';
+    data.officialSign.designs[0].wikidata = 'Q43';
+    const put = await c.req('PUT', '/api/v1/signs/VIENNA%3AB-01.1', { data, version: s.version, comment: 'Wikidata (sign): Q42' });
+    assert.equal(put.status, 200);
+    const after = (await sign(c, 'VIENNA:B-01.1')).data.data;
+    assert.deepEqual([after.wikidata, after.officialSign.designs[0].wikidata], ['Q42', 'Q43']);
+    data.wikidata = 'Q12x';
+    assert.equal((await c.req('PUT', '/api/v1/signs/VIENNA%3AB-01.1', { data, version: s.version + 1 })).status, 422); // schema: Q + digits
   });
 });

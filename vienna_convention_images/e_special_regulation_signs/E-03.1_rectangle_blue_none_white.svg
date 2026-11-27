@@ -1,3 +1,13 @@
-<svg width="650" height="550" version="1.2" viewBox="0 0 650 550" xmlns="http://www.w3.org/2000/svg"><style>.s0 { fill: #0060aa } 
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 550" width="650" height="550">
+	<style>
+		.s0 { fill: #0060aa } 
 		.s1 { fill: none;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 13 } 
-		.s2 { fill: #ffffff;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 3 }</style><path class="s0" d="m30 0h590c16.6 0 30 13.4 30 30v490c0 16.6-13.4 30-30 30h-590c-16.6 0-30-13.4-30-30v-490c0-16.6 13.4-30 30-30z" fill-rule="evenodd"/><path class="s1" d="m50 15h550c16.6 0 30 13.4 30 30v460c0 16.6-13.4 30-30 30h-550c-16.6 0-30-13.4-30-30v-460c0-16.6 13.4-30 30-30z" fill-rule="evenodd"/><path class="s2" d="m155.93 503.29h-16.74v-401.86h-23.02l32.43-54.43 31.4 54.43h-24.07z"/><path class="s2" d="m147.56 243.74-34.41-35.15 16.28-16.27-61.41-15.55 16.28 60.68 17.02-17 44.15 44.24z"/><path class="s2" d="m516.56 284.51v219.78h-16.74v-226.04l44.87-43.55-16.28-16.27 61.4-15.55-16.27 60.69-17.02-17.02z"/><path class="s2" d="m332.91 503.29h-16.74v-401.86h-23.01l32.43-54.43 31.39 54.43h-24.07z"/></svg>
+		.s2 { fill: #ffffff;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 3 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m30 0h590c16.6 0 30 13.4 30 30v490c0 16.6-13.4 30-30 30h-590c-16.6 0-30-13.4-30-30v-490c0-16.6 13.4-30 30-30z"/>
+	<path fill-rule="evenodd" class="s1" d="m50 15h550c16.6 0 30 13.4 30 30v460c0 16.6-13.4 30-30 30h-550c-16.6 0-30-13.4-30-30v-460c0-16.6 13.4-30 30-30z"/>
+	<path id="path5" class="s2" d="m155.93 503.29h-16.74v-401.86h-23.02l32.43-54.43 31.4 54.43h-24.07z"/>
+	<path id="path4" class="s2" d="m147.56 243.74l-34.41-35.15 16.28-16.27-61.41-15.55 16.28 60.68 17.02-17 44.15 44.24z"/>
+	<path id="path3" class="s2" d="m516.56 284.51v219.78h-16.74v-226.04l44.87-43.55-16.28-16.27 61.4-15.55-16.27 60.69-17.02-17.02z"/>
+	<path id="path6" class="s2" d="m332.91 503.29h-16.74v-401.86h-23.01l32.43-54.43 31.39 54.43h-24.07z"/>
+</svg>

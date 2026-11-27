@@ -9,6 +9,7 @@ import { registerCountryRoutes } from './routes/countries.js';
 import { registerMetaRoutes } from './routes/meta.js';
 import { registerSignRoutes } from './routes/signs.js';
 import { registerUnitRoutes } from './routes/units.js';
+import { registerWikidataRoutes } from './routes/wikidata.js';
 import { ApiError, authenticate, enforceCsrf } from './security.js';
 
 export function knownCountryCodes(db) {
@@ -26,6 +27,7 @@ export function createApp({ config, db, mailer = createMailer(config) }) {
   registerCompareRoutes(router);
   registerCountryRoutes(router);
   registerUnitRoutes(router);
+  registerWikidataRoutes(router);
   registerImageRoutes(router);
   registerViennaMediaRoute(router);
 
@@ -33,7 +35,9 @@ export function createApp({ config, db, mailer = createMailer(config) }) {
     baseHeaders(res);
     if (config.cookieSecure) res.setHeader('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
     const url = new URL(req.url, 'http://localhost');
-    const fwd = config.trustProxy ? String(req.headers['x-forwarded-for'] ?? '').split(',')[0].trim() : '';
+    // The proxy appends the address it sees to X-Forwarded-For: only that last entry can be trusted
+    // (the first ones are whatever the client sent).
+    const fwd = config.trustProxy ? String(req.headers['x-forwarded-for'] ?? '').split(',').at(-1).trim() : '';
     const ctx = {
       req, res, config, db, mailer, images, vienna, url,
       query: url.searchParams,

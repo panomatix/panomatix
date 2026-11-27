@@ -1,3 +1,10 @@
-<svg width="800" height="800" version="1.2" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg"><style>.s0 { fill: #0060aa } 
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<style>
+		.s0 { fill: #0060aa } 
 		.s1 { fill: none;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 20 } 
-		.s2 { fill: #ffffff }</style><path class="s0" d="m30 0h740c16.57 0 30 13.43 30 30v740c0 16.57-13.43 30-30 30h-740c-16.57 0-30-13.43-30-30v-740c0-16.57 13.43-30 30-30z" fill-rule="evenodd"/><path class="s1" d="m57 22h685c16.57 0 30 13.43 30 30v695c0 16.57-13.43 30-30 30h-685c-16.57 0-30-13.43-30-30v-695c0-16.57 13.43-30 30-30z" fill-rule="evenodd"/><path class="s2" d="m523.2 685h95.04v-569.6h-95.04v244h-248.16v-244h-95.04v569.6h95.04v-248.8h248.16z"/></svg>
+		.s2 { fill: #ffffff } 
+	</style>
+	<path id="Background" fill-rule="evenodd" class="s0" d="m30 0h740c16.57 0 30 13.43 30 30v740c0 16.57-13.43 30-30 30h-740c-16.57 0-30-13.43-30-30v-740c0-16.57 13.43-30 30-30z"/>
+	<path id="path 1" fill-rule="evenodd" class="s1" d="m57 22h685c16.57 0 30 13.43 30 30v695c0 16.57-13.43 30-30 30h-685c-16.57 0-30-13.43-30-30v-695c0-16.57 13.43-30 30-30z"/>
+	<path id="H" class="s2" d="m523.2 685h95.04v-569.6h-95.04v244h-248.16v-244h-95.04v569.6h95.04v-248.8h248.16z"/>
+</svg>

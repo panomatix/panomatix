@@ -15,7 +15,8 @@
     "create-user": "node server/cli.js create-user",
     "test": "node --test \"test/**/*.test.js\"",
     "backup": "node server/cli.js backup",
-    "restore": "node server/cli.js restore"
+    "restore": "node server/cli.js restore",
+    "deploy": "sh scripts/deploy.sh"
   },
   "license": "SEE LICENSE IN ../LICENSE",
   "dependencies": {

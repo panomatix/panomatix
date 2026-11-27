@@ -1,3 +1,13 @@
-<svg width="800" height="800" version="1.2" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg"><style>.s0 { fill: #ffffff } 
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<style>
+		.s0 { fill: #ffffff } 
 		.s1 { fill: none;stroke: #000000;stroke-miterlimit:100;stroke-width: 18 } 
-		.s2 { fill: #000000 }</style><path class="s0" d="m400 800c-221.2 0-400-178.8-400-400s178.8-400 400-400 400 178.8 400 400-178.8 400-400 400z" fill-rule="evenodd"/><path class="s1" d="m400 780c-210.14 0-380-169.86-380-380s169.86-380 380-380 380 169.86 380 380-169.86 380-380 380z" fill-rule="evenodd"/><path class="s2" d="m566.48 53 15.97 11.19-432.47 617.64-15.98-11.19z" fill-rule="evenodd"/><path class="s2" d="m598.15 70.05 15.98 11.18-439.94 628.29-15.97-11.18z" fill-rule="evenodd"/><path class="s2" d="m626.1 92.42 15.97 11.18-439.93 628.29-15.97-11.18z" fill-rule="evenodd"/><path class="s2" d="m650.32 119.11 15.97 11.19-432.47 617.64-15.98-11.19z" fill-rule="evenodd"/></svg>
+		.s2 { fill: #000000 } 
+	</style>
+	<path id="PATH" fill-rule="evenodd" class="s0" d="m400 800c-221.2 0-400-178.8-400-400 0-221.2 178.8-400 400-400 221.2 0 400 178.8 400 400 0 221.2-178.8 400-400 400z"/>
+	<path id="path" fill-rule="evenodd" class="s1" d="m400 780c-210.14 0-380-169.86-380-380 0-210.14 169.86-380 380-380 210.14 0 380 169.86 380 380 0 210.14-169.86 380-380 380z"/>
+	<path id="rect834" fill-rule="evenodd" class="s2" d="m566.48 53l15.97 11.19-432.47 617.64-15.98-11.19z"/>
+	<path id="rect836" fill-rule="evenodd" class="s2" d="m598.15 70.05l15.98 11.18-439.94 628.29-15.97-11.18z"/>
+	<path id="rect838" fill-rule="evenodd" class="s2" d="m626.1 92.42l15.97 11.18-439.93 628.29-15.97-11.18z"/>
+	<path id="rect840" fill-rule="evenodd" class="s2" d="m650.32 119.11l15.97 11.19-432.47 617.64-15.98-11.19z"/>
+</svg>

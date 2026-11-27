@@ -300,7 +300,8 @@ export class ViennaIndex {
         const list = this.byRef.get(reference) ?? [];
         list.push({
           name: f, labels, key: labelsKey(labels), index: parsed.index,
-          url: `/vienna-media/${rel.split('/').map(encodeURIComponent).join('/')}`,
+          // ?v= changes whenever the file does, so browsers never keep showing an old drawing.
+          url: `/vienna-media/${rel.split('/').map(encodeURIComponent).join('/')}?v=${Math.floor(fs.statSync(path.join(this.root, rel)).mtimeMs / 1000).toString(36)}`,
           commons: info.commons_title ?? null, commonsFile: info.commons_file ?? null, license: info.license ?? null, artist: info.artist ?? null,
         });
         this.byRef.set(reference, list);

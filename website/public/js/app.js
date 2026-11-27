@@ -82,6 +82,24 @@ export function navigate(hash) {
   else location.hash = hash;
 }
 
+/** Light/dark toggle. The stored choice wins over the system setting (see js/theme.js). */
+const isDark = () => (document.documentElement.dataset.theme ?? (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark';
+
+function themeButton() {
+  const dark = isDark();
+  return h('button.btn.theme-toggle', {
+    type: 'button',
+    title: t(dark ? 'Switch to light mode' : 'Switch to dark mode'),
+    'aria-label': t(dark ? 'Switch to light mode' : 'Switch to dark mode'),
+    onclick: () => {
+      const next = isDark() ? 'light' : 'dark';
+      document.documentElement.dataset.theme = next;
+      try { localStorage.setItem('pmx_theme', next); } catch { /* not remembered, still applied */ }
+      drawAccount();
+    },
+  }, dark ? '☀' : '☾');
+}
+
 function langPicker() {
   return h('select.lang', {
     'aria-label': t('Language'),
@@ -103,7 +121,7 @@ function drawAccount() {
   const box = document.getElementById('account');
   const u = session.user;
   if (!u) {
-    box.replaceChildren(h('a.btn', { href: '#/login' }, t('Sign in')), h('a.btn.primary', { href: '#/register' }, t('Create account')), langPicker());
+    box.replaceChildren(h('a.btn', { href: '#/login' }, t('Sign in')), h('a.btn.primary', { href: '#/register' }, t('Create account')), themeButton(), langPicker());
     return;
   }
   box.replaceChildren(...[
@@ -118,6 +136,7 @@ function drawAccount() {
         navigate('#/');
       },
     }, t('Sign out')),
+    themeButton(),
     langPicker(),
   ].filter(Boolean));
 }

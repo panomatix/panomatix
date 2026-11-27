@@ -56,6 +56,25 @@ Links are random 256-bit tokens stored hashed, like sessions, and always point t
 (never to the `Host` of the request). Emails are written in the interface language of the person asking
 (English, French, German, Spanish). Sign-ups whose link is never opened are deleted after a week.
 
+## Deploying
+
+The production server runs Ubuntu with Nginx and Certbot; Panomatix gets its own Node.js 24 in
+`/opt/node-24` (the system Node.js is left to other sites), a system user `panomatix`, the code in
+`/opt/panomatix` (owned by root: the site cannot modify it) and its settings in `/etc/panomatix/app.env`.
+
+1. DNS: an `A` record for the site's name pointing to the server.
+2. Once, from this computer: `ssh -i ~/.ssh/key root@IP 'sh -s' < deploy/install-server.sh`
+   (Node.js 24, user, clone, settings file, systemd unit, Nginx site, Let's Encrypt certificate;
+   safe to re-run). Then put the SMTP account in `/etc/panomatix/app.env`.
+3. Every update, from `website/`: `npm run deploy -- "Commit message"` (settings in the untracked
+   `.env.deploy`). It runs the tests, commits, pushes the code to the server over SSH, ships the Node
+   modules built here for the server's CPU when `package-lock.json` changed, backs up the changes,
+   fast-forwards the code, restarts the service, pushes to GitHub and checks `/api/v1/health`.
+   The server never contacts GitHub or npm after the first install.
+
+Behind Nginx, `PANOMATIX_TRUST_PROXY=1` and `proxy_set_header X-Forwarded-For $remote_addr` go
+together: the server only trusts the address added by the proxy.
+
 ## Data flow
 
 ```
