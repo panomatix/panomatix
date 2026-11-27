@@ -49,6 +49,24 @@ export function panelChip(ref, { check, onRemove } = {}) {
   return chip;
 }
 
+/** Pictures of the panels above and below a national sign ({top, bottom}, top to bottom), from its
+ *  `additional` data and the {reference: url} map the server sends with the sign. */
+export function panelPicsOf(additional, panelImages = {}) {
+  const column = (pos) => [...(additional?.[pos] ?? [])].sort((a, b) => a.index - b.index)
+    .map((slot) => slot.reference.map((ref) => panelImages[ref]).find(Boolean)).filter(Boolean);
+  const top = column('top').reverse();
+  const bottom = column('bottom');
+  return top.length || bottom.length ? { top, bottom } : null;
+}
+
+/** A sign picture with its panels stacked above and below, as on the road. Without panels: the picture alone. */
+export function signWithPanels(signImg, pics) {
+  if (!signImg || !pics) return signImg;
+  const panel = (url) => h('img.panel', { src: url, alt: '', loading: 'lazy' });
+  signImg.classList.add('sign');
+  return h('span.with-panels', { title: t('With its additional panels') }, pics.top.map(panel), signImg, pics.bottom.map(panel));
+}
+
 /** The sign with its panels drawn around it, slot by slot (index 1 = next to the sign). */
 export function panelStack(additional, signImg, checks = []) {
   const find = (pos, si, ref) => checks.find((c) => c.position === pos && c.slot === si && c.reference === ref);

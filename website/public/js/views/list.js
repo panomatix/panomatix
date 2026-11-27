@@ -3,6 +3,7 @@ import { countries, get, vocab } from '../api.js';
 import { debounce, h, signHref, fill } from '../dom.js';
 import { lang, t, tn } from '../i18n.js';
 import { readOnlyBanner } from '../widgets.js';
+import { signWithPanels } from './unit.js';
 import { icon } from '../icons.js';
 
 const KIND_LABEL = { vienna: 'Vienna Convention', other: 'National only', all: 'All signs' }; // translated at render; Vienna is the default
@@ -119,7 +120,7 @@ export async function viewList() {
 function card(s, catLabel) {
   return h('li.card', { dataset: { cat: s.category.split('-').at(-1) } },
     h('a', { href: signHref(s.reference) },
-      h('div.thumb', {}, s.thumbnail ? h('img', { src: s.thumbnail.url, alt: s.thumbnail.code, loading: 'lazy' }) : h('span.noimg', {}, t('no image'))),
+      h('div.thumb', {}, s.thumbnail ? signWithPanels(h('img', { src: s.thumbnail.url, alt: s.thumbnail.code, loading: 'lazy' }), s.thumbnail.panels) : h('span.noimg', {}, t('no image'))),
       h('div.card-body', {},
         h('code.ref', {}, s.reference),
         h('strong', {}, displayName(s.name) || '—'),

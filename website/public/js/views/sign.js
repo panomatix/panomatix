@@ -5,7 +5,7 @@ import { can, countries, del, get, post, put, session, signPath, vocab } from '.
 import { add, confirmDialog, flag, fmtDate, h, signHref, toast } from '../dom.js';
 import { currentPath, navigate } from '../app.js';
 import { displayName } from './list.js';
-import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, removeUnit, panelCount, panelStack, pretty } from './unit.js';
+import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, panelCount, panelPicsOf, panelStack, pretty, removeUnit, signWithPanels } from './unit.js';
 import { t } from '../i18n.js';
 import { readOnlyBanner } from '../widgets.js';
 import { EMPTY_WIKIDATA, wikidataField } from './wikidata.js';
@@ -154,7 +154,7 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
   const editable = ctx.editable;
   const reload = () => navigate(`#${currentPath()}`);
   return h('article.tile', { dataset: { search: `${jurKey} ${jur.countryCode} ${codesOf(jur).join(' ')} ${Object.values(jur.languages ?? {}).map((l) => l.text ?? '').join(' ')}`.toLowerCase() } },
-    h('div.tile-img', {}, img ? h('img', { src: img, alt: code, loading: 'lazy' }) : null),
+    h('div.tile-img', {}, img ? signWithPanels(h('img', { src: img, alt: code, loading: 'lazy' }), panelPicsOf(jur.additional, ctx.panelImages)) : null),
     h('div.tile-id', {},
       h('code', { title: code }, code || '—'),
       h('span.tile-country', {}, flag(jur.countryCode, { title: jur.countryCode.toUpperCase() }), ' ', pretty(jurKey)),
@@ -347,7 +347,7 @@ export async function viewSign(ref) {
   const [s, voc] = await Promise.all([get(signPath(ref)), vocab()]);
   const d = s.data;
   const wanted = new URLSearchParams(currentPath().split('?')[1] ?? '').get('tab');
-  const ctx = { ref, sign: s, images: s.images, official: s.vienna_images ?? [], editable: Boolean(session.user) && !s.deleted, wanted, selectors: [] };
+  const ctx = { ref, sign: s, images: s.images, panelImages: s.panel_images ?? {}, official: s.vienna_images ?? [], editable: Boolean(session.user) && !s.deleted, wanted, selectors: [] };
   const selectTab = (key, scroll) => ctx.selectors.find((x) => x.keys.has(key))?.select(key, scroll);
   const designs = d.officialSign.designs;
   const hero = ctx.official[0]?.url ?? firstImage(designs[0]?.jurisdictions, s.images) ?? Object.values(s.images)[0]?.[0];

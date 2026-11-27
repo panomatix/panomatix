@@ -54,10 +54,48 @@ function fullSign(ctx, row) {
     data,
     images: imagesForEntry(ctx.images, data),
     vienna_images: ctx.vienna.get(row.reference, data),
+    panel_images: panelImagesOf(ctx, data),
   };
 }
 
-function thumbnail(ctx, reference, country) {
+// --- additional panels (panonceaux) shown with the sign ---------------------------------------------
+
+const SIGN_REF = /^(VIENNA|VIENNA2006|OTHER):/;
+
+/** Picture of a panel: a national code ("dk:UA31") or a sign of the database ("VIENNA:H-09.1"). */
+function panelImage(ctx, ref) {
+  if (SIGN_REF.test(ref)) return ctx.vienna.main(ref) ?? null;
+  const hit = ctx.images.lookup(ref);
+  return hit.length ? mediaUrl(hit[0]) : null;
+}
+
+/** Pictures of the panels above and below a national sign, in display order (top to bottom): the first
+ *  panel of each slot, so a slot offering alternatives shows one of them. Null without any picture. */
+function panelPictures(ctx, additional) {
+  const column = (pos) => [...(additional?.[pos] ?? [])].sort((a, b) => a.index - b.index)
+    .map((slot) => slot.reference.map((ref) => panelImage(ctx, ref)).find(Boolean)).filter(Boolean);
+  const top = column('top').reverse(); // slot 1 sits right above the sign
+  const bottom = column('bottom');
+  return top.length || bottom.length ? { top, bottom } : null;
+}
+
+/** Every jurisdiction (national sign) of an entry, designs and related signs. */
+function* jurisdictionsOf(entry) {
+  for (const d of [...(entry?.officialSign?.designs ?? []), ...(entry?.relatedSigns ?? [])]) yield* Object.values(d.jurisdictions ?? {});
+}
+
+/** {panel reference: picture url} for every panel used by the entry's national signs. */
+function panelImagesOf(ctx, entry) {
+  const out = {};
+  for (const jur of jurisdictionsOf(entry)) {
+    for (const slots of Object.values(jur.additional ?? {})) {
+      for (const slot of slots) for (const ref of slot.reference) if (!(ref in out)) out[ref] = panelImage(ctx, ref);
+    }
+  }
+  return out;
+}
+
+function thumbnail(ctx, reference, country, entry) {
   const official = !country && ctx.vienna.main(reference);
   if (official) return { code: reference, url: official, official: true };
   const rows = country
@@ -65,7 +103,10 @@ function thumbnail(ctx, reference, country) {
     : ctx.db.prepare('SELECT code FROM sign_codes WHERE reference=?').all(reference);
   for (const { code } of rows) {
     const hit = ctx.images.lookup(code);
-    if (hit.length) return { code, url: mediaUrl(hit[0]) };
+    if (!hit.length) continue;
+    // A national picture: its panels go with it (the official model of the Convention gets none).
+    const jur = [...jurisdictionsOf(entry)].find((j) => Object.values(j.languages ?? {}).some((l) => l.codes?.includes(code)));
+    return { code, url: mediaUrl(hit[0]), panels: jur ? panelPictures(ctx, jur.additional) : null };
   }
   return null;
 }
@@ -125,7 +166,7 @@ export function registerSignRoutes(router) {
         designs: d.officialSign?.designs?.length ?? 0,
         countries: countries.size,
         codes: country ? [...iterCodes(d)].filter(([cc, jk]) => cc === country || jk === country).map(([, , c]) => c) : undefined,
-        thumbnail: thumbnail(ctx, r.reference, country),
+        thumbnail: thumbnail(ctx, r.reference, country, d),
       };
     });
     send(ctx, 200, { total, page, per_page: perPage, items });
