@@ -11,9 +11,11 @@ the country's own panels or the Convention's, and each one is checked: it must e
 or to the Convention (otherwise the save is refused); a panel outside category H, or not in the Convention's list
 for the sign, is flagged as a warning. The full JSON editor stays available for everything else.
 
-- **Back end:** Node.js ≥ 24.7 — `node:http`, `node:sqlite`, `node:crypto` (argon2id); two npm dependencies,
-  both European: [Nodemailer](https://nodemailer.com) (Andris Reinman, Estonia; MIT-0) to send email and
-  [sharp](https://sharp.pixelplumbing.com) (Lovell Fuller, UK; libvips; Apache-2.0) to compress images.
+- **Back end:** Node.js ≥ 24.7 — `node:http`, `node:sqlite`, `node:crypto` (argon2id); three npm dependencies,
+  all European: [Nodemailer](https://nodemailer.com) (Andris Reinman, Estonia; MIT-0) to send email,
+  [sharp](https://sharp.pixelplumbing.com) (Lovell Fuller, UK; libvips; Apache-2.0) to compress images and
+  [flag-icons](https://flagicons.lipis.dev) (Panayiotis Lipiridis, Greece; MIT) for the country flags, served by
+  the site itself at `/flags/<code>.svg` (a region without a flag of its own, such as `ca-on`, gets its country's).
 - **Front end:** plain HTML, CSS and JavaScript modules, no build step, served by the same process.
 - **Interface languages:** English and French in full; German and Spanish partially (missing strings fall back to English).
   Add a language in [`public/js/i18n.js`](public/js/i18n.js).
@@ -22,7 +24,7 @@ for the sign, is flagged as a warning. The full JSON editor stays available for 
 
 ```sh
 cd website
-npm install                        # Nodemailer, sharp
+npm install                        # Nodemailer, sharp, flag-icons
 npm run import                     # load ../full_database.json into data/panomatix.sqlite3 (≈ 5 s)
 npm run create-user -- admin@example.org "Admin" admin   # prompts for the password
 npm run dev                        # http://127.0.0.1:8080, plain-HTTP cookies allowed, emails printed on the console

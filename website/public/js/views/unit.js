@@ -1,7 +1,7 @@
 // One national sign ("unit"): what ONE country shows under ONE design or related sign of a sign.
 // Three actions, each in a dialog: Info (read), Move (to another design / related sign / sign), Edit (incl. panels).
 import { ApiError, api, get, post, put, del, signPath, vocab } from '../api.js';
-import { block, confirmDialog, debounce, h, signHref, toast, add as addTo, fill } from '../dom.js';
+import { add as addTo, block, confirmDialog, debounce, fill, flag, h, signHref, toast } from '../dom.js';
 import { t } from '../i18n.js';
 import { bool, field, listEditor, mapEditor, strList, sub, text, uploadedMessage } from '../widgets.js';
 import { languageEditor, parameterEditor, showErrors } from './editor.js';
@@ -75,7 +75,7 @@ export function unitDetails(jur, images) {
   return h('div.unit-details', {},
     h('div.unit-pics', {}, urls.length ? urls.slice(0, 8).map((u) => h('img', { src: u, alt: '', loading: 'lazy' })) : h('span.muted.small', {}, t('no image'))),
     h('dl.kv-list', {},
-      h('dt', {}, t('Country code')), h('dd', {}, h('code', {}, jur.countryCode)),
+      h('dt', {}, t('Country code')), h('dd', {}, flag(jur.countryCode), ' ', h('code', {}, jur.countryCode)),
       h('dt', {}, t('All codes')), h('dd', {}, codes.map((c) => h('code.chip', {}, c))),
       jur.leftHandTrafficVariant ? [h('dt', {}, t('Left-hand traffic')), h('dd', {}, t('yes'))] : null,
       h('dt', {}, t('OpenStreetMap')), h('dd', {}, jur.osm?.traffic_sign?.length ? jur.osm.traffic_sign.map((v) => h('code.chip', {}, `traffic_sign=${v}`)) : '—')),

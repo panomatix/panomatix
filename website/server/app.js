@@ -1,7 +1,7 @@
 // Application assembly: request context, routing, static front-end, error handling.
 import path from 'node:path';
 import { APP_CSP, Router, baseHeaders, parseCookies, send, sendError, serveFile } from './http.js';
-import { ImageIndex, ViennaIndex, registerImageRoutes, registerViennaMediaRoute } from './images.js';
+import { ImageIndex, ViennaIndex, registerFlagRoute, registerImageRoutes, registerViennaMediaRoute } from './images.js';
 import { createMailer } from './mail.js';
 import { registerAuthRoutes } from './routes/auth.js';
 import { registerCompareRoutes } from './routes/compare.js';
@@ -30,6 +30,7 @@ export function createApp({ config, db, mailer = createMailer(config) }) {
   registerWikidataRoutes(router);
   registerImageRoutes(router);
   registerViennaMediaRoute(router);
+  registerFlagRoute(router);
 
   async function handle(req, res) {
     baseHeaders(res);
@@ -47,7 +48,7 @@ export function createApp({ config, db, mailer = createMailer(config) }) {
       user: null,
     };
     try {
-      if (url.pathname.startsWith('/api/') || url.pathname.startsWith('/media/') || url.pathname.startsWith('/vienna-media/')) {
+      if (url.pathname.startsWith('/api/') || url.pathname.startsWith('/media/') || url.pathname.startsWith('/vienna-media/') || url.pathname.startsWith('/flags/')) {
         const m = router.match(req.method, url.pathname);
         if (!m) throw new ApiError(404, 'not_found', 'Unknown endpoint.');
         ctx.params = m.params;

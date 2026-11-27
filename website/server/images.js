@@ -2,6 +2,7 @@
 import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { iterCodes, now } from './db.js';
 import { readMultipart, send, serveFile } from './http.js';
 import { compressUpload, stackSvg } from './imaging.js';
@@ -338,5 +339,18 @@ export function registerViennaMediaRoute(router) {
     if (path.extname(rel).toLowerCase() !== '.svg' || rel.includes('\0')) throw new ApiError(404, 'not_found', 'Not found.');
     const ok = serveFile(ctx, ctx.config.viennaImagesDir, rel, { maxAge: 86400, headers: { 'Content-Security-Policy': MEDIA_CSP } });
     if (!ok) throw new ApiError(404, 'not_found', 'Not found.');
+  });
+}
+
+// --- country flags (flag-icons, MIT, Panayiotis Lipiridis) -----------------------------------------
+// /flags/fr.svg; a subdivision without a flag of its own (ca-on, us-ca…) gets its country's flag.
+const FLAGS_DIR = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'node_modules', 'flag-icons', 'flags', '4x3');
+
+export function registerFlagRoute(router) {
+  router.add('GET', '/flags/(?<cc>[a-z]{2}(?:-[a-z0-9]{1,3})?)\\.svg', (ctx) => {
+    const cc = ctx.params.cc;
+    const name = [cc, cc.split('-')[0]].find((c) => fs.existsSync(path.join(FLAGS_DIR, `${c}.svg`)));
+    if (!name) throw new ApiError(404, 'not_found', 'No flag for this country code.');
+    serveFile(ctx, FLAGS_DIR, `${name}.svg`, { maxAge: 604800, headers: { 'Content-Security-Policy': MEDIA_CSP } });
   });
 }

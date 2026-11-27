@@ -2,7 +2,7 @@
 // Below, the designs and the related signs as tabs; in each tab, one tile per national sign
 // with three actions: Info, Move, Edit.
 import { can, countries, del, get, post, put, session, signPath, vocab } from '../api.js';
-import { confirmDialog, fmtDate, h, signHref, toast, add } from '../dom.js';
+import { add, confirmDialog, flag, fmtDate, h, signHref, toast } from '../dom.js';
 import { currentPath, navigate } from '../app.js';
 import { displayName } from './list.js';
 import { addUnit, codesOf, mainCode, openMoveDialog, openUnitEditor, openUnitInfo, panelChip, removeUnit, panelCount, panelStack, pretty } from './unit.js';
@@ -157,7 +157,7 @@ function unitTile(ctx, loc, where, jurKey, jur, fallbackProps) {
     h('div.tile-img', {}, img ? h('img', { src: img, alt: code, loading: 'lazy' }) : null),
     h('div.tile-id', {},
       h('code', { title: code }, code || '—'),
-      h('span.tile-country', {}, h('span.cc', {}, jur.countryCode), ' ', pretty(jurKey)),
+      h('span.tile-country', {}, flag(jur.countryCode, { title: jur.countryCode.toUpperCase() }), ' ', pretty(jurKey)),
       h('span.tile-badges', {},
         others > 0 ? h('span.badge', { title: codesOf(jur).join(', ') }, `+${others}`) : null,
         panels ? h('span.badge', { title: t('{n} additional panel(s)', { n: panels }) }, `▭ ${panels}`) : null,

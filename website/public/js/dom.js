@@ -89,3 +89,11 @@ export function confirmDialog(message, { input = false, placeholder = '' } = {})
     dlg.showModal();
   });
 }
+
+/** Flag of a country code ("fr", or a subdivision such as "ca-on", shown with its country's flag).
+ *  The code stays readable: alt text, and the tooltip names it. */
+export function flag(cc, { title = '' } = {}) {
+  const code = String(cc ?? '').toLowerCase();
+  if (!/^[a-z]{2}(-[a-z0-9]{1,3})?$/.test(code)) return null;
+  return h('img.flag', { src: `/flags/${code}.svg`, alt: code.toUpperCase(), title: title || code.toUpperCase(), width: 20, height: 15, loading: 'lazy' });
+}

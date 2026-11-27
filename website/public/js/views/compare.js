@@ -1,7 +1,7 @@
 // Country comparison table: one row per sign, one column per country, filterable by category and countries.
 import { countries, get, session, vocab } from '../api.js';
 import { COUNTRY_CODE_RE, COUNTRY_KEY_RE, addCustomCountry, countryKey, openCountrySigns, openUnitEditor, withCustomCountries } from './unit.js';
-import { debounce, h, signHref, toast } from '../dom.js';
+import { debounce, flag, h, signHref, toast } from '../dom.js';
 import { t, tn } from '../i18n.js';
 import { displayName } from './list.js';
 import { readOnlyBanner } from '../widgets.js';
@@ -79,7 +79,7 @@ export async function viewCompare() {
           type: 'checkbox', checked: selected.has(j.key),
           onchange: (e) => { if (e.target.checked) selected.add(j.key); else selected.delete(j.key); updateSummary(); reload(); },
         }),
-        pretty(j.key), ' ', h('code.cc', {}, [...j.codes].join(' ')),
+        [...j.codes].map((c) => flag(c)), ' ', pretty(j.key),
         j.custom ? h('span.badge', { title: t('Not in the database yet: add a sign to keep it') }, t('new')) : null)));
   }
 
@@ -189,7 +189,7 @@ export async function viewCompare() {
       h('th.corner', {}, t('Sign')),
       cols.map((c) => h('th.colhead', { scope: 'col', title: `${pretty(c.key)} (${c.country_code})` },
         h('span.cname', {}, pretty(c.key)),
-        h('code.cc', {}, c.country_code),
+        flag(c.country_code, { title: `${pretty(c.key)} (${c.country_code})` }),
         c.custom ? h('span.badge', { title: t('Not in the database yet: add a sign to keep it') }, t('new')) : null,
         h('span.coverage', {}, `${c.count}/${rows.length}`)))));
     const body = h('tbody', {}, rows.map((r) => h('tr', {},

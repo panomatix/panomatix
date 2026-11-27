@@ -621,3 +621,16 @@ describe('daily email cap', () => {
     assert.equal((await c.req('GET', '/api/v1/auth/mail-status')).data.available, true);
   });
 });
+
+describe('flags', () => {
+  test('a country flag, its country\'s flag for a subdivision, 404 otherwise', async () => {
+    const fr = await fetch(`${base}/flags/fr.svg`);
+    assert.equal(fr.status, 200);
+    assert.match(fr.headers.get('content-type'), /image\/svg\+xml/);
+    assert.match(fr.headers.get('content-security-policy'), /sandbox/);
+    const on = await (await fetch(`${base}/flags/ca-on.svg`)).text();
+    assert.equal(on, await (await fetch(`${base}/flags/ca.svg`)).text());
+    assert.equal((await fetch(`${base}/flags/zz.svg`)).status, 404);
+    assert.equal((await fetch(`${base}/flags/..%2Fpackage.svg`)).status, 404);
+  });
+});
