@@ -160,3 +160,28 @@ export function rateLimit(db, bucket, limit, windowS) {
 }
 
 export const clearRateLimit = (db, bucket) => db.prepare('DELETE FROM rate_events WHERE bucket=?').run(bucket);
+
+// --- pace of external API clients --------------------------------------------------------------------
+// Scripts and bots may call the API at most config.apiRatePerSecond times a second (per Bearer token, or
+// per IP without one). The site's own pages are exempt: browsers mark their requests with
+// "Sec-Fetch-Site: same-origin", a header no other web page can forge. Kept in memory: the server is a
+// single process, and a one-second window needs no persistence.
+const lastApiCall = new Map(); // client key -> time of its last accepted request (ms)
+
+export function paceApiClient(ctx) {
+  const perSecond = ctx.config.apiRatePerSecond;
+  if (!perSecond || !ctx.url.pathname.startsWith('/api/')) return;
+  if (ctx.req.headers['sec-fetch-site'] === 'same-origin') return;
+  const key = ctx.authKind === 'token' && ctx.user ? `user:${ctx.user.id}` : `ip:${ctx.ip}`;
+  const gap = 1000 / perSecond;
+  const t = Date.now();
+  const last = lastApiCall.get(key);
+  ctx.res.setHeader('RateLimit-Policy', `${perSecond};w=1`);
+  if (last !== undefined && t - last < gap) {
+    ctx.res.setHeader('Retry-After', String(Math.max(1, Math.ceil((gap - (t - last)) / 1000))));
+    throw new ApiError(429, 'too_many_requests',
+      `API clients are limited to ${perSecond} request${perSecond > 1 ? 's' : ''} per second. Wait for the delay given in Retry-After, then retry.`);
+  }
+  lastApiCall.set(key, t);
+  if (lastApiCall.size > 5000) for (const [k, v] of lastApiCall) if (t - v > 10_000) lastApiCall.delete(k);
+}

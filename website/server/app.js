@@ -10,7 +10,7 @@ import { registerMetaRoutes } from './routes/meta.js';
 import { registerSignRoutes } from './routes/signs.js';
 import { registerUnitRoutes } from './routes/units.js';
 import { registerWikidataRoutes } from './routes/wikidata.js';
-import { ApiError, authenticate, enforceCsrf } from './security.js';
+import { ApiError, authenticate, enforceCsrf, paceApiClient } from './security.js';
 
 export function knownCountryCodes(db) {
   return new Set(db.prepare('SELECT DISTINCT country_code AS c FROM sign_codes').all().map((r) => r.c));
@@ -53,6 +53,7 @@ export function createApp({ config, db, mailer = createMailer(config) }) {
         if (!m) throw new ApiError(404, 'not_found', 'Unknown endpoint.');
         ctx.params = m.params;
         authenticate(ctx);
+        paceApiClient(ctx);
         enforceCsrf(ctx);
         await m.handler(ctx);
         return;

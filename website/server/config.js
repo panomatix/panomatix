@@ -45,6 +45,9 @@ export function loadConfig(overrides = {}) {
     mailDailyLimit: int(env.PANOMATIX_MAIL_DAILY_LIMIT, 300),
     uploadLimit: int(env.PANOMATIX_UPLOAD_LIMIT, 60), // per user per hour
     editLimit: int(env.PANOMATIX_EDIT_LIMIT, 300), // per user per hour
+    // Pace of external API clients (scripts, bots): requests per second per token or per IP. The site's own
+    // pages are not counted. 0 = no limit.
+    apiRatePerSecond: int(env.PANOMATIX_API_RATE, 1),
     ...overrides,
   };
 }

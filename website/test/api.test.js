@@ -40,7 +40,7 @@ before(async () => {
   db.prepare('INSERT INTO users (email, display_name, password_hash, role, created_at) VALUES (?,?,?,?,?)')
     .run('mod@example.org', 'Moderator', await hashPassword('moderator-password-1'), 'moderator', ts);
   const wikidataFetch = async (id) => ({ entities: { [id]: id === 'Q999' ? { id, missing: '' } : { id, labels: { fr: { value: 'cédez le passage' }, en: { value: 'give way' } }, descriptions: { en: { value: 'traffic sign' } } } } });
-  config = loadConfig({ database: ':unused:', wikidataFetch, backupDir: path.join(tmp, 'backups'), imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
+  config = loadConfig({ database: ':unused:', apiRatePerSecond: 0, wikidataFetch, backupDir: path.join(tmp, 'backups'), imagesDir, viennaImagesDir: viennaDir, cookieSecure: false, loginLimit: 5, registerLimit: 50 });
   const app = createApp({ config, db, mailer: { send: (m) => { mails.push(m); } } });
   server = http.createServer(app.handle);
   await new Promise((r) => server.listen(0, '127.0.0.1', r));
@@ -632,5 +632,31 @@ describe('flags', () => {
     assert.equal(on, await (await fetch(`${base}/flags/ca.svg`)).text());
     assert.equal((await fetch(`${base}/flags/zz.svg`)).status, 404);
     assert.equal((await fetch(`${base}/flags/..%2Fpackage.svg`)).status, 404);
+  });
+});
+
+describe('pace of API clients', () => {
+  test('scripts get one request per second; the site\'s own pages are not counted', async () => {
+    const saved = config.apiRatePerSecond;
+    config.apiRatePerSecond = 1;
+    try {
+      // a script (no Sec-Fetch-Site header), by IP
+      assert.equal((await fetch(`${base}/api/v1/meta/vocabularies`)).status, 200);
+      const second = await fetch(`${base}/api/v1/meta/vocabularies`);
+      assert.equal(second.status, 429);
+      assert.equal((await second.json()).error.code, 'too_many_requests');
+      assert.equal(second.headers.get('retry-after'), '1');
+      assert.equal(second.headers.get('ratelimit-policy'), '1;w=1');
+      // the site's pages: the browser marks them same-origin
+      const page = { headers: { 'Sec-Fetch-Site': 'same-origin' } };
+      for (let i = 0; i < 5; i++) assert.equal((await fetch(`${base}/api/v1/meta/vocabularies`, page)).status, 200);
+      // images and the front-end are not paced
+      assert.equal((await fetch(`${base}/flags/fr.svg`)).status, 200);
+      // a second later, the script may call again
+      await new Promise((r) => setTimeout(r, 1050));
+      assert.equal((await fetch(`${base}/api/v1/meta/vocabularies`)).status, 200);
+    } finally {
+      config.apiRatePerSecond = saved;
+    }
   });
 });

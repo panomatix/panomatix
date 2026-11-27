@@ -146,6 +146,11 @@ Full list on the site at `#/api`. Main points:
 
 Scripts sign in with `{"mode": "token"}` and send `Authorization: Bearer <token>`.
 
+**One request per second.** API clients (scripts, bots, `curl`…) may send at most one request per second
+(`PANOMATIX_API_RATE`), counted per token, or per IP address without one. A faster request gets `429
+too_many_requests` with a `Retry-After` header: wait, then retry. The site's own pages are not counted (browsers
+mark their requests `Sec-Fetch-Site: same-origin`).
+
 ## Security
 
 - Passwords hashed with argon2id (m = 19 MiB, t = 2); ≥ 10 characters; login rate-limited per email and per IP.
@@ -176,6 +181,7 @@ Scripts sign in with `{"mode": "token"}` and send `Authorization: Bearer <token>
 | `PANOMATIX_VERIFY_HOURS` / `PANOMATIX_RESET_HOURS` | `24` / `1` | validity of the sign-up and reset links |
 | `PANOMATIX_MAIL_LIMIT` | `3` | emails per address per hour |
 | `PANOMATIX_MAIL_DAILY_LIMIT` | `300` | emails of the whole site per 24 h, to stay under the mail provider's quota (Brevo free plan: 300/day); `0` = no cap |
+| `PANOMATIX_API_RATE` | `1` | requests per second allowed to API clients (scripts), per token or IP; `0` = no limit |
 | `PANOMATIX_BACKUP_DIR` / `PANOMATIX_BACKUP_DAYS` | `website/backups` / `7` | incremental backups; `0` days turns them off |
 | `PANOMATIX_MAX_IMAGE_BYTES` | `20971520` | largest upload, before compression |
 | `PANOMATIX_SESSION_DAYS` / `PANOMATIX_TOKEN_DAYS` | `30` / `90` | |

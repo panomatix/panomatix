@@ -69,10 +69,13 @@ export async function viewApiDocs() {
     h('p', {}, 'JSON over HTTPS. Errors are ', h('code', {}, '{"error": {"code", "message", "details?"}}'),
       '. Browser sessions use an HttpOnly cookie and must send the ', h('code', {}, 'X-CSRF-Token'),
       ' header on writes; scripts sign in with ', h('code', {}, '"mode": "token"'), ' and send ', h('code', {}, 'Authorization: Bearer <token>'), '.'),
+    h('p', {}, h('strong', {}, 'One request per second.'), ' Scripts may send at most one request per second (per token, or per IP address without one). A faster request gets ',
+      h('code', {}, '429 too_many_requests'), ' with a ', h('code', {}, 'Retry-After'), ' header: wait, then retry. Pause one second between calls.'),
     h('pre.code', {}, `curl -s -X POST https://<host>/api/v1/auth/login \\
   -H 'Content-Type: application/json' \\
   -d '{"email":"you@example.org","password":"…","mode":"token"}'
 
+sleep 1   # one request per second
 curl -s https://<host>/api/v1/signs/VIENNA:B-01.1 -H 'Authorization: Bearer <token>'`),
     ENDPOINTS.map(([group, rows]) => h('section', {},
       h('h2', {}, group),
