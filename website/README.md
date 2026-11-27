@@ -112,6 +112,14 @@ above as well as below; `left` and `right` are kept only when used.
 - **Sign + panel codes** (`fi:B5+H5`, `ca-on:Wa-30+Wa-30t`): when no picture shows the whole, the pictures
   of the parts are stacked one above the other (served as one SVG under `/media/@stack/<code>.svg`).
 
+## Signs outside the Convention (OTHER)
+
+They were grouped automatically. A design of an OTHER sign is only a group of national signs: when its last
+country is removed or moved away, the design is removed in the same edit (Convention designs are official and
+stay, even with no country). `npm run prune-designs [-- --dry-run]` removes those already empty. When several
+OTHER pages describe the same sign, the one with the lowest number is the reference for its classification
+(the page says so): the others are grouped into it.
+
 ## Missing pictures from Wikimedia
 
 Many national signs have no picture yet, but the database keeps the Wikimedia Commons link they were drawn from

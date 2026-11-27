@@ -716,3 +716,44 @@ describe('missing pictures from Wikimedia', () => {
     }
   });
 });
+
+describe('empty designs of signs outside the Convention', () => {
+  test('the design an OTHER sign\'s last country leaves is removed; Convention designs stay', async () => {
+    const c = new Client();
+    await signUp(c, 'pruner@example.org', 'Pruner', 'pruner long password');
+    const base0 = structuredClone(fixture.find((x) => x.reference === 'VIENNA:B-01.1'));
+    const d0 = base0.officialSign.designs[0];
+    const [jk, jur] = Object.entries(d0.jurisdictions)[0];
+    const e = structuredClone(base0);
+    e.reference = 'OTHER:B9100';
+    e.category = 'OTHER-B';
+    e.relatedSigns = [];
+    // three designs, one country each
+    e.officialSign.designs = [0, 1, 2].map((n) => ({ ...structuredClone(d0), jurisdictions: { [`${jk}${n}`]: structuredClone(jur) } }));
+    storeSign(db, e, { version: 1, userId: null, ts: now(), insert: true });
+    const read = async () => (await sign(c, 'OTHER:B9100')).data;
+    // removing the only country of design 1 removes design 1
+    let s = await read();
+    let r = await c.req('DELETE', `/api/v1/signs/OTHER%3AB9100/units/d1/${jk}1`, { version: s.version });
+    assert.equal(r.status, 200);
+    s = await read();
+    assert.deepEqual(s.data.officialSign.designs.map((d) => Object.keys(d.jurisdictions)), [[`${jk}0`], [`${jk}2`]]);
+    // moving design 0's only country into the last design: design 0 goes, the answer points at the new index
+    r = await c.req('POST', `/api/v1/signs/OTHER%3AB9100/units/d0/${jk}0/move`, { version: s.version, to: { loc: 'd1' } });
+    assert.equal(r.status, 200);
+    assert.equal(r.data.loc, 'd0');
+    s = await read();
+    assert.deepEqual(s.data.officialSign.designs.map((d) => Object.keys(d.jurisdictions).sort()), [[`${jk}0`, `${jk}2`]]);
+    const hist = (await c.req('GET', '/api/v1/signs/OTHER%3AB9100/revisions')).data;
+    assert.ok(JSON.stringify(hist).includes('empty design 1 removed'));
+    // a Convention design keeps living without any country
+    const v = (await sign(c, 'VIENNA:B-01.1')).data;
+    const vd = Object.keys(v.data.officialSign.designs[1]?.jurisdictions ?? {});
+    if (vd.length === 1) {
+      const rv = await c.req('DELETE', `/api/v1/signs/VIENNA%3AB-01.1/units/d1/${vd[0]}`, { version: v.version });
+      assert.equal(rv.status, 200);
+      assert.equal((await sign(c, 'VIENNA:B-01.1')).data.data.officialSign.designs.length, v.data.officialSign.designs.length);
+    }
+    db.prepare("DELETE FROM signs WHERE reference='OTHER:B9100'").run();
+  });
+});

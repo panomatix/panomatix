@@ -108,6 +108,20 @@ function writable(row, version) {
   }
 }
 
+/** A design of a sign outside the Convention (OTHER:…) is only a group of national signs: once no country is
+ *  left in it, it goes. Convention designs are official and stay even without any country.
+ *  Returns the indexes removed (in ascending order). */
+export function pruneEmptyOtherDesigns(entry) {
+  if (!entry.reference?.startsWith('OTHER:')) return [];
+  const designs = entry.officialSign?.designs ?? [];
+  const removed = designs.map((d, i) => (Object.keys(d.jurisdictions ?? {}).length ? -1 : i)).filter((i) => i >= 0);
+  if (removed.length) entry.officialSign.designs = designs.filter((_, i) => !removed.includes(i));
+  return removed;
+}
+
+/** "d3" after the designs at `removed` were dropped from the same sign. */
+const shiftLoc = (loc, removed) => (loc.startsWith('d') ? `d${Number(loc.slice(1)) - removed.filter((i) => i < Number(loc.slice(1))).length}` : loc);
+
 function save(ctx, row, entry, { userId, ts, comment }) {
   normalizeEntry(entry);
   const errors = validateEntry(entry);
@@ -173,7 +187,9 @@ export function registerUnitRoutes(router) {
       if (!data) throw new ApiError(404, 'not_found', `${jur} has no national sign there.`);
       delete c.jurisdictions[jur];
       const code = Object.values(data.languages ?? {})[0]?.code ?? jur;
-      save(ctx, row, entry, { userId: user.id, ts, comment: cleanComment(body.comment) || `${code}: removed` });
+      const pruned = pruneEmptyOtherDesigns(entry);
+      const note = pruned.length ? ` (empty design ${pruned.map((i) => i + 1).join(', ')} removed)` : '';
+      save(ctx, row, entry, { userId: user.id, ts, comment: (cleanComment(body.comment) || `${code}: removed`) + note });
     });
     const row = loadRow(ctx, ctx.params.ref);
     send(ctx, 200, { reference: row.reference, version: row.version });
@@ -210,11 +226,15 @@ export function registerUnitRoutes(router) {
       delete from.c.jurisdictions[jur];
       dest.c.jurisdictions[jur] = data;
       panelErrors(ctx, tEntry, data, `${dest.path}.${jur}`);
-      const where = `${same ? '' : `${targetRef} `}${dest.kind === 'design' ? `design ${dest.index + 1}` : `related sign ${dest.index + 1}`}`;
-      const comment = cleanComment(body.comment) || `${code}: moved to ${where}`;
+      // The design it leaves may now be empty (signs outside the Convention only).
+      const pruned = pruneEmptyOtherDesigns(entry);
+      const destIndex = same && dest.kind === 'design' ? Number(shiftLoc(to.loc, pruned).slice(1)) : dest.index;
+      const where = `${same ? '' : `${targetRef} `}${dest.kind === 'design' ? `design ${destIndex + 1}` : `related sign ${destIndex + 1}`}`;
+      const note = pruned.length ? ` (empty design ${pruned.map((i) => i + 1).join(', ')} removed)` : '';
+      const comment = (cleanComment(body.comment) || `${code}: moved to ${where}`) + note;
       save(ctx, row, entry, { userId: user.id, ts, comment });
       if (!same) save(ctx, tRow, tEntry, { userId: user.id, ts, comment: cleanComment(body.comment) || `${code}: moved from ${row.reference}` });
-      result = { reference: targetRef, loc: to.loc };
+      result = { reference: targetRef, loc: same ? shiftLoc(to.loc, pruned) : to.loc };
     });
     const row = loadRow(ctx, ctx.params.ref);
     send(ctx, 200, { ...result, version: row.version, target: unitView(ctx, loadRow(ctx, result.reference), result.loc, jur) });

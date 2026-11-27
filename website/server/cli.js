@@ -8,6 +8,7 @@
 //   node server/cli.js fetch-images [--limit=N]    download missing sign pictures from their Wikimedia link
 //   node server/cli.js complete-parameters [--dry-run]  give every national version of a sign with a value
 //        (speed, width…) the parameter and unit its siblings have (values left to fill in)
+//   node server/cli.js prune-designs [--dry-run]   remove the designs of OTHER signs that hold no country
 import fs from 'node:fs';
 import path from 'node:path';
 import readline from 'node:readline';
@@ -19,6 +20,7 @@ import { cleanEmail, cleanName } from './routes/auth.js';
 import { restoreBackups, runBackup } from './backup.js';
 import { fetchMissingImages, missingImages } from './fetch-images.js';
 import { completeParameters } from './parameters.js';
+import { pruneEmptyDesigns } from './prune-designs.js';
 import { createApp } from './app.js';
 
 const config = loadConfig();
@@ -129,8 +131,13 @@ try {
     const r = completeParameters(openDatabase(config.database), { dryRun });
     for (const c of r.changes) console.log(`${c.reference}: ${c.added.join(', ')}`);
     console.log(`${dryRun ? 'Would complete' : 'Completed'} ${r.nationalSigns} national signs in ${r.signs} signs${dryRun ? ' (dry run, nothing saved)' : ', each saved as a new version'}.`);
+  } else if (cmd === 'prune-designs') {
+    const dryRun = flags.has('--dry-run');
+    const changes = pruneEmptyDesigns(openDatabase(config.database), { dryRun });
+    for (const c of changes) console.log(`${c.reference}: design ${c.removed.join(', ')} removed${c.left ? '' : ' (no design left)'}`);
+    console.log(`${dryRun ? 'Would remove' : 'Removed'} empty designs in ${changes.length} OTHER signs${dryRun ? ' (dry run, nothing saved)' : ', each saved as a new version'}.`);
   } else {
-    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role] | backup | restore <file>... | fetch-images [--limit=N] [--retry] | complete-parameters [--dry-run]');
+    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role] | backup | restore <file>... | fetch-images [--limit=N] [--retry] | complete-parameters [--dry-run] | prune-designs [--dry-run]');
     process.exit(cmd ? 1 : 0);
   }
 } catch (err) {

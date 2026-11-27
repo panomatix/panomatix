@@ -382,6 +382,9 @@ export async function viewSign(ref) {
   return h('article.page.sign', { dataset: { cat: d.category.split('-').at(-1) } },
     s.deleted ? h('div.banner.warn', {}, t('This sign has been deleted. Moderators can restore it.')) : null,
     readOnlyBanner(),
+    // Signs outside the Convention were grouped automatically: say which page wins when two describe the same sign.
+    ref.startsWith('OTHER:') ? h('p.banner.other-note', { role: 'note' }, icon('info'), ' ',
+      t('Sign outside the Vienna Convention. When several OTHER pages describe the same sign, the one with the lowest number is the reference for its classification: group the others into it.')) : null,
     h('header.sign-hero', {},
       hero ? heroImg : null,
       h('div.hero-id', {},
