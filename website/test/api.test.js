@@ -594,3 +594,30 @@ describe('wikidata', () => {
     assert.equal((await c.req('PUT', '/api/v1/signs/VIENNA%3AB-01.1', { data, version: s.version + 1 })).status, 422); // schema: Q + digits
   });
 });
+
+describe('daily email cap', () => {
+  test('once the cap is reached: same refusal for every address, no account created, forms warned', async () => {
+    const c = new Client();
+    assert.equal((await c.req('GET', '/api/v1/auth/mail-status')).data.available, true);
+    const sentSoFar = db.prepare("SELECT COUNT(*) AS n FROM rate_events WHERE bucket='mail-day'").get().n;
+    assert.ok(sentSoFar > 0); // every email sent by the earlier tests was counted
+    const saved = config.mailDailyLimit;
+    config.mailDailyLimit = sentSoFar;
+    try {
+      assert.equal((await c.req('GET', '/api/v1/auth/mail-status')).data.available, false);
+      const before = mails.length;
+      const r = await c.req('POST', '/api/v1/auth/register', { email: 'late@example.org', display_name: 'Late' });
+      assert.equal(r.status, 503);
+      assert.equal(r.data.error.code, 'mail_quota_reached');
+      assert.equal(db.prepare('SELECT 1 FROM users WHERE email=?').get('late@example.org'), undefined);
+      // known and unknown addresses get exactly the same answer
+      const known = await c.req('POST', '/api/v1/auth/forgot-password', { email: 'alice@example.org' });
+      const unknown = await c.req('POST', '/api/v1/auth/forgot-password', { email: 'nobody@example.org' });
+      assert.deepEqual([known.status, known.data], [unknown.status, unknown.data]);
+      assert.equal(mails.length, before);
+    } finally {
+      config.mailDailyLimit = saved;
+    }
+    assert.equal((await c.req('GET', '/api/v1/auth/mail-status')).data.available, true);
+  });
+});

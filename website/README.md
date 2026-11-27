@@ -47,6 +47,12 @@ generator, shown so it can be copied into a password manager) and warns not to r
 another site. **Delete my account** (account page, password required) erases the email, name and password;
 the person's edits stay in the history without their name. The only administrator cannot delete themselves.
 
+**Daily email cap.** Every email of the site counts toward `PANOMATIX_MAIL_DAILY_LIMIT` (300 per 24 h by
+default, the quota of Brevo's free plan). Once reached, sign-up and *forgot password* answer `503
+mail_quota_reached` until emails drop out of the 24-hour window, without creating an account; both forms say so
+before anyone fills them in (`GET /api/v1/auth/mail-status`). The cap is checked before the address is looked up,
+so a full quota never tells whether an address has an account. The server logs it once an hour while it lasts.
+
 Against robots, the sign-up and reset forms carry a hidden *honeypot* field: a robot that fills it gets the
 usual answer and nothing happens. Together with the email confirmation and the rate limits this is enough
 for now; if spam accounts still appear, a self-hosted proof-of-work captcha (such as ALTCHA) is the next step
@@ -167,6 +173,7 @@ Scripts sign in with `{"mode": "token"}` and send `Authorization: Bearer <token>
 | `PANOMATIX_MAIL_FROM` | `Panomatix <no-reply@localhost>` | sender of the emails |
 | `PANOMATIX_VERIFY_HOURS` / `PANOMATIX_RESET_HOURS` | `24` / `1` | validity of the sign-up and reset links |
 | `PANOMATIX_MAIL_LIMIT` | `3` | emails per address per hour |
+| `PANOMATIX_MAIL_DAILY_LIMIT` | `300` | emails of the whole site per 24 h, to stay under the mail provider's quota (Brevo free plan: 300/day); `0` = no cap |
 | `PANOMATIX_BACKUP_DIR` / `PANOMATIX_BACKUP_DAYS` | `website/backups` / `7` | incremental backups; `0` days turns them off |
 | `PANOMATIX_MAX_IMAGE_BYTES` | `20971520` | largest upload, before compression |
 | `PANOMATIX_SESSION_DAYS` / `PANOMATIX_TOKEN_DAYS` | `30` / `90` | |

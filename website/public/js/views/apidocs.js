@@ -7,6 +7,7 @@ const ENDPOINTS = [
   ['Accounts', [
     ['POST', '/api/v1/auth/register', '{email, display_name, lang?} → 202. Emails a link to choose the password (or, for a known address, a reset link). Same answer either way.'],
     ['POST', '/api/v1/auth/forgot-password', '{email, lang?} → 202. Emails a password reset link if the address has an account.'],
+    ['GET', '/api/v1/auth/mail-status', '{available} — false once the daily email cap (PANOMATIX_MAIL_DAILY_LIMIT) is reached; register and forgot-password then answer 503 mail_quota_reached.'],
     ['POST', '/api/v1/auth/link', '{token} → {purpose: "verify"|"reset", email, display_name}, or 400 invalid_token.'],
     ['POST', '/api/v1/auth/set-password', '{token, password} — uses the emailed link once: sets the password, confirms the address, signs out other sessions and opens a cookie session.'],
     ['POST', '/api/v1/auth/login', '{email, password, mode?} — mode "cookie" (browser, returns csrf_token) or "token" (returns a Bearer token for scripts).'],

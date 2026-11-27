@@ -599,3 +599,4 @@ table.matrix { border-collapse: separate; border-spacing: 0; width: max-content;
 /* Sign pictures shown without a framed box (tables, chips, small icons) get the light plate too. */
 img[src^="/media/"], img[src^="/vienna-media/"] { background-color: var(--sign-bg); }
 .theme-toggle { min-width: 2.4em; font-size: 1.05rem; line-height: 1; }
+.form-notice:not(:empty) { margin-bottom: 16px; }

@@ -33,12 +33,32 @@ const isBot = (body) => typeof body.website === 'string' && body.website !== '';
 /** An account created by sign-up whose owner has not opened the emailed link yet. */
 const isPending = (u) => u.password_hash === '';
 
+// --- daily cap on the emails of the whole site ---------------------------------------------------
+// Counted over the last 24 hours in rate_events (purged after a day). Checked before looking the address
+// up, the same way for everyone, so a full quota never tells whether an address has an account.
+const MAIL_DAY = 'mail-day';
+const mailsToday = (db) => db.prepare('SELECT COUNT(*) AS n FROM rate_events WHERE bucket=? AND ts>?').get(MAIL_DAY, now() - 86400).n;
+
+let lastQuotaWarning = 0;
+
+function checkMailQuota(ctx) {
+  const limit = ctx.config.mailDailyLimit;
+  if (!limit || mailsToday(ctx.db) < limit) return;
+  if (Date.now() - lastQuotaWarning > 3600_000) { // one line per hour in the log, not one per request
+    lastQuotaWarning = Date.now();
+    console.warn(`Daily email cap reached (${limit} in 24 h): sign-up and password emails are paused.`);
+  }
+  throw new ApiError(503, 'mail_quota_reached',
+    'The site has sent its maximum number of emails for today. Please try again tomorrow.', { retry_after_hours: 24 });
+}
+
 /** Email a one-use link to the set-password page. Sent in the background: the answer does not wait for
  *  the mail server (and takes the same time whether a message is sent or not). */
 function sendLink(ctx, user, kind, lang) {
   const purpose = kind === 'verify' ? 'verify' : 'reset';
   const hours = purpose === 'verify' ? ctx.config.verifyHours : ctx.config.resetHours;
   const token = createEmailToken(ctx.db, user.id, purpose, hours);
+  ctx.db.prepare('INSERT INTO rate_events (bucket, ts) VALUES (?,?)').run(MAIL_DAY, now()); // counts toward the daily cap
   const link = `${ctx.config.publicUrl}/#/set-password?token=${token}`;
   const msg = linkMessage({ kind, lang: MAIL_LANGUAGES.includes(lang) ? lang : 'en', name: user.display_name, link, hours });
   Promise.resolve()
@@ -64,6 +84,7 @@ export function registerAuthRoutes(router) {
     if (isBot(body)) return send(ctx, 202, { ok: true });
     const email = cleanEmail(body.email);
     const name = cleanName(body.display_name);
+    checkMailQuota(ctx); // before creating anything: no account without its email
     rateLimit(ctx.db, `mail:${email}`, ctx.config.mailLimit, 3600);
     const find = () => ctx.db.prepare('SELECT * FROM users WHERE email=?').get(email);
     let user = find();
@@ -88,10 +109,17 @@ export function registerAuthRoutes(router) {
     rateLimit(ctx.db, `forgot:${ctx.ip}`, ctx.config.registerLimit * 2, 3600);
     if (isBot(body)) return send(ctx, 202, { ok: true });
     const email = cleanEmail(body.email);
+    checkMailQuota(ctx);
     rateLimit(ctx.db, `mail:${email}`, ctx.config.mailLimit, 3600);
     const user = ctx.db.prepare('SELECT * FROM users WHERE email=?').get(email);
     if (user?.is_active) sendLink(ctx, user, isPending(user) ? 'verify' : 'reset', body.lang);
     send(ctx, 202, { ok: true });
+  });
+
+  // Whether the site can still send emails today (the forms warn before anyone fills them in).
+  router.add('GET', '/api/v1/auth/mail-status', (ctx) => {
+    const limit = ctx.config.mailDailyLimit;
+    send(ctx, 200, { available: !limit || mailsToday(ctx.db) < limit });
   });
 
   // What an emailed link is for, so the page can greet the user (or say the link is dead) before they type.

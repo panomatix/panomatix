@@ -107,10 +107,23 @@ function emailForm({ title, fields = [], button, sendMail, sent, footer }) {
       try {
         await sendMail(email.value.trim(), website.value);
         form.replaceWith(checkInbox(t(sent, { email: email.value.trim() })));
-      } catch (x) { formError(err, x); } finally { submit.disabled = false; }
+      } catch (x) {
+        if (x.code === 'mail_quota_reached') showQuotaFull();
+        else formError(err, x);
+      } finally { submit.disabled = quotaFull; }
     },
   }, ...fields, h('label.field', {}, h('span.label', {}, t('Email')), email), trap, err, submit);
-  return h('section.page.narrow', {}, h('h1', {}, title), form, footer);
+  const notice = h('div.form-notice');
+  let quotaFull = false;
+  function showQuotaFull() {
+    quotaFull = true;
+    notice.replaceChildren(h('p.warning', { role: 'alert' }, '⚠ ',
+      t('The site has sent its maximum number of emails for today (accounts and passwords). Please come back tomorrow.')));
+    submit.disabled = true;
+  }
+  // Warn before the form is filled in when today's emails are used up.
+  get('/api/v1/auth/mail-status').then((r) => { if (!r.available) showQuotaFull(); }).catch(() => {});
+  return h('section.page.narrow', {}, h('h1', {}, title), notice, form, footer);
 }
 
 export function viewForgotPassword() {

@@ -41,6 +41,8 @@ export function loadConfig(overrides = {}) {
     loginLimit: int(env.PANOMATIX_LOGIN_LIMIT, 10), // per email per 15 min (x3 per IP)
     registerLimit: int(env.PANOMATIX_REGISTER_LIMIT, 5), // per IP per hour
     mailLimit: int(env.PANOMATIX_MAIL_LIMIT, 3), // emails per address per hour
+    // Emails of the whole site per 24 hours: stays under the mail provider's quota (Brevo free: 300/day). 0 = no cap.
+    mailDailyLimit: int(env.PANOMATIX_MAIL_DAILY_LIMIT, 300),
     uploadLimit: int(env.PANOMATIX_UPLOAD_LIMIT, 60), // per user per hour
     editLimit: int(env.PANOMATIX_EDIT_LIMIT, 300), // per user per hour
     ...overrides,
