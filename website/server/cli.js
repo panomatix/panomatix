@@ -9,6 +9,8 @@
 //   node server/cli.js complete-parameters [--dry-run]  give every national version of a sign with a value
 //        (speed, width…) the parameter and unit its siblings have (values left to fill in)
 //   node server/cli.js prune-designs [--dry-run]   remove the designs of OTHER signs that hold no country
+//   node server/cli.js apply-changeset <changeset.json> [--approved=approved.json] [--dry-run]
+//        apply the proposals of tools/reclassify (the automatic ones, or those ticked in the review page)
 import fs from 'node:fs';
 import path from 'node:path';
 import readline from 'node:readline';
@@ -21,6 +23,7 @@ import { restoreBackups, runBackup } from './backup.js';
 import { fetchMissingImages, missingImages } from './fetch-images.js';
 import { completeParameters } from './parameters.js';
 import { pruneEmptyDesigns } from './prune-designs.js';
+import { applyChangeset } from './changeset.js';
 import { createApp } from './app.js';
 
 const config = loadConfig();
@@ -136,8 +139,16 @@ try {
     const changes = pruneEmptyDesigns(openDatabase(config.database), { dryRun });
     for (const c of changes) console.log(`${c.reference}: design ${c.removed.join(', ')} removed${c.left ? '' : ' (no design left)'}`);
     console.log(`${dryRun ? 'Would remove' : 'Removed'} empty designs in ${changes.length} OTHER signs${dryRun ? ' (dry run, nothing saved)' : ', each saved as a new version'}.`);
+  } else if (cmd === 'apply-changeset') {
+    if (!positional[0]) throw new Error('Usage: apply-changeset <changeset.json> [--approved=approved.json] [--dry-run]');
+    const changeset = JSON.parse(fs.readFileSync(positional[0], 'utf8'));
+    const approvedArg = args.find((a) => a.startsWith('--approved='));
+    const approved = approvedArg ? JSON.parse(fs.readFileSync(approvedArg.slice(11), 'utf8')).approved : null;
+    const dryRun = flags.has('--dry-run');
+    const r = applyChangeset(openDatabase(config.database), changeset, { approved, dryRun, log: (l) => console.log(l) });
+    console.log(`${dryRun ? 'Dry run: would apply' : 'Applied'} ${r.applied} proposals${approved ? ' (ticked in the review page)' : ' (automatic ones only)'}, ${r.skipped.length} skipped, ${r.deleted.length} OTHER signs merged away.`);
   } else {
-    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role] | backup | restore <file>... | fetch-images [--limit=N] [--retry] | complete-parameters [--dry-run] | prune-designs [--dry-run]');
+    console.log('Commands: import [file] [--replace] | export [file] | create-user <email> <name> [role] | backup | restore <file>... | fetch-images [--limit=N] [--retry] | complete-parameters [--dry-run] | prune-designs [--dry-run] | apply-changeset <file> [--approved=file] [--dry-run]');
     process.exit(cmd ? 1 : 0);
   }
 } catch (err) {

@@ -164,6 +164,10 @@
           "additionalProperties": { "$ref": "#/$defs/language" },
           "minProperties": 1
         },
+        "description": {
+          "$ref": "#/$defs/i18nTextNullable",
+          "description": "Official meaning of the national sign per language: its original language(s) and English."
+        },
         "parameters": {
           "type": "object",
           "propertyNames": { "pattern": "^[a-z][a-z0-9_]{0,40}$" },

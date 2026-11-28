@@ -96,7 +96,11 @@ export function unitDetails(jur, images) {
       h('dt', {}, t('Country code')), h('dd', {}, flag(jur.countryCode), ' ', h('code', {}, jur.countryCode)),
       h('dt', {}, t('All codes')), h('dd', {}, codes.map((c) => h('code.chip', {}, c))),
       jur.leftHandTrafficVariant ? [h('dt', {}, t('Left-hand traffic')), h('dd', {}, t('yes'))] : null,
-      h('dt', {}, t('OpenStreetMap')), h('dd', {}, jur.osm?.traffic_sign?.length ? jur.osm.traffic_sign.map((v) => h('code.chip', {}, `traffic_sign=${v}`)) : '—')),
+      h('dt', {}, t('OpenStreetMap')), h('dd', {}, jur.osm?.traffic_sign?.length ? jur.osm.traffic_sign.map((v) => h('code.chip', {}, `traffic_sign=${v}`)) : '—'),
+      // official meaning: original language(s) first, English last
+      Object.values(jur.description ?? {}).some(Boolean) ? [h('dt', {}, t('Official meaning')), h('dd', {}, h('ul.plain', {},
+        Object.entries(jur.description).filter(([, v]) => v).sort(([a], [b]) => (a === 'en') - (b === 'en'))
+          .map(([lk, v]) => h('li', {}, h('span.chip', {}, lk), ' ', v))))] : null),
     h('table.compact', {},
       h('thead', {}, h('tr', {}, h('th', {}, t('Lang')), h('th', {}, t('Code')), h('th', {}, t('Text')), h('th', {}, t('Description')))),
       h('tbody', {}, Object.entries(jur.languages ?? {}).map(([lk, l]) => h('tr', {},
@@ -522,6 +526,15 @@ export async function openUnitEditor(reference, loc, jurKey, { onSaved, countryC
           onAdd: () => setTimeout(redraw, 0),
           renderValue: (o, k) => text(o[k], 'description', { path: sub(sub(path, 'languages'), k), nullable: true, placeholder: 'Description (optional)' }),
         }), { wide: true }) : null,
+        h('h5', {}, t('Official meaning')),
+        block((r4) => (d.description
+          ? mapEditor(d.description, {
+            path: sub(path, 'description'), addLabel: 'Add a language', keyPlaceholder: 'en', keyPattern: LANG_KEY,
+            suggestions: ['en', ...Object.keys(d.languages ?? {})],
+            newValue: () => '',
+            renderValue: (o, k) => text(o, k, { path: sub(sub(path, 'description'), k), multiline: true, placeholder: t('Official meaning in this language') }),
+          })
+          : h('button.btn.small', { type: 'button', onclick: () => { d.description = {}; r4(); } }, `+ ${t('Add the official meaning')}`))),
         h('h5', {}, t('Parameters')),
         block((r2) => (d.parameters
           ? mapEditor(d.parameters, {

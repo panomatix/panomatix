@@ -11,6 +11,7 @@ import { addRevision, now, openDatabase, storeSign } from '../server/db.js';
 import { hashPassword } from '../server/security.js';
 import { restoreBackups, runBackup } from '../server/backup.js';
 import { fetchMissingImages, missingImages } from '../server/fetch-images.js';
+import { applyChangeset } from '../server/changeset.js';
 import { normalizeEntry, validateEntry } from '../server/validation.js';
 import sharp from 'sharp';
 
@@ -755,5 +756,60 @@ describe('empty designs of signs outside the Convention', () => {
       assert.equal((await sign(c, 'VIENNA:B-01.1')).data.data.officialSign.designs.length, v.data.officialSign.designs.length);
     }
     db.prepare("DELETE FROM signs WHERE reference='OTHER:B9100'").run();
+  });
+});
+
+describe('reclassification changeset', () => {
+  test('merges into the lowest OTHER, fills empty descriptions only, leaves signs edited meanwhile alone', () => {
+    const tpl = structuredClone(fixture.find((x) => x.reference === 'VIENNA:B-01.1'));
+    const d0 = tpl.officialSign.designs[0];
+    const [, jur] = Object.entries(d0.jurisdictions)[0];
+    const make = (ref, cc, key, code) => {
+      const e = structuredClone(tpl);
+      e.reference = ref;
+      e.category = 'OTHER-B';
+      e.relatedSigns = [];
+      const j = structuredClone(jur);
+      j.countryCode = cc;
+      j.languages = { xx: { code, codes: [code], text: null, description: null } };
+      j.languages = { [cc]: j.languages.xx };
+      e.officialSign.designs = [{ ...structuredClone(d0), jurisdictions: { [key]: j } }];
+      normalizeEntry(e);
+      storeSign(db, e, { version: 1, userId: null, ts: now(), insert: true });
+    };
+    make('OTHER:B9201', 'be', 'belgium', 'be:B951');
+    make('OTHER:B9205', 'nl', 'netherlands', 'nl:B951');
+    make('OTHER:B9209', 'lu', 'luxembourg', 'lu:B951');
+    const labels = { shape: d0.shape, background_color: d0.background_color, border_color: d0.border_color };
+    const changeset = {
+      versions: { 'OTHER:B9201': 1, 'OTHER:B9205': 1, 'OTHER:B9209': 1 },
+      ops: [
+        { id: 'm1', type: 'merge', auto: true, confidence: 0.99, from: 'OTHER:B9205', into: 'OTHER:B9201', units: [{ code: 'nl:B951', design: 0, labels }] },
+        { id: 'm2', type: 'merge', auto: true, confidence: 0.99, from: 'OTHER:B9209', into: 'OTHER:B9201', units: [{ code: 'lu:B951', design: 0, labels }] },
+        { id: 'd1', type: 'describe', auto: true, confidence: 1, reference: 'OTHER:B9205', items: [{ code: 'nl:B951', native: { nl: 'Voorrangskruispunt' }, en: 'Priority crossroads' }] },
+      ],
+    };
+    // someone edits OTHER:B9209 on the site in the meantime
+    db.prepare("UPDATE signs SET version=2 WHERE reference='OTHER:B9209'").run();
+    const r = applyChangeset(db, changeset);
+    assert.equal(r.applied, 2);
+    assert.deepEqual(r.skipped.map((x) => x.id), ['m2']);
+    assert.deepEqual(r.deleted, ['OTHER:B9205']);
+    const target = JSON.parse(db.prepare("SELECT data FROM signs WHERE reference='OTHER:B9201'").get().data);
+    const nl = target.officialSign.designs[0].jurisdictions.netherlands;
+    assert.equal(nl.languages.nl.description, 'Voorrangskruispunt'); // found by its code where it went
+    assert.deepEqual(nl.description, { en: 'Priority crossroads' });
+    assert.ok(target.legacyReferences.includes('OTHER:B9205'));
+    assert.equal(db.prepare("SELECT deleted FROM signs WHERE reference='OTHER:B9205'").get().deleted, 1);
+    assert.equal(validateEntry(target).length, 0);
+    // a second run of the same proposals changes nothing, and never overwrites a filled description
+    const row = db.prepare("SELECT version FROM signs WHERE reference='OTHER:B9201'").get();
+    nl.languages.nl.description = 'Kept';
+    storeSign(db, target, { version: row.version + 1, userId: null, ts: now(), insert: false });
+    const r2 = applyChangeset(db, changeset);
+    assert.equal(r2.deleted.length, 0);
+    const again = JSON.parse(db.prepare("SELECT data FROM signs WHERE reference='OTHER:B9201'").get().data);
+    assert.equal(again.officialSign.designs[0].jurisdictions.netherlands.languages.nl.description, 'Kept');
+    db.prepare("DELETE FROM signs WHERE reference IN ('OTHER:B9201','OTHER:B9205','OTHER:B9209')").run();
   });
 });

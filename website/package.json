@@ -19,7 +19,8 @@
     "deploy": "sh scripts/deploy.sh",
     "fetch-images": "node server/cli.js fetch-images",
     "complete-parameters": "node server/cli.js complete-parameters",
-    "prune-designs": "node server/cli.js prune-designs"
+    "prune-designs": "node server/cli.js prune-designs",
+    "apply-changeset": "node server/cli.js apply-changeset"
   },
   "license": "SEE LICENSE IN ../LICENSE",
   "dependencies": {
